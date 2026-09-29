@@ -1,0 +1,3429 @@
+{
+  "results": [
+    {
+      "type": "category",
+      "name": "Cảm biến quang",
+      "stt": "1.0"
+    },
+    {
+      "type": "series",
+      "stt": "1.1",
+      "series": "G2",
+      "familyName": "G2",
+      "familyCode": "g286313",
+      "method": "EXACT",
+      "expected": 195,
+      "actual": 195
+    },
+    {
+      "type": "series",
+      "stt": "1.2",
+      "series": "G6",
+      "familyName": "G6",
+      "familyCode": "g175965",
+      "method": "EXACT",
+      "expected": 503,
+      "actual": 507
+    },
+    {
+      "type": "series",
+      "stt": "1.3",
+      "series": "G10",
+      "familyName": "G10",
+      "familyCode": "g285106",
+      "method": "EXACT",
+      "expected": 162,
+      "actual": 162
+    },
+    {
+      "type": "series",
+      "stt": "1.4",
+      "series": "G20",
+      "familyName": "G20",
+      "familyCode": "g555767",
+      "method": "EXACT",
+      "expected": 58,
+      "actual": 58
+    },
+    {
+      "type": "series",
+      "stt": "1.5",
+      "series": "GR18",
+      "familyName": "GR18",
+      "familyCode": "g264215",
+      "method": "EXACT",
+      "expected": 372,
+      "actual": 372
+    },
+    {
+      "type": "series",
+      "stt": "1.6",
+      "series": "W2",
+      "familyName": "W2",
+      "familyCode": "g172802",
+      "method": "EXACT",
+      "expected": 166,
+      "actual": 166
+    },
+    {
+      "type": "series",
+      "stt": "1.7",
+      "series": "W4",
+      "familyName": "W4",
+      "familyCode": "g577401",
+      "method": "EXACT",
+      "expected": 600,
+      "actual": 601
+    },
+    {
+      "type": "series",
+      "stt": "1.8",
+      "series": "W8",
+      "familyName": "W8",
+      "familyCode": "g174954",
+      "method": "EXACT",
+      "expected": 41,
+      "actual": 41
+    },
+    {
+      "type": "series",
+      "stt": "1.9",
+      "series": "W8G",
+      "familyName": "W8",
+      "familyCode": "g174954",
+      "method": "PARTIAL",
+      "expected": 10,
+      "actual": 41
+    },
+    {
+      "type": "series",
+      "stt": "1.10",
+      "series": "W8 Laser",
+      "familyName": "W8 Laser",
+      "familyCode": "g174979",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 12
+    },
+    {
+      "type": "series",
+      "stt": "1.11",
+      "series": "W9",
+      "familyName": "W9",
+      "familyCode": "g186889",
+      "method": "EXACT",
+      "expected": 220,
+      "actual": 221
+    },
+    {
+      "type": "series",
+      "stt": "1.12",
+      "series": "W10",
+      "familyName": "W10",
+      "familyCode": "g555761",
+      "method": "EXACT",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "type": "series",
+      "stt": "1.13",
+      "series": "W11G-2",
+      "familyName": "W11G-2",
+      "familyCode": "g203229",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "1.14",
+      "series": "W11-2",
+      "familyName": "W11-2",
+      "familyCode": "g203203",
+      "method": "EXACT",
+      "expected": 20,
+      "actual": 29
+    },
+    {
+      "type": "series",
+      "stt": "1.15",
+      "series": "W12",
+      "familyName": "W12",
+      "familyCode": "g555765",
+      "method": "EXACT",
+      "expected": 265,
+      "actual": 266
+    },
+    {
+      "type": "series",
+      "stt": "1.16",
+      "series": "W16",
+      "familyName": "W16",
+      "familyCode": "g433452",
+      "method": "EXACT",
+      "expected": 119,
+      "actual": 119
+    },
+    {
+      "type": "series",
+      "stt": "1.17",
+      "series": "W18-3 EX",
+      "familyName": "W18-3 Ex",
+      "familyCode": "g186812",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "1.18",
+      "series": "W24",
+      "familyName": "W24",
+      "familyCode": "g194274",
+      "method": "EXACT",
+      "expected": 63,
+      "actual": 63
+    },
+    {
+      "type": "series",
+      "stt": "1.19",
+      "series": "W26",
+      "familyName": "W26",
+      "familyCode": "g433551",
+      "method": "EXACT",
+      "expected": 80,
+      "actual": 80
+    },
+    {
+      "type": "series",
+      "stt": "1.20",
+      "series": "W27",
+      "familyName": "W27",
+      "familyCode": "g196809",
+      "method": "EXACT",
+      "expected": 11,
+      "actual": 11
+    },
+    {
+      "type": "series",
+      "stt": "1.21",
+      "series": "W34",
+      "familyName": "W34",
+      "familyCode": "g197069",
+      "method": "EXACT",
+      "expected": 37,
+      "actual": 37
+    },
+    {
+      "type": "series",
+      "stt": "1.22",
+      "series": "W45",
+      "familyName": "W45",
+      "familyCode": "g200332",
+      "method": "EXACT",
+      "expected": 20,
+      "actual": 19
+    },
+    {
+      "type": "series",
+      "stt": "1.23",
+      "series": "W100 Laser",
+      "familyName": "W100 Laser",
+      "familyCode": "g184955",
+      "method": "EXACT",
+      "expected": 24,
+      "actual": 24
+    },
+    {
+      "type": "series",
+      "stt": "1.24",
+      "series": "W100-2",
+      "familyName": "W100-2",
+      "familyCode": "g293922",
+      "method": "EXACT",
+      "expected": 53,
+      "actual": 53
+    },
+    {
+      "type": "series",
+      "stt": "1.25",
+      "series": "W250-2",
+      "familyName": "W250-2",
+      "familyCode": "g211351",
+      "method": "EXACT",
+      "expected": 33,
+      "actual": 33
+    },
+    {
+      "type": "series",
+      "stt": "1.26",
+      "series": "W280-2",
+      "familyName": "W280-2",
+      "familyCode": "g211356",
+      "method": "EXACT",
+      "expected": 31,
+      "actual": 31
+    },
+    {
+      "type": "series",
+      "stt": "1.27",
+      "series": "H18 Sure Sense",
+      "familyName": "H18 Sure Sense",
+      "familyCode": "g317353",
+      "method": "EXACT",
+      "expected": 615,
+      "actual": 615
+    },
+    {
+      "type": "series",
+      "stt": "1.28",
+      "series": "Z18",
+      "familyName": "Z18 Simple Sense",
+      "familyCode": "g443253",
+      "method": "PARTIAL",
+      "expected": 269,
+      "actual": 269
+    },
+    {
+      "type": "series",
+      "stt": "1.29",
+      "series": "V12",
+      "familyName": "V12",
+      "familyCode": "g184857",
+      "method": "EXACT",
+      "expected": 17,
+      "actual": 17
+    },
+    {
+      "type": "series",
+      "stt": "1.30",
+      "series": "V18",
+      "familyName": "V18",
+      "familyCode": "g201871",
+      "method": "EXACT",
+      "expected": 17,
+      "actual": 17
+    },
+    {
+      "type": "series",
+      "stt": "1.31",
+      "series": "V180",
+      "familyName": "V180",
+      "familyCode": "g189214",
+      "method": "EXACT",
+      "expected": 119,
+      "actual": 119
+    },
+    {
+      "type": "series",
+      "stt": "1.32",
+      "series": "RAY10",
+      "familyName": "RAY10 Reflex Array",
+      "familyCode": "g577388",
+      "method": "PARTIAL",
+      "expected": 15,
+      "actual": 15
+    },
+    {
+      "type": "series",
+      "stt": "1.33",
+      "series": "RAY26",
+      "familyName": "RAY26 Reflex Array",
+      "familyCode": "g197634",
+      "method": "PARTIAL",
+      "expected": 25,
+      "actual": 25
+    },
+    {
+      "type": "series",
+      "stt": "1.34",
+      "series": "Roller sensor bar",
+      "familyName": "Roller Sensor Bar",
+      "familyCode": "g555768",
+      "method": "EXACT",
+      "expected": 339,
+      "actual": 341
+    },
+    {
+      "type": "series",
+      "stt": "1.35",
+      "series": "zonecontrol",
+      "familyName": "ZoneControl",
+      "familyCode": "g292555",
+      "method": "EXACT",
+      "expected": 142,
+      "actual": 143
+    },
+    {
+      "type": "series",
+      "stt": "1.36",
+      "series": "HISIC",
+      "familyName": "HISIC",
+      "familyCode": "g616963",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "1.37",
+      "series": "GLL70",
+      "familyName": "GLL70",
+      "familyCode": "g585331",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "1.38",
+      "series": "GLL170",
+      "familyName": "GLL170",
+      "familyCode": "g412551",
+      "method": "EXACT",
+      "expected": 15,
+      "actual": 18
+    },
+    {
+      "type": "series",
+      "stt": "1.39",
+      "series": "WLL80",
+      "familyName": "WLL80",
+      "familyCode": "g555762",
+      "method": "EXACT",
+      "expected": 25,
+      "actual": 25
+    },
+    {
+      "type": "series",
+      "stt": "1.38",
+      "series": "GLL170",
+      "familyName": "GLL170",
+      "familyCode": "g412551",
+      "method": "EXACT",
+      "expected": 18,
+      "actual": 18
+    },
+    {
+      "type": "series",
+      "stt": "1.40",
+      "series": "WLL24",
+      "familyName": "WLL24",
+      "familyCode": "g193873",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "1.41",
+      "series": "Fiber optic cable",
+      "familyName": "Fiber-optic cables",
+      "familyCode": "g606165",
+      "method": "GUESS",
+      "expected": 319,
+      "actual": 322
+    },
+    {
+      "type": "series",
+      "stt": "1.42",
+      "series": "Glare",
+      "familyName": "Glare",
+      "familyCode": "g323052",
+      "method": "EXACT",
+      "expected": 5,
+      "actual": 5
+    },
+    {
+      "type": "cat_summary",
+      "category": "Cảm biến quang",
+      "actual": 5107,
+      "expected": 5052,
+      "seriesCount": 43
+    },
+    {
+      "type": "category",
+      "name": "Cảm biến tiệm cận",
+      "stt": "2.0"
+    },
+    {
+      "type": "series",
+      "stt": "2.1",
+      "series": "IME",
+      "familyName": "IME",
+      "familyCode": "g345451",
+      "method": "EXACT",
+      "expected": 640,
+      "actual": 641
+    },
+    {
+      "type": "series",
+      "stt": "2.2",
+      "series": "IMB",
+      "familyName": "IMB",
+      "familyCode": "g308651",
+      "method": "EXACT",
+      "expected": 238,
+      "actual": 238
+    },
+    {
+      "type": "series",
+      "stt": "2.3",
+      "series": "IMF",
+      "familyName": "IMF",
+      "familyCode": "g364452",
+      "method": "EXACT",
+      "expected": 47,
+      "actual": 47
+    },
+    {
+      "type": "series",
+      "stt": "2.4",
+      "series": "IMI",
+      "familyName": "IMI",
+      "familyCode": "g507554",
+      "method": "EXACT",
+      "expected": 78,
+      "actual": 78
+    },
+    {
+      "type": "series",
+      "stt": "2.5",
+      "series": "IMX",
+      "familyName": "IMX",
+      "familyCode": "g555781",
+      "method": "EXACT",
+      "expected": 56,
+      "actual": 56
+    },
+    {
+      "type": "series",
+      "stt": "2.6",
+      "series": "IMR",
+      "familyName": "IMR",
+      "familyCode": "g504055",
+      "method": "EXACT",
+      "expected": 14,
+      "actual": 14
+    },
+    {
+      "type": "series",
+      "stt": "2.7",
+      "series": "IMW",
+      "familyName": "IMW",
+      "familyCode": "g383351",
+      "method": "EXACT",
+      "expected": 14,
+      "actual": 12
+    },
+    {
+      "type": "series",
+      "stt": "2.8",
+      "series": "IMG",
+      "familyName": "IMG",
+      "familyCode": "g584033",
+      "method": "EXACT",
+      "expected": 96,
+      "actual": 96
+    },
+    {
+      "type": "series",
+      "stt": "2.9",
+      "series": "IQG",
+      "familyName": "IQG",
+      "familyCode": "g359351",
+      "method": "EXACT",
+      "expected": 38,
+      "actual": 38
+    },
+    {
+      "type": "series",
+      "stt": "2.10",
+      "series": "IQM",
+      "familyName": "IQM",
+      "familyCode": "g383266",
+      "method": "EXACT",
+      "expected": 11,
+      "actual": 11
+    },
+    {
+      "type": "series",
+      "stt": "2.11",
+      "series": "IMS",
+      "familyName": "IMS",
+      "familyCode": "g507555",
+      "method": "EXACT",
+      "expected": 101,
+      "actual": 101
+    },
+    {
+      "type": "series",
+      "stt": "2.12",
+      "series": "IQE",
+      "familyName": "IQE",
+      "familyCode": "g351951",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "2.13",
+      "series": "IME2S",
+      "familyName": "IME2S",
+      "familyCode": "g478953",
+      "method": "EXACT",
+      "expected": 14,
+      "actual": 14
+    },
+    {
+      "type": "series",
+      "stt": "2.14",
+      "series": "IQB2S",
+      "familyName": "IQB2S",
+      "familyCode": "g478954",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "2.15",
+      "series": "IN4000 Direct",
+      "familyName": "IN4000 Direct",
+      "familyCode": "g195524",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "2.16",
+      "series": "IMN",
+      "familyName": "IMN",
+      "familyCode": "g383261",
+      "method": "EXACT",
+      "expected": 7,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "2.17",
+      "series": "IMP",
+      "familyName": "IMP",
+      "familyCode": "g383263",
+      "method": "EXACT",
+      "expected": 31,
+      "actual": 31
+    },
+    {
+      "type": "series",
+      "stt": "2.18",
+      "series": "IQL",
+      "familyName": "IQL",
+      "familyCode": "g383273",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "2.19",
+      "series": "IQY",
+      "familyName": "IQY",
+      "familyCode": "g383268",
+      "method": "EXACT",
+      "expected": 43,
+      "actual": 43
+    },
+    {
+      "type": "series",
+      "stt": "2.20",
+      "series": "IQV",
+      "familyName": "IQV",
+      "familyCode": "g383270",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "2.21",
+      "series": "IMM",
+      "familyName": "IMM",
+      "familyCode": "g354351",
+      "method": "EXACT",
+      "expected": 202,
+      "actual": 201
+    },
+    {
+      "type": "series",
+      "stt": "2.22",
+      "series": "SAM",
+      "familyName": "SAM",
+      "familyCode": "g271153",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "2.23",
+      "series": "IMC",
+      "familyName": "IMC",
+      "familyCode": "g389851",
+      "method": "EXACT",
+      "expected": 32,
+      "actual": 32
+    },
+    {
+      "type": "series",
+      "stt": "2.24",
+      "series": "IMA",
+      "familyName": "IMA",
+      "familyCode": "g195268",
+      "method": "EXACT",
+      "expected": 21,
+      "actual": 21
+    },
+    {
+      "type": "series",
+      "stt": "2.25",
+      "series": "IQB",
+      "familyName": "IQB",
+      "familyCode": "g383269",
+      "method": "EXACT",
+      "expected": 83,
+      "actual": 84
+    },
+    {
+      "type": "series",
+      "stt": "2.26",
+      "series": "IDF",
+      "familyName": "IDF",
+      "familyCode": "g441551",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "2.27",
+      "series": "CM",
+      "familyName": "CM",
+      "familyCode": "g206089",
+      "method": "EXACT",
+      "expected": 24,
+      "actual": 24
+    },
+    {
+      "type": "series",
+      "stt": "2.28",
+      "series": "CMB",
+      "familyName": "CMB",
+      "familyCode": "g568401",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "type": "series",
+      "stt": "2.29",
+      "series": "CQ",
+      "familyName": "CQ",
+      "familyCode": "g206111",
+      "method": "EXACT",
+      "expected": 25,
+      "actual": 25
+    },
+    {
+      "type": "series",
+      "stt": "2.30",
+      "series": "CQF",
+      "familyName": "CQF",
+      "familyCode": "g474753",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "type": "series",
+      "stt": "2.31",
+      "series": "MME",
+      "familyName": "MME",
+      "familyCode": "g208598",
+      "method": "EXACT",
+      "expected": 30,
+      "actual": 30
+    },
+    {
+      "type": "series",
+      "stt": "2.32",
+      "series": "MIS",
+      "familyName": "MIS",
+      "familyCode": "g549140",
+      "method": "EXACT",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "type": "series",
+      "stt": "2.33",
+      "series": "MQB",
+      "familyName": "MQB",
+      "familyCode": "g208726",
+      "method": "EXACT",
+      "expected": 7,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "2.34",
+      "series": "MLS",
+      "familyName": "MLS",
+      "familyCode": "g451251",
+      "method": "EXACT",
+      "expected": 14,
+      "actual": 14
+    },
+    {
+      "type": "series",
+      "stt": "2.35000000000001",
+      "series": "MMN",
+      "familyName": "MMN",
+      "familyCode": "g208685",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "type": "cat_summary",
+      "category": "Cảm biến tiệm cận",
+      "actual": 1913,
+      "expected": 1913,
+      "seriesCount": 35
+    },
+    {
+      "type": "category",
+      "name": "Color sensor",
+      "stt": "3.0"
+    },
+    {
+      "type": "series",
+      "stt": "3.1",
+      "series": "KTM",
+      "familyName": "KTM",
+      "familyCode": "g577202",
+      "method": "EXACT",
+      "expected": 49,
+      "actual": 49
+    },
+    {
+      "type": "series",
+      "stt": "3.2",
+      "series": "KTS",
+      "familyName": "KTS",
+      "familyCode": "g584469",
+      "method": "EXACT",
+      "expected": 59,
+      "actual": 59
+    },
+    {
+      "type": "series",
+      "stt": "3.3",
+      "series": "KTX",
+      "familyName": "KTX",
+      "familyCode": "g410153",
+      "method": "EXACT",
+      "expected": 115,
+      "actual": 115
+    },
+    {
+      "type": "series",
+      "stt": "3.4",
+      "series": "OLS",
+      "familyName": "OLS",
+      "familyCode": "g452951",
+      "method": "EXACT",
+      "expected": 9,
+      "actual": 9
+    },
+    {
+      "type": "series",
+      "stt": "3.5",
+      "series": "KTL180",
+      "familyName": "KTL180",
+      "familyCode": "g474051",
+      "method": "EXACT",
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "type": "series",
+      "stt": "3.6",
+      "series": "KT8",
+      "familyName": "KT8",
+      "familyCode": "g141110",
+      "method": "EXACT",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "type": "series",
+      "stt": "3.7",
+      "series": "CSM",
+      "familyName": "CSM",
+      "familyCode": "g305962",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 12
+    },
+    {
+      "type": "series",
+      "stt": "3.8",
+      "series": "CSS/CSX High Speed",
+      "familyName": "CSS/CSX High Speed",
+      "familyCode": "g549474",
+      "method": "EXACT",
+      "expected": 25,
+      "actual": 25
+    },
+    {
+      "type": "series",
+      "stt": "3.9",
+      "series": "CSS High Resolution",
+      "familyName": "CSS High Resolution",
+      "familyCode": "g549473",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "3.10",
+      "series": "LUTM",
+      "familyName": "LUTM",
+      "familyCode": "g305963",
+      "method": "EXACT",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "type": "series",
+      "stt": "3.11",
+      "series": "LUT1",
+      "familyName": "LUT1",
+      "familyCode": "g115864",
+      "method": "EXACT",
+      "expected": 7,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "3.12",
+      "series": "LUT3",
+      "familyName": "LUT3",
+      "familyCode": "g115866",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "3.13",
+      "series": "LUT8",
+      "familyName": "LUT8",
+      "familyCode": "g115870",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "type": "series",
+      "stt": "3.14",
+      "series": "LUT9",
+      "familyName": "LUT9",
+      "familyCode": "g115871",
+      "method": "EXACT",
+      "expected": 15,
+      "actual": 15
+    },
+    {
+      "type": "series",
+      "stt": "3.15",
+      "series": "AS30",
+      "familyName": "AS30",
+      "familyCode": "g478552",
+      "method": "EXACT",
+      "expected": 19,
+      "actual": 19
+    },
+    {
+      "type": "cat_summary",
+      "category": "Color sensor",
+      "actual": 345,
+      "expected": 345,
+      "seriesCount": 15
+    },
+    {
+      "type": "category",
+      "name": "Fork sensor",
+      "stt": "4.0"
+    },
+    {
+      "type": "series",
+      "stt": "4.1",
+      "series": "WFE",
+      "familyName": "WFE",
+      "familyCode": "g547615",
+      "method": "EXACT",
+      "expected": 9,
+      "actual": 10
+    },
+    {
+      "type": "series",
+      "stt": "4.2",
+      "series": "CFM/CFX",
+      "familyName": "CFM/CFX",
+      "familyCode": "g585644",
+      "method": "EXACT",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "type": "series",
+      "stt": "4.3",
+      "series": "MF",
+      "familyName": "MF",
+      "familyCode": "g622570",
+      "method": "EXACT",
+      "expected": 44,
+      "actual": 44
+    },
+    {
+      "type": "series",
+      "stt": "4.4",
+      "series": "WF",
+      "familyName": "WF",
+      "familyCode": "g127491",
+      "method": "EXACT",
+      "expected": 78,
+      "actual": 78
+    },
+    {
+      "type": "series",
+      "stt": "4.5",
+      "series": "WFM",
+      "familyName": "WFM",
+      "familyCode": "g127519",
+      "method": "EXACT",
+      "expected": 23,
+      "actual": 23
+    },
+    {
+      "type": "series",
+      "stt": "4.6",
+      "series": "WFS",
+      "familyName": "WFS",
+      "familyCode": "g195653",
+      "method": "EXACT",
+      "expected": 9,
+      "actual": 10
+    },
+    {
+      "type": "series",
+      "stt": "4.7",
+      "series": "WFL",
+      "familyName": "WFL",
+      "familyCode": "g127511",
+      "method": "EXACT",
+      "expected": 42,
+      "actual": 42
+    },
+    {
+      "type": "series",
+      "stt": "4.8",
+      "series": "UF",
+      "familyName": "UF",
+      "familyCode": "g127489",
+      "method": "EXACT",
+      "expected": 7,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "4.9",
+      "series": "UD18",
+      "familyName": "UD18",
+      "familyCode": "g355551",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 8
+    },
+    {
+      "type": "series",
+      "stt": "4.10",
+      "series": "UFW",
+      "familyName": "UFW",
+      "familyCode": "g584047",
+      "method": "EXACT",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "type": "series",
+      "stt": "4.11",
+      "series": "UFS",
+      "familyName": "UFS",
+      "familyCode": "g551723",
+      "method": "EXACT",
+      "expected": 18,
+      "actual": 18
+    },
+    {
+      "type": "cat_summary",
+      "category": "Fork sensor",
+      "actual": 248,
+      "expected": 244,
+      "seriesCount": 11
+    },
+    {
+      "type": "category",
+      "name": "Cylinder",
+      "stt": "5.0"
+    },
+    {
+      "type": "series",
+      "stt": "5.1",
+      "series": "MZCS",
+      "familyName": "MZCS",
+      "familyCode": "g618303",
+      "method": "EXACT",
+      "expected": 11,
+      "actual": 14
+    },
+    {
+      "type": "series",
+      "stt": "5.2",
+      "series": "RZT7",
+      "familyName": "RZT7",
+      "familyCode": "g346674",
+      "method": "EXACT",
+      "expected": 28,
+      "actual": 28
+    },
+    {
+      "type": "series",
+      "stt": "5.3",
+      "series": "RZC1",
+      "familyName": "RZC1",
+      "familyCode": "g269368",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 12
+    },
+    {
+      "type": "series",
+      "stt": "5.4",
+      "series": "MZT7",
+      "familyName": "MZT7",
+      "familyCode": "g346668",
+      "method": "EXACT",
+      "expected": 36,
+      "actual": 36
+    },
+    {
+      "type": "series",
+      "stt": "5.5",
+      "series": "MZT8 VIA",
+      "familyName": "MZT8 VIA",
+      "familyCode": "g332851",
+      "method": "EXACT",
+      "expected": 11,
+      "actual": 11
+    },
+    {
+      "type": "series",
+      "stt": "5.6",
+      "series": "MZ2Q-C",
+      "familyName": "MZ2Q-C",
+      "familyCode": "g200468",
+      "method": "EXACT",
+      "expected": 21,
+      "actual": 21
+    },
+    {
+      "type": "series",
+      "stt": "5.7",
+      "series": "RZN",
+      "familyName": "RZN",
+      "familyCode": "g560266",
+      "method": "EXACT",
+      "expected": 5,
+      "actual": 5
+    },
+    {
+      "type": "series",
+      "stt": "5.8",
+      "series": "MPS-T",
+      "familyName": "MPS-T",
+      "familyCode": "g192971",
+      "method": "EXACT",
+      "expected": 53,
+      "actual": 53
+    },
+    {
+      "type": "series",
+      "stt": "5.9",
+      "series": "MZN",
+      "familyName": "MZN",
+      "familyCode": "g560265",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "5.10",
+      "series": "MPA",
+      "familyName": "MPA",
+      "familyCode": "g270351",
+      "method": "EXACT",
+      "expected": 45,
+      "actual": 45
+    },
+    {
+      "type": "series",
+      "stt": "5.11",
+      "series": "MZC1",
+      "familyName": "MZC1",
+      "familyCode": "g269363",
+      "method": "EXACT",
+      "expected": 30,
+      "actual": 30
+    },
+    {
+      "type": "series",
+      "stt": "5.12",
+      "series": "MZC2",
+      "familyName": "MZC2",
+      "familyCode": "g507559",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 12
+    },
+    {
+      "type": "series",
+      "stt": "5.13",
+      "series": "MPS-G",
+      "familyName": "MPS-G",
+      "familyCode": "g547614",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 12
+    },
+    {
+      "type": "series",
+      "stt": "5.14",
+      "series": "MZT8",
+      "familyName": "MZT8",
+      "familyCode": "g204288",
+      "method": "EXACT",
+      "expected": 62,
+      "actual": 62
+    },
+    {
+      "type": "series",
+      "stt": "5.15",
+      "series": "MZ2Q-T",
+      "familyName": "MZ2Q-T",
+      "familyCode": "g200476",
+      "method": "EXACT",
+      "expected": 13,
+      "actual": 13
+    },
+    {
+      "type": "series",
+      "stt": "5.16",
+      "series": "MZCG",
+      "familyName": "MZCG",
+      "familyCode": "g422454",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 12
+    },
+    {
+      "type": "series",
+      "stt": "5.17",
+      "series": "MPS-M",
+      "familyName": "MPS-M",
+      "familyCode": "g507751",
+      "method": "EXACT",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "type": "series",
+      "stt": "5.18",
+      "series": "MZC1 VIA",
+      "familyName": "MZC1 VIA",
+      "familyCode": "g385151",
+      "method": "EXACT",
+      "expected": 7,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "5.19",
+      "series": "MPS-C",
+      "familyName": "MPS-C",
+      "familyCode": "g389251",
+      "method": "EXACT",
+      "expected": 11,
+      "actual": 11
+    },
+    {
+      "type": "series",
+      "stt": "5.20",
+      "series": "MZT8 ATEX",
+      "familyName": "MZT8 ATEX",
+      "familyCode": "g318975",
+      "method": "EXACT",
+      "expected": 13,
+      "actual": 13
+    },
+    {
+      "type": "series",
+      "stt": "5.21",
+      "series": "MZCG VIA",
+      "familyName": "MZCG VIA",
+      "familyCode": "g500557",
+      "method": "EXACT",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "type": "series",
+      "stt": "5.22",
+      "series": "MZC1 TWIN",
+      "familyName": "MZC1 Twin",
+      "familyCode": "g541243",
+      "method": "EXACT",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "type": "series",
+      "stt": "5.23",
+      "series": "MZT8 TWIN",
+      "familyName": "MZT8 Twin",
+      "familyCode": "g507351",
+      "method": "EXACT",
+      "expected": 9,
+      "actual": 9
+    },
+    {
+      "type": "cat_summary",
+      "category": "Cylinder",
+      "actual": 421,
+      "expected": 418,
+      "seriesCount": 23
+    },
+    {
+      "type": "category",
+      "name": "Lưới quang tự động",
+      "stt": "6.0"
+    },
+    {
+      "type": "series",
+      "stt": "6.1",
+      "series": "MLG-2",
+      "familyName": "MLG-2",
+      "familyCode": "g543486",
+      "method": "EXACT",
+      "expected": 1534,
+      "actual": 1553
+    },
+    {
+      "type": "series",
+      "stt": "6.2",
+      "series": "MLG-2 WebChecker",
+      "familyName": "MLG-2 WebChecker",
+      "familyCode": "g503452",
+      "method": "EXACT",
+      "expected": 249,
+      "actual": 255
+    },
+    {
+      "type": "series",
+      "stt": "6.3",
+      "series": "ELG",
+      "familyName": "ELG",
+      "familyCode": "g187988",
+      "method": "EXACT",
+      "expected": 88,
+      "actual": 88
+    },
+    {
+      "type": "series",
+      "stt": "6.4",
+      "series": "SLG",
+      "familyName": "SLG",
+      "familyCode": "g317451",
+      "method": "EXACT",
+      "expected": 335,
+      "actual": 335
+    },
+    {
+      "type": "series",
+      "stt": "6.5",
+      "series": "PLG",
+      "familyName": "PLG",
+      "familyCode": "g188013",
+      "method": "EXACT",
+      "expected": 7,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "6.6",
+      "series": "FlexChain",
+      "familyName": "FlexChain",
+      "familyCode": "g452671",
+      "method": "EXACT",
+      "expected": 275,
+      "actual": 275
+    },
+    {
+      "type": "series",
+      "stt": "6.7",
+      "series": "FLG",
+      "familyName": "FLG",
+      "familyCode": "g260755",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 12
+    },
+    {
+      "type": "series",
+      "stt": "6.8",
+      "series": "WLG",
+      "familyName": "WLG",
+      "familyCode": "g187987",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "6.9",
+      "series": "SLG-2",
+      "familyName": "SLG-2",
+      "familyCode": "g507855",
+      "method": "EXACT",
+      "expected": 292,
+      "actual": 320
+    },
+    {
+      "type": "series",
+      "stt": "6.10",
+      "series": "HLG",
+      "familyName": "HLG",
+      "familyCode": "g187986",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "cat_summary",
+      "category": "Lưới quang tự động",
+      "actual": 2850,
+      "expected": 2797,
+      "seriesCount": 10
+    },
+    {
+      "type": "category",
+      "name": "Condition Monitoring sensors",
+      "stt": "7.0"
+    },
+    {
+      "type": "series",
+      "stt": "7.1",
+      "series": "Multi Physics Box",
+      "familyName": "Multi Physics Box",
+      "familyCode": "g569306",
+      "method": "EXACT",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "type": "cat_summary",
+      "category": "Condition Monitoring sensors",
+      "actual": 1,
+      "expected": 1,
+      "seriesCount": 1
+    },
+    {
+      "type": "category",
+      "name": "Cảm biến khoảng cách",
+      "stt": "8.0"
+    },
+    {
+      "type": "series",
+      "stt": "8.1",
+      "series": "Dx80",
+      "familyName": "Dx80",
+      "familyCode": "g568557",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "8.2",
+      "series": "OD200",
+      "familyName": "OD200",
+      "familyCode": "g605737",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "8.3",
+      "series": "Dx35",
+      "familyName": "Dx35",
+      "familyCode": "g261053",
+      "method": "EXACT",
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "type": "series",
+      "stt": "8.4",
+      "series": "WTT12 PowerProx",
+      "familyName": "WTT12 PowerProx",
+      "familyCode": "g602378",
+      "method": "EXACT",
+      "expected": 99,
+      "actual": 99
+    },
+    {
+      "type": "series",
+      "stt": "8.5",
+      "series": "OD2000",
+      "familyName": "OD2000",
+      "familyCode": "g547590",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "8.6",
+      "series": "Dx1000",
+      "familyName": "Dx1000",
+      "familyCode": "g388051",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "type": "series",
+      "stt": "8.7",
+      "series": "Dx50",
+      "familyName": "Dx50",
+      "familyCode": "g176381",
+      "method": "EXACT",
+      "expected": 22,
+      "actual": 22
+    },
+    {
+      "type": "series",
+      "stt": "8.8",
+      "series": "OD Mini",
+      "familyName": "OD Mini",
+      "familyCode": "g276251",
+      "method": "EXACT",
+      "expected": 35,
+      "actual": 35
+    },
+    {
+      "type": "series",
+      "stt": "8.9",
+      "series": "OD Value",
+      "familyName": "OD Value",
+      "familyCode": "g150252",
+      "method": "EXACT",
+      "expected": 60,
+      "actual": 60
+    },
+    {
+      "type": "series",
+      "stt": "8.10",
+      "series": "Dx50-2",
+      "familyName": "Dx50-2",
+      "familyCode": "g306751",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "8.11",
+      "series": "OD5000",
+      "familyName": "OD5000",
+      "familyCode": "g413151",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "type": "series",
+      "stt": "8.12",
+      "series": "OD7000",
+      "familyName": "OD7000",
+      "familyCode": "g569987",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 8
+    },
+    {
+      "type": "series",
+      "stt": "8.13",
+      "series": "WTT4 PowerProx",
+      "familyName": "WTT4 PowerProx",
+      "familyCode": "g602379",
+      "method": "EXACT",
+      "expected": 16,
+      "actual": 16
+    },
+    {
+      "type": "series",
+      "stt": "8.14",
+      "series": "Dx100",
+      "familyName": "Dx100",
+      "familyCode": "g222753",
+      "method": "EXACT",
+      "expected": 62,
+      "actual": 62
+    },
+    {
+      "type": "series",
+      "stt": "8.15",
+      "series": "OD Precision",
+      "familyName": "OD Precision",
+      "familyCode": "g150255",
+      "method": "EXACT",
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "type": "series",
+      "stt": "8.16",
+      "series": "DT20 Hi",
+      "familyName": "DT20 Hi",
+      "familyCode": "g176377",
+      "method": "EXACT",
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "type": "series",
+      "stt": "8.17",
+      "series": "OD1000",
+      "familyName": "OD1000",
+      "familyCode": "g410651",
+      "method": "EXACT",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "type": "series",
+      "stt": "8.18",
+      "series": "Dx500",
+      "familyName": "Dx500",
+      "familyCode": "g168317",
+      "method": "EXACT",
+      "expected": 21,
+      "actual": 21
+    },
+    {
+      "type": "series",
+      "stt": "8.19",
+      "series": "Profiler",
+      "familyName": "Profiler",
+      "familyCode": "g307051",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "8.20",
+      "series": "WTT190 PowerProx",
+      "familyName": "WTT190 PowerProx",
+      "familyCode": "g602382",
+      "method": "EXACT",
+      "expected": 19,
+      "actual": 19
+    },
+    {
+      "type": "series",
+      "stt": "8.21",
+      "series": "OL1",
+      "familyName": "OL1",
+      "familyCode": "g475552",
+      "method": "EXACT",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "type": "series",
+      "stt": "8.22",
+      "series": "WTT2 PowerProx",
+      "familyName": "WTT2 PowerProx",
+      "familyCode": "g602380",
+      "method": "EXACT",
+      "expected": 11,
+      "actual": 11
+    },
+    {
+      "type": "series",
+      "stt": "8.23",
+      "series": "WTT280 PowerProx",
+      "familyName": "WTT280 PowerProx",
+      "familyCode": "g602381",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 12
+    },
+    {
+      "type": "series",
+      "stt": "8.24",
+      "series": "UM18",
+      "familyName": "UM18",
+      "familyCode": "g185679",
+      "method": "EXACT",
+      "expected": 82,
+      "actual": 82
+    },
+    {
+      "type": "series",
+      "stt": "8.25",
+      "series": "UM30",
+      "familyName": "UM30",
+      "familyCode": "g185672",
+      "method": "EXACT",
+      "expected": 37,
+      "actual": 37
+    },
+    {
+      "type": "series",
+      "stt": "8.26",
+      "series": "UC30",
+      "familyName": "UC30",
+      "familyCode": "g323151",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "type": "series",
+      "stt": "8.27",
+      "series": "UM12",
+      "familyName": "UM12",
+      "familyCode": "g305961",
+      "method": "EXACT",
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "type": "series",
+      "stt": "8.28",
+      "series": "UC12",
+      "familyName": "UC12",
+      "familyCode": "g185683",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "8.29",
+      "series": "UC40",
+      "familyName": "UC40",
+      "familyCode": "g570118",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "8.30",
+      "series": "UC4",
+      "familyName": "UC4",
+      "familyCode": "g185686",
+      "method": "EXACT",
+      "expected": 11,
+      "actual": 11
+    },
+    {
+      "type": "cat_summary",
+      "category": "Cảm biến khoảng cách",
+      "actual": 584,
+      "expected": 582,
+      "seriesCount": 30
+    },
+    {
+      "type": "category",
+      "name": "Safe 3D cameras",
+      "stt": "9.0"
+    },
+    {
+      "type": "series",
+      "stt": "9.1",
+      "series": "safeVisionary2",
+      "familyName": "safeVisionary2",
+      "familyCode": "g568562",
+      "method": "EXACT",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "type": "cat_summary",
+      "category": "Safe 3D cameras",
+      "actual": 1,
+      "expected": 1,
+      "seriesCount": 1
+    },
+    {
+      "type": "category",
+      "name": "Safe motion monitoring and control",
+      "stt": "10.0"
+    },
+    {
+      "type": "series",
+      "stt": "10.1",
+      "series": "Speed Monitor",
+      "familyName": "Speed Monitor",
+      "familyCode": "g202352",
+      "method": "EXACT",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "type": "series",
+      "stt": "10.2",
+      "series": "Standstill Monitor",
+      "familyName": "Standstill Monitor",
+      "familyCode": "g254556",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "10.3",
+      "series": "Flexi Soft Drive Monitor",
+      "familyName": "Flexi Soft",
+      "familyCode": "g186176",
+      "method": "PARTIAL",
+      "expected": 3,
+      "actual": 40
+    },
+    {
+      "type": "cat_summary",
+      "category": "Safe motion monitoring and control",
+      "actual": 50,
+      "expected": 13,
+      "seriesCount": 3
+    },
+    {
+      "type": "category",
+      "name": "Safe series connection",
+      "stt": "11.0"
+    },
+    {
+      "type": "series",
+      "stt": "11.1",
+      "series": "Flexi Loop",
+      "familyName": "Flexi Loop",
+      "familyCode": "g298952",
+      "method": "EXACT",
+      "expected": 11,
+      "actual": 11
+    },
+    {
+      "type": "cat_summary",
+      "category": "Safe series connection",
+      "actual": 11,
+      "expected": 11,
+      "seriesCount": 1
+    },
+    {
+      "type": "category",
+      "name": "Safety controllers",
+      "stt": "12.0"
+    },
+    {
+      "type": "series",
+      "stt": "12.1",
+      "series": "Flexi Net",
+      "familyName": "Flexi Net",
+      "familyCode": "g625049",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "12.2",
+      "series": "Flexi Compact",
+      "familyName": "Flexi Compact",
+      "familyCode": "g547438",
+      "method": "EXACT",
+      "expected": 7,
+      "actual": 9
+    },
+    {
+      "type": "series",
+      "stt": "12.3",
+      "series": "Flexi Soft",
+      "familyName": "Flexi Soft",
+      "familyCode": "g186176",
+      "method": "EXACT",
+      "expected": 39,
+      "actual": 40
+    },
+    {
+      "type": "series",
+      "stt": "12.4",
+      "series": "Flexi IO",
+      "familyName": "Flexi IO",
+      "familyCode": "g625027",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "12.5",
+      "series": "Flexi Gateway",
+      "familyName": "Flexi Gateway",
+      "familyCode": "g625028",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "12.6",
+      "series": "Flexi Mobile",
+      "familyName": "Flexi Mobile",
+      "familyCode": "g568586",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "12.7",
+      "series": "Flexi Classic",
+      "familyName": "Flexi Classic",
+      "familyCode": "g186175",
+      "method": "EXACT",
+      "expected": 35,
+      "actual": 32
+    },
+    {
+      "type": "series",
+      "stt": "12.8",
+      "series": "Flexi Soft Designer",
+      "familyName": "Flexi Soft Designer",
+      "familyCode": "g575305",
+      "method": "EXACT",
+      "expected": 5,
+      "actual": 5
+    },
+    {
+      "type": "series",
+      "stt": "12.9",
+      "series": "Safety Designer",
+      "familyName": "Safety Designer",
+      "familyCode": "g575306",
+      "method": "EXACT",
+      "expected": 13,
+      "actual": 13
+    },
+    {
+      "type": "cat_summary",
+      "category": "Safety controllers",
+      "actual": 117,
+      "expected": 116,
+      "seriesCount": 9
+    },
+    {
+      "type": "category",
+      "name": "Safety laser scanners",
+      "stt": "13.0"
+    },
+    {
+      "type": "series",
+      "stt": "13.1",
+      "series": "microScan3",
+      "familyName": "microScan3",
+      "familyCode": "g295657",
+      "method": "EXACT",
+      "expected": 112,
+      "actual": 48
+    },
+    {
+      "type": "series",
+      "stt": "13.2",
+      "series": "nanoScan3",
+      "familyName": "nanoScan3",
+      "familyCode": "g507056",
+      "method": "EXACT",
+      "expected": 5,
+      "actual": 5
+    },
+    {
+      "type": "series",
+      "stt": "13.3",
+      "series": "outdoorScan3",
+      "familyName": "outdoorScan3",
+      "familyCode": "g503552",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "13.4",
+      "series": "S300",
+      "familyName": "S300",
+      "familyCode": "g187227",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "type": "cat_summary",
+      "category": "Safety laser scanners",
+      "actual": 67,
+      "expected": 137,
+      "seriesCount": 4
+    },
+    {
+      "type": "category",
+      "name": "Safety light-beam sensors",
+      "stt": "14.0"
+    },
+    {
+      "type": "series",
+      "stt": "14.1",
+      "series": "WSU/WEU26-3",
+      "familyName": "WSU/WEU26-3",
+      "familyCode": "g192072",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "14.2",
+      "series": "deTem",
+      "familyName": "deTem",
+      "familyCode": "g422854",
+      "method": "EXACT",
+      "expected": 146,
+      "actual": 67
+    },
+    {
+      "type": "series",
+      "stt": "14.3",
+      "series": "L41",
+      "familyName": "L41",
+      "familyCode": "g192071",
+      "method": "EXACT",
+      "expected": 21,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "14.4",
+      "series": "L25",
+      "familyName": "L25",
+      "familyCode": "g547447",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "14.5",
+      "series": "L29",
+      "familyName": "L29",
+      "familyCode": "g328456",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 1
+    },
+    {
+      "type": "series",
+      "stt": "14.6",
+      "series": "L26",
+      "familyName": "L26",
+      "familyCode": "g547448",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "14.7",
+      "series": "L4000 Systems",
+      "familyName": "L4000 Systems",
+      "familyCode": "g192070",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 4
+    },
+    {
+      "type": "series",
+      "stt": "14.8",
+      "series": "L21",
+      "familyName": "L21",
+      "familyCode": "g192067",
+      "method": "EXACT",
+      "expected": 18,
+      "actual": 6
+    },
+    {
+      "type": "cat_summary",
+      "category": "Safety light-beam sensors",
+      "actual": 92,
+      "expected": 220,
+      "seriesCount": 8
+    },
+    {
+      "type": "category",
+      "name": "Safety light curtains",
+      "stt": "15.0"
+    },
+    {
+      "type": "series",
+      "stt": "15.1",
+      "series": "C4-RD",
+      "familyName": "C4-RD",
+      "familyCode": "g555517",
+      "method": "EXACT",
+      "expected": 58,
+      "actual": 58
+    },
+    {
+      "type": "series",
+      "stt": "15.2",
+      "series": "deTec",
+      "familyName": "MF",
+      "familyCode": "g622570",
+      "method": "GUESS",
+      "expected": 1367,
+      "actual": 44
+    },
+    {
+      "type": "series",
+      "stt": "15.3",
+      "series": "C4000 Advanced",
+      "familyName": "C4000 Advanced",
+      "familyCode": "g187251",
+      "method": "EXACT",
+      "expected": 474,
+      "actual": 187
+    },
+    {
+      "type": "series",
+      "stt": "15.4",
+      "series": "miniTwin",
+      "familyName": "miniTwin",
+      "familyCode": "g187244",
+      "method": "EXACT",
+      "expected": 509,
+      "actual": 510
+    },
+    {
+      "type": "series",
+      "stt": "15.5",
+      "series": "C4000 Palletizer",
+      "familyName": "C4000 Palletizer",
+      "familyCode": "g187263",
+      "method": "EXACT",
+      "expected": 64,
+      "actual": 24
+    },
+    {
+      "type": "series",
+      "stt": "15.6",
+      "series": "C4000 Advanced ATEX II 3G/3D",
+      "familyName": "C4000 Advanced ATEX II 3G/3D",
+      "familyCode": "g304854",
+      "method": "EXACT",
+      "expected": 18,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "15.7",
+      "series": "C4000 Fusion Ex",
+      "familyName": "C4000 Fusion Ex",
+      "familyCode": "g543465",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "15.8",
+      "series": "C4000 Fusion ATEX II 3G/3D",
+      "familyName": "C4000 Fusion ATEX II 3G/3D",
+      "familyCode": "g339952",
+      "method": "EXACT",
+      "expected": 21,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "15.9",
+      "series": "C4000 Entry/Exit ATEX II 3G/3D",
+      "familyName": "C4000 Entry/Exit ATEX II 3G/3D",
+      "familyCode": "g339951",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 1
+    },
+    {
+      "type": "series",
+      "stt": "15.10",
+      "series": "C4000 Advanced EX",
+      "familyName": "C4000 Advanced Ex",
+      "familyCode": "g304853",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "15.11",
+      "series": "TWINOX4",
+      "familyName": "TWINOX4",
+      "familyCode": "g500951",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "15.12",
+      "series": "C4000 Entry/Exit",
+      "familyName": "C4000 Entry/Exit",
+      "familyCode": "g187260",
+      "method": "EXACT",
+      "expected": 15,
+      "actual": 5
+    },
+    {
+      "type": "series",
+      "stt": "15.13",
+      "series": "C4000 Palletizer ATEX II 3G/3D",
+      "familyName": "C4000 Palletizer ATEX II 3G/3D",
+      "familyCode": "g552041",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 1
+    },
+    {
+      "type": "series",
+      "stt": "15.14",
+      "series": "C4000 Fusion",
+      "familyName": "C4000 Fusion",
+      "familyCode": "g187259",
+      "method": "EXACT",
+      "expected": 55,
+      "actual": 22
+    },
+    {
+      "type": "cat_summary",
+      "category": "Safety light curtains",
+      "actual": 880,
+      "expected": 2614,
+      "seriesCount": 14
+    },
+    {
+      "type": "category",
+      "name": "Safety multibeam scanners",
+      "stt": "16.0"
+    },
+    {
+      "type": "series",
+      "stt": "16.1",
+      "series": "scanGrid2",
+      "familyName": "scanGrid2",
+      "familyCode": "g555619",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "cat_summary",
+      "category": "Safety multibeam scanners",
+      "actual": 2,
+      "expected": 2,
+      "seriesCount": 1
+    },
+    {
+      "type": "category",
+      "name": "Safety radar sensors",
+      "stt": "17.0"
+    },
+    {
+      "type": "series",
+      "stt": "17.1",
+      "series": "safeRS/safeRS3",
+      "familyName": "safeRS3",
+      "familyCode": "g546518",
+      "method": "PARTIAL",
+      "expected": 4,
+      "actual": 7
+    },
+    {
+      "type": "cat_summary",
+      "category": "Safety radar sensors",
+      "actual": 7,
+      "expected": 4,
+      "seriesCount": 1
+    },
+    {
+      "type": "category",
+      "name": "Safety relays",
+      "stt": "18.0"
+    },
+    {
+      "type": "series",
+      "stt": "18.1",
+      "series": "Rely",
+      "familyName": "ReLy",
+      "familyCode": "g441754",
+      "method": "EXACT",
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "type": "cat_summary",
+      "category": "Safety relays",
+      "actual": 10,
+      "expected": 10,
+      "seriesCount": 1
+    },
+    {
+      "type": "category",
+      "name": "Safety switches",
+      "stt": "19.0"
+    },
+    {
+      "type": "series",
+      "stt": "19.1",
+      "series": "flexLock",
+      "familyName": "flexLock",
+      "familyCode": "g547596",
+      "method": "EXACT",
+      "expected": 11,
+      "actual": 11
+    },
+    {
+      "type": "series",
+      "stt": "19.2",
+      "series": "safeIDS",
+      "familyName": "safeIDS",
+      "familyCode": "g568545",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "19.3",
+      "series": "RE1",
+      "familyName": "RE1",
+      "familyCode": "g274652",
+      "method": "EXACT",
+      "expected": 0,
+      "actual": 11
+    },
+    {
+      "type": "series",
+      "stt": "19.4",
+      "series": "i10 Lock",
+      "familyName": "i10 Lock",
+      "familyCode": "g211151",
+      "method": "EXACT",
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "type": "series",
+      "stt": "19.5",
+      "series": "i17S",
+      "familyName": "i17S",
+      "familyCode": "g195493",
+      "method": "EXACT",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "type": "series",
+      "stt": "19.6",
+      "series": "RE2",
+      "familyName": "RE2",
+      "familyCode": "g274654",
+      "method": "EXACT",
+      "expected": 16,
+      "actual": 16
+    },
+    {
+      "type": "series",
+      "stt": "19.7",
+      "series": "i10R",
+      "familyName": "i10R",
+      "familyCode": "g195505",
+      "method": "EXACT",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "type": "series",
+      "stt": "19.8",
+      "series": "i15 Lock",
+      "familyName": "i15 Lock",
+      "familyCode": "g195500",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "type": "series",
+      "stt": "19.9",
+      "series": "i14 Lock",
+      "familyName": "i14 Lock",
+      "familyCode": "g195499",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "19.10",
+      "series": "TR4 Direct",
+      "familyName": "TR4 Direct",
+      "familyCode": "g226865",
+      "method": "EXACT",
+      "expected": 40,
+      "actual": 40
+    },
+    {
+      "type": "series",
+      "stt": "19.11",
+      "series": "ES21",
+      "familyName": "ES21",
+      "familyCode": "g195527",
+      "method": "EXACT",
+      "expected": 21,
+      "actual": 21
+    },
+    {
+      "type": "series",
+      "stt": "19.12",
+      "series": "i200 Lock",
+      "familyName": "i200 Lock",
+      "familyCode": "g195502",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "19.13",
+      "series": "i110R",
+      "familyName": "i110R",
+      "familyCode": "g195507",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "19.14",
+      "series": "i16S",
+      "familyName": "i16S",
+      "familyCode": "g195492",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "19.15",
+      "series": "STR1",
+      "familyName": "STR1",
+      "familyCode": "g353451",
+      "method": "EXACT",
+      "expected": 80,
+      "actual": 80
+    },
+    {
+      "type": "series",
+      "stt": "19.16",
+      "series": "i100P",
+      "familyName": "MF",
+      "familyCode": "g622570",
+      "method": "GUESS",
+      "expected": 3,
+      "actual": 44
+    },
+    {
+      "type": "series",
+      "stt": "19.17",
+      "series": "MLP1",
+      "familyName": "MLP1",
+      "familyCode": "g419454",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "19.18",
+      "series": "i10H",
+      "familyName": "i10H",
+      "familyCode": "g195509",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "19.19",
+      "series": "TR110 Lock",
+      "familyName": "TR110 Lock",
+      "familyCode": "g461653",
+      "method": "EXACT",
+      "expected": 15,
+      "actual": 15
+    },
+    {
+      "type": "series",
+      "stt": "19.20",
+      "series": "i110S",
+      "familyName": "i110S",
+      "familyCode": "g195495",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "19.21",
+      "series": "ER12",
+      "familyName": "ER12",
+      "familyCode": "g291253",
+      "method": "EXACT",
+      "expected": 5,
+      "actual": 5
+    },
+    {
+      "type": "series",
+      "stt": "19.22",
+      "series": "i110RP",
+      "familyName": "i110RP",
+      "familyCode": "g195529",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "19.23",
+      "series": "ES11",
+      "familyName": "ES11",
+      "familyCode": "g289858",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "19.24",
+      "series": "i110 Lock",
+      "familyName": "i110 Lock",
+      "familyCode": "g195501",
+      "method": "EXACT",
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "type": "series",
+      "stt": "19.25",
+      "series": "E100",
+      "familyName": "E100",
+      "familyCode": "g195532",
+      "method": "EXACT",
+      "expected": 7,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "19.26",
+      "series": "i10P",
+      "familyName": "i10P",
+      "familyCode": "g195504",
+      "method": "EXACT",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "type": "series",
+      "stt": "19.27",
+      "series": "i150RP",
+      "familyName": "i150RP",
+      "familyCode": "g195530",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "19.28",
+      "series": "TR10 Lock",
+      "familyName": "TR10 Lock",
+      "familyCode": "g381551",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 12
+    },
+    {
+      "type": "series",
+      "stt": "19.29",
+      "series": "i12S",
+      "familyName": "i12S",
+      "familyCode": "g195491",
+      "method": "EXACT",
+      "expected": 5,
+      "actual": 5
+    },
+    {
+      "type": "cat_summary",
+      "category": "Safety switches",
+      "actual": 331,
+      "expected": 279,
+      "seriesCount": 29
+    },
+    {
+      "type": "category",
+      "name": "LiDAR and radar sensors",
+      "stt": "20.0"
+    },
+    {
+      "type": "series",
+      "stt": "20.1",
+      "series": "picoScan100",
+      "familyName": "picoScan100",
+      "familyCode": "g574970",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 12
+    },
+    {
+      "type": "series",
+      "stt": "20.2",
+      "series": "TiM",
+      "familyName": "TiM",
+      "familyCode": "g570093",
+      "method": "EXACT",
+      "expected": 27,
+      "actual": 27
+    },
+    {
+      "type": "series",
+      "stt": "20.3",
+      "series": "multiScan100",
+      "familyName": "multiScan100",
+      "familyCode": "g574914",
+      "method": "EXACT",
+      "expected": 14,
+      "actual": 14
+    },
+    {
+      "type": "series",
+      "stt": "20.4",
+      "series": "MRS1000",
+      "familyName": "MRS1000",
+      "familyCode": "g387152",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "20.5",
+      "series": "LMS5xx",
+      "familyName": "LMS5xx",
+      "familyCode": "g179651",
+      "method": "EXACT",
+      "expected": 18,
+      "actual": 18
+    },
+    {
+      "type": "series",
+      "stt": "20.6",
+      "series": "LD-MRS",
+      "familyName": "LD-MRS",
+      "familyCode": "g91913",
+      "method": "EXACT",
+      "expected": 7,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "20.7",
+      "series": "LMS1000",
+      "familyName": "LMS1000",
+      "familyCode": "g387151",
+      "method": "EXACT",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "type": "series",
+      "stt": "20.8",
+      "series": "NAV3xx",
+      "familyName": "NAV3xx",
+      "familyCode": "g91916",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "20.9",
+      "series": "LRS4000",
+      "familyName": "LRS4000",
+      "familyCode": "g555594",
+      "method": "EXACT",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "type": "series",
+      "stt": "20.10",
+      "series": "LMS1xx",
+      "familyName": "LMS1xx",
+      "familyCode": "g91901",
+      "method": "EXACT",
+      "expected": 18,
+      "actual": 19
+    },
+    {
+      "type": "series",
+      "stt": "20.11",
+      "series": "LMC1xx",
+      "familyName": "LMC1xx",
+      "familyCode": "g180553",
+      "method": "EXACT",
+      "expected": 7,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "20.12",
+      "series": "LMS4000",
+      "familyName": "LMS4000",
+      "familyCode": "g474751",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "20.13",
+      "series": "MRS6000",
+      "familyName": "MRS6000",
+      "familyCode": "g448151",
+      "method": "EXACT",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "type": "series",
+      "stt": "20.14",
+      "series": "NAV2xx",
+      "familyName": "NAV2xx",
+      "familyCode": "g356151",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "20.15",
+      "series": "RMS2000",
+      "familyName": "RMS2000",
+      "familyCode": "g577390",
+      "method": "EXACT",
+      "expected": 4,
+      "actual": 5
+    },
+    {
+      "type": "series",
+      "stt": "20.16",
+      "series": "RMS1000",
+      "familyName": "RMS1000",
+      "familyCode": "g555591",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "cat_summary",
+      "category": "LiDAR and radar sensors",
+      "actual": 130,
+      "expected": 128,
+      "seriesCount": 16
+    },
+    {
+      "type": "category",
+      "name": "Machine vision and identification",
+      "stt": "21.0"
+    },
+    {
+      "type": "series",
+      "stt": "21.1",
+      "series": "CLV62x",
+      "familyName": "CLV62x",
+      "familyCode": "g79824",
+      "method": "EXACT",
+      "expected": 37,
+      "actual": 37
+    },
+    {
+      "type": "series",
+      "stt": "21.2",
+      "series": "CLV69x",
+      "familyName": "CLV69x",
+      "familyCode": "g229472",
+      "method": "EXACT",
+      "expected": 13,
+      "actual": 13
+    },
+    {
+      "type": "series",
+      "stt": "21.3",
+      "series": "CLV63x",
+      "familyName": "CLV63x",
+      "familyCode": "g79846",
+      "method": "EXACT",
+      "expected": 62,
+      "actual": 62
+    },
+    {
+      "type": "series",
+      "stt": "21.4",
+      "series": "CLV50x",
+      "familyName": "CLV50x",
+      "familyCode": "g104152",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "21.5",
+      "series": "CLV60x",
+      "familyName": "CLV60x",
+      "familyCode": "g446351",
+      "method": "EXACT",
+      "expected": 5,
+      "actual": 14
+    },
+    {
+      "type": "series",
+      "stt": "21.6",
+      "series": "CLV61x",
+      "familyName": "CLV61x",
+      "familyCode": "g271962",
+      "method": "EXACT",
+      "expected": 25,
+      "actual": 25
+    },
+    {
+      "type": "series",
+      "stt": "21.7",
+      "series": "CLV65x",
+      "familyName": "CLV65x",
+      "familyCode": "g79879",
+      "method": "EXACT",
+      "expected": 19,
+      "actual": 19
+    },
+    {
+      "type": "series",
+      "stt": "21.8",
+      "series": "CLV64x",
+      "familyName": "CLV64x",
+      "familyCode": "g79874",
+      "method": "EXACT",
+      "expected": 18,
+      "actual": 18
+    },
+    {
+      "type": "series",
+      "stt": "21.9",
+      "series": "CLV Identification System",
+      "familyName": "CLV Identification System",
+      "familyCode": "g91876",
+      "method": "EXACT",
+      "expected": 10,
+      "actual": 10
+    },
+    {
+      "type": "series",
+      "stt": "21.10",
+      "series": "Lector83x",
+      "familyName": "Lector83x",
+      "familyCode": "g584457",
+      "method": "EXACT",
+      "expected": 9,
+      "actual": 12
+    },
+    {
+      "type": "series",
+      "stt": "21.11",
+      "series": "Lector61x",
+      "familyName": "Lector61x",
+      "familyCode": "g507061",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 14
+    },
+    {
+      "type": "series",
+      "stt": "21.12",
+      "series": "Lector62x",
+      "familyName": "Lector62x",
+      "familyCode": "g158951",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "type": "series",
+      "stt": "21.13",
+      "series": "GLS6",
+      "familyName": "GLS6",
+      "familyCode": "g507063",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "21.14",
+      "series": "Lector64x/Lector65x",
+      "familyName": "Lector64x/Lector65x",
+      "familyCode": "g275359",
+      "method": "EXACT",
+      "expected": 22,
+      "actual": 21
+    },
+    {
+      "type": "series",
+      "stt": "21.15",
+      "series": "Lector85x",
+      "familyName": "Lector85x",
+      "familyCode": "g568570",
+      "method": "EXACT",
+      "expected": 56,
+      "actual": 59
+    },
+    {
+      "type": "series",
+      "stt": "21.16",
+      "series": "GLS100",
+      "familyName": "GLS100",
+      "familyCode": "g558796",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "21.17",
+      "series": "Lector63x",
+      "familyName": "Lector63x",
+      "familyCode": "g326251",
+      "method": "EXACT",
+      "expected": 26,
+      "actual": 26
+    },
+    {
+      "type": "series",
+      "stt": "21.18",
+      "series": "ICD8xx",
+      "familyName": "ICD8xx",
+      "familyCode": "g576408",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "type": "series",
+      "stt": "21.19",
+      "series": "ICR Identification System",
+      "familyName": "ICR Identification System",
+      "familyCode": "g555825",
+      "method": "EXACT",
+      "expected": 11,
+      "actual": 11
+    },
+    {
+      "type": "series",
+      "stt": "21.20",
+      "series": "Lector Identification System",
+      "familyName": "Lector Identification System",
+      "familyCode": "g575972",
+      "method": "EXACT",
+      "expected": 42,
+      "actual": 42
+    },
+    {
+      "type": "series",
+      "stt": "21.21",
+      "series": "Lector65x System",
+      "familyName": "Lector65x System",
+      "familyCode": "g326951",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "21.22",
+      "series": "InspectorP61x",
+      "familyName": "InspectorP61x",
+      "familyCode": "g555810",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 12
+    },
+    {
+      "type": "series",
+      "stt": "21.23",
+      "series": "InspectorP62x",
+      "familyName": "InspectorP62x",
+      "familyCode": "g507066",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "type": "series",
+      "stt": "21.24",
+      "series": "Visionary AI-Assist",
+      "familyName": "Visionary AI-Assist",
+      "familyCode": "g616809",
+      "method": "EXACT",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "type": "series",
+      "stt": "21.25",
+      "series": "sensingCam SEC100",
+      "familyName": "sensingCam SEC100",
+      "familyCode": "g601993",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 2
+    },
+    {
+      "type": "series",
+      "stt": "21.26",
+      "series": "Ruler3000",
+      "familyName": "Ruler3000",
+      "familyCode": "g547572",
+      "method": "EXACT",
+      "expected": 13,
+      "actual": 14
+    },
+    {
+      "type": "series",
+      "stt": "21.27",
+      "series": "Inspector85x",
+      "familyName": "Inspector85x",
+      "familyCode": "g574983",
+      "method": "EXACT",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "type": "series",
+      "stt": "21.28",
+      "series": "Ranger3",
+      "familyName": "Ranger3",
+      "familyCode": "g448354",
+      "method": "EXACT",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "type": "series",
+      "stt": "21.29",
+      "series": "picoCam2",
+      "familyName": "picoCam2",
+      "familyCode": "g541249",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "21.30",
+      "series": "midiCam2",
+      "familyName": "midiCam2",
+      "familyCode": "g541250",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "type": "series",
+      "stt": "21.31",
+      "series": "Trispector1000",
+      "familyName": "TriSpector1000",
+      "familyCode": "g389052",
+      "method": "EXACT",
+      "expected": 16,
+      "actual": 16
+    },
+    {
+      "type": "series",
+      "stt": "21.32",
+      "series": "InspectorP Rack Fine Positioning",
+      "familyName": "InspectorP Rack Fine Positioning",
+      "familyCode": "g543982",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 8
+    },
+    {
+      "type": "series",
+      "stt": "21.33",
+      "series": "Visionary-S",
+      "familyName": "Visionary-S",
+      "familyCode": "g507251",
+      "method": "EXACT",
+      "expected": 8,
+      "actual": 9
+    },
+    {
+      "type": "series",
+      "stt": "21.34",
+      "series": "Inspector83x",
+      "familyName": "Inspector83x",
+      "familyCode": "g584000",
+      "method": "EXACT",
+      "expected": 41,
+      "actual": 41
+    },
+    {
+      "type": "series",
+      "stt": "21.35",
+      "series": "Visionary-T Mini",
+      "familyName": "Visionary-T Mini",
+      "familyCode": "g555625",
+      "method": "EXACT",
+      "expected": 7,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "21.36",
+      "series": "InspectorP63x",
+      "familyName": "InspectorP63x",
+      "familyCode": "g401751",
+      "method": "EXACT",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "type": "series",
+      "stt": "21.37",
+      "series": "InspectorP64x/Inspecto",
+      "familyName": "InspectorP64x/InspectorP65x",
+      "familyCode": "g401753",
+      "method": "PARTIAL",
+      "expected": 5,
+      "actual": 5
+    },
+    {
+      "type": "series",
+      "stt": "21.38",
+      "series": "Visionary-B Two",
+      "familyName": "Visionary-B Two",
+      "familyCode": "g575551",
+      "method": "EXACT",
+      "expected": 2,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "21.39",
+      "series": "PLPC2D",
+      "familyName": "PLOC2D",
+      "familyCode": "g456151",
+      "method": "GUESS",
+      "expected": 23,
+      "actual": 23
+    },
+    {
+      "type": "series",
+      "stt": "21.40",
+      "series": "PLR",
+      "familyName": "PLR",
+      "familyCode": "g265752",
+      "method": "EXACT",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "type": "series",
+      "stt": "21.41",
+      "series": "PLB",
+      "familyName": "PLB",
+      "familyCode": "g259663",
+      "method": "EXACT",
+      "expected": 66,
+      "actual": 66
+    },
+    {
+      "type": "series",
+      "stt": "21.42",
+      "series": "Zx36",
+      "familyName": "Zx36",
+      "familyCode": "g569849",
+      "method": "EXACT",
+      "expected": 18,
+      "actual": 22
+    },
+    {
+      "type": "series",
+      "stt": "21.43",
+      "series": "IDM",
+      "familyName": "IDM",
+      "familyCode": "g574775",
+      "method": "EXACT",
+      "expected": 41,
+      "actual": 41
+    },
+    {
+      "type": "series",
+      "stt": "21.44",
+      "series": "HW19",
+      "familyName": "HW19",
+      "familyCode": "g574781",
+      "method": "EXACT",
+      "expected": 4,
+      "actual": 4
+    },
+    {
+      "type": "series",
+      "stt": "21.45",
+      "series": "RFH5xx",
+      "familyName": "RFH5xx",
+      "familyCode": "g547578",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "21.46",
+      "series": "RFU61x",
+      "familyName": "RFU61x",
+      "familyCode": "g505651",
+      "method": "EXACT",
+      "expected": 12,
+      "actual": 14
+    },
+    {
+      "type": "series",
+      "stt": "21.47",
+      "series": "RFU63x",
+      "familyName": "RFU63x",
+      "familyCode": "g218148",
+      "method": "EXACT",
+      "expected": 24,
+      "actual": 24
+    },
+    {
+      "type": "series",
+      "stt": "21.48",
+      "series": "RFH6xx",
+      "familyName": "RFH6xx",
+      "familyCode": "g263558",
+      "method": "EXACT",
+      "expected": 3,
+      "actual": 3
+    },
+    {
+      "type": "series",
+      "stt": "21.49",
+      "series": "RFU62x",
+      "familyName": "RFU62x",
+      "familyCode": "g285253",
+      "method": "EXACT",
+      "expected": 18,
+      "actual": 18
+    },
+    {
+      "type": "series",
+      "stt": "21.50",
+      "series": "RFU65x",
+      "familyName": "RFU65x",
+      "familyCode": "g363751",
+      "method": "EXACT",
+      "expected": 6,
+      "actual": 6
+    },
+    {
+      "type": "series",
+      "stt": "21.51",
+      "series": "UHF transponders",
+      "familyName": "UHF transponders",
+      "familyCode": "g602200",
+      "method": "EXACT",
+      "expected": 17,
+      "actual": 17
+    },
+    {
+      "type": "series",
+      "stt": "21.52",
+      "series": "HF transponders",
+      "familyName": "HF transponders",
+      "familyCode": "g602199",
+      "method": "EXACT",
+      "expected": 16,
+      "actual": 16
+    },
+    {
+      "type": "series",
+      "stt": "21.53",
+      "series": "RFID antennas",
+      "familyName": "RFID antennas",
+      "familyCode": "g602112",
+      "method": "EXACT",
+      "expected": 7,
+      "actual": 7
+    },
+    {
+      "type": "series",
+      "stt": "21.54",
+      "series": "RF Identification System",
+      "familyName": "RF Identification System",
+      "familyCode": "g570102",
+      "method": "EXACT",
+      "expected": 5,
+      "actual": 5
+    },
+    {
+      "type": "series",
+      "stt": "21.55",
+      "series": "Ident Gate System",
+      "familyName": "Ident Gate System",
+      "familyCode": "g585325",
+      "method": "EXACT",
+      "expected": 1,
+      "actual": 1
+    },
+    {
+      "type": "cat_summary",
+      "category": "Machine vision and identification",
+      "actual": 838,
+      "expected": 813,
+      "seriesCount": 55
+    },
+    {
+      "type": "category",
+      "name": "Ms Nguyệt Ánh",
+      "stt": "1.0"
+    },
+    {
+      "type": "cat_summary",
+      "category": "Ms Nguyệt Ánh",
+      "actual": 0,
+      "expected": 0,
+      "seriesCount": 0
+    },
+    {
+      "type": "category",
+      "name": "Ms Ngọc Hà",
+      "stt": "2.0"
+    },
+    {
+      "type": "cat_summary",
+      "category": "Ms Ngọc Hà",
+      "actual": 0,
+      "expected": 0,
+      "seriesCount": 0
+    },
+    {
+      "type": "category",
+      "name": "Ms Ngọc Linh",
+      "stt": "3.0"
+    },
+    {
+      "type": "cat_summary",
+      "category": "Ms Ngọc Linh",
+      "actual": 0,
+      "expected": 0,
+      "seriesCount": 0
+    },
+    {
+      "type": "category",
+      "name": "Mr Nhật Hào",
+      "stt": "4.0"
+    },
+    {
+      "type": "cat_summary",
+      "category": "Mr Nhật Hào",
+      "actual": 0,
+      "expected": 0,
+      "seriesCount": 0
+    },
+    {
+      "type": "category",
+      "name": "Mr Minh Hoàng",
+      "stt": "5.0"
+    },
+    {
+      "type": "cat_summary",
+      "category": "Mr Minh Hoàng",
+      "actual": 0,
+      "expected": 0,
+      "seriesCount": 0
+    }
+  ],
+  "grandTotal": 14005,
+  "grandExpected": 15700,
+  "seriesCount": 311
+}

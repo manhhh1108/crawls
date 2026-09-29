@@ -1,0 +1,2030 @@
+{
+ "brand": "06 wenglor",
+ "site": "https://www.wenglor.com/en/",
+ "note": "Cay danh muc day du tu sitemap; cap sau cung la cap ngay tren ma SP (vd P1PC011).",
+ "nodes": [
+  {
+   "path": [
+    "Accessories"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Accessories",
+    "Display and Operating Elements"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Display-and-Operating-Elements/c/cxmCID220461",
+   "code": "cxmCID220461",
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Fluid Adapters and Immersion Sleeves"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Fluid-Adapters-and-Immersion-Sleeves/c/cxmCID220456",
+   "code": "cxmCID220456",
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Installation Tools and Other Products"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Installation-Tools-and-Other-Products/c/cxmCID221379",
+   "code": "cxmCID221379",
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Labkits"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Labkits/c/cxmCID229909",
+   "code": "cxmCID229909",
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mounting Technology"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mounting Technology",
+    "Holders Universal"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Mounting-Technology/Holders-Universal/c/cxmCID221373",
+   "code": "cxmCID221373",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mounting Technology",
+    "Mounting Brackets"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Mounting-Technology/Mounting-Brackets/c/cxmCID221371",
+   "code": "cxmCID221371",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mounting Technology",
+    "Mounting Sets and Nuts"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Mounting-Technology/Mounting-Sets-and-Nuts/c/cxmCID221374",
+   "code": "cxmCID221374",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mounting Technology",
+    "Mounting Systems"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Mounting-Technology/Mounting-Systems/c/cxmCID221370",
+   "code": "cxmCID221370",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mounting Technology",
+    "Mountings for Metric Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Mounting-Technology/Mountings-for-Metric-Sensors/c/cxmCID221372",
+   "code": "cxmCID221372",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Muting and Signaling Components"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Muting and Signaling Components",
+    "Muting"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Muting-and-Signaling-Components/Muting/c/cxmCID222491",
+   "code": "cxmCID222491",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Muting and Signaling Components",
+    "Signaling Components"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Muting-and-Signaling-Components/Signaling-Components/c/cxmCID222492",
+   "code": "cxmCID222492",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optics, Filters, Deflectors and Focusers"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optics, Filters, Deflectors and Focusers",
+    "Angle Changer"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Optics-Filters-Deflectors-and-Focusers/Angle-Changer/c/cxmCID212065",
+   "code": "cxmCID212065",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optics, Filters, Deflectors and Focusers",
+    "Calibration Plates"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Optics-Filters-Deflectors-and-Focusers/Calibration-Plates/c/cxmCID222488",
+   "code": "cxmCID222488",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optics, Filters, Deflectors and Focusers",
+    "Deflectors and Focusers"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Optics-Filters-Deflectors-and-Focusers/Deflectors-and-Focusers/c/cxmCID222585",
+   "code": "cxmCID222585",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optics, Filters, Deflectors and Focusers",
+    "Filters"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Optics-Filters-Deflectors-and-Focusers/Filters/c/cxmCID222485",
+   "code": "cxmCID222485",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optics, Filters, Deflectors and Focusers",
+    "Lenses"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Optics-Filters-Deflectors-and-Focusers/Lenses/c/cxmCID200052",
+   "code": "cxmCID200052",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optics, Filters, Deflectors and Focusers",
+    "Lighting Modules"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Optics-Filters-Deflectors-and-Focusers/Lighting-Modules/c/cxmCID222487",
+   "code": "cxmCID222487",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optics, Filters, Deflectors and Focusers",
+    "Optics"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Optics-Filters-Deflectors-and-Focusers/Optics/c/cxmCID222486",
+   "code": "cxmCID222486",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Protective Housing and Cooling Modules"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Protective Housing and Cooling Modules",
+    "Cooling Units"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Protective-Housing-and-Cooling-Modules/Cooling-Units/c/cxmCID222477",
+   "code": "cxmCID222477",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Protective Housing and Cooling Modules",
+    "Protection Columns"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Protective-Housing-and-Cooling-Modules/Protection-Columns/c/cxmCID202711",
+   "code": "cxmCID202711",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Protective Housing and Cooling Modules",
+    "Protection Housings"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Protective-Housing-and-Cooling-Modules/Protection-Housings/c/cxmCID222478",
+   "code": "cxmCID222478",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Protective Housing and Cooling Modules",
+    "Protective Discs"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Protective-Housing-and-Cooling-Modules/Protective-Discs/c/cxmCID222479",
+   "code": "cxmCID222479",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Reflectors and Reflector Foils"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Reflectors-and-Reflector-Foils/c/cxmCID220457",
+   "code": "cxmCID220457",
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "RFID Transponders"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/RFID-Transponders/c/cxmCID226896",
+   "code": "cxmCID226896",
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Seals, Valves and Caps"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Accessories/Seals-Valves-and-Caps/c/cxmCID220460",
+   "code": "cxmCID220460",
+   "level": 2
+  },
+  {
+   "path": [
+    "Connection and Network Technology"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Connection and Network Technology",
+    "Connection Technology"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Connection and Network Technology",
+    "Connection Technology",
+    "Connection Cables and T-Plugs"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Connection-and-Network-Technology/Connection-Technology/Connection-Cables-and-T-Plugs/c/cxmCID222470",
+   "code": "cxmCID222470",
+   "level": 3
+  },
+  {
+   "path": [
+    "Connection and Network Technology",
+    "Connection Technology",
+    "Connection Lines"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Connection-and-Network-Technology/Connection-Technology/Connection-Lines/c/cxmCID222469",
+   "code": "cxmCID222469",
+   "level": 3
+  },
+  {
+   "path": [
+    "Connection and Network Technology",
+    "Connection Technology",
+    "Interface Cables"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Connection-and-Network-Technology/Connection-Technology/Interface-Cables/c/cxmCID222473",
+   "code": "cxmCID222473",
+   "level": 3
+  },
+  {
+   "path": [
+    "Connection and Network Technology",
+    "Connection Technology",
+    "Passive Connection Boxes"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Connection-and-Network-Technology/Connection-Technology/Passive-Connection-Boxes/c/cxmCID222471",
+   "code": "cxmCID222471",
+   "level": 3
+  },
+  {
+   "path": [
+    "Connection and Network Technology",
+    "Connection Technology",
+    "User-Configurable Plugs and Sockets"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Connection-and-Network-Technology/Connection-Technology/User-Configurable-Plugs-and-Sockets/c/cxmCID222472",
+   "code": "cxmCID222472",
+   "level": 3
+  },
+  {
+   "path": [
+    "Connection and Network Technology",
+    "Evaluation Technology"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Connection-and-Network-Technology/Evaluation-Technology/c/cxmCID221385",
+   "code": "cxmCID221385",
+   "level": 2
+  },
+  {
+   "path": [
+    "Connection and Network Technology",
+    "Network and Fieldbus Components"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Connection and Network Technology",
+    "Network and Fieldbus Components",
+    "Fieldbus Gateways"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Connection-and-Network-Technology/Network-and-Fieldbus-Components/Fieldbus-Gateways/c/cxmCID197688",
+   "code": "cxmCID197688",
+   "level": 3
+  },
+  {
+   "path": [
+    "Connection and Network Technology",
+    "Network and Fieldbus Components",
+    "IO-Link Converter"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Connection-and-Network-Technology/Network-and-Fieldbus-Components/IO-Link-Converter/c/cxmCID235335",
+   "code": "cxmCID235335",
+   "level": 3
+  },
+  {
+   "path": [
+    "Connection and Network Technology",
+    "Network and Fieldbus Components",
+    "IO-Link Hubs"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Connection-and-Network-Technology/Network-and-Fieldbus-Components/IO-Link-Hubs/c/cxmCID235334",
+   "code": "cxmCID235334",
+   "level": 3
+  },
+  {
+   "path": [
+    "Connection and Network Technology",
+    "Network and Fieldbus Components",
+    "IO-Link Masters"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Connection-and-Network-Technology/Network-and-Fieldbus-Components/IO-Link-Masters/c/cxmCID197687",
+   "code": "cxmCID197687",
+   "level": 3
+  },
+  {
+   "path": [
+    "Connection and Network Technology",
+    "Network and Fieldbus Components",
+    "Switches and Junctions"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Connection-and-Network-Technology/Network-and-Fieldbus-Components/Switches-and-Junctions/c/cxmCID197686",
+   "code": "cxmCID197686",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "1D/2D and Barcode Scanners"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "1D/2D and Barcode Scanners",
+    "1D/2D Code Scanners"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/1D2D-and-Barcode-Scanners/1D2D-Code-Scanners/c/cxmCID197661",
+   "code": "cxmCID197661",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "1D/2D and Barcode Scanners",
+    "1D/2D Handheld Scanners"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/1D2D-and-Barcode-Scanners/1D2D-Handheld-Scanners/c/cxmCID197660",
+   "code": "cxmCID197660",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "1D/2D and Barcode Scanners",
+    "1D Code Scanners"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "1D/2D and Barcode Scanners",
+    "1D Code Scanners",
+    "Barcode Line Scanners"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/1D2D-and-Barcode-Scanners/1D-Code-Scanners/Barcode-Line-Scanners/c/cxmCID197657",
+   "code": "cxmCID197657",
+   "level": 4
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "1D/2D and Barcode Scanners",
+    "1D Code Scanners",
+    "Barcode Raster Scanners"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/1D2D-and-Barcode-Scanners/1D-Code-Scanners/Barcode-Raster-Scanners/c/cxmCID197658",
+   "code": "cxmCID197658",
+   "level": 4
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "1D/2D and Barcode Scanners",
+    "1D Code Scanners",
+    "Barcode Sweep Raster Scanners"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/1D2D-and-Barcode-Scanners/1D-Code-Scanners/Barcode-Sweep-Raster-Scanners/c/cxmCID197659",
+   "code": "cxmCID197659",
+   "level": 4
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "1D/2D and Barcode Scanners",
+    "Configuration Software for Code Scanners"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/1D2D-and-Barcode-Scanners/Configuration-Software-for-Code-Scanners/c/cxmCID221363",
+   "code": "cxmCID221363",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "2D/3D Sensors"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "2D/3D Sensors",
+    "2D/3D Profile Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/2D3D-Sensors/2D3D-Profile-Sensors/c/cxmCID227277",
+   "code": "cxmCID227277",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "2D/3D Sensors",
+    "M2SL"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/2D3D-Sensors/M2SL/c/cxmCID216377",
+   "code": "cxmCID216377",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "2D/3D Sensors",
+    "MLSL"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/2D3D-Sensors/MLSL/c/cxmCID216374",
+   "code": "cxmCID216374",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "2D/3D Sensors",
+    "MLSLxxxS40"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/2D3D-Sensors/MLSLxxxS40/c/cxmCID226919",
+   "code": "cxmCID226919",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "2D/3D Sensors",
+    "MLWL"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/2D3D-Sensors/MLWL/c/cxmCID216375",
+   "code": "cxmCID216375",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "2D/3D Sensors",
+    "MLZL"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/2D3D-Sensors/MLZL/c/cxmCID216376",
+   "code": "cxmCID216376",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "2D/3D Sensors",
+    "OPT"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/2D3D-Sensors/OPT/c/cxmCID216378",
+   "code": "cxmCID216378",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "3D Sensors"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "3D Sensors",
+    "MLAS"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/3D-Sensors/MLAS/c/cxmCID214186",
+   "code": "cxmCID214186",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "3D Sensors",
+    "MLBS"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/3D-Sensors/MLBS/c/cxmCID214187",
+   "code": "cxmCID214187",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Illumination Technology"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Illumination Technology",
+    "Bar Lights"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Illumination-Technology/Bar-Lights/c/cxmCID211472",
+   "code": "cxmCID211472",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Illumination Technology",
+    "Dome and Dome Lights"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Illumination-Technology/Dome-and-Dome-Lights/c/cxmCID211482",
+   "code": "cxmCID211482",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Illumination Technology",
+    "Flat Dome Lights"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Illumination-Technology/Flat-Dome-Lights/c/cxmCID211483",
+   "code": "cxmCID211483",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Illumination Technology",
+    "Flat Lights"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Illumination-Technology/Flat-Lights/c/cxmCID211474",
+   "code": "cxmCID211474",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Illumination Technology",
+    "Ring Lights"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Illumination-Technology/Ring-Lights/c/cxmCID211481",
+   "code": "cxmCID211481",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Illumination Technology",
+    "Spot Lights"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Illumination-Technology/Spot-Lights/c/cxmCID211553",
+   "code": "cxmCID211553",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Machine Vision Cameras"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Machine-Vision-Cameras/c/cxmCID221382",
+   "code": "cxmCID221382",
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Machine Vision Controllers"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Machine-Vision-Controllers/c/cxmCID221381",
+   "code": "cxmCID221381",
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Machine Vision Software"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Machine-Vision-Software//c/cxmCID247134",
+   "code": "cxmCID247134",
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Machine Vision Software",
+    "AI Lab"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Machine-Vision-Software/AI-Lab/c/cxmCID238897",
+   "code": "cxmCID238897",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Machine Vision Software",
+    "Image Processing Software uniVision 2"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Machine-Vision-Software/Image-Processing-Software-uniVision-2/c/cxmCID222461",
+   "code": "cxmCID222461",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Machine Vision Software",
+    "Image Processing Software uniVision 3"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Machine-Vision-Software/Image-Processing-Software-uniVision-3/c/cxmCID222459",
+   "code": "cxmCID222459",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Machine Vision Software",
+    "Image Processing Software VisionApp 360"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Machine-Vision-Software/Image-Processing-Software-VisionApp-360/c/cxmCID222460",
+   "code": "cxmCID222460",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Machine Vision Software",
+    "Image Processing Software VisionApp Demo 3D"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Machine-Vision-Software/Image-Processing-Software-VisionApp-Demo-3D/c/cxmCID222462",
+   "code": "cxmCID222462",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Machine Vision Software",
+    "Support Software"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Machine-Vision-Software/Support-Software/c/cxmCID222463",
+   "code": "cxmCID222463",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Machine Vision Software",
+    "weHub"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Machine-Vision-Software/weHub/c/cxmCID238896",
+   "code": "cxmCID238896",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Smart Cameras and Vision Sensors"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Smart Cameras and Vision Sensors",
+    "Smart Camera B60"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Smart-Cameras-and-Vision-Sensors/Smart-Camera-B60/c/cxmCID221375",
+   "code": "cxmCID221375",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Smart Cameras and Vision Sensors",
+    "weQube B50"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Smart Cameras and Vision Sensors",
+    "weQube B50",
+    "OCR Readers B50"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Smart-Cameras-and-Vision-Sensors/weQube-B50/OCR-Readers-B50/c/cxmCID200005",
+   "code": "cxmCID200005",
+   "level": 4
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Smart Cameras and Vision Sensors",
+    "weQube B50",
+    "Smart Camera B50"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Smart-Cameras-and-Vision-Sensors/weQube-B50/Smart-Camera-B50/c/cxmCID235061",
+   "code": "cxmCID235061",
+   "level": 4
+  },
+  {
+   "path": [
+    "Machine Vision",
+    "Smart Cameras and Vision Sensors",
+    "weQube B50",
+    "Vision Sensors B50"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Machine-Vision/Smart-Cameras-and-Vision-Sensors/weQube-B50/Vision-Sensors-B50/c/cxmCID199984",
+   "code": "cxmCID199984",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Sensors",
+    "Fluid Sensors"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Fluid Sensors",
+    "Fill-level Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Fluid-Sensors/Fill-level-Sensors/c/cxmCID200916",
+   "code": "cxmCID200916",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Fluid Sensors",
+    "Flow Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Fluid-Sensors/Flow-Sensors/c/cxmCID200606",
+   "code": "cxmCID200606",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Fluid Sensors",
+    "Pressure Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Fluid-Sensors/Pressure-Sensors/c/cxmCID200063",
+   "code": "cxmCID200063",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Fluid Sensors",
+    "Temperature Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Fluid-Sensors/Temperature-Sensors/c/cxmCID200801",
+   "code": "cxmCID200801",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive Sensors"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive Sensors",
+    "Inductive Ring Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Inductive-Sensors/Inductive-Ring-Sensors/c/cxmCID227110",
+   "code": "cxmCID227110",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive Sensors",
+    "Inductive Sensors for Extreme Temperature Ranges"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive Sensors",
+    "Inductive Sensors for Extreme Temperature Ranges",
+    "Analysis Modules"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Inductive-Sensors/Inductive-Sensors-for-Extreme-Temperature-Ranges/Analysis-Modules/c/cxmCID222505",
+   "code": "cxmCID222505",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive Sensors",
+    "Inductive Sensors for Extreme Temperature Ranges",
+    "Sensor Heads"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Inductive-Sensors/Inductive-Sensors-for-Extreme-Temperature-Ranges/Sensor-Heads/c/cxmCID222504",
+   "code": "cxmCID222504",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive Sensors",
+    "Inductive Sensors for Extreme Temperature Ranges",
+    "Sets"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Inductive-Sensors/Inductive-Sensors-for-Extreme-Temperature-Ranges/Sets/c/cxmCID222503",
+   "code": "cxmCID222503",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive Sensors",
+    "Inductive Sensors of the Basic series"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Inductive-Sensors/Inductive-Sensors-of-the-Basic-series/c/cxmCID240232",
+   "code": "cxmCID240232",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive Sensors",
+    "Inductive Sensors Welding Field Resistant with Correction Factor 1"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Inductive-Sensors/Inductive-Sensors-Welding-Field-Resistant-with-Correction-Factor-1/c/cxmCID202434",
+   "code": "cxmCID202434",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive Sensors",
+    "Inductive Sensors with Analog Output"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Inductive-Sensors/Inductive-Sensors-with-Analog-Output/c/cxmCID202429",
+   "code": "cxmCID202429",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive Sensors",
+    "Inductive Sensors with Full-Metal Housing"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Inductive-Sensors/Inductive-Sensors-with-Full-Metal-Housing/c/cxmCID202420",
+   "code": "cxmCID202420",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive Sensors",
+    "Inductive Sensors with Increased Switching Distances"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Inductive-Sensors/Inductive-Sensors-with-Increased-Switching-Distances/c/cxmCID202178",
+   "code": "cxmCID202178",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive Sensors",
+    "Inductive Sensors with IO-Link"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Inductive-Sensors/Inductive-Sensors-with-IO-Link/c/cxmCID202409",
+   "code": "cxmCID202409",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive Sensors",
+    "Inductive Sensors with selective response"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Inductive-Sensors/Inductive-Sensors-with-selective-response/c/cxmCID202443",
+   "code": "cxmCID202443",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive Sensors",
+    "Inductive Sensors with Standard Switching Distances"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Inductive-Sensors/Inductive-Sensors-with-Standard-Switching-Distances/c/cxmCID202140",
+   "code": "cxmCID202140",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Industrial RFID"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Industrial-RFID/c/cxmCID226891",
+   "code": "cxmCID226891",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Color Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Color-Sensors/c/cxmCID201211",
+   "code": "cxmCID201211",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Contrast Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Contrast-Sensors/c/cxmCID201214",
+   "code": "cxmCID201214",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Fiber-Optic Sensors"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Fiber-Optic Sensors",
+    "Fiber Optic Cables"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Fiber-Optic-Sensors/Fiber-Optic-Cables/c/cxmCID222527",
+   "code": "cxmCID222527",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Fiber-Optic Sensors",
+    "Fiber-Optic Cable Amplifiers"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Fiber-Optic-Sensors/Fiber-Optic-Cable-Amplifiers/c/cxmCID201066",
+   "code": "cxmCID201066",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Fiber-Optic Sensors",
+    "Glass Fiber-Optic Cables"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Fiber-Optic-Sensors/Glass-Fiber-Optic-Cables/c/cxmCID222525",
+   "code": "cxmCID222525",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Fiber-Optic Sensors",
+    "Plastic Fiber-Optic Cables"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Fiber-Optic-Sensors/Plastic-Fiber-Optic-Cables/c/cxmCID222526",
+   "code": "cxmCID222526",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Fork Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Fork-Sensors/c/cxmCID201049",
+   "code": "cxmCID201049",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Gloss Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Gloss-Sensors/c/cxmCID201209",
+   "code": "cxmCID201209",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Laser Sensors for distance measurement"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Laser Sensors for distance measurement",
+    "Laser Distance Sensors Time of Flight"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Laser-Sensors-for-distance-measurement/Laser-Distance-Sensors-Time-of-Flight/c/cxmCID197608",
+   "code": "cxmCID197608",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Laser Sensors for distance measurement",
+    "Laser Distance Sensors Triangulation"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Laser-Sensors-for-distance-measurement/Laser-Distance-Sensors-Triangulation/c/cxmCID197607",
+   "code": "cxmCID197607",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Light Curtains"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Light Curtains",
+    "Light Curtains for conveying technology"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Light-Curtains/Light-Curtains-for-conveying-technology/c/cxmCID241370",
+   "code": "cxmCID241370",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Light Curtains",
+    "Light Curtains for Measuring Tasks"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Light-Curtains/Light-Curtains-for-Measuring-Tasks/c/cxmCID201240",
+   "code": "cxmCID201240",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Light Curtains",
+    "Light Curtains Pick-to-Light"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Light-Curtains/Light-Curtains-Pick-to-Light/c/cxmCID201236",
+   "code": "cxmCID201236",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Luminescence Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Luminescence-Sensors/c/cxmCID201221",
+   "code": "cxmCID201221",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Reflex Light Barriers"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Reflex-Light-Barriers/c/cxmCID191983",
+   "code": "cxmCID191983",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Reflex Sensors"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Reflex Sensors",
+    "Reflex Sensors Energetic"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Reflex-Sensors/Reflex-Sensors-Energetic/c/cxmCID191967",
+   "code": "cxmCID191967",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Reflex Sensors",
+    "Reflex Sensors with background suppression electronic"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Reflex-Sensors/Reflex-Sensors-with-background-suppression-electronic/c/cxmCID244882",
+   "code": "cxmCID244882",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Reflex Sensors",
+    "Reflex Sensors with Background Suppression Mechanical"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Reflex-Sensors/Reflex-Sensors-with-Background-Suppression-Mechanical/c/cxmCID244881",
+   "code": "cxmCID244881",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Retro-Reflex Sensors"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Retro-Reflex Sensors",
+    "Retro-Reflex Sensors for transparent objects"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Retro-Reflex-Sensors/Retro-Reflex-Sensors-for-transparent-objects/c/cxmCID191986",
+   "code": "cxmCID191986",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Retro-Reflex Sensors",
+    "Retro-Reflex Sensors Universal"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Retro-Reflex-Sensors/Retro-Reflex-Sensors-Universal/c/cxmCID202015",
+   "code": "cxmCID202015",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Retro-Reflex Sensors with light band"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Retro-Reflex-Sensors-with-light-band/c/cxmCID197619",
+   "code": "cxmCID197619",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Sensors for Roller Conveyor Systems"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Sensors for Roller Conveyor Systems",
+    "Logic Units"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Sensors-for-Roller-Conveyor-Systems/Logic-Units/c/cxmCID198781",
+   "code": "cxmCID198781",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Sensors for Roller Conveyor Systems",
+    "Reflex Sensors with background suppression electronic"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Sensors-for-Roller-Conveyor-Systems/Reflex-Sensors-with-background-suppression-electronic/c/cxmCID198779",
+   "code": "cxmCID198779",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Sensors for Roller Conveyor Systems",
+    "Retro-Reflex Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Sensors-for-Roller-Conveyor-Systems/Retro-Reflex-Sensors/c/cxmCID198780",
+   "code": "cxmCID198780",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Temperature Sensors for Contactless Measurement"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Temperature-Sensors-for-Contactless-Measurement/c/cxmCID197623",
+   "code": "cxmCID197623",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Photoelectronic Sensors",
+    "Through-Beam Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Photoelectronic-Sensors/Through-Beam-Sensors/c/cxmCID200923",
+   "code": "cxmCID200923",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Command Devices"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Command Devices",
+    "Emergency Stop Switches"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Command-Devices/Emergency-Stop-Switches/c/cxmCID202664",
+   "code": "cxmCID202664",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Command Devices",
+    "Enabling Switches"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Command-Devices/Enabling-Switches/c/cxmCID202675",
+   "code": "cxmCID202675",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Arrays Body Protection"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Arrays Body Protection",
+    "Emitters"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Arrays-Body-Protection/Emitters/c/cxmCID222511",
+   "code": "cxmCID222511",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Arrays Body Protection",
+    "Receivers"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Arrays-Body-Protection/Receivers/c/cxmCID222514",
+   "code": "cxmCID222514",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Arrays Body Protection",
+    "Sets"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Arrays-Body-Protection/Sets/c/cxmCID222508",
+   "code": "cxmCID222508",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains",
+    "Emitters"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Curtains/Emitters/c/cxmCID243844",
+   "code": "cxmCID243844",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains",
+    "Receivers"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Curtains/Receivers/c/cxmCID243847",
+   "code": "cxmCID243847",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains",
+    "Sets"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Curtains/Sets/c/cxmCID243842",
+   "code": "cxmCID243842",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains Finger Protection"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains Finger Protection",
+    "Emitters"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Curtains-Finger-Protection/Emitters/c/cxmCID222509",
+   "code": "cxmCID222509",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains Finger Protection",
+    "Receivers"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Curtains-Finger-Protection/Receivers/c/cxmCID222512",
+   "code": "cxmCID222512",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains Finger Protection",
+    "Sets"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Curtains-Finger-Protection/Sets/c/cxmCID222506",
+   "code": "cxmCID222506",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains Hand Protection"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains Hand Protection",
+    "Emitters"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Curtains-Hand-Protection/Emitters/c/cxmCID222510",
+   "code": "cxmCID222510",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains Hand Protection",
+    "Receivers"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Curtains-Hand-Protection/Receivers/c/cxmCID222513",
+   "code": "cxmCID222513",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains Hand Protection",
+    "Sets"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Curtains-Hand-Protection/Sets/c/cxmCID222507",
+   "code": "cxmCID222507",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains of the Basic series"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains of the Basic series",
+    "Emitters"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Curtains-of-the-Basic-series/Emitters/c/cxmCID243843",
+   "code": "cxmCID243843",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains of the Basic series",
+    "Receivers"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Curtains-of-the-Basic-series/Receivers/c/cxmCID243845",
+   "code": "cxmCID243845",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Light Curtains of the Basic series",
+    "Sets"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Light-Curtains-of-the-Basic-series/Sets/c/cxmCID243841",
+   "code": "cxmCID243841",
+   "level": 5
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Electro-Sensitive Protective Equipment",
+    "Safety Through-Beam Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Electro-Sensitive-Protective-Equipment/Safety-Through-Beam-Sensors/c/cxmCID197666",
+   "code": "cxmCID197666",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Muting Sets"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Muting-Sets/c/cxmCID197676",
+   "code": "cxmCID197676",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Safety Guards"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Safety Guards",
+    "Guard Locking Devices"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Safety-Guards/Guard-Locking-Devices/c/cxmCID202698",
+   "code": "cxmCID202698",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Safety Guards",
+    "Guard Locking Devices Electromagnetic"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Safety-Guards/Guard-Locking-Devices-Electromagnetic/c/cxmCID243839",
+   "code": "cxmCID243839",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Safety Guards",
+    "Guard Locking Devices electromechanical"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Safety-Guards/Guard-Locking-Devices-electromechanical/c/cxmCID243840",
+   "code": "cxmCID243840",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Safety Guards",
+    "Safety Switches RFID"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Safety-Guards/Safety-Switches-RFID/c/cxmCID202680",
+   "code": "cxmCID202680",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Safety Guards",
+    "Safety Switches with Lock Function"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Safety-Guards/Safety-Switches-with-Lock-Function/c/cxmCID202689",
+   "code": "cxmCID202689",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensors",
+    "Safety Technology",
+    "Safety Relays and Analysis Modules"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Safety-Technology/Safety-Relays-and-Analysis-Modules/c/cxmCID202727",
+   "code": "cxmCID202727",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Software"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Software",
+    "Configuration Software"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Software/Configuration-Software/c/cxmCID197701",
+   "code": "cxmCID197701",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Software",
+    "Service Software"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Software/Service-Software/c/cxmCID197700",
+   "code": "cxmCID197700",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Ultrasonic Sensors"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Ultrasonic Sensors",
+    "Fork Sensors for Label Detection"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Ultrasonic-Sensors/Fork-Sensors-for-Label-Detection/c/cxmCID197633",
+   "code": "cxmCID197633",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Ultrasonic Sensors",
+    "Ultrasonic Distance Sensors"
+   ],
+   "type": "category",
+   "url": "https://www.wenglor.com/en/Sensors/Ultrasonic-Sensors/Ultrasonic-Distance-Sensors/c/cxmCID197629",
+   "code": "cxmCID197629",
+   "level": 3
+  }
+ ]
+}

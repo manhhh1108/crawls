@@ -1,0 +1,560 @@
+{
+ "brand": "14 Xingguang-Starshine",
+ "site": "https://www.xgcd.cn/",
+ "note": "Cay 2 cap tu trang /product/; cap 2 la dong SP ngay tren ma cu the.",
+ "nodes": [
+  {
+   "path": [
+    "B/JXJ系列摆线针轮减速机"
+   ],
+   "type": "category",
+   "url": "https://www.xgcd.cn/product/9/",
+   "code": "9",
+   "level": 1
+  },
+  {
+   "path": [
+    "B/JXJ系列摆线针轮减速机",
+    "<"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547279515648-0-9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "B/JXJ系列摆线针轮减速机",
+    ">"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547279515648-0-9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "B/JXJ系列摆线针轮减速机",
+    "B/JXJ系列摆线针轮减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "B/JXJ系列摆线针轮减速机",
+    "R/F/K/S系列斜齿轮减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547128520704.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "B/JXJ系列摆线针轮减速机",
+    "变频器"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/48.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "B/JXJ系列摆线针轮减速机",
+    "电机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/47.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "JWB-X系列无级变速器"
+   ],
+   "type": "category",
+   "url": "https://www.xgcd.cn/product/17/",
+   "code": "17",
+   "level": 1
+  },
+  {
+   "path": [
+    "JWB-X系列无级变速器",
+    "<"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547254349824-0-9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "JWB-X系列无级变速器",
+    ">"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547254349824-0-9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "JWB-X系列无级变速器",
+    "JWB-X系列无级变速器"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/8.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "JWB-X系列无级变速器",
+    "R/F/K/S系列斜齿轮减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547128520704.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "JWB-X系列无级变速器",
+    "变频器"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/48.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "JWB-X系列无级变速器",
+    "电机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/47.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "NCJ系列齿轮减速机"
+   ],
+   "type": "category",
+   "url": "https://www.xgcd.cn/product/7/",
+   "code": "7",
+   "level": 1
+  },
+  {
+   "path": [
+    "NCJ系列齿轮减速机",
+    "<"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547153686528-0-9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "NCJ系列齿轮减速机",
+    ">"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547153686528-0-9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "NCJ系列齿轮减速机",
+    "NCJ系列齿轮减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/2.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "NCJ系列齿轮减速机",
+    "R/F/K/S系列斜齿轮减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547128520704.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "NCJ系列齿轮减速机",
+    "SMQ340伺服驱控一体机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/76.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "NCJ系列齿轮减速机",
+    "SNKG系列齿轮减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/75.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "NCJ系列齿轮减速机",
+    "变频器"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/48.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "NCJ系列齿轮减速机",
+    "电机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/47.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "RV系列蜗轮蜗杆减速机"
+   ],
+   "type": "category",
+   "url": "https://www.xgcd.cn/product/16/",
+   "code": "16",
+   "level": 1
+  },
+  {
+   "path": [
+    "RV系列蜗轮蜗杆减速机",
+    "<"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547208212480-0-9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "RV系列蜗轮蜗杆减速机",
+    ">"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547208212480-0-9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "RV系列蜗轮蜗杆减速机",
+    "R/F/K/S系列斜齿轮减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547128520704.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "RV系列蜗轮蜗杆减速机",
+    "SVF系列蜗轮蜗杆减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/79.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "RV系列蜗轮蜗杆减速机",
+    "变频器"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/48.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "RV系列蜗轮蜗杆减速机",
+    "电机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/47.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "RV系列蜗轮蜗杆减速机",
+    "蜗轮蜗杆系列减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/7.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "SCK系列准双曲面减速机"
+   ],
+   "type": "category",
+   "url": "https://www.xgcd.cn/product/20/",
+   "code": "20",
+   "level": 1
+  },
+  {
+   "path": [
+    "SCK系列准双曲面减速机",
+    "<"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547329847296-0-9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "SCK系列准双曲面减速机",
+    ">"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547329847296-0-9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "SCK系列准双曲面减速机",
+    "R/F/K/S系列斜齿轮减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547128520704.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "SCK系列准双曲面减速机",
+    "SCK准双曲面减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/99.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "SCK系列准双曲面减速机",
+    "变频器"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/48.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "SCK系列准双曲面减速机",
+    "电机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/47.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "SNKG系列齿轮减速机"
+   ],
+   "type": "category",
+   "url": "https://www.xgcd.cn/product/8/",
+   "code": "8",
+   "level": 1
+  },
+  {
+   "path": [
+    "SNKG系列齿轮减速机",
+    "<"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547183046656-0-9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "SNKG系列齿轮减速机",
+    ">"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547183046656-0-9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "SNKG系列齿轮减速机",
+    "R/F/K/S系列斜齿轮减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547128520704.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "SNKG系列齿轮减速机",
+    "SMQ340伺服驱控一体机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/76.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "SNKG系列齿轮减速机",
+    "SNKG系列齿轮减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/75.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "SNKG系列齿轮减速机",
+    "变频器"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/48.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "SNKG系列齿轮减速机",
+    "电机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/47.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "行业专用减速机"
+   ],
+   "type": "category",
+   "url": "https://www.xgcd.cn/product/10/",
+   "code": "10",
+   "level": 1
+  },
+  {
+   "path": [
+    "行业专用减速机",
+    "<"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547304681472-0-9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "行业专用减速机",
+    ">"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547304681472-0-9.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "行业专用减速机",
+    "R/F/K/S系列斜齿轮减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/1354010547128520704.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "行业专用减速机",
+    "SCK系列准双曲面齿轮减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/78.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "行业专用减速机",
+    "SI系列工业齿轮箱"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/77.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "行业专用减速机",
+    "SP系列行星齿轮箱"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/10.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "行业专用减速机",
+    "原料搅拌专用减速机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/11.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "行业专用减速机",
+    "变频器"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/48.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "行业专用减速机",
+    "电机"
+   ],
+   "type": "range",
+   "url": "https://www.xgcd.cn/product/47.html",
+   "code": null,
+   "level": 2
+  }
+ ]
+}

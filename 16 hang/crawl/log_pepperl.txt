@@ -1,0 +1,17 @@
+divisions: 4 L2: 58
+level-2 queued: 58
+  rendered: 10 nodes: 96 queue: 77
+  rendered: 20 nodes: 142 queue: 90
+  rendered: 30 nodes: 161 queue: 86
+  rendered: 40 nodes: 172 queue: 81
+  rendered: 50 nodes: 186 queue: 76
+  rendered: 60 nodes: 195 queue: 66
+  rendered: 70 nodes: 197 queue: 58
+  rendered: 80 nodes: 197 queue: 48
+  rendered: 90 nodes: 216 queue: 47
+  rendered: 100 nodes: 216 queue: 37
+  rendered: 110 nodes: 216 queue: 27
+  rendered: 120 nodes: 218 queue: 17
+  rendered: 130 nodes: 219 queue: 7
+[02 Pepperl+Fuchs] saved 219 nodes -> D:\Crawl AUMI\16 hang\crawl\out\02 Pepperl+Fuchs.json
+        levels: {1: 4, 2: 58, 3: 133, 4: 24}

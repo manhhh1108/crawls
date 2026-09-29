@@ -1,0 +1,15 @@
+  categories: 25 queue 15
+  categories: 50 queue 18
+  categories: 75 queue 15
+  categories: 100 queue 16
+  categories: 125 queue 13
+  categories: 150 queue 7
+  categories: 175 queue 24
+  categories: 200 queue 14
+  categories: 225 queue 8
+  categories: 250 queue 8
+  categories: 275 queue 9
+  categories: 300 queue 11
+  categories: 325 queue 1
+[10 Festo] saved 1621 nodes -> D:\Crawl AUMI\16 hang\crawl\out\10 Festo.json
+        levels: {1: 16, 2: 91, 3: 485, 4: 570, 5: 436, 6: 23}

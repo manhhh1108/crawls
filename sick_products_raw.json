@@ -1,0 +1,4074 @@
+[
+  {
+    "name": "Safety",
+    "code": "g568264",
+    "subcategories": [
+      {
+        "name": "Safety distance sensors",
+        "code": "g575300",
+        "families": [
+          {
+            "name": "WTT12-S",
+            "code": "g577387",
+            "product_count": 2
+          },
+          {
+            "name": "DT35-S",
+            "code": "g575302",
+            "product_count": 2
+          }
+        ]
+      },
+      {
+        "name": "Safety controllers",
+        "code": "g575574",
+        "families": [
+          {
+            "name": "Flexi Net",
+            "code": "g625049",
+            "product_count": 9
+          },
+          {
+            "name": "Flexi Soft",
+            "code": "g186176",
+            "product_count": 40
+          },
+          {
+            "name": "Flexi Compact",
+            "code": "g547438",
+            "product_count": 7
+          },
+          {
+            "name": "Flexi Classic",
+            "code": "g186175",
+            "product_count": 32
+          },
+          {
+            "name": "Flexi IO",
+            "code": "g625027",
+            "product_count": 2
+          },
+          {
+            "name": "Flexi Mobile",
+            "code": "g568586",
+            "product_count": 6
+          },
+          {
+            "name": "Flexi Gateway",
+            "code": "g625028",
+            "product_count": 4
+          },
+          {
+            "name": "Safety Designer",
+            "code": "g575306",
+            "product_count": 13
+          },
+          {
+            "name": "Flexi Soft Designer",
+            "code": "g575305",
+            "product_count": 5
+          }
+        ]
+      },
+      {
+        "name": "Safety switches",
+        "code": "g191551",
+        "families": [
+          {
+            "name": "flexLock",
+            "code": "g547596",
+            "product_count": 11
+          },
+          {
+            "name": "safeIDS",
+            "code": "g568545",
+            "product_count": 2
+          },
+          {
+            "name": "i10 Lock",
+            "code": "g211151",
+            "product_count": 10
+          },
+          {
+            "name": "TR110 Lock",
+            "code": "g461653",
+            "product_count": 15
+          },
+          {
+            "name": "RE1",
+            "code": "g274652",
+            "product_count": 11
+          },
+          {
+            "name": "RE2",
+            "code": "g274654",
+            "product_count": 16
+          },
+          {
+            "name": "IME2S",
+            "code": "g478953",
+            "product_count": 14
+          },
+          {
+            "name": "TR10 Lock",
+            "code": "g381551",
+            "product_count": 12
+          },
+          {
+            "name": "i110R",
+            "code": "g195507",
+            "product_count": 3
+          },
+          {
+            "name": "i110 Lock",
+            "code": "g195501",
+            "product_count": 10
+          },
+          {
+            "name": "STR1",
+            "code": "g353451",
+            "product_count": 80
+          },
+          {
+            "name": "i110P",
+            "code": "g195506",
+            "product_count": 3
+          },
+          {
+            "name": "TR4 Direct",
+            "code": "g226865",
+            "product_count": 40
+          },
+          {
+            "name": "i150RP",
+            "code": "g195530",
+            "product_count": 3
+          },
+          {
+            "name": "i14 Lock",
+            "code": "g195499",
+            "product_count": 2
+          },
+          {
+            "name": "i17S",
+            "code": "g195493",
+            "product_count": 1
+          },
+          {
+            "name": "i10R",
+            "code": "g195505",
+            "product_count": 1
+          },
+          {
+            "name": "ES21",
+            "code": "g195527",
+            "product_count": 21
+          },
+          {
+            "name": "i15 Lock",
+            "code": "g195500",
+            "product_count": 8
+          },
+          {
+            "name": "i10P",
+            "code": "g195504",
+            "product_count": 1
+          },
+          {
+            "name": "i12S",
+            "code": "g195491",
+            "product_count": 5
+          },
+          {
+            "name": "IN4000 Standard",
+            "code": "g195523",
+            "product_count": 4
+          },
+          {
+            "name": "i200 Lock",
+            "code": "g195502",
+            "product_count": 3
+          },
+          {
+            "name": "i110RP",
+            "code": "g195529",
+            "product_count": 3
+          },
+          {
+            "name": "i10H",
+            "code": "g195509",
+            "product_count": 2
+          },
+          {
+            "name": "IQB2S",
+            "code": "g478954",
+            "product_count": 3
+          },
+          {
+            "name": "E100",
+            "code": "g195532",
+            "product_count": 7
+          },
+          {
+            "name": "IN4000 Direct",
+            "code": "g195524",
+            "product_count": 2
+          },
+          {
+            "name": "ER12",
+            "code": "g291253",
+            "product_count": 5
+          },
+          {
+            "name": "MLP1",
+            "code": "g419454",
+            "product_count": 6
+          },
+          {
+            "name": "i16S",
+            "code": "g195492",
+            "product_count": 3
+          },
+          {
+            "name": "ES11",
+            "code": "g289858",
+            "product_count": 3
+          },
+          {
+            "name": "i110S",
+            "code": "g195495",
+            "product_count": 3
+          }
+        ]
+      },
+      {
+        "name": "Safety laser scanners",
+        "code": "g569359",
+        "families": [
+          {
+            "name": "multiScan100-S",
+            "code": "g585228",
+            "product_count": 0
+          },
+          {
+            "name": "nanoScan3",
+            "code": "g507056",
+            "product_count": 5
+          },
+          {
+            "name": "microScan3",
+            "code": "g295657",
+            "product_count": 112
+          },
+          {
+            "name": "TiM-S",
+            "code": "g502253",
+            "product_count": 3
+          },
+          {
+            "name": "outdoorScan3",
+            "code": "g503552",
+            "product_count": 12
+          },
+          {
+            "name": "S300",
+            "code": "g187227",
+            "product_count": 8
+          },
+          {
+            "name": "S300 Mini",
+            "code": "g187243",
+            "product_count": 5
+          }
+        ]
+      },
+      {
+        "name": "Safety radar sensors",
+        "code": "g569360",
+        "families": [
+          {
+            "name": "safeRS3",
+            "code": "g546518",
+            "product_count": 7
+          }
+        ]
+      },
+      {
+        "name": "Safe series connection",
+        "code": "g574789",
+        "families": [
+          {
+            "name": "Flexi Loop",
+            "code": "g298952",
+            "product_count": 11
+          }
+        ]
+      },
+      {
+        "name": "Safety relays",
+        "code": "g575576",
+        "families": [
+          {
+            "name": "ReLy",
+            "code": "g441754",
+            "product_count": 10
+          }
+        ]
+      },
+      {
+        "name": "Safety multibeam scanners",
+        "code": "g569548",
+        "families": [
+          {
+            "name": "scanGrid2",
+            "code": "g555619",
+            "product_count": 2
+          }
+        ]
+      },
+      {
+        "name": "Safe motor feedback systems",
+        "code": "g605853",
+        "families": [
+          {
+            "name": "TTK70-S",
+            "code": "g605863",
+            "product_count": 2
+          },
+          {
+            "name": "STL70-S",
+            "code": "g605861",
+            "product_count": 1
+          },
+          {
+            "name": "TTK50-S",
+            "code": "g605862",
+            "product_count": 2
+          },
+          {
+            "name": "EKS/EKM36-S",
+            "code": "g605856",
+            "product_count": 14
+          },
+          {
+            "name": "EDS/EDM35-S",
+            "code": "g605854",
+            "product_count": 11
+          },
+          {
+            "name": "SFS/SFM60-S",
+            "code": "g605857",
+            "product_count": 28
+          },
+          {
+            "name": "EES/EEM37-S",
+            "code": "g605855",
+            "product_count": 8
+          },
+          {
+            "name": "SKS/SKM36-S",
+            "code": "g605858",
+            "product_count": 4
+          },
+          {
+            "name": "SRS/SRM50-S",
+            "code": "g605859",
+            "product_count": 13
+          }
+        ]
+      },
+      {
+        "name": "Safe motion monitoring and control",
+        "code": "g575575",
+        "families": [
+          {
+            "name": "Standstill Monitor",
+            "code": "g254556",
+            "product_count": 6
+          },
+          {
+            "name": "Speed Monitor",
+            "code": "g202352",
+            "product_count": 4
+          },
+          {
+            "name": "Flexi Soft Drive Monitor",
+            "code": "g555813",
+            "product_count": 3
+          }
+        ]
+      },
+      {
+        "name": "Safety encoders",
+        "code": "g605860",
+        "families": [
+          {
+            "name": "AFS/AFM60S Pro",
+            "code": "g430251",
+            "product_count": 944
+          },
+          {
+            "name": "DFS60S Pro",
+            "code": "g309664",
+            "product_count": 93
+          }
+        ]
+      },
+      {
+        "name": "Safety light-beam sensors",
+        "code": "g569551",
+        "families": [
+          {
+            "name": "deTem",
+            "code": "g422854",
+            "product_count": 152
+          },
+          {
+            "name": "L29",
+            "code": "g328456",
+            "product_count": 3
+          },
+          {
+            "name": "L41",
+            "code": "g192071",
+            "product_count": 21
+          },
+          {
+            "name": "L25",
+            "code": "g547447",
+            "product_count": 6
+          },
+          {
+            "name": "L4000 Systems",
+            "code": "g192070",
+            "product_count": 12
+          },
+          {
+            "name": "L21",
+            "code": "g192067",
+            "product_count": 18
+          },
+          {
+            "name": "L26",
+            "code": "g547448",
+            "product_count": 6
+          },
+          {
+            "name": "WSU/WEU26-3",
+            "code": "g192072",
+            "product_count": 8
+          },
+          {
+            "name": "M4000 Standard A/P",
+            "code": "g311876",
+            "product_count": 43
+          },
+          {
+            "name": "M4000 Advanced A/P",
+            "code": "g305783",
+            "product_count": 20
+          },
+          {
+            "name": "M4000 Standard",
+            "code": "g244218",
+            "product_count": 247
+          },
+          {
+            "name": "M4000 Advanced",
+            "code": "g244219",
+            "product_count": 88
+          },
+          {
+            "name": "Upgrade kit MSL to M4000",
+            "code": "g409651",
+            "product_count": 17
+          },
+          {
+            "name": "M2000 Standard A/P",
+            "code": "g187284",
+            "product_count": 3
+          },
+          {
+            "name": "M2000 Standard",
+            "code": "g187280",
+            "product_count": 22
+          },
+          {
+            "name": "M2000 RES/EDM A/P",
+            "code": "g187285",
+            "product_count": 3
+          },
+          {
+            "name": "M2000 RES/EDM",
+            "code": "g187282",
+            "product_count": 22
+          },
+          {
+            "name": "M2000 Cascadable",
+            "code": "g187283",
+            "product_count": 14
+          }
+        ]
+      },
+      {
+        "name": "Safety light curtains",
+        "code": "g184853",
+        "families": [
+          {
+            "name": "deTec",
+            "code": "g461751",
+            "product_count": 1367
+          },
+          {
+            "name": "C4-RD",
+            "code": "g555517",
+            "product_count": 58
+          },
+          {
+            "name": "C4000 Advanced",
+            "code": "g187251",
+            "product_count": 187
+          },
+          {
+            "name": "miniTwin",
+            "code": "g187244",
+            "product_count": 510
+          },
+          {
+            "name": "C4000 Palletizer",
+            "code": "g187263",
+            "product_count": 63
+          },
+          {
+            "name": "C4000 Fusion",
+            "code": "g187259",
+            "product_count": 55
+          },
+          {
+            "name": "C4000 Advanced Ex",
+            "code": "g304853",
+            "product_count": 12
+          },
+          {
+            "name": "TWINOX4",
+            "code": "g500951",
+            "product_count": 3
+          },
+          {
+            "name": "C4000 Entry/Exit",
+            "code": "g187260",
+            "product_count": 15
+          },
+          {
+            "name": "C4000 Fusion ATEX II 3G/3D",
+            "code": "g339952",
+            "product_count": 7
+          },
+          {
+            "name": "C4000 Entry/Exit ATEX II 3G/3D",
+            "code": "g339951",
+            "product_count": 1
+          },
+          {
+            "name": "C4000 Advanced ATEX II 3G/3D",
+            "code": "g304854",
+            "product_count": 6
+          },
+          {
+            "name": "C4000 Fusion Ex",
+            "code": "g543465",
+            "product_count": 12
+          },
+          {
+            "name": "C4000 Palletizer ATEX II 3G/3D",
+            "code": "g552041",
+            "product_count": 1
+          },
+          {
+            "name": "Upgrade kit FGS to deTec4 Core",
+            "code": "g355653",
+            "product_count": 22
+          },
+          {
+            "name": "M4000 Area",
+            "code": "g187279",
+            "product_count": 33
+          },
+          {
+            "name": "M4000 Advanced Curtain",
+            "code": "g187265",
+            "product_count": 134
+          }
+        ]
+      },
+      {
+        "name": "Safe 3D cameras",
+        "code": "g569549",
+        "families": [
+          {
+            "name": "safeVisionary2",
+            "code": "g568562",
+            "product_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Safety systems",
+        "code": "g449151",
+        "families": [
+          {
+            "name": "Safe Portal",
+            "code": "g555574",
+            "product_count": 4
+          },
+          {
+            "name": "Safe Entry Exit",
+            "code": "g430656",
+            "product_count": 1
+          },
+          {
+            "name": "End-of-Arm-Safeguard",
+            "code": "g585667",
+            "product_count": 2
+          },
+          {
+            "name": "Safe AGV Easy",
+            "code": "g412755",
+            "product_count": 6
+          },
+          {
+            "name": "Safeguard Detector",
+            "code": "g349152",
+            "product_count": 15
+          },
+          {
+            "name": "Safe Brake Assist",
+            "code": "g574946",
+            "product_count": 1
+          },
+          {
+            "name": "AGV Dynamic Weather Assist",
+            "code": "g551747",
+            "product_count": 2
+          },
+          {
+            "name": "Safe EFI-pro System",
+            "code": "g502860",
+            "product_count": 35
+          },
+          {
+            "name": "Safe Robotics Area Protection",
+            "code": "g463851",
+            "product_count": 23
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Process sensors",
+    "code": "g576774",
+    "subcategories": [
+      {
+        "name": "Pressure sensors",
+        "code": "g138251",
+        "families": [
+          {
+            "name": "PTA",
+            "code": "g584068",
+            "product_count": 45
+          },
+          {
+            "name": "PBST",
+            "code": "g584066",
+            "product_count": 90
+          },
+          {
+            "name": "PBT",
+            "code": "g143633",
+            "product_count": 1322
+          },
+          {
+            "name": "PBS Hygienic",
+            "code": "g289687",
+            "product_count": 151
+          },
+          {
+            "name": "PBS plus",
+            "code": "g507653",
+            "product_count": 412
+          },
+          {
+            "name": "PFT",
+            "code": "g143624",
+            "product_count": 701
+          },
+          {
+            "name": "PAC50",
+            "code": "g299863",
+            "product_count": 76
+          },
+          {
+            "name": "PET",
+            "code": "g262351",
+            "product_count": 79
+          },
+          {
+            "name": "PFT-2",
+            "code": "g574978",
+            "product_count": 48
+          },
+          {
+            "name": "PHT",
+            "code": "g145651",
+            "product_count": 272
+          }
+        ]
+      },
+      {
+        "name": "Temperature sensors",
+        "code": "g173252",
+        "families": [
+          {
+            "name": "TSP",
+            "code": "g180851",
+            "product_count": 38
+          },
+          {
+            "name": "TCT",
+            "code": "g180853",
+            "product_count": 58
+          },
+          {
+            "name": "TBS",
+            "code": "g259789",
+            "product_count": 107
+          },
+          {
+            "name": "THTS",
+            "code": "g217155",
+            "product_count": 110
+          },
+          {
+            "name": "THTE",
+            "code": "g218154",
+            "product_count": 20
+          },
+          {
+            "name": "THTL",
+            "code": "g218155",
+            "product_count": 12
+          }
+        ]
+      },
+      {
+        "name": "Level sensors",
+        "code": "g98155",
+        "families": [
+          {
+            "name": "LXRH",
+            "code": "g574981",
+            "product_count": 4
+          },
+          {
+            "name": "LBV3xx",
+            "code": "g150096",
+            "product_count": 41
+          },
+          {
+            "name": "UP56",
+            "code": "g152151",
+            "product_count": 37
+          },
+          {
+            "name": "LFC",
+            "code": "g413452",
+            "product_count": 6
+          },
+          {
+            "name": "LFV200",
+            "code": "g105174",
+            "product_count": 446
+          },
+          {
+            "name": "GRF18S",
+            "code": "g489251",
+            "product_count": 8
+          },
+          {
+            "name": "LFP Cubic",
+            "code": "g249766",
+            "product_count": 195
+          },
+          {
+            "name": "LXRC",
+            "code": "g574982",
+            "product_count": 16
+          },
+          {
+            "name": "LFP Inox",
+            "code": "g172951",
+            "product_count": 256
+          },
+          {
+            "name": "LFH",
+            "code": "g140059",
+            "product_count": 135
+          }
+        ]
+      },
+      {
+        "name": "Flow sensors",
+        "code": "g173251",
+        "families": [
+          {
+            "name": "FTMg",
+            "code": "g505155",
+            "product_count": 16
+          },
+          {
+            "name": "FFU",
+            "code": "g173253",
+            "product_count": 44
+          },
+          {
+            "name": "T-Easic FTS",
+            "code": "g478153",
+            "product_count": 20
+          },
+          {
+            "name": "Bulkscan",
+            "code": "g253553",
+            "product_count": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Detection sensors",
+    "code": "g568257",
+    "subcategories": [
+      {
+        "name": "Fiber-optic sensors",
+        "code": "g508551",
+        "families": [
+          {
+            "name": "GLL70",
+            "code": "g585331",
+            "product_count": 2
+          },
+          {
+            "name": "WLL80",
+            "code": "g555762",
+            "product_count": 25
+          },
+          {
+            "name": "Fiber-optic cables",
+            "code": "g606165",
+            "product_count": 322
+          },
+          {
+            "name": "WLL24",
+            "code": "g193873",
+            "product_count": 2
+          },
+          {
+            "name": "GLL170",
+            "code": "g412551",
+            "product_count": 18
+          }
+        ]
+      },
+      {
+        "name": "Photoelectric sensors",
+        "code": "g172752",
+        "families": [
+          {
+            "name": "W16",
+            "code": "g433452",
+            "product_count": 119
+          },
+          {
+            "name": "W12",
+            "code": "g555765",
+            "product_count": 266
+          },
+          {
+            "name": "W26",
+            "code": "g433551",
+            "product_count": 80
+          },
+          {
+            "name": "G6",
+            "code": "g175965",
+            "product_count": 507
+          },
+          {
+            "name": "G2",
+            "code": "g286313",
+            "product_count": 195
+          },
+          {
+            "name": "WTT12 PowerProx",
+            "code": "g602378",
+            "product_count": 99
+          },
+          {
+            "name": "W4",
+            "code": "g577401",
+            "product_count": 601
+          },
+          {
+            "name": "G10",
+            "code": "g285106",
+            "product_count": 162
+          },
+          {
+            "name": "GR18",
+            "code": "g264215",
+            "product_count": 372
+          },
+          {
+            "name": "WTT4 PowerProx",
+            "code": "g602379",
+            "product_count": 16
+          },
+          {
+            "name": "RAY26 Reflex Array",
+            "code": "g197634",
+            "product_count": 25
+          },
+          {
+            "name": "W9",
+            "code": "g186889",
+            "product_count": 221
+          },
+          {
+            "name": "G20",
+            "code": "g555767",
+            "product_count": 58
+          },
+          {
+            "name": "Z18 Simple Sense",
+            "code": "g443253",
+            "product_count": 269
+          },
+          {
+            "name": "W2",
+            "code": "g172802",
+            "product_count": 169
+          },
+          {
+            "name": "W280-2",
+            "code": "g211356",
+            "product_count": 31
+          },
+          {
+            "name": "W10",
+            "code": "g555761",
+            "product_count": 4
+          },
+          {
+            "name": "WTT190 PowerProx",
+            "code": "g602382",
+            "product_count": 19
+          },
+          {
+            "name": "W27",
+            "code": "g196809",
+            "product_count": 11
+          },
+          {
+            "name": "RAY10 Reflex Array",
+            "code": "g577388",
+            "product_count": 15
+          },
+          {
+            "name": "V180",
+            "code": "g189214",
+            "product_count": 119
+          },
+          {
+            "name": "V18",
+            "code": "g201871",
+            "product_count": 17
+          },
+          {
+            "name": "V12",
+            "code": "g184857",
+            "product_count": 17
+          },
+          {
+            "name": "W8",
+            "code": "g174954",
+            "product_count": 41
+          },
+          {
+            "name": "W250-2",
+            "code": "g211351",
+            "product_count": 33
+          },
+          {
+            "name": "WTT280 PowerProx",
+            "code": "g602381",
+            "product_count": 12
+          },
+          {
+            "name": "ZoneControl",
+            "code": "g292555",
+            "product_count": 143
+          },
+          {
+            "name": "WTT2 PowerProx",
+            "code": "g602380",
+            "product_count": 11
+          },
+          {
+            "name": "W100 Laser",
+            "code": "g184955",
+            "product_count": 24
+          },
+          {
+            "name": "H18 Sure Sense",
+            "code": "g317353",
+            "product_count": 615
+          },
+          {
+            "name": "Roller Sensor Bar",
+            "code": "g555768",
+            "product_count": 341
+          },
+          {
+            "name": "W100-2",
+            "code": "g293922",
+            "product_count": 53
+          },
+          {
+            "name": "W24",
+            "code": "g194274",
+            "product_count": 63
+          },
+          {
+            "name": "HISIC",
+            "code": "g616963",
+            "product_count": 3
+          },
+          {
+            "name": "W8G",
+            "code": "g174973",
+            "product_count": 10
+          },
+          {
+            "name": "W11-2",
+            "code": "g203203",
+            "product_count": 29
+          },
+          {
+            "name": "W34",
+            "code": "g197069",
+            "product_count": 37
+          },
+          {
+            "name": "W8 Laser",
+            "code": "g174979",
+            "product_count": 12
+          },
+          {
+            "name": "W45",
+            "code": "g200332",
+            "product_count": 19
+          },
+          {
+            "name": "W18-3 Ex",
+            "code": "g186812",
+            "product_count": 3
+          },
+          {
+            "name": "W11G-2",
+            "code": "g203229",
+            "product_count": 3
+          }
+        ]
+      },
+      {
+        "name": "Condition Monitoring sensors",
+        "code": "g569304",
+        "families": [
+          {
+            "name": "Multi Physics Box",
+            "code": "g569306",
+            "product_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Glare sensors",
+        "code": "g557368",
+        "families": [
+          {
+            "name": "Glare",
+            "code": "g323052",
+            "product_count": 5
+          }
+        ]
+      },
+      {
+        "name": "Magnetic sensors",
+        "code": "g576532",
+        "families": [
+          {
+            "name": "MLS",
+            "code": "g451251",
+            "product_count": 14
+          },
+          {
+            "name": "MME",
+            "code": "g208598",
+            "product_count": 30
+          },
+          {
+            "name": "MQB",
+            "code": "g208726",
+            "product_count": 7
+          },
+          {
+            "name": "MIS",
+            "code": "g549140",
+            "product_count": 1
+          },
+          {
+            "name": "MMN",
+            "code": "g208685",
+            "product_count": 6
+          }
+        ]
+      },
+      {
+        "name": "Capacitive proximity sensors",
+        "code": "g576531",
+        "families": [
+          {
+            "name": "CM",
+            "code": "g206089",
+            "product_count": 24
+          },
+          {
+            "name": "CMB",
+            "code": "g568401",
+            "product_count": 8
+          },
+          {
+            "name": "CQF",
+            "code": "g474753",
+            "product_count": 8
+          },
+          {
+            "name": "CQ",
+            "code": "g206111",
+            "product_count": 25
+          }
+        ]
+      },
+      {
+        "name": "Inductive proximity sensors",
+        "code": "g253054",
+        "families": [
+          {
+            "name": "IME",
+            "code": "g345451",
+            "product_count": 641
+          },
+          {
+            "name": "IMB",
+            "code": "g308651",
+            "product_count": 238
+          },
+          {
+            "name": "IMM",
+            "code": "g354351",
+            "product_count": 201
+          },
+          {
+            "name": "IQG",
+            "code": "g359351",
+            "product_count": 38
+          },
+          {
+            "name": "IMI",
+            "code": "g507554",
+            "product_count": 78
+          },
+          {
+            "name": "IQM",
+            "code": "g383266",
+            "product_count": 11
+          },
+          {
+            "name": "IMS",
+            "code": "g507555",
+            "product_count": 101
+          },
+          {
+            "name": "IQY",
+            "code": "g383268",
+            "product_count": 43
+          },
+          {
+            "name": "IME2S",
+            "code": "g478953",
+            "product_count": 14
+          },
+          {
+            "name": "IQV",
+            "code": "g383270",
+            "product_count": 6
+          },
+          {
+            "name": "IMF",
+            "code": "g364452",
+            "product_count": 47
+          },
+          {
+            "name": "IMW",
+            "code": "g383351",
+            "product_count": 12
+          },
+          {
+            "name": "IMA",
+            "code": "g195268",
+            "product_count": 21
+          },
+          {
+            "name": "IMR",
+            "code": "g504055",
+            "product_count": 14
+          },
+          {
+            "name": "IDF",
+            "code": "g441551",
+            "product_count": 2
+          },
+          {
+            "name": "IQE",
+            "code": "g351951",
+            "product_count": 7
+          },
+          {
+            "name": "IMP",
+            "code": "g383263",
+            "product_count": 31
+          },
+          {
+            "name": "IQB2S",
+            "code": "g478954",
+            "product_count": 3
+          },
+          {
+            "name": "IQB",
+            "code": "g383269",
+            "product_count": 84
+          },
+          {
+            "name": "SAM",
+            "code": "g271153",
+            "product_count": 2
+          },
+          {
+            "name": "IN4000 Direct",
+            "code": "g195524",
+            "product_count": 2
+          },
+          {
+            "name": "IMG",
+            "code": "g584033",
+            "product_count": 96
+          },
+          {
+            "name": "IMN",
+            "code": "g383261",
+            "product_count": 7
+          },
+          {
+            "name": "IQL",
+            "code": "g383273",
+            "product_count": 3
+          },
+          {
+            "name": "IMC",
+            "code": "g389851",
+            "product_count": 32
+          },
+          {
+            "name": "IMX",
+            "code": "g555781",
+            "product_count": 56
+          }
+        ]
+      },
+      {
+        "name": "Automation light grids",
+        "code": "g176262",
+        "families": [
+          {
+            "name": "MLG-2",
+            "code": "g543486",
+            "product_count": 1553
+          },
+          {
+            "name": "FlexChain",
+            "code": "g452671",
+            "product_count": 275
+          },
+          {
+            "name": "SLG",
+            "code": "g317451",
+            "product_count": 335
+          },
+          {
+            "name": "WLG",
+            "code": "g187987",
+            "product_count": 3
+          },
+          {
+            "name": "SLG-2",
+            "code": "g507855",
+            "product_count": 320
+          },
+          {
+            "name": "FLG",
+            "code": "g260755",
+            "product_count": 12
+          },
+          {
+            "name": "MLG-2 WebChecker",
+            "code": "g503452",
+            "product_count": 255
+          },
+          {
+            "name": "ELG",
+            "code": "g187988",
+            "product_count": 88
+          },
+          {
+            "name": "PLG",
+            "code": "g188013",
+            "product_count": 7
+          },
+          {
+            "name": "HLG",
+            "code": "g187986",
+            "product_count": 2
+          }
+        ]
+      },
+      {
+        "name": "Cylinder sensors",
+        "code": "g192663",
+        "families": [
+          {
+            "name": "MZCS",
+            "code": "g618303",
+            "product_count": 14
+          },
+          {
+            "name": "MPS-T",
+            "code": "g192971",
+            "product_count": 53
+          },
+          {
+            "name": "MZT7",
+            "code": "g346668",
+            "product_count": 36
+          },
+          {
+            "name": "MPS-M",
+            "code": "g507751",
+            "product_count": 4
+          },
+          {
+            "name": "MZT8 ATEX",
+            "code": "g318975",
+            "product_count": 13
+          },
+          {
+            "name": "MZ2Q-T",
+            "code": "g200476",
+            "product_count": 13
+          },
+          {
+            "name": "MZT8 Twin",
+            "code": "g507351",
+            "product_count": 9
+          },
+          {
+            "name": "RZN",
+            "code": "g560266",
+            "product_count": 5
+          },
+          {
+            "name": "MZC2",
+            "code": "g507559",
+            "product_count": 12
+          },
+          {
+            "name": "MPS-G",
+            "code": "g547614",
+            "product_count": 12
+          },
+          {
+            "name": "MZT8",
+            "code": "g204288",
+            "product_count": 62
+          },
+          {
+            "name": "MZN",
+            "code": "g560265",
+            "product_count": 6
+          },
+          {
+            "name": "MZCG",
+            "code": "g422454",
+            "product_count": 12
+          },
+          {
+            "name": "MZT8 VIA",
+            "code": "g332851",
+            "product_count": 11
+          },
+          {
+            "name": "RZC1",
+            "code": "g269368",
+            "product_count": 12
+          },
+          {
+            "name": "MZC1 VIA",
+            "code": "g385151",
+            "product_count": 7
+          },
+          {
+            "name": "MZ2Q-C",
+            "code": "g200468",
+            "product_count": 21
+          },
+          {
+            "name": "MPA",
+            "code": "g270351",
+            "product_count": 45
+          },
+          {
+            "name": "MZCG VIA",
+            "code": "g500557",
+            "product_count": 1
+          },
+          {
+            "name": "MZT7 Twin",
+            "code": "g624912",
+            "product_count": 1
+          },
+          {
+            "name": "MZC1 Twin",
+            "code": "g541243",
+            "product_count": 4
+          },
+          {
+            "name": "MPS-C",
+            "code": "g389251",
+            "product_count": 11
+          },
+          {
+            "name": "RZT7",
+            "code": "g346674",
+            "product_count": 28
+          },
+          {
+            "name": "MZC1",
+            "code": "g269363",
+            "product_count": 30
+          }
+        ]
+      },
+      {
+        "name": "Luminescence sensors",
+        "code": "g557367",
+        "families": [
+          {
+            "name": "LUTS/LUTX",
+            "code": "g624750",
+            "product_count": 27
+          },
+          {
+            "name": "LUTM",
+            "code": "g305963",
+            "product_count": 4
+          },
+          {
+            "name": "LUT3",
+            "code": "g115866",
+            "product_count": 3
+          },
+          {
+            "name": "LUT8",
+            "code": "g115870",
+            "product_count": 8
+          },
+          {
+            "name": "LUT1",
+            "code": "g115864",
+            "product_count": 7
+          },
+          {
+            "name": "LUT9",
+            "code": "g115871",
+            "product_count": 15
+          }
+        ]
+      },
+      {
+        "name": "Fork sensors",
+        "code": "g557371",
+        "families": [
+          {
+            "name": "MF",
+            "code": "g622570",
+            "product_count": 44
+          },
+          {
+            "name": "CFM/CFX",
+            "code": "g585644",
+            "product_count": 4
+          },
+          {
+            "name": "UD18",
+            "code": "g355551",
+            "product_count": 8
+          },
+          {
+            "name": "UF",
+            "code": "g127489",
+            "product_count": 7
+          },
+          {
+            "name": "WFS",
+            "code": "g195653",
+            "product_count": 10
+          },
+          {
+            "name": "UFW",
+            "code": "g584047",
+            "product_count": 4
+          },
+          {
+            "name": "UFS",
+            "code": "g551723",
+            "product_count": 18
+          },
+          {
+            "name": "WF",
+            "code": "g127491",
+            "product_count": 78
+          },
+          {
+            "name": "WFE",
+            "code": "g547615",
+            "product_count": 10
+          },
+          {
+            "name": "WFM",
+            "code": "g127519",
+            "product_count": 23
+          },
+          {
+            "name": "WFL",
+            "code": "g127511",
+            "product_count": 42
+          }
+        ]
+      },
+      {
+        "name": "Array sensors",
+        "code": "g557369",
+        "families": [
+          {
+            "name": "AS30",
+            "code": "g478552",
+            "product_count": 19
+          }
+        ]
+      },
+      {
+        "name": "Contrast sensors",
+        "code": "g557365",
+        "families": [
+          {
+            "name": "KTM",
+            "code": "g577202",
+            "product_count": 49
+          },
+          {
+            "name": "KTX",
+            "code": "g410153",
+            "product_count": 115
+          },
+          {
+            "name": "KTS",
+            "code": "g584469",
+            "product_count": 59
+          },
+          {
+            "name": "OLS",
+            "code": "g452951",
+            "product_count": 9
+          },
+          {
+            "name": "KTL180",
+            "code": "g474051",
+            "product_count": 10
+          },
+          {
+            "name": "KT8",
+            "code": "g141110",
+            "product_count": 4
+          },
+          {
+            "name": "RS10",
+            "code": "g262857",
+            "product_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Color sensors",
+        "code": "g557366",
+        "families": [
+          {
+            "name": "CSS High Resolution",
+            "code": "g549473",
+            "product_count": 6
+          },
+          {
+            "name": "CSM",
+            "code": "g305962",
+            "product_count": 12
+          },
+          {
+            "name": "CSS/CSX High Speed",
+            "code": "g549474",
+            "product_count": 25
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Network and connection technology",
+    "code": "g568265",
+    "subcategories": [
+      {
+        "name": "Displays",
+        "code": "g606122",
+        "families": [
+          {
+            "name": "SID",
+            "code": "g606124",
+            "product_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Network devices",
+        "code": "g606066",
+        "families": [
+          {
+            "name": "SIG300",
+            "code": "g606089",
+            "product_count": 4
+          },
+          {
+            "name": "CDF",
+            "code": "g606070",
+            "product_count": 5
+          },
+          {
+            "name": "SIG350",
+            "code": "g606090",
+            "product_count": 3
+          },
+          {
+            "name": "SIG200",
+            "code": "g606083",
+            "product_count": 4
+          },
+          {
+            "name": "SIG100",
+            "code": "g606082",
+            "product_count": 1
+          },
+          {
+            "name": "CDE100",
+            "code": "g606068",
+            "product_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Edge computing devices",
+        "code": "g606042",
+        "families": [
+          {
+            "name": "SIM1200",
+            "code": "g622725",
+            "product_count": 1
+          },
+          {
+            "name": "SM1000",
+            "code": "g622685",
+            "product_count": 2
+          },
+          {
+            "name": "SIM2x00",
+            "code": "g606050",
+            "product_count": 13
+          },
+          {
+            "name": "Telematic Data Collector",
+            "code": "g606062",
+            "product_count": 4
+          },
+          {
+            "name": "SIM800",
+            "code": "g606045",
+            "product_count": 1
+          },
+          {
+            "name": "SIM10xx",
+            "code": "g606046",
+            "product_count": 4
+          },
+          {
+            "name": "SIM200",
+            "code": "g606044",
+            "product_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Junction boxes",
+        "code": "g606111",
+        "families": [
+          {
+            "name": "CDB",
+            "code": "g606112",
+            "product_count": 7
+          },
+          {
+            "name": "CDE50",
+            "code": "g606069",
+            "product_count": 3
+          },
+          {
+            "name": "CDM",
+            "code": "g606117",
+            "product_count": 10
+          }
+        ]
+      },
+      {
+        "name": "Connectors and cables",
+        "code": "g575965",
+        "families": [
+          {
+            "name": "Sensor-actuator cables",
+            "code": "g575961",
+            "product_count": 1200
+          },
+          {
+            "name": "Field-wireable connectors",
+            "code": "g575962",
+            "product_count": 131
+          },
+          {
+            "name": "Other connectors and cables",
+            "code": "g575975",
+            "product_count": 624
+          },
+          {
+            "name": "Industrial Ethernet cables and fieldbus cables",
+            "code": "g575963",
+            "product_count": 211
+          },
+          {
+            "name": "Y- and T-splitters",
+            "code": "g584936",
+            "product_count": 51
+          },
+          {
+            "name": "Passive distribution boxes",
+            "code": "g575964",
+            "product_count": 20
+          }
+        ]
+      },
+      {
+        "name": "System plugs and extension modules",
+        "code": "g606094",
+        "families": [
+          {
+            "name": "DCM4",
+            "code": "g625151",
+            "product_count": 1
+          },
+          {
+            "name": "System plugs deTec and deTem",
+            "code": "g606096",
+            "product_count": 8
+          },
+          {
+            "name": "System plugs S3000",
+            "code": "g606107",
+            "product_count": 2
+          },
+          {
+            "name": "System plugs Flexi Soft",
+            "code": "g606098",
+            "product_count": 4
+          },
+          {
+            "name": "System plugs MultiScan and picoScan",
+            "code": "g606102",
+            "product_count": 3
+          },
+          {
+            "name": "System plugs S300",
+            "code": "g606106",
+            "product_count": 10
+          },
+          {
+            "name": "System plugs outdoorScan3",
+            "code": "g606104",
+            "product_count": 2
+          },
+          {
+            "name": "System plugs miniTwin",
+            "code": "g606101",
+            "product_count": 7
+          },
+          {
+            "name": "DMM4",
+            "code": "g606095",
+            "product_count": 1
+          },
+          {
+            "name": "System plugs Flexi Compact",
+            "code": "g606097",
+            "product_count": 3
+          },
+          {
+            "name": "System plugs LMS5xx",
+            "code": "g606099",
+            "product_count": 10
+          },
+          {
+            "name": "System plugs microScan3",
+            "code": "g606100",
+            "product_count": 9
+          },
+          {
+            "name": "UE401",
+            "code": "g606108",
+            "product_count": 1
+          },
+          {
+            "name": "System plugs nanoScan3",
+            "code": "g606103",
+            "product_count": 9
+          },
+          {
+            "name": "UE402",
+            "code": "g606109",
+            "product_count": 1
+          },
+          {
+            "name": "UE403",
+            "code": "g606110",
+            "product_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Power supply units and power supply cables",
+        "code": "g606063",
+        "families": [
+          {
+            "name": "Power supply units",
+            "code": "g606065",
+            "product_count": 35
+          },
+          {
+            "name": "Power supply cables",
+            "code": "g606064",
+            "product_count": 5
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Service",
+    "code": "g568261",
+    "subcategories": [
+      {
+        "name": "Engineering and integration",
+        "code": "g584238",
+        "families": [
+          {
+            "name": "Installation and commissioning",
+            "code": "g584248",
+            "product_count": 8
+          },
+          {
+            "name": "Solution Engineering",
+            "code": "g584240",
+            "product_count": 2
+          },
+          {
+            "name": "Extended warranty",
+            "code": "g584261",
+            "product_count": 1
+          },
+          {
+            "name": "Acceptance services",
+            "code": "g584243",
+            "product_count": 3
+          },
+          {
+            "name": "Initial verification",
+            "code": "g584260",
+            "product_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Modernization",
+        "code": "g584217",
+        "families": [
+          {
+            "name": "Upgrade and retrofit",
+            "code": "g584223",
+            "product_count": 4
+          }
+        ]
+      },
+      {
+        "name": "Maintenance and inspection",
+        "code": "g584323",
+        "families": [
+          {
+            "name": "Software and firmware maintenance",
+            "code": "g584334",
+            "product_count": 1
+          },
+          {
+            "name": "Service agreements",
+            "code": "g584344",
+            "product_count": 4
+          },
+          {
+            "name": "Maintenance",
+            "code": "g584340",
+            "product_count": 5
+          },
+          {
+            "name": "Monitoring Services",
+            "code": "g584346",
+            "product_count": 0
+          },
+          {
+            "name": "Smart Parts",
+            "code": "g584327",
+            "product_count": 0
+          },
+          {
+            "name": "Inspection of protective devices",
+            "code": "g584328",
+            "product_count": 2
+          },
+          {
+            "name": "Machine safety inspection",
+            "code": "g584332",
+            "product_count": 1
+          },
+          {
+            "name": "Stop time measurement",
+            "code": "g584331",
+            "product_count": 1
+          },
+          {
+            "name": "Performance check",
+            "code": "g584335",
+            "product_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Technical support",
+        "code": "g584269",
+        "families": [
+          {
+            "name": "Troubleshooting",
+            "code": "g584271",
+            "product_count": 3
+          },
+          {
+            "name": "Repairs",
+            "code": "g584272",
+            "product_count": 29
+          },
+          {
+            "name": "Preparation for reverification",
+            "code": "g584321",
+            "product_count": 0
+          }
+        ]
+      },
+      {
+        "name": "Consulting",
+        "code": "g584229",
+        "families": [
+          {
+            "name": "Safety and risk assessment",
+            "code": "g584232",
+            "product_count": 5
+          },
+          {
+            "name": "Accident investigation",
+            "code": "g584237",
+            "product_count": 1
+          },
+          {
+            "name": "Concept and feasibility",
+            "code": "g584233",
+            "product_count": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Machine vision and identification",
+    "code": "g569794",
+    "subcategories": [
+      {
+        "name": "Machine vision",
+        "code": "g114858",
+        "families": [
+          {
+            "name": "InspectorP61x",
+            "code": "g555810",
+            "product_count": 12
+          },
+          {
+            "name": "InspectorP62x",
+            "code": "g507066",
+            "product_count": 8
+          },
+          {
+            "name": "Visionary AI-Assist",
+            "code": "g616809",
+            "product_count": 1
+          },
+          {
+            "name": "sensingCam SEC310",
+            "code": "g605181",
+            "product_count": 1
+          },
+          {
+            "name": "sensingCam SEC100",
+            "code": "g601993",
+            "product_count": 2
+          },
+          {
+            "name": "Inspector83x",
+            "code": "g584000",
+            "product_count": 41
+          },
+          {
+            "name": "Visionary-B Two",
+            "code": "g575551",
+            "product_count": 2
+          },
+          {
+            "name": "Ranger3",
+            "code": "g448354",
+            "product_count": 4
+          },
+          {
+            "name": "midiCam2",
+            "code": "g541250",
+            "product_count": 8
+          },
+          {
+            "name": "Inspector85x",
+            "code": "g574983",
+            "product_count": 4
+          },
+          {
+            "name": "picoCam2",
+            "code": "g541249",
+            "product_count": 6
+          },
+          {
+            "name": "Ruler3000",
+            "code": "g547572",
+            "product_count": 13
+          },
+          {
+            "name": "Visionary-T Mini",
+            "code": "g555625",
+            "product_count": 7
+          },
+          {
+            "name": "Visionary-S",
+            "code": "g507251",
+            "product_count": 9
+          },
+          {
+            "name": "PLOC2D",
+            "code": "g456151",
+            "product_count": 23
+          },
+          {
+            "name": "SICK Nova",
+            "code": "g576400",
+            "product_count": 13
+          },
+          {
+            "name": "InspectorP63x",
+            "code": "g401751",
+            "product_count": 4
+          },
+          {
+            "name": "PLB",
+            "code": "g259663",
+            "product_count": 66
+          },
+          {
+            "name": "InspectorP64x/InspectorP65x",
+            "code": "g401753",
+            "product_count": 5
+          },
+          {
+            "name": "Color Inspection and Sorting",
+            "code": "g547652",
+            "product_count": 1
+          },
+          {
+            "name": "Static Package Dimensioning",
+            "code": "g569573",
+            "product_count": 1
+          },
+          {
+            "name": "3D Object Detection",
+            "code": "g577657",
+            "product_count": 2
+          },
+          {
+            "name": "PLR",
+            "code": "g265752",
+            "product_count": 4
+          },
+          {
+            "name": "Inspector",
+            "code": "g114860",
+            "product_count": 0
+          },
+          {
+            "name": "3D Belt Pick",
+            "code": "g546056",
+            "product_count": 7
+          },
+          {
+            "name": "InspectorP Rack Fine Positioning",
+            "code": "g543982",
+            "product_count": 8
+          },
+          {
+            "name": "TriSpector1000",
+            "code": "g389052",
+            "product_count": 16
+          },
+          {
+            "name": "Label Checker",
+            "code": "g499551",
+            "product_count": 10
+          }
+        ]
+      },
+      {
+        "name": "Mobile handheld scanners",
+        "code": "g576159",
+        "families": [
+          {
+            "name": "Zx36",
+            "code": "g569849",
+            "product_count": 22
+          },
+          {
+            "name": "IDM",
+            "code": "g574775",
+            "product_count": 41
+          },
+          {
+            "name": "HW19",
+            "code": "g574781",
+            "product_count": 4
+          }
+        ]
+      },
+      {
+        "name": "Fixed mount barcode scanners",
+        "code": "g576158",
+        "families": [
+          {
+            "name": "CLV62x",
+            "code": "g79824",
+            "product_count": 37
+          },
+          {
+            "name": "CLV Identification System",
+            "code": "g91876",
+            "product_count": 10
+          },
+          {
+            "name": "CLV64x",
+            "code": "g79874",
+            "product_count": 18
+          },
+          {
+            "name": "CLV63x",
+            "code": "g79846",
+            "product_count": 62
+          },
+          {
+            "name": "CLV61x",
+            "code": "g271962",
+            "product_count": 25
+          },
+          {
+            "name": "CLV50x",
+            "code": "g104152",
+            "product_count": 6
+          },
+          {
+            "name": "CLV60x",
+            "code": "g446351",
+            "product_count": 14
+          },
+          {
+            "name": "CLV65x",
+            "code": "g79879",
+            "product_count": 19
+          },
+          {
+            "name": "CLV69x",
+            "code": "g229472",
+            "product_count": 13
+          }
+        ]
+      },
+      {
+        "name": "RFID",
+        "code": "g576161",
+        "families": [
+          {
+            "name": "RFU63x",
+            "code": "g218148",
+            "product_count": 24
+          },
+          {
+            "name": "RFH5xx",
+            "code": "g547578",
+            "product_count": 3
+          },
+          {
+            "name": "RFU62x",
+            "code": "g285253",
+            "product_count": 18
+          },
+          {
+            "name": "RFH6xx",
+            "code": "g263558",
+            "product_count": 3
+          },
+          {
+            "name": "RFU61x",
+            "code": "g505651",
+            "product_count": 14
+          },
+          {
+            "name": "RFU65x",
+            "code": "g363751",
+            "product_count": 6
+          },
+          {
+            "name": "RFID antennas",
+            "code": "g602112",
+            "product_count": 7
+          },
+          {
+            "name": "HF transponders",
+            "code": "g602199",
+            "product_count": 16
+          },
+          {
+            "name": "UHF transponders",
+            "code": "g602200",
+            "product_count": 17
+          },
+          {
+            "name": "Ident Gate System",
+            "code": "g585325",
+            "product_count": 1
+          },
+          {
+            "name": "RF Identification System",
+            "code": "g570102",
+            "product_count": 5
+          }
+        ]
+      },
+      {
+        "name": "Image-based code readers",
+        "code": "g576160",
+        "families": [
+          {
+            "name": "Lector83x",
+            "code": "g584457",
+            "product_count": 12
+          },
+          {
+            "name": "Lector61x",
+            "code": "g507061",
+            "product_count": 14
+          },
+          {
+            "name": "Lector85x",
+            "code": "g568570",
+            "product_count": 58
+          },
+          {
+            "name": "ICR Identification System",
+            "code": "g555825",
+            "product_count": 11
+          },
+          {
+            "name": "Lector Identification System",
+            "code": "g575972",
+            "product_count": 42
+          },
+          {
+            "name": "Lector62x",
+            "code": "g158951",
+            "product_count": 8
+          },
+          {
+            "name": "GLS6",
+            "code": "g507063",
+            "product_count": 2
+          },
+          {
+            "name": "GLS100",
+            "code": "g558796",
+            "product_count": 2
+          },
+          {
+            "name": "Lector63x",
+            "code": "g326251",
+            "product_count": 26
+          },
+          {
+            "name": "ICD8xx",
+            "code": "g576408",
+            "product_count": 8
+          },
+          {
+            "name": "Lector64x/Lector65x",
+            "code": "g275359",
+            "product_count": 21
+          },
+          {
+            "name": "Lector65x System",
+            "code": "g326951",
+            "product_count": 3
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Distance sensors",
+    "code": "g576773",
+    "subcategories": [
+      {
+        "name": "Ultrasonic distance sensors",
+        "code": "g584816",
+        "families": [
+          {
+            "name": "UM30",
+            "code": "g185672",
+            "product_count": 37
+          },
+          {
+            "name": "UM18",
+            "code": "g185679",
+            "product_count": 82
+          },
+          {
+            "name": "UC30",
+            "code": "g323151",
+            "product_count": 8
+          },
+          {
+            "name": "UC4",
+            "code": "g185686",
+            "product_count": 11
+          },
+          {
+            "name": "UM12",
+            "code": "g305961",
+            "product_count": 10
+          },
+          {
+            "name": "UC40",
+            "code": "g570118",
+            "product_count": 6
+          },
+          {
+            "name": "UC12",
+            "code": "g185683",
+            "product_count": 2
+          }
+        ]
+      },
+      {
+        "name": "Laser distance sensors",
+        "code": "g132151",
+        "families": [
+          {
+            "name": "OD200",
+            "code": "g605737",
+            "product_count": 3
+          },
+          {
+            "name": "Dx80",
+            "code": "g568557",
+            "product_count": 2
+          },
+          {
+            "name": "OD2000",
+            "code": "g547590",
+            "product_count": 6
+          },
+          {
+            "name": "WTT12 PowerProx",
+            "code": "g602378",
+            "product_count": 99
+          },
+          {
+            "name": "OD Mini",
+            "code": "g276251",
+            "product_count": 35
+          },
+          {
+            "name": "Dx35",
+            "code": "g261053",
+            "product_count": 10
+          },
+          {
+            "name": "Dx50",
+            "code": "g176381",
+            "product_count": 22
+          },
+          {
+            "name": "WTT4 PowerProx",
+            "code": "g602379",
+            "product_count": 16
+          },
+          {
+            "name": "OD Value",
+            "code": "g150252",
+            "product_count": 60
+          },
+          {
+            "name": "Dx1000",
+            "code": "g388051",
+            "product_count": 8
+          },
+          {
+            "name": "OD5000",
+            "code": "g413151",
+            "product_count": 8
+          },
+          {
+            "name": "OL1",
+            "code": "g475552",
+            "product_count": 1
+          },
+          {
+            "name": "Profiler",
+            "code": "g307051",
+            "product_count": 2
+          },
+          {
+            "name": "WTT190 PowerProx",
+            "code": "g602382",
+            "product_count": 19
+          },
+          {
+            "name": "Dx100",
+            "code": "g222753",
+            "product_count": 62
+          },
+          {
+            "name": "Dx50-2",
+            "code": "g306751",
+            "product_count": 2
+          },
+          {
+            "name": "OD1000",
+            "code": "g410651",
+            "product_count": 1
+          },
+          {
+            "name": "OD Precision",
+            "code": "g150255",
+            "product_count": 10
+          },
+          {
+            "name": "WTT280 PowerProx",
+            "code": "g602381",
+            "product_count": 12
+          },
+          {
+            "name": "DT20 Hi",
+            "code": "g176377",
+            "product_count": 10
+          },
+          {
+            "name": "OD7000",
+            "code": "g569987",
+            "product_count": 8
+          },
+          {
+            "name": "WTT2 PowerProx",
+            "code": "g602380",
+            "product_count": 11
+          },
+          {
+            "name": "Dx500",
+            "code": "g168317",
+            "product_count": 21
+          },
+          {
+            "name": "DME4000",
+            "code": "g168298",
+            "product_count": 0
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Systems",
+    "code": "g568259",
+    "subcategories": [
+      {
+        "name": "Localization systems",
+        "code": "g546062",
+        "families": [
+          {
+            "name": "Triton Floor-LOC",
+            "code": "g616802",
+            "product_count": 1
+          },
+          {
+            "name": "OccupID System",
+            "code": "g624859",
+            "product_count": 1
+          },
+          {
+            "name": "Coriva System",
+            "code": "g624834",
+            "product_count": 4
+          },
+          {
+            "name": "Tag-LOC System",
+            "code": "g560275",
+            "product_count": 5
+          },
+          {
+            "name": "Automated Load Detect Ident System",
+            "code": "g584025",
+            "product_count": 0
+          }
+        ]
+      },
+      {
+        "name": "Robot guidance systems",
+        "code": "g316751",
+        "families": [
+          {
+            "name": "PLOC2D",
+            "code": "g456151",
+            "product_count": 23
+          },
+          {
+            "name": "PLB",
+            "code": "g259663",
+            "product_count": 66
+          },
+          {
+            "name": "PALLOC",
+            "code": "g584735",
+            "product_count": 1
+          },
+          {
+            "name": "Body Position System",
+            "code": "g575880",
+            "product_count": 6
+          },
+          {
+            "name": "PLR",
+            "code": "g265752",
+            "product_count": 4
+          }
+        ]
+      },
+      {
+        "name": "Profiling systems",
+        "code": "g288254",
+        "families": [
+          {
+            "name": "Multi-Lane Profiling System",
+            "code": "g625046",
+            "product_count": 2
+          },
+          {
+            "name": "Axle Classification System",
+            "code": "g624916",
+            "product_count": 1
+          },
+          {
+            "name": "TICx02",
+            "code": "g551741",
+            "product_count": 4
+          },
+          {
+            "name": "Load Volume Measurement System",
+            "code": "g551889",
+            "product_count": 3
+          },
+          {
+            "name": "Free Flow Profiler",
+            "code": "g442952",
+            "product_count": 2
+          },
+          {
+            "name": "VPS Pro",
+            "code": "g302651",
+            "product_count": 2
+          },
+          {
+            "name": "TIC501",
+            "code": "g323153",
+            "product_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Object detection systems",
+        "code": "g288253",
+        "families": [
+          {
+            "name": "AOS LiDAR",
+            "code": "g288260",
+            "product_count": 12
+          },
+          {
+            "name": "Area Hotspot Detection System",
+            "code": "g576716",
+            "product_count": 3
+          },
+          {
+            "name": "AOS Radar",
+            "code": "g511551",
+            "product_count": 2
+          },
+          {
+            "name": "Overheight Detection System",
+            "code": "g585291",
+            "product_count": 1
+          },
+          {
+            "name": "Backup Assistance System",
+            "code": "g561085",
+            "product_count": 4
+          },
+          {
+            "name": "Vehicle Hotspot Detection System",
+            "code": "g322552",
+            "product_count": 1
+          },
+          {
+            "name": "Drive Assist System",
+            "code": "g574764",
+            "product_count": 2
+          },
+          {
+            "name": "APS",
+            "code": "g385751",
+            "product_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Quality control systems",
+        "code": "g288255",
+        "families": [
+          {
+            "name": "Pallet Serialization System",
+            "code": "g624914",
+            "product_count": 1
+          },
+          {
+            "name": "Pallet Integrity Inspection System",
+            "code": "g585606",
+            "product_count": 3
+          },
+          {
+            "name": "Pallet Classification System",
+            "code": "g576458",
+            "product_count": 2
+          },
+          {
+            "name": "Foreign Object Detection System",
+            "code": "g566489",
+            "product_count": 3
+          },
+          {
+            "name": "Label Checker",
+            "code": "g499551",
+            "product_count": 10
+          }
+        ]
+      },
+      {
+        "name": "Track and trace systems",
+        "code": "g91874",
+        "families": [
+          {
+            "name": "Inspector Logistics System",
+            "code": "g625099",
+            "product_count": 1
+          },
+          {
+            "name": "DWS Dynamic",
+            "code": "g107251",
+            "product_count": 4
+          },
+          {
+            "name": "CLV Identification System",
+            "code": "g91876",
+            "product_count": 10
+          },
+          {
+            "name": "Ident Gate System",
+            "code": "g585325",
+            "product_count": 1
+          },
+          {
+            "name": "ICR Identification System",
+            "code": "g555825",
+            "product_count": 11
+          },
+          {
+            "name": "RF Identification System",
+            "code": "g570102",
+            "product_count": 5
+          },
+          {
+            "name": "Lector Identification System",
+            "code": "g575972",
+            "product_count": 42
+          },
+          {
+            "name": "VMS4x00/5x00",
+            "code": "g543405",
+            "product_count": 11
+          },
+          {
+            "name": "Master Data Analyzer Vision",
+            "code": "g569618",
+            "product_count": 4
+          },
+          {
+            "name": "VMV Dimensioning System",
+            "code": "g585735",
+            "product_count": 2
+          },
+          {
+            "name": "VMS6x00/7x00",
+            "code": "g549144",
+            "product_count": 1
+          },
+          {
+            "name": "Master Data Analyzer",
+            "code": "g401152",
+            "product_count": 4
+          },
+          {
+            "name": "VML",
+            "code": "g310052",
+            "product_count": 1
+          },
+          {
+            "name": "Lector65x System",
+            "code": "g326951",
+            "product_count": 3
+          },
+          {
+            "name": "DWS Pallet",
+            "code": "g293455",
+            "product_count": 1
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Digital services and software",
+    "code": "g568260",
+    "subcategories": [
+      {
+        "name": "Engineering Tools",
+        "code": "g584669",
+        "families": [
+          {
+            "name": "Sentio Creator",
+            "code": "g622676",
+            "product_count": 4
+          },
+          {
+            "name": "SICK Stream Software",
+            "code": "g609542",
+            "product_count": 5
+          },
+          {
+            "name": "SOPAS ET",
+            "code": "g584721",
+            "product_count": 4
+          },
+          {
+            "name": "SICK dStudio",
+            "code": "g547657",
+            "product_count": 4
+          },
+          {
+            "name": "SICK AppStudio",
+            "code": "g387652",
+            "product_count": 1
+          },
+          {
+            "name": "SICK AppManager",
+            "code": "g446551",
+            "product_count": 1
+          },
+          {
+            "name": "SICK AppEngine",
+            "code": "g547567",
+            "product_count": 4
+          },
+          {
+            "name": "Function Block Factory",
+            "code": "g546067",
+            "product_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Integration software",
+        "code": "g624667",
+        "families": [
+          {
+            "name": "SICK ConnectX",
+            "code": "g584460",
+            "product_count": 9
+          },
+          {
+            "name": "Hermes Standard Solution",
+            "code": "g555711",
+            "product_count": 3
+          }
+        ]
+      },
+      {
+        "name": "Insight Tools",
+        "code": "g584671",
+        "families": [
+          {
+            "name": "Energy Monitoring",
+            "code": "g623071",
+            "product_count": 2
+          },
+          {
+            "name": "Condition Monitoring",
+            "code": "g626751",
+            "product_count": 2
+          },
+          {
+            "name": "Location Management",
+            "code": "g624833",
+            "product_count": 3
+          },
+          {
+            "name": "Track and Trace Analytics Lite",
+            "code": "g576768",
+            "product_count": 9
+          },
+          {
+            "name": "Tire Analytics",
+            "code": "g448351",
+            "product_count": 1
+          },
+          {
+            "name": "Logistics Diagnostic Analytics",
+            "code": "g448352",
+            "product_count": 1
+          },
+          {
+            "name": "Safety Machine Analytics",
+            "code": "g547623",
+            "product_count": 1
+          },
+          {
+            "name": "Baggage Analytics",
+            "code": "g363451",
+            "product_count": 1
+          },
+          {
+            "name": "Safety Laser Scanner Visualization",
+            "code": "g559811",
+            "product_count": 12
+          },
+          {
+            "name": "SICK Safety Assistant App",
+            "code": "g574738",
+            "product_count": 1
+          },
+          {
+            "name": "SICK Augmented Reality Assistant",
+            "code": "g555639",
+            "product_count": 5
+          },
+          {
+            "name": "Package Analytics",
+            "code": "g309559",
+            "product_count": 1
+          },
+          {
+            "name": "Incoming Goods Suite",
+            "code": "g584843",
+            "product_count": 0
+          },
+          {
+            "name": "Asset Analytics",
+            "code": "g546065",
+            "product_count": 1
+          },
+          {
+            "name": "FieldAnalytics",
+            "code": "g555630",
+            "product_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Application software",
+        "code": "g584670",
+        "families": [
+          {
+            "name": "AI-Assist",
+            "code": "g616808",
+            "product_count": 1
+          },
+          {
+            "name": "Track and Trace Vision Software",
+            "code": "g609717",
+            "product_count": 6
+          },
+          {
+            "name": "SICK Nova",
+            "code": "g576400",
+            "product_count": 13
+          },
+          {
+            "name": "LiDAR-LOC",
+            "code": "g541272",
+            "product_count": 8
+          },
+          {
+            "name": "Color Inspection and Sorting",
+            "code": "g547652",
+            "product_count": 1
+          },
+          {
+            "name": "Static Package Dimensioning",
+            "code": "g569573",
+            "product_count": 1
+          },
+          {
+            "name": "3D Object Detection",
+            "code": "g577657",
+            "product_count": 2
+          },
+          {
+            "name": "CODE-LOC",
+            "code": "g576968",
+            "product_count": 2
+          },
+          {
+            "name": "Smart Motor Sensors Software",
+            "code": "g550781",
+            "product_count": 2
+          },
+          {
+            "name": "3D Belt Pick",
+            "code": "g546056",
+            "product_count": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "LiDAR and radar sensors",
+    "code": "g576776",
+    "subcategories": [
+      {
+        "name": "Radar sensors",
+        "code": "g575803",
+        "families": [
+          {
+            "name": "RMS2000",
+            "code": "g577390",
+            "product_count": 5
+          },
+          {
+            "name": "RMS1000",
+            "code": "g555591",
+            "product_count": 3
+          }
+        ]
+      },
+      {
+        "name": "LiDAR sensors",
+        "code": "g575802",
+        "families": [
+          {
+            "name": "TiM",
+            "code": "g570093",
+            "product_count": 27
+          },
+          {
+            "name": "picoScan100",
+            "code": "g574970",
+            "product_count": 12
+          },
+          {
+            "name": "LMS1xx",
+            "code": "g91901",
+            "product_count": 19
+          },
+          {
+            "name": "MRS1000",
+            "code": "g387152",
+            "product_count": 6
+          },
+          {
+            "name": "LMS5xx",
+            "code": "g179651",
+            "product_count": 18
+          },
+          {
+            "name": "LD-MRS",
+            "code": "g91913",
+            "product_count": 7
+          },
+          {
+            "name": "MRS6000",
+            "code": "g448151",
+            "product_count": 1
+          },
+          {
+            "name": "LMC1xx",
+            "code": "g180553",
+            "product_count": 7
+          },
+          {
+            "name": "NAV2xx",
+            "code": "g356151",
+            "product_count": 3
+          },
+          {
+            "name": "LMS1000",
+            "code": "g387151",
+            "product_count": 1
+          },
+          {
+            "name": "NAV3xx",
+            "code": "g91916",
+            "product_count": 3
+          },
+          {
+            "name": "LRS4000",
+            "code": "g555594",
+            "product_count": 1
+          },
+          {
+            "name": "LMS4000",
+            "code": "g474751",
+            "product_count": 3
+          },
+          {
+            "name": "multiScan100",
+            "code": "g574914",
+            "product_count": 14
+          },
+          {
+            "name": "S100",
+            "code": "g173851",
+            "product_count": 2
+          },
+          {
+            "name": "LD-LRS",
+            "code": "g91912",
+            "product_count": 3
+          },
+          {
+            "name": "LD-OEM",
+            "code": "g91914",
+            "product_count": 2
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Flow measurement",
+    "code": "g568267",
+    "subcategories": [
+      {
+        "name": "Flow metering systems",
+        "code": "g472151",
+        "families": []
+      },
+      {
+        "name": "Flow meters",
+        "code": "g543715",
+        "families": []
+      },
+      {
+        "name": "Digital flow solutions",
+        "code": "g543722",
+        "families": []
+      },
+      {
+        "name": "Flow measurement instruments",
+        "code": "g543714",
+        "families": []
+      }
+    ]
+  },
+  {
+    "name": "Analyzers",
+    "code": "g568258",
+    "subcategories": [
+      {
+        "name": "Air quality measuring devices",
+        "code": "g407184",
+        "families": []
+      },
+      {
+        "name": "Visual range measuring devices",
+        "code": "g284262",
+        "families": []
+      },
+      {
+        "name": "Smoke detectors",
+        "code": "g284260",
+        "families": []
+      },
+      {
+        "name": "Digital analyzer solutions",
+        "code": "g284256",
+        "families": []
+      },
+      {
+        "name": "Dust Measuring Devices",
+        "code": "g54727",
+        "families": []
+      },
+      {
+        "name": "Gas Analyzers",
+        "code": "g54724",
+        "families": []
+      }
+    ]
+  },
+  {
+    "name": "Accessories",
+    "code": "g568263",
+    "subcategories": [
+      {
+        "name": "Codes",
+        "code": "g602114",
+        "families": [
+          {
+            "name": "Positioning codes",
+            "code": "g602116",
+            "product_count": 92
+          },
+          {
+            "name": "Magnetic-coded tags",
+            "code": "g602115",
+            "product_count": 15
+          }
+        ]
+      },
+      {
+        "name": "Magnets",
+        "code": "g602136",
+        "families": [
+          {
+            "name": "Position magnets",
+            "code": "g602138",
+            "product_count": 27
+          },
+          {
+            "name": "Magnetic tapes",
+            "code": "g602137",
+            "product_count": 27
+          }
+        ]
+      },
+      {
+        "name": "Optical data transmission",
+        "code": "g602151",
+        "families": [
+          {
+            "name": "ISD400",
+            "code": "g145476",
+            "product_count": 12
+          },
+          {
+            "name": "ISD300",
+            "code": "g145469",
+            "product_count": 8
+          }
+        ]
+      },
+      {
+        "name": "Measuring wheels and measuring wheel mechanics",
+        "code": "g602141",
+        "families": [
+          {
+            "name": "Measuring wheels",
+            "code": "g602143",
+            "product_count": 41
+          },
+          {
+            "name": "Measuring wheel mechanics",
+            "code": "g602142",
+            "product_count": 12
+          }
+        ]
+      },
+      {
+        "name": "Integration modules and adapters",
+        "code": "g602127",
+        "families": [
+          {
+            "name": "Interface modules",
+            "code": "g602134",
+            "product_count": 33
+          },
+          {
+            "name": "Bus adapters",
+            "code": "g602130",
+            "product_count": 2
+          },
+          {
+            "name": "Fieldbus modules",
+            "code": "g602133",
+            "product_count": 17
+          },
+          {
+            "name": "Cloning modules",
+            "code": "g602131",
+            "product_count": 1
+          },
+          {
+            "name": "HIPERFACE adapters",
+            "code": "g602128",
+            "product_count": 3
+          },
+          {
+            "name": "SSI analog adapters",
+            "code": "g602129",
+            "product_count": 1
+          },
+          {
+            "name": "Display modules",
+            "code": "g602132",
+            "product_count": 10
+          },
+          {
+            "name": "Power supply modules",
+            "code": "g602135",
+            "product_count": 13
+          }
+        ]
+      },
+      {
+        "name": "Rechargeable batteries and base stations",
+        "code": "g602186",
+        "families": [
+          {
+            "name": "Base stations",
+            "code": "g602187",
+            "product_count": 11
+          },
+          {
+            "name": "Rechargeable batteries",
+            "code": "g602188",
+            "product_count": 5
+          }
+        ]
+      },
+      {
+        "name": "Signal transmitters",
+        "code": "g602192",
+        "families": [
+          {
+            "name": "Acoustic signal transmitters",
+            "code": "g602193",
+            "product_count": 1
+          },
+          {
+            "name": "Optical signal transmitters",
+            "code": "g602194",
+            "product_count": 9
+          }
+        ]
+      },
+      {
+        "name": "Device protection and care",
+        "code": "g602117",
+        "families": [
+          {
+            "name": "Protective housing",
+            "code": "g602125",
+            "product_count": 124
+          },
+          {
+            "name": "Cooling devices",
+            "code": "g602119",
+            "product_count": 15
+          },
+          {
+            "name": "Purge air equipment",
+            "code": "g602126",
+            "product_count": 4
+          },
+          {
+            "name": "Front screens and front screen protection",
+            "code": "g602121",
+            "product_count": 110
+          },
+          {
+            "name": "Cleaning agents",
+            "code": "g602118",
+            "product_count": 5
+          },
+          {
+            "name": "Protection filter",
+            "code": "g602123",
+            "product_count": 4
+          },
+          {
+            "name": "Protective caps and hoods",
+            "code": "g602124",
+            "product_count": 82
+          },
+          {
+            "name": "Drying agent",
+            "code": "g602120",
+            "product_count": 0
+          },
+          {
+            "name": "Heating devices",
+            "code": "g602122",
+            "product_count": 0
+          }
+        ]
+      },
+      {
+        "name": "Wire draw mechanism",
+        "code": "g602201",
+        "families": [
+          {
+            "name": "Wire draw mechanism for wire draw encoders",
+            "code": "g602203",
+            "product_count": 23
+          },
+          {
+            "name": "Wire draw mechanism for rope pull switches",
+            "code": "g602202",
+            "product_count": 17
+          }
+        ]
+      },
+      {
+        "name": "Commissioning aids and test equipment",
+        "code": "g585727",
+        "families": [
+          {
+            "name": "Test equipment",
+            "code": "g585730",
+            "product_count": 32
+          },
+          {
+            "name": "Configuration devices",
+            "code": "g585729",
+            "product_count": 26
+          },
+          {
+            "name": "Alignment aids",
+            "code": "g585728",
+            "product_count": 32
+          }
+        ]
+      },
+      {
+        "name": "Antennas",
+        "code": "g602109",
+        "families": [
+          {
+            "name": "RFID antennas",
+            "code": "g602112",
+            "product_count": 7
+          },
+          {
+            "name": "WLAN antennas",
+            "code": "g602113",
+            "product_count": 2
+          },
+          {
+            "name": "GSM, UMTS and LTE antennas",
+            "code": "g602111",
+            "product_count": 6
+          },
+          {
+            "name": "GPS antennas",
+            "code": "g602110",
+            "product_count": 2
+          }
+        ]
+      },
+      {
+        "name": "Programming devices",
+        "code": "g602176",
+        "families": [
+          {
+            "name": "PGT-13-S",
+            "code": "g602183",
+            "product_count": 1
+          },
+          {
+            "name": "PGT-08-S",
+            "code": "g602179",
+            "product_count": 2
+          },
+          {
+            "name": "PGT-11-S",
+            "code": "g602181",
+            "product_count": 1
+          },
+          {
+            "name": "PGT-10 Pro",
+            "code": "g602180",
+            "product_count": 1
+          },
+          {
+            "name": "PGT-15",
+            "code": "g602185",
+            "product_count": 2
+          },
+          {
+            "name": "CPA",
+            "code": "g602177",
+            "product_count": 1
+          },
+          {
+            "name": "PGT-12 Pro",
+            "code": "g602182",
+            "product_count": 1
+          },
+          {
+            "name": "PGT-01-S",
+            "code": "g602178",
+            "product_count": 1
+          },
+          {
+            "name": "PGT-14",
+            "code": "g602184",
+            "product_count": 1
+          }
+        ]
+      },
+      {
+        "name": "Manual unlocking",
+        "code": "g602139",
+        "families": [
+          {
+            "name": "Locks",
+            "code": "g602140",
+            "product_count": 3
+          }
+        ]
+      },
+      {
+        "name": "RFID transponders",
+        "code": "g602198",
+        "families": [
+          {
+            "name": "HF transponders",
+            "code": "g602199",
+            "product_count": 16
+          },
+          {
+            "name": "UHF transponders",
+            "code": "g602200",
+            "product_count": 17
+          }
+        ]
+      },
+      {
+        "name": "Actuators and bolts",
+        "code": "g602005",
+        "families": [
+          {
+            "name": "MB1",
+            "code": "g602108",
+            "product_count": 15
+          },
+          {
+            "name": "Actuators for electromechanical safety switches",
+            "code": "g602008",
+            "product_count": 34
+          },
+          {
+            "name": "Actuators for magnetic safety switches",
+            "code": "g602009",
+            "product_count": 6
+          },
+          {
+            "name": "Actuators for RFID safety switches",
+            "code": "g602007",
+            "product_count": 52
+          }
+        ]
+      },
+      {
+        "name": "Shaft adaptation",
+        "code": "g602189",
+        "families": [
+          {
+            "name": "Shaft couplings",
+            "code": "g602191",
+            "product_count": 37
+          },
+          {
+            "name": "Collets",
+            "code": "g602190",
+            "product_count": 72
+          }
+        ]
+      },
+      {
+        "name": "Mounting systems",
+        "code": "g602144",
+        "families": [
+          {
+            "name": "Flanges and nozzles",
+            "code": "g602148",
+            "product_count": 139
+          },
+          {
+            "name": "Brackets",
+            "code": "g602146",
+            "product_count": 619
+          },
+          {
+            "name": "Muting arms",
+            "code": "g602149",
+            "product_count": 27
+          },
+          {
+            "name": "Assembly accessories",
+            "code": "g602145",
+            "product_count": 218
+          },
+          {
+            "name": "Stator couplings",
+            "code": "g602150",
+            "product_count": 20
+          },
+          {
+            "name": "Device columns",
+            "code": "g602147",
+            "product_count": 34
+          }
+        ]
+      },
+      {
+        "name": "Reflectors and optics",
+        "code": "g602156",
+        "families": [
+          {
+            "name": "Reflectors",
+            "code": "g602171",
+            "product_count": 169
+          },
+          {
+            "name": "Illuminations",
+            "code": "g602157",
+            "product_count": 85
+          },
+          {
+            "name": "Lenses",
+            "code": "g602160",
+            "product_count": 146
+          },
+          {
+            "name": "Mirror",
+            "code": "g602165",
+            "product_count": 75
+          },
+          {
+            "name": "Optical apertures",
+            "code": "g602169",
+            "product_count": 17
+          },
+          {
+            "name": "Optical filters",
+            "code": "g602170",
+            "product_count": 44
+          }
+        ]
+      },
+      {
+        "name": "Storage media",
+        "code": "g602195",
+        "families": [
+          {
+            "name": "USB sticks",
+            "code": "g602196",
+            "product_count": 0
+          },
+          {
+            "name": "Memory cards",
+            "code": "g602197",
+            "product_count": 6
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Training",
+    "code": "g568262",
+    "subcategories": [
+      {
+        "name": "Training and education",
+        "code": "g616795",
+        "families": [
+          {
+            "name": "Safety competence trainings",
+            "code": "g616799",
+            "product_count": 25
+          },
+          {
+            "name": "Technology trainings",
+            "code": "g616801",
+            "product_count": 16
+          },
+          {
+            "name": "Product, system, and software trainings",
+            "code": "g616798",
+            "product_count": 23
+          },
+          {
+            "name": "Specialized and methodology trainings",
+            "code": "g616796",
+            "product_count": 7
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Motion control sensors",
+    "code": "g576775",
+    "subcategories": [
+      {
+        "name": "Motor feedback systems",
+        "code": "g204351",
+        "families": [
+          {
+            "name": "TTK70",
+            "code": "g201566",
+            "product_count": 5
+          },
+          {
+            "name": "STL/ETL70",
+            "code": "g552050",
+            "product_count": 3
+          },
+          {
+            "name": "ELS/ELM35",
+            "code": "g584054",
+            "product_count": 5
+          },
+          {
+            "name": "STS",
+            "code": "g555800",
+            "product_count": 3
+          },
+          {
+            "name": "TTK50",
+            "code": "g253452",
+            "product_count": 4
+          },
+          {
+            "name": "Smart Motor Sensors Software",
+            "code": "g550781",
+            "product_count": 2
+          },
+          {
+            "name": "sCon",
+            "code": "g568594",
+            "product_count": 1
+          },
+          {
+            "name": "SHub",
+            "code": "g547605",
+            "product_count": 3
+          },
+          {
+            "name": "VFS60",
+            "code": "g221423",
+            "product_count": 1
+          },
+          {
+            "name": "EDS/EDM35",
+            "code": "g499351",
+            "product_count": 17
+          },
+          {
+            "name": "SFS/SFM60",
+            "code": "g218691",
+            "product_count": 435
+          },
+          {
+            "name": "SRS/SRM50",
+            "code": "g215961",
+            "product_count": 77
+          },
+          {
+            "name": "SKS/SKM36",
+            "code": "g215684",
+            "product_count": 17
+          },
+          {
+            "name": "EKS/EKM36",
+            "code": "g192751",
+            "product_count": 12
+          },
+          {
+            "name": "SES/SEM",
+            "code": "g570125",
+            "product_count": 4
+          },
+          {
+            "name": "SEK/SEL",
+            "code": "g575659",
+            "product_count": 6
+          },
+          {
+            "name": "EES/EEM37",
+            "code": "g419151",
+            "product_count": 20
+          }
+        ]
+      },
+      {
+        "name": "Incremental encoders",
+        "code": "g244396",
+        "families": [
+          {
+            "name": "DFS60S Pro",
+            "code": "g309664",
+            "product_count": 93
+          },
+          {
+            "name": "DGS80/90",
+            "code": "g568403",
+            "product_count": 152
+          },
+          {
+            "name": "DFS60",
+            "code": "g244428",
+            "product_count": 4463
+          },
+          {
+            "name": "DBS60",
+            "code": "g569799",
+            "product_count": 4274
+          },
+          {
+            "name": "DBS36/50",
+            "code": "g551755",
+            "product_count": 660
+          },
+          {
+            "name": "DFS2x",
+            "code": "g283451",
+            "product_count": 1458
+          },
+          {
+            "name": "DLS40",
+            "code": "g547646",
+            "product_count": 151
+          },
+          {
+            "name": "DUS60",
+            "code": "g403051",
+            "product_count": 142
+          }
+        ]
+      },
+      {
+        "name": "Absolute encoders",
+        "code": "g244395",
+        "families": [
+          {
+            "name": "ANS/ANM58",
+            "code": "g584838",
+            "product_count": 71
+          },
+          {
+            "name": "AFS/AFM60S Pro",
+            "code": "g430251",
+            "product_count": 944
+          },
+          {
+            "name": "MAS",
+            "code": "g568687",
+            "product_count": 1
+          },
+          {
+            "name": "ACM60",
+            "code": "g430451",
+            "product_count": 2
+          },
+          {
+            "name": "ACS/ACM36",
+            "code": "g430351",
+            "product_count": 4
+          },
+          {
+            "name": "AHS/AHM36",
+            "code": "g543428",
+            "product_count": 562
+          },
+          {
+            "name": "AFS/AFM60 SSI",
+            "code": "g569399",
+            "product_count": 1736
+          },
+          {
+            "name": "AFS/AFM60 Ethernet",
+            "code": "g569838",
+            "product_count": 75
+          },
+          {
+            "name": "A3M60",
+            "code": "g244409",
+            "product_count": 21
+          },
+          {
+            "name": "ARS60",
+            "code": "g244410",
+            "product_count": 839
+          }
+        ]
+      },
+      {
+        "name": "Wire draw encoders",
+        "code": "g286652",
+        "families": [
+          {
+            "name": "EcoLine",
+            "code": "g287337",
+            "product_count": 74
+          },
+          {
+            "name": "HighLine",
+            "code": "g287466",
+            "product_count": 87
+          },
+          {
+            "name": "VarioLine",
+            "code": "g575281",
+            "product_count": 19
+          }
+        ]
+      },
+      {
+        "name": "Non-contact motion sensors",
+        "code": "g550872",
+        "families": [
+          {
+            "name": "SPEETEC 1D",
+            "code": "g550876",
+            "product_count": 14
+          }
+        ]
+      },
+      {
+        "name": "Measuring wheel encoders",
+        "code": "g365351",
+        "families": [
+          {
+            "name": "MWS250",
+            "code": "g624679",
+            "product_count": 29
+          },
+          {
+            "name": "MWS075",
+            "code": "g595853",
+            "product_count": 24
+          },
+          {
+            "name": "DFV60",
+            "code": "g383757",
+            "product_count": 15
+          },
+          {
+            "name": "MWS120",
+            "code": "g547609",
+            "product_count": 117
+          },
+          {
+            "name": "DKV60",
+            "code": "g383551",
+            "product_count": 49
+          },
+          {
+            "name": "DBV50",
+            "code": "g365751",
+            "product_count": 98
+          },
+          {
+            "name": "DUV60",
+            "code": "g403052",
+            "product_count": 108
+          }
+        ]
+      },
+      {
+        "name": "Linear encoders",
+        "code": "g244397",
+        "families": [
+          {
+            "name": "DAX",
+            "code": "g507352",
+            "product_count": 546
+          },
+          {
+            "name": "TTK70",
+            "code": "g201566",
+            "product_count": 5
+          },
+          {
+            "name": "STL/ETL70",
+            "code": "g552050",
+            "product_count": 3
+          },
+          {
+            "name": "TTK50",
+            "code": "g253452",
+            "product_count": 4
+          },
+          {
+            "name": "OLM",
+            "code": "g585297",
+            "product_count": 13
+          },
+          {
+            "name": "KH53",
+            "code": "g201380",
+            "product_count": 48
+          },
+          {
+            "name": "MAX",
+            "code": "g428958",
+            "product_count": 666
+          }
+        ]
+      },
+      {
+        "name": "Inertial sensors",
+        "code": "g504451",
+        "families": [
+          {
+            "name": "TMS/TMM61",
+            "code": "g361562",
+            "product_count": 2
+          },
+          {
+            "name": "TMS/TMM88",
+            "code": "g361552",
+            "product_count": 17
+          },
+          {
+            "name": "TMS/TMM22",
+            "code": "g555803",
+            "product_count": 89
+          },
+          {
+            "name": "TMS/TMM88 Dynamic",
+            "code": "g473552",
+            "product_count": 15
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Other products",
+    "code": "g575324",
+    "subcategories": []
+  }
+]

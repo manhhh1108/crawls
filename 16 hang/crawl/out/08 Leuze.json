@@ -1,0 +1,2427 @@
+{
+ "brand": "08 Leuze",
+ "site": "https://www.leuze.com/en-int",
+ "note": "Cay danh muc day du tu sitemap en-int. Cap sau cung = cap ngay tren ma SP.",
+ "nodes": [
+  {
+   "path": [
+    "Accessories"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Accessories",
+    "Bar code tapes"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/bar-code-tapes",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Bar code tapes",
+    "Configurable bar code tapes"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/bar-code-tapes/configurable-bar-code-tapes",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Bar code tapes",
+    "Standard tapes"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/bar-code-tapes/standard-tapes",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Deflecting mirrors/device columns"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/deflecting-mirrors-device-columns",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Deflecting mirrors/device columns",
+    "Deflecting mirror columns/continuous"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/deflecting-mirrors-device-columns/deflecting-mirror-columns-continuous",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Deflecting mirrors/device columns",
+    "Deflecting mirror columns/individual mirrors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/deflecting-mirrors-device-columns/deflecting-mirror-columns-individual-mirrors",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Deflecting mirrors/device columns",
+    "Deflecting mirrors/continuous"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/deflecting-mirrors-device-columns/deflecting-mirrors-continuous",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Deflecting mirrors/device columns",
+    "Deflecting mirrors/individual mirrors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/deflecting-mirrors-device-columns/deflecting-mirrors-individual-mirrors",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Deflecting mirrors/device columns",
+    "Device columns"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/deflecting-mirrors-device-columns/device-columns",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Fiber optics"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/fiber-optics",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Fiber optics",
+    "Glass fiber optics"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/fiber-optics/glass-fiber-optics",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Fiber optics",
+    "Plastic fiber optics"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/fiber-optics/plastic-fiber-optics",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mounting systems"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/mounting-systems",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mounting systems",
+    "Clamp brackets"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/mounting-systems/clamp-brackets",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mounting systems",
+    "Mounting brackets"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/mounting-systems/mounting-brackets",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mounting systems",
+    "Mounting brackets for hand-held scanners"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/mounting-systems/mounting-brackets-for-hand-held-scanners",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mounting systems",
+    "Other mounting systems"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/mounting-systems/other-mounting-systems",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mounting systems",
+    "Rod mounts"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/mounting-systems/rod-mounts",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Muting"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/muting",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Muting",
+    "Muting mounting systems"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/muting/muting-mounting-systems",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Muting",
+    "Muting sensor sets"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/muting/muting-sensor-sets",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optical and acoustic signalers"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/optical-and-acoustic-signalers",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optical and acoustic signalers",
+    "Individually configurable tower lights"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/optical-and-acoustic-signalers/individually-configurable-tower-lights",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optical and acoustic signalers",
+    "Individually configurable tower lights",
+    "Lenses"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/optical-and-acoustic-signalers/individually-configurable-tower-lights/lenses",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optical and acoustic signalers",
+    "Individually configurable tower lights",
+    "Mounting systems"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/optical-and-acoustic-signalers/individually-configurable-tower-lights/mounting-systems",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optical and acoustic signalers",
+    "Muting indicators"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/optical-and-acoustic-signalers/muting-indicators",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optical and acoustic signalers",
+    "Preassembled tower lights"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/optical-and-acoustic-signalers/preassembled-tower-lights",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optical and acoustic signalers",
+    "Preassembled tower lights",
+    "Mounting systems"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/optical-and-acoustic-signalers/preassembled-tower-lights/mounting-systems",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Optical and acoustic signalers",
+    "Preassembled tower lights",
+    "Tower lights"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/optical-and-acoustic-signalers/preassembled-tower-lights/tower-lights",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Products for commissioning"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/products-for-commissioning",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Protective screens"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/protective-screens",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Reflectors and reflective tapes"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/reflectors-and-reflective-tapes",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Reflectors and reflective tapes",
+    "Micro-triad-type reflectors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/reflectors-and-reflective-tapes/micro-triad-type-reflectors",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Reflectors and reflective tapes",
+    "Reflective tapes for laser and clear-glass applications"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/reflectors-and-reflective-tapes/reflective-tapes-for-laser-and-clear-glass-applications",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Reflectors and reflective tapes",
+    "Reflective tapes for standard applications"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/reflectors-and-reflective-tapes/reflective-tapes-for-standard-applications",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Reflectors and reflective tapes",
+    "Reflectors with heating"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/reflectors-and-reflective-tapes/reflectors-with-heating",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Reflectors and reflective tapes",
+    "Reflectors with higher resistance"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/reflectors-and-reflective-tapes/reflectors-with-higher-resistance",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Reflectors and reflective tapes",
+    "Standard reflectors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/reflectors-and-reflective-tapes/standard-reflectors",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Simple Vision"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/simple-vision",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Simple Vision",
+    "Cover hood"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/simple-vision/cover-hood",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Simple Vision",
+    "External illumination"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/simple-vision/external-illumination",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Simple Vision",
+    "General"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/simple-vision/general",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Simple Vision",
+    "Lenses"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/accessories/simple-vision/lenses",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Identification"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Identification",
+    "1D/2D hand-held scanners"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/1d-2d-hand-held-scanners",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Identification",
+    "1D/2D hand-held scanners",
+    "Directly marked codes (DPM)"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/1d-2d-hand-held-scanners/directly-marked-codes-dpm",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Identification",
+    "1D/2D hand-held scanners",
+    "Multi-purpose hand-held scanners"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/1d-2d-hand-held-scanners/multi-purpose-hand-held-scanners",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Identification",
+    "1D/2D hand-held scanners",
+    "Robust version for industrial use"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/1d-2d-hand-held-scanners/robust-version-for-industrial-use",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Identification",
+    "Camera-based 1D-/2D-code readers"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/camera-based-1d-2d-code-readers",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Identification",
+    "Camera-based 1D-/2D-code readers",
+    "Compact scanner"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/camera-based-1d-2d-code-readers/compact-scanner",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Identification",
+    "Camera-based 1D-/2D-code readers",
+    "DCR 1000/1100i"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/camera-based-1d-2d-code-readers/dcr-1000-1100i",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Identification",
+    "Camera-based 1D-/2D-code readers",
+    "Miniature scanner"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/camera-based-1d-2d-code-readers/miniature-scanner",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Identification",
+    "Laser-based 1D bar code readers"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/laser-based-1d-bar-code-readers",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Identification",
+    "Laser-based 1D bar code readers",
+    "Compact scanner"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/laser-based-1d-bar-code-readers/compact-scanner",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Identification",
+    "Laser-based 1D bar code readers",
+    "Large reading distance"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/laser-based-1d-bar-code-readers/large-reading-distance",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Identification",
+    "Laser-based 1D bar code readers",
+    "Miniature scanner"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/laser-based-1d-bar-code-readers/miniature-scanner",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Identification",
+    "Laser-based 1D bar code readers",
+    "Special applications and solutions"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/laser-based-1d-bar-code-readers/special-applications-and-solutions",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Identification",
+    "RFID readers and tags"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/rfid-readers-and-tags",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Identification",
+    "RFID readers and tags",
+    "Readers"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/rfid-readers-and-tags/readers",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Identification",
+    "RFID readers and tags",
+    "Readers",
+    "RDH 100"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/rfid-readers-and-tags/readers/rdh-100",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Identification",
+    "RFID readers and tags",
+    "Readers",
+    "RDH 200"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/rfid-readers-and-tags/readers/rdh-200",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Identification",
+    "RFID readers and tags",
+    "Readers",
+    "RFI"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/rfid-readers-and-tags/readers/rfi",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Identification",
+    "RFID readers and tags",
+    "Readers",
+    "RFM"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/rfid-readers-and-tags/readers/rfm",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Identification",
+    "RFID readers and tags",
+    "Transponders"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/rfid-readers-and-tags/transponders",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Identification",
+    "RFID readers and tags",
+    "Transponders",
+    "RTH"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/identification/rfid-readers-and-tags/transponders/rth",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Industrial image processing"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/industrial-image-processing",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Industrial image processing",
+    "Industrial IP camera"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/industrial-image-processing/industrial-ip-camera",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Industrial image processing",
+    "Light section sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/industrial-image-processing/light-section-sensors",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Industrial image processing",
+    "Vision sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/industrial-image-processing/vision-sensors",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Industrial image processing",
+    "Vision sensors",
+    "Camera-based compartment fine positioning"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/industrial-image-processing/vision-sensors/camera-based-compartment-fine-positioning",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Industrial image processing",
+    "Vision sensors",
+    "Simple Vision sensor for presence detection"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/industrial-image-processing/vision-sensors/simple-vision-sensor-for-presence-detection",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Industrial image processing",
+    "Vision sensors",
+    "Simple Vision sensors for detection, inspection and identification"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/industrial-image-processing/vision-sensors/simple-vision-sensors-for-detection-inspection-and-identification",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Industrial image processing",
+    "Vision sensors",
+    "Stationary 1D / 2D code readers"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/industrial-image-processing/vision-sensors/stationary-1d-2d-code-readers",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Laser scanners"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/laser-scanners",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Measuring fork sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/measuring-fork-sensors",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Measuring light curtains"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/measuring-light-curtains",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Measuring light curtains",
+    "For Ex applications"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/measuring-light-curtains/for-ex-applications",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Measuring light curtains",
+    "For fast and transparent applications"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/measuring-light-curtains/for-fast-and-transparent-applications",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Measuring light curtains",
+    "Universal light curtain"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/measuring-light-curtains/universal-light-curtain",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Optical distance sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/optical-distance-sensors",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Optical distance sensors",
+    "Laser positioning systems"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/optical-distance-sensors/laser-positioning-systems",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Optical distance sensors",
+    "Measuring sensors in the small housing"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/optical-distance-sensors/measuring-sensors-in-the-small-housing",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Optical distance sensors",
+    "Sensors for distance measurement with high precision"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/optical-distance-sensors/sensors-for-distance-measurement-with-high-precision",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Optical distance sensors",
+    "Sensors for distance measurement with large operating range"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/optical-distance-sensors/sensors-for-distance-measurement-with-large-operating-range",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Sensors for contour measurement"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/sensors-for-contour-measurement",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Sensors for contour measurement",
+    "Contour measurement system"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/sensors-for-contour-measurement/contour-measurement-system",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Sensors for contour measurement",
+    "Object detection"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/sensors-for-contour-measurement/object-detection",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Sensors for contour measurement",
+    "Object measurement"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/sensors-for-contour-measurement/object-measurement",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Sensors for contour measurement",
+    "Profile measurement"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/sensors-for-contour-measurement/profile-measurement",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Sensors for positioning"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/sensors-for-positioning",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Sensors for positioning",
+    "Bar code positioning systems"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/sensors-for-positioning/bar-code-positioning-systems",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Sensors for positioning",
+    "Camera-based compartment fine positioning"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/sensors-for-positioning/camera-based-compartment-fine-positioning",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Sensors for positioning",
+    "Laser positioning systems"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/sensors-for-positioning/laser-positioning-systems",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Sensors for positioning",
+    "Optical guidance"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/sensors-for-positioning/optical-guidance",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measuring sensors",
+    "Ultrasonic distance sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/measuring-sensors/ultrasonic-distance-sensors",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Network and Connection Technology"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/network-and-connection-technology",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Network and Connection Technology",
+    "Cables and connectors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/network-and-connection-technology/cables-and-connectors",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Network and Connection Technology",
+    "Cables and connectors",
+    "Adapters"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/network-and-connection-technology/cables-and-connectors/adapters",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Network and Connection Technology",
+    "Cables and connectors",
+    "Connection cables"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/network-and-connection-technology/cables-and-connectors/connection-cables",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Network and Connection Technology",
+    "Cables and connectors",
+    "Interconnection cables"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/network-and-connection-technology/cables-and-connectors/interconnection-cables",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Network and Connection Technology",
+    "Cables and connectors",
+    "User-configurable connectors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/network-and-connection-technology/cables-and-connectors/user-configurable-connectors",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Network and Connection Technology",
+    "Cables and connectors",
+    "Y-distribution cables"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/network-and-connection-technology/cables-and-connectors/y-distribution-cables",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Network and Connection Technology",
+    "Connection units"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/network-and-connection-technology/connection-units",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Network and Connection Technology",
+    "Connection units",
+    "Active connection units"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/network-and-connection-technology/connection-units/active-connection-units",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Network and Connection Technology",
+    "Connection units",
+    "IO-Link connection units"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/network-and-connection-technology/connection-units/io-link-connection-units",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Network and Connection Technology",
+    "Connection units",
+    "Passive connection units"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/network-and-connection-technology/connection-units/passive-connection-units",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Network and Connection Technology",
+    "Product-specific connection components"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/network-and-connection-technology/product-specific-connection-components",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Network and Connection Technology",
+    "Product-specific connection components",
+    "Connection components for hand-held scanners"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/network-and-connection-technology/product-specific-connection-components/connection-components-for-hand-held-scanners",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Network and Connection Technology",
+    "Product-specific connection components",
+    "Modular connection unit for BCL and BPS"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/network-and-connection-technology/product-specific-connection-components/modular-connection-unit-for-bcl-and-bps",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "New products & highlights"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/new-products-highlights",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Optical data transmission"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/optical-data-transmission",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Optical data transmission",
+    "DDLS 200 with 2 Mbit/s transmission rate"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/optical-data-transmission/ddls-200-with-2-mbit-s-transmission-rate",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Optical data transmission",
+    "DDLS 500 with 100 Mbit/s real-time transmission"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/optical-data-transmission/ddls-500-with-100-mbit-s-real-time-transmission",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Safety",
+    "Multiple light beam safety devices"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/multiple-light-beam-safety-devices",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety",
+    "Multiple light beam safety devices",
+    "MLD 300"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/multiple-light-beam-safety-devices/mld-300",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Multiple light beam safety devices",
+    "MLD 300 transceiver"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/multiple-light-beam-safety-devices/mld-300-transceiver",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Multiple light beam safety devices",
+    "MLD 500"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/multiple-light-beam-safety-devices/mld-500",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Multiple light beam safety devices",
+    "MLD 500 transceiver"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/multiple-light-beam-safety-devices/mld-500-transceiver",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Multiple light beam safety devices",
+    "MLD-UDC"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/multiple-light-beam-safety-devices/mld-udc",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Multiple light beam safety devices",
+    "MLDSET"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/multiple-light-beam-safety-devices/mldset",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Muting and Smart Process Gating (SPG)"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/muting-and-smart-process-gating-spg",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety",
+    "Muting and Smart Process Gating (SPG)",
+    "Muting"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/muting-and-smart-process-gating-spg/muting",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safe bar code positioning system"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safe-bar-code-positioning-system",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety command devices"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-command-devices",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety command devices",
+    "ERS200"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-command-devices/ers200",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety command devices",
+    "ESB200"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-command-devices/esb200",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety controls"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-controls",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety controls",
+    "Muting interface"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-controls/muting-interface",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety controls",
+    "Safety controls"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-controls/safety-controls",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety laser scanners"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-laser-scanners",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety laser scanners",
+    "RSL 200"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-laser-scanners/rsl-200",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety laser scanners",
+    "RSL 200",
+    "RSL 210, 220"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-laser-scanners/rsl-200/rsl-210-220",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety laser scanners",
+    "RSL 200",
+    "RSL 230, 235"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-laser-scanners/rsl-200/rsl-230-235",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety laser scanners",
+    "RSL 400"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-laser-scanners/rsl-400",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety laser scanners",
+    "RSL 400",
+    "RSL 410 - 450P"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-laser-scanners/rsl-400/rsl-410-450p",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety laser scanners",
+    "RSL 400",
+    "RSL 425, 445, 455P"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-laser-scanners/rsl-400/rsl-425-445-455p",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety light curtains"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-light-curtains",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety light curtains",
+    "ELC"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-light-curtains/elc",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety light curtains",
+    "MLC"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-light-curtains/mlc",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety light curtains",
+    "MLC",
+    "MLC 310/MLC 320"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-light-curtains/mlc/mlc-310-mlc-320",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety light curtains",
+    "MLC",
+    "MLC 510/MLC 520"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-light-curtains/mlc/mlc-510-mlc-520",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety light curtains",
+    "MLC",
+    "MLC 520 ex-protection"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-light-curtains/mlc/mlc-520-ex-protection",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety light curtains",
+    "MLC",
+    "MLC 520-S extra slim design"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-light-curtains/mlc/mlc-520-s-extra-slim-design",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety light curtains",
+    "MLC",
+    "MLC 530"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-light-curtains/mlc/mlc-530",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety light curtains",
+    "MLC",
+    "MLC 530 SPG Smart Process Gating"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-light-curtains/mlc/mlc-530-spg-smart-process-gating",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety locking devices"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-locking-devices",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety locking devices",
+    "L100"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-locking-devices/l100",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety locking devices",
+    "L200"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-locking-devices/l200",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety locking devices",
+    "L250"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-locking-devices/l250",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety locking devices",
+    "L300"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-locking-devices/l300",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety proximity sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-proximity-sensors",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety proximity sensors",
+    "MC300"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-proximity-sensors/mc300",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety proximity sensors",
+    "RD800"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-proximity-sensors/rd800",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety radar system"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-radar-system",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety relays"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-relays",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety relays",
+    "Contact extensions"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-relays/contact-extensions",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety relays",
+    "Relay"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-relays/relay",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety switches"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-switches",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety switches",
+    "Hinge switches"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-switches/hinge-switches",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety switches",
+    "Position switches"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-switches/position-switches",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Safety switches",
+    "Switches with separate actuator"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/safety-switches/switches-with-separate-actuator",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Single light beam safety devices"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/single-light-beam-safety-devices",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety",
+    "Single light beam safety devices",
+    "Type 2/PLc"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/single-light-beam-safety-devices/type-2-plc",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Single light beam safety devices",
+    "Type 4/PLe"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/single-light-beam-safety-devices/type-4-ple",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety",
+    "Single light beam safety devices",
+    "Type 4/PLe with integrated testing"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/safety/single-light-beam-safety-devices/type-4-ple-with-integrated-testing",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Capacitive sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/capacitive-sensors",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Capacitive sensors",
+    "Advanced sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/capacitive-sensors/advanced-sensors",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Capacitive sensors",
+    "Basic sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/capacitive-sensors/basic-sensors",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Color sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/color-sensors",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Contrast sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/contrast-sensors",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Double sheet / splice inspection"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/double-sheet-splice-inspection",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Fiber optic sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/fiber-optic-sensors",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Fiber optic sensors",
+    "Amplifiers for fiber optics"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/fiber-optic-sensors/amplifiers-for-fiber-optics",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Fiber optic sensors",
+    "Fiber optics"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/fiber-optic-sensors/fiber-optics",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Fiber optic sensors",
+    "Fiber optics",
+    "Glass fiber optics"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/fiber-optic-sensors/fiber-optics/glass-fiber-optics",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Fiber optic sensors",
+    "Fiber optics",
+    "Plastic fiber optics"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/fiber-optic-sensors/fiber-optics/plastic-fiber-optics",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Fork sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/fork-sensors",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Fork sensors",
+    "Label detection"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/fork-sensors/label-detection",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Fork sensors",
+    "Object detection"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/fork-sensors/object-detection",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Inductive switches"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/inductive-switches",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Inductive switches",
+    "Advanced sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/inductive-switches/advanced-sensors",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Inductive switches",
+    "Eco series"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/inductive-switches/eco-series",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Inductive switches",
+    "Large operating range"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/inductive-switches/large-operating-range",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Inductive switches",
+    "Special sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/inductive-switches/special-sensors",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Inductive switches",
+    "Special sensors",
+    "AC/DC sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/inductive-switches/special-sensors/ac-dc-sensors",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Inductive switches",
+    "Special sensors",
+    "IO-Link sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/inductive-switches/special-sensors/io-link-sensors",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Inductive switches",
+    "Special sensors",
+    "Rugged stainless steel sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/inductive-switches/special-sensors/rugged-stainless-steel-sensors",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Inductive switches",
+    "Standard sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/inductive-switches/standard-sensors",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Inductive switches",
+    "With IO-Link"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/inductive-switches/with-io-link",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Laser scanners"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/laser-scanners",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Light curtains"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/light-curtains",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Light curtains",
+    "Narrow design"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/light-curtains/narrow-design",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Light curtains",
+    "Reflection principle"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/light-curtains/reflection-principle",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Light curtains",
+    "Standard design"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/light-curtains/standard-design",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Light section sensors for object detection"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/light-section-sensors-for-object-detection",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Luminescence sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/luminescence-sensors",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "33C/ 35C series"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/33c-35c-series",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "36 series"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/36-series",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "53C/ 55C series"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/53c-55c-series",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "5B series"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/5b-series",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Diffuse sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/diffuse-sensors",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Diffuse sensors",
+    "Diffuse sensors with background suppression"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/diffuse-sensors/diffuse-sensors-with-background-suppression",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Diffuse sensors",
+    "Diffuse sensors with background suppression",
+    "Extra large and small light spots"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/diffuse-sensors/diffuse-sensors-with-background-suppression/extra-large-and-small-light-spots",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Diffuse sensors",
+    "Diffuse sensors with background suppression",
+    "Optimized for high-gloss and polished objects"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/diffuse-sensors/diffuse-sensors-with-background-suppression/optimized-for-high-gloss-and-polished-objects",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Diffuse sensors",
+    "Diffuse sensors with background suppression",
+    "Standard models (LED and laser)"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/diffuse-sensors/diffuse-sensors-with-background-suppression/standard-models-led-and-laser",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Diffuse sensors",
+    "Dynamic reference diffuse sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/diffuse-sensors/dynamic-reference-diffuse-sensors",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Diffuse sensors",
+    "Energetic diffuse sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/diffuse-sensors/energetic-diffuse-sensors",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Retro-reflective photoelectric sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/retro-reflective-photoelectric-sensors",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Retro-reflective photoelectric sensors",
+    "Optimized for irregular objects, pallets and polybags"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/retro-reflective-photoelectric-sensors/optimized-for-irregular-objects-pallets-and-polybags",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Retro-reflective photoelectric sensors",
+    "Optimized for reflective objects"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/retro-reflective-photoelectric-sensors/optimized-for-reflective-objects",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Retro-reflective photoelectric sensors",
+    "Optimized for transparent objects"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/retro-reflective-photoelectric-sensors/optimized-for-transparent-objects",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Retro-reflective photoelectric sensors",
+    "Standard models (LED and laser)"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/retro-reflective-photoelectric-sensors/standard-models-led-and-laser",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Sensors for Ex applications"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/sensors-for-ex-applications",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Sensors for Ex applications",
+    "Diffuse sensors with background suppression"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/sensors-for-ex-applications/diffuse-sensors-with-background-suppression",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Sensors for Ex applications",
+    "Retro-reflective photoelectric sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/sensors-for-ex-applications/retro-reflective-photoelectric-sensors",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Sensors for Ex applications",
+    "Throughbeam photoelectric sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/sensors-for-ex-applications/throughbeam-photoelectric-sensors",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Optical sensors",
+    "Throughbeam photoelectric sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/optical-sensors/throughbeam-photoelectric-sensors",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Switching sensors",
+    "Ultrasonic sensors"
+   ],
+   "type": "category",
+   "url": "https://www.leuze.com/en-int/products/switching-sensors/ultrasonic-sensors",
+   "code": null,
+   "level": 2
+  }
+ ]
+}

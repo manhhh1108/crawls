@@ -1,0 +1,3 @@
+category pages: 223
+[08 Leuze] saved 223 nodes -> D:\Crawl AUMI\16 hang\crawl\out\08 Leuze.json
+        levels: {1: 9, 2: 55, 3: 122, 4: 34, 5: 3}

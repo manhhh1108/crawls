@@ -1,0 +1,591 @@
+{
+ "brand": "16 OTENNLUX Lighting",
+ "site": "https://cn.otennlux.com/ (+ en.otennlux.com)",
+ "note": "Cay 2 cap tu mega-menu, ten tieng Trung theo web goc. Cap 2 la cap ngay tren trang SP cu the.",
+ "nodes": [
+  {
+   "path": [
+    "LED信号报警灯"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/led信号报警灯_c5",
+   "code": "c5",
+   "level": 1
+  },
+  {
+   "path": [
+    "LED信号报警灯",
+    "塑料信号灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/塑料信号灯_c38",
+   "code": "c38",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED信号报警灯",
+    "带按钮盒子信号灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/带按钮盒子信号灯_c40",
+   "code": "c40",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED信号报警灯",
+    "金属信号灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/金属信号灯_c37",
+   "code": "c37",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED信号报警灯",
+    "防水信号灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/防水信号灯_c39",
+   "code": "c39",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED射灯"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/led射灯_c2",
+   "code": "c2",
+   "level": 1
+  },
+  {
+   "path": [
+    "LED射灯",
+    "短杆鹅颈射灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/短杆鹅颈射灯_c33",
+   "code": "c33",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED射灯",
+    "磁铁底座鹅颈射灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/磁铁底座鹅颈射灯_c31",
+   "code": "c31",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED射灯",
+    "长杆鹅颈射灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/长杆鹅颈射灯_c32",
+   "code": "c32",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED工作灯"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/led工作灯_c1",
+   "code": "c1",
+   "level": 1
+  },
+  {
+   "path": [
+    "LED工作灯",
+    "嵌入式工作灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/嵌入式工作灯_c15",
+   "code": "c15",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED工作灯",
+    "平面工作灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/平面工作灯_c14",
+   "code": "c14",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED工作灯",
+    "管状条形工作灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/管状条形工作灯_c13",
+   "code": "c13",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED指示灯"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/led指示灯_c8",
+   "code": "c8",
+   "level": 1
+  },
+  {
+   "path": [
+    "LED指示灯",
+    "18mm 指示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/18mm-指示灯_c46",
+   "code": "c46",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED指示灯",
+    "22mm 指示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/22mm-指示灯_c45",
+   "code": "c45",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED指示灯",
+    "30mm 指示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/30mm-指示灯_c41",
+   "code": "c41",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED指示灯",
+    "50mm 指示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/50mm-指示灯_c42",
+   "code": "c42",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED指示灯",
+    "70mm 指示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/70mm-指示灯_c43",
+   "code": "c43",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED指示灯",
+    "O101指示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/o101指示灯_c69",
+   "code": "c69",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED指示灯",
+    "O102 指示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/o102-指示灯_c70",
+   "code": "c70",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED指示灯",
+    "O51 指示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/o51-指示灯_c65",
+   "code": "c65",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED指示灯",
+    "O52指示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/o52指示灯_c66",
+   "code": "c66",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED指示灯",
+    "O71 指示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/o71-指示灯_c67",
+   "code": "c67",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED指示灯",
+    "O72 指示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/o72-指示灯_c68",
+   "code": "c68",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED指示灯",
+    "O90mm 指示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/o90mm-指示灯_c44",
+   "code": "c44",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED电柜灯"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/led电柜灯_c3",
+   "code": "c3",
+   "level": 1
+  },
+  {
+   "path": [
+    "LED电柜灯",
+    "带开关电柜灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/带开关电柜灯_c17",
+   "code": "c17",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED电柜灯",
+    "感应电柜灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/感应电柜灯_c16",
+   "code": "c16",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED视觉照明"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/led视觉照明_c4",
+   "code": "c4",
+   "level": 1
+  },
+  {
+   "path": [
+    "UL 信号灯&工作灯"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/ul-信号灯-工作灯_c52",
+   "code": "c52",
+   "level": 1
+  },
+  {
+   "path": [
+    "双手控制光学触摸按钮"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/双手控制光学触摸按钮_c12",
+   "code": "c12",
+   "level": 1
+  },
+  {
+   "path": [
+    "声光报警灯"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/声光报警灯_c9",
+   "code": "c9",
+   "level": 1
+  },
+  {
+   "path": [
+    "声光报警灯",
+    "CAN 型 声光扬声器"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/can-型-声光扬声器_c20",
+   "code": "c20",
+   "level": 2
+  },
+  {
+   "path": [
+    "声光报警灯",
+    "IO 型 声光扬声器"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/io-型-声光扬声器_c18",
+   "code": "c18",
+   "level": 2
+  },
+  {
+   "path": [
+    "声光报警灯",
+    "RS485 型 声光扬声器"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/rs485-型-声光扬声器_c19",
+   "code": "c19",
+   "level": 2
+  },
+  {
+   "path": [
+    "声光报警灯",
+    "声光警示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/声光警示灯_c51",
+   "code": "c51",
+   "level": 2
+  },
+  {
+   "path": [
+    "扬声器"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/扬声器_c63",
+   "code": "c63",
+   "level": 1
+  },
+  {
+   "path": [
+    "扬声器",
+    "CAN 型 声光扬声器"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/can-型-声光扬声器_c72",
+   "code": "c72",
+   "level": 2
+  },
+  {
+   "path": [
+    "扬声器",
+    "IO 信号扬声器"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/io-信号扬声器_c73",
+   "code": "c73",
+   "level": 2
+  },
+  {
+   "path": [
+    "扬声器",
+    "RS485 型 信号扬声器"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/rs485-型-信号扬声器_c74",
+   "code": "c74",
+   "level": 2
+  },
+  {
+   "path": [
+    "智能信号灯"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/智能信号灯_c6",
+   "code": "c6",
+   "level": 1
+  },
+  {
+   "path": [
+    "智能信号灯",
+    "IO-LINK 信号灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/io-link-信号灯_c24",
+   "code": "c24",
+   "level": 2
+  },
+  {
+   "path": [
+    "智能信号灯",
+    "RS232 三色信号灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/rs232-三色信号灯_c71",
+   "code": "c71",
+   "level": 2
+  },
+  {
+   "path": [
+    "智能信号灯",
+    "RS485 三色信号灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/rs485-三色信号灯_c30",
+   "code": "c30",
+   "level": 2
+  },
+  {
+   "path": [
+    "智能信号灯",
+    "USB 信号警示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/usb-信号警示灯_c28",
+   "code": "c28",
+   "level": 2
+  },
+  {
+   "path": [
+    "智能信号灯",
+    "以太网多层信号灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/以太网多层信号灯_c29",
+   "code": "c29",
+   "level": 2
+  },
+  {
+   "path": [
+    "智能信号灯",
+    "压动按钮警示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/压动按钮警示灯_c26",
+   "code": "c26",
+   "level": 2
+  },
+  {
+   "path": [
+    "智能信号灯",
+    "红外线警示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/红外线警示灯_c27",
+   "code": "c27",
+   "level": 2
+  },
+  {
+   "path": [
+    "智能信号灯",
+    "触摸警示灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/触摸警示灯_c25",
+   "code": "c25",
+   "level": 2
+  },
+  {
+   "path": [
+    "条形三色/七色信号灯"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/条形三色/七色信号灯_c10",
+   "code": "c10",
+   "level": 1
+  },
+  {
+   "path": [
+    "条形三色/七色信号灯",
+    "塑料三色灯条"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/塑料三色灯条_c34",
+   "code": "c34",
+   "level": 2
+  },
+  {
+   "path": [
+    "条形三色/七色信号灯",
+    "流水三色灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/流水三色灯_c36",
+   "code": "c36",
+   "level": 2
+  },
+  {
+   "path": [
+    "条形三色/七色信号灯",
+    "金属三色/七色灯条"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/金属三色/七色灯条_c35",
+   "code": "c35",
+   "level": 2
+  },
+  {
+   "path": [
+    "紧急急停按钮"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/紧急急停按钮_c11",
+   "code": "c11",
+   "level": 1
+  },
+  {
+   "path": [
+    "触摸开关调光控制器"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/触摸开关调光控制器_c75",
+   "code": "c75",
+   "level": 1
+  },
+  {
+   "path": [
+    "车载用泛光灯"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/车载用泛光灯_c47",
+   "code": "c47",
+   "level": 1
+  },
+  {
+   "path": [
+    "防爆灯"
+   ],
+   "type": "category",
+   "url": "https://cn.otennlux.com/防爆灯_c48",
+   "code": "c48",
+   "level": 1
+  },
+  {
+   "path": [
+    "防爆灯",
+    "防爆信号灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/防爆信号灯_c50",
+   "code": "c50",
+   "level": 2
+  },
+  {
+   "path": [
+    "防爆灯",
+    "防爆条形灯"
+   ],
+   "type": "range",
+   "url": "https://cn.otennlux.com/防爆条形灯_c49",
+   "code": "c49",
+   "level": 2
+  }
+ ]
+}

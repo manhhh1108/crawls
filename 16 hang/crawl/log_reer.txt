@@ -1,0 +1,13 @@
+EN category pages: 281
+  [warn] FAIL https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/watertight-enclosures-wt/standard-wtf/multi-beam-access-control/ -> HTTP 503
+  [warn] FAIL https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/watertight-enclosures-wt/standard-wtf/ -> HTTP 503
+  [warn] FAIL https://www.reersafety.com/en/product-category/safety-light-curtains/janus/ -> HTTP 503
+  [skip] https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/watertight-enclosures-wt/standard-wtf/
+  [skip] https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/watertight-enclosures-wt/standard-wtf/multi-beam-access-control/
+  [skip] https://www.reersafety.com/en/product-category/safety-light-curtains/janus/
+  [warn] FAIL https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/x-standard-safeready-safety-light-curtains/ -> HTTP 000
+  [skip] https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/x-standard-safeready-safety-light-curtains/
+  [warn] FAIL https://www.reersafety.com/en/product-category/safety-light-curtains/vision/integrated-muting-mxl/exit-only-muting-u/ -> HTTP 000
+  [skip] https://www.reersafety.com/en/product-category/safety-light-curtains/vision/integrated-muting-mxl/exit-only-muting-u/
+[03 Reer] saved 294 nodes -> D:\Crawl AUMI\16 hang\crawl\out\03 Reer.json
+        levels: {1: 5, 2: 19, 3: 71, 4: 115, 5: 84}

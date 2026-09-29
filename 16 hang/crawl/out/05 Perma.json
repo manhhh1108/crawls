@@ -1,0 +1,1098 @@
+{
+ "brand": "05 Perma",
+ "site": "https://www.perma-tec.com/en",
+ "note": "Cay danh muc tu sitemap EN + breadcrumb JSON-LD.",
+ "nodes": [
+  {
+   "path": [
+    "Accessories & Lubricants"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Angles"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/angles",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Angles",
+    "Angles G"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/angles/angles-g",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Angles",
+    "Angles M"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/angles/angles-m",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Angles",
+    "Angles R"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/angles/angles-r",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Brackets"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/brackets",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Brackets",
+    "Beam clamp / Cage hanger arm"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/brackets/beam-clamp-cage-hanger-arm",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Brackets",
+    "Brackets for perma CLASSIC, FUTURA, FLEX, NOVA"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/brackets/brackets-for-perma-classic-futura-flex-nova",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Brackets",
+    "Brackets for perma STAR VARIO, STAR CONTROL"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/brackets/brackets-for-perma-star-vario-star-control",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Brackets",
+    "Mounting plates / Mounting angles"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/brackets/mounting-plates-mounting-angles",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Brackets",
+    "Other brackets"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/brackets/other-brackets",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Cartridges / Pails / Bottles / Canisters for pre-filling"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/cartridges-pails-bottles-canisters-for-pre-filling",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Cartridges / Pails / Bottles / Canisters for pre-filling",
+    "Grease"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/cartridges-pails-bottles-canisters-for-pre-filling/grease",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Cartridges / Pails / Bottles / Canisters for pre-filling",
+    "Oil"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/cartridges-pails-bottles-canisters-for-pre-filling/oil",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Extensions"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/extensions",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Extensions",
+    "Extensions G"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/extensions/extensions-g",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Extensions",
+    "Extensions M"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/extensions/extensions-m",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Extensions",
+    "Extensions R"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/extensions/extensions-r",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Extensions",
+    "Extensions UNF"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/extensions/extensions-unf",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Hose / tube connectors"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/hose-tube-connectors",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Hose / tube connectors",
+    "Cutting ring couplings for tubes 101549 + 101550"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/hose-tube-connectors/cutting-ring-couplings-for-tubes-101549-101550",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Hose / tube connectors",
+    "Hose connector Heavy Duty"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/hose-tube-connectors/hose-connector-heavy-duty",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Hose / tube connectors",
+    "Tube connectors for tubes oØ 8 mm up to 6 bar"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/hose-tube-connectors/tube-connectors-for-tubes-oo-8-mm-up-to-6-bar",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Hose / tube connectors",
+    "Tube connectors up to 25 bar (for tube with outer diameter 6 mm)"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/hose-tube-connectors/tube-connectors-up-to-25-bar-for-tube-with-outer-diameter-6-mm",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Hose / tube connectors",
+    "Tube connectors up to 25 bar (for tube with outer diameter 8 mm)"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/hose-tube-connectors/tube-connectors-up-to-25-bar-for-tube-with-outer-diameter-8-mm",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "INSTALLATION KITs"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/installation-kits",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "INSTALLATION KITs",
+    "ACCESSORY KIT ULTRA"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/installation-kits/accessory-kit-ultra",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "INSTALLATION KITs",
+    "ACCESSORY KITS and INSTALLATION KITS Chains"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/installation-kits/accessory-kits-and-installation-kits-chains",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "INSTALLATION KITs",
+    "ACCESSORY KITS and INSTALLATION KITS STAR 500 Heavy Duty"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/installation-kits/accessory-kits-and-installation-kits-star-500-heavy-duty",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "INSTALLATION KITs",
+    "ACCESSORY KITS and INSTALLATION KITS STAR Heavy Duty"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/installation-kits/accessory-kits-and-installation-kits-star-heavy-duty",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "INSTALLATION KITs",
+    "ACCESSORY KITS and INSTALLATION KITS STAR Standard Duty"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/installation-kits/accessory-kits-and-installation-kits-star-standard-duty",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "INSTALLATION KITs",
+    "INSTALLATION KIT CLASSIC, FUTURA, FLEX, NOVA Standard Duty beam clamp mount"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/installation-kits/installation-kit-classic-futura-flex-nova-standard-duty-beam-clamp-mount",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "INSTALLATION KITs",
+    "INSTALLATION KIT CLASSIC, FUTURA, FLEX, NOVA Standard Duty cage hanger"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/installation-kits/installation-kit-classic-futura-flex-nova-standard-duty-cage-hanger",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "INSTALLATION KITs",
+    "INSTALLATION KIT ULTRA"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/installation-kits/installation-kit-ultra",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Lubrication gears"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/lubrication-gears",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Lubrication gears",
+    "Lubrication gears m3"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/lubrication-gears/lubrication-gears-m3",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Lubrication gears",
+    "Lubrication gears m4"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/lubrication-gears/lubrication-gears-m4",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Lubrication gears",
+    "Lubrication gears m5"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/lubrication-gears/lubrication-gears-m5",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Lubrication gears",
+    "Lubrication gears m6"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/lubrication-gears/lubrication-gears-m6",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Oil brushes"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/oil-brushes",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Oil brushes",
+    "Brush with polyamid bristles up to +80 °C"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/oil-brushes/brush-with-polyamid-bristles-up-to-80-degc",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Oil brushes",
+    "Brushes with horsehair up to +80 °C"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/oil-brushes/brushes-with-horsehair-up-to-80-degc",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Oil brushes",
+    "Foam brushes up to +80 °C"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/oil-brushes/foam-brushes-up-to-80-degc",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Oil brushes",
+    "High temperature brush with stainless steel bristles up to +350 °C"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/oil-brushes/high-temperature-brush-with-stainless-steel-bristles-up-to-350-degc",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Oil brushes",
+    "High temperature brushes with PPS bristles up to +180 °C"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/oil-brushes/high-temperature-brushes-with-pps-bristles-up-to-180-degc",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Oil brushes",
+    "Oil brush"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/oil-brushes/oil-brush",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Oil brushes",
+    "Special brushes"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/oil-brushes/special-brushes",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Oil retaining valve"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/oil-retaining-valve",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Others"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/others",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Preparation of lubrication point"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/preparation-of-lubrication-point",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Product accessories"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/product-accessories",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Product accessories",
+    "perma CLASSIC / perma FUTURA"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/product-accessories/perma-classic-perma-futura",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Product accessories",
+    "perma ECOSY"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/product-accessories/perma-ecosy",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Product accessories",
+    "perma FLEX"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/product-accessories/perma-flex",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Product accessories",
+    "perma NOVA"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/product-accessories/perma-nova",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Product accessories",
+    "perma PRO"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/product-accessories/perma-pro",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Product accessories",
+    "perma STAR VARIO / perma STAR CONTROL"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/product-accessories/perma-star-vario-perma-star-control",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Product accessories",
+    "perma ULTRA"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/product-accessories/perma-ultra",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Reducers"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/reducers",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Reducers",
+    "Reducer Whitworth"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/reducers/reducer-whitworth",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Reducers",
+    "Reducers G"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/reducers/reducers-g",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Reducers",
+    "Reducers M"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/reducers/reducers-m",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Reducers",
+    "Reducers R"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/reducers/reducers-r",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Reducers",
+    "Reducers UNF"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/reducers/reducers-unf",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Service equipment"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/service-equipment",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Special accessories"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/special-accessories",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Special brushes / Special mounting brackets"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/special-brushes-special-mounting-brackets",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Special brushes / Special mounting brackets",
+    "Lubricating pinion for chains"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/special-brushes-special-mounting-brackets/lubricating-pinion-for-chains",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Special brushes / Special mounting brackets",
+    "Mounting brackets"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/special-brushes-special-mounting-brackets/mounting-brackets",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Special brushes / Special mounting brackets",
+    "With tapped bore M6"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/special-brushes-special-mounting-brackets/with-tapped-bore-m6",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Special brushes / Special mounting brackets",
+    "With through hole"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/special-brushes-special-mounting-brackets/with-through-hole",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Accessories",
+    "Tubes / hoses"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/accessories/tubes-hoses",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Lubricants"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Lubricants",
+    "Lubricant data sheets"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/lubricants/lubricant-data-sheets",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories & Lubricants",
+    "Lubricants",
+    "perma Lubricants"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/accessories-lubricants/lubricants/perma-lubricants",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Multi-Point Lubrication Systems"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/multi-point-lubrication-systems",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Multi-Point Lubrication Systems",
+    "perma ECOSY"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/multi-point-lubrication-systems/perma-ecosy",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Multi-Point Lubrication Systems",
+    "perma PRO C LINE"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/multi-point-lubrication-systems/perma-pro-c-line",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Multi-Point Lubrication Systems",
+    "perma PRO C MP-6"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/multi-point-lubrication-systems/perma-pro-c-mp-6",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Multi-Point Lubrication Systems",
+    "perma PRO LINE"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/multi-point-lubrication-systems/perma-pro-line",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Multi-Point Lubrication Systems",
+    "perma PRO MP-6"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/multi-point-lubrication-systems/perma-pro-mp-6",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Single-Point Lubrication Systems"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Single-Point Lubrication Systems",
+    "perma CLASSIC"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems/perma-classic",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Single-Point Lubrication Systems",
+    "perma FLEX"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems/perma-flex",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Single-Point Lubrication Systems",
+    "perma FLEX PLUS"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems/perma-flex-plus",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Single-Point Lubrication Systems",
+    "perma FUTURA"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems/perma-futura",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Single-Point Lubrication Systems",
+    "perma FUTURA PLUS"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems/perma-futura-plus",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Single-Point Lubrication Systems",
+    "perma NOVA"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems/perma-nova",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Single-Point Lubrication Systems",
+    "perma STAR CONTROL"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems/perma-star-control",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Single-Point Lubrication Systems",
+    "perma STAR VARIO"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems/perma-star-vario",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Single-Point Lubrication Systems",
+    "perma STAR VARIO BLUETOOTH"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems/perma-star-vario-bluetooth",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Single-Point Lubrication Systems",
+    "perma STAR VARIO LONG RANGE"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems/perma-star-vario-long-range",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Lubrication Systems",
+    "Single-Point Lubrication Systems",
+    "perma ULTRA"
+   ],
+   "type": "category",
+   "url": "https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems/perma-ultra",
+   "code": null,
+   "level": 3
+  }
+ ]
+}

@@ -1,0 +1,26 @@
+navbar L3 entries: 100
+accessories L2 entries: 12
+  L3 pages: 10 / 100 nodes 316
+  L3 pages: 20 / 100 nodes 392
+  L3 pages: 30 / 100 nodes 445
+  L3 pages: 40 / 100 nodes 506
+  L3 pages: 50 / 100 nodes 571
+  L3 pages: 60 / 100 nodes 648
+  L3 pages: 70 / 100 nodes 679
+  L3 pages: 80 / 100 nodes 731
+  L3 pages: 90 / 100 nodes 793
+  L3 pages: 100 / 100 nodes 799
+  accessories pages: 1 / 12 nodes 830
+  accessories pages: 2 / 12 nodes 844
+  accessories pages: 3 / 12 nodes 853
+  accessories pages: 4 / 12 nodes 857
+  accessories pages: 5 / 12 nodes 872
+  accessories pages: 6 / 12 nodes 880
+  accessories pages: 7 / 12 nodes 894
+  accessories pages: 8 / 12 nodes 898
+  accessories pages: 9 / 12 nodes 902
+  accessories pages: 10 / 12 nodes 907
+  accessories pages: 11 / 12 nodes 915
+  accessories pages: 12 / 12 nodes 920
+[04 IFM] saved 920 nodes -> D:\Crawl AUMI\16 hang\crawl\out\04 IFM.json
+        levels: {1: 12, 2: 51, 3: 112, 4: 206, 5: 539}

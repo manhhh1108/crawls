@@ -1,0 +1,351 @@
+{
+ "brand": "12 Supmea",
+ "site": "https://www.supmea.com/",
+ "note": "Cay 2 cap tu trang danh muc SP; cap 2 la cap ngay tren ma SP cu the.",
+ "nodes": [
+  {
+   "path": [
+    "分析仪表"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "分析仪表",
+    "ORP电极"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_97_1.html",
+   "code": "product_97_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "分析仪表",
+    "pH电极"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_100_1.html",
+   "code": "product_100_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "分析仪表",
+    "平台化智能水质控制器"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_95_1.html",
+   "code": "product_95_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "分析仪表",
+    "污泥浓度电极"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_96_1.html",
+   "code": "product_96_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "分析仪表",
+    "浊度电极"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_99_1.html",
+   "code": "product_99_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "分析仪表",
+    "溶解氧电极"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_112_1.html",
+   "code": "product_112_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "分析仪表",
+    "电导率电极"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_98_1.html",
+   "code": "product_98_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "压力仪表"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "压力仪表",
+    "压力变送器"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_77_1.html",
+   "code": "product_77_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "压力仪表",
+    "差压变送器"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_83_1.html",
+   "code": "product_83_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "压力仪表",
+    "数显压力表"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_78_1.html",
+   "code": "product_78_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "显控仪表"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "显控仪表",
+    "数显表"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_1116_1.html",
+   "code": "product_1116_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "显控仪表",
+    "无纸记录仪"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_102_1.html",
+   "code": "product_102_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "显控仪表",
+    "有纸记录仪"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_103_1.html",
+   "code": "product_103_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "显控仪表",
+    "隔离器"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_107_1.html",
+   "code": "product_107_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "流量仪表"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "流量仪表",
+    "涡街流量计"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_86_1.html",
+   "code": "product_86_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "流量仪表",
+    "涡轮流量计"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_85_1.html",
+   "code": "product_85_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "流量仪表",
+    "热式气体质量流量计"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_116_1.html",
+   "code": "product_116_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "流量仪表",
+    "电磁流量计"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_84_1.html",
+   "code": "product_84_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "流量仪表",
+    "超声波流量计"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_87_1.html",
+   "code": "product_87_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "流量仪表",
+    "金属管浮子流量计"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_117_1.html",
+   "code": "product_117_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "温度仪表"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "温度仪表",
+    "温度变送器"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_94_1.html",
+   "code": "product_94_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "温度仪表",
+    "温度模块"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_111_1.html",
+   "code": "product_111_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "温度仪表",
+    "热电偶"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_93_1.html",
+   "code": "product_93_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "温度仪表",
+    "热电阻"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_92_1.html",
+   "code": "product_92_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "物位仪表"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "物位仪表",
+    "单、双法兰液位计"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_1117_1.html",
+   "code": "product_1117_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "物位仪表",
+    "投入式液位计"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_91_1.html",
+   "code": "product_91_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "物位仪表",
+    "磁翻板液位计"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_1118_1.html",
+   "code": "product_1118_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "物位仪表",
+    "超声波液位计"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_90_1.html",
+   "code": "product_90_1.html",
+   "level": 2
+  },
+  {
+   "path": [
+    "物位仪表",
+    "雷达物位计"
+   ],
+   "type": "range",
+   "url": "https://www.supmea.com/product_89_1.html",
+   "code": "product_89_1.html",
+   "level": 2
+  }
+ ]
+}

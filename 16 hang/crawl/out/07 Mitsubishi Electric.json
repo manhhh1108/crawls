@@ -1,0 +1,5427 @@
+{
+ "brand": "07 Mitsubishi Electric",
+ "site": "https://www.mitsubishielectric.com/fa/",
+ "note": "L1-L3 tu megadropdown_products.json; L4 = nhom SP tren trang series (cap ngay tren ma model).",
+ "nodes": [
+  {
+   "path": [
+    "Computerized Numerical Controllers"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "CNC"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/items/cnc/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "CNC",
+    "C80 Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/cnc/c80/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "CNC",
+    "E80 Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/cnc/e80/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "CNC",
+    "M800/M80 Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/cnc/m800_m80/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "CNC",
+    "M800V/M80V Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/cnc/m800v_m80v/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Drive Units"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/items/unit/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "IoT-related Products"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/items/iot/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "IoT-related Products",
+    "MTConnect Data Collector"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/iot/mtconnect_data_collector/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "IoT-related Products",
+    "NC MachiningAID"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/iot/nc_machining_aid/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "IoT-related Products",
+    "NC Virtual Simulator"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/iot/nc_virtual_simulator/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Servo Motors"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/items/servo/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Servo Motors",
+    "HF Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/servo/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Servo Motors",
+    "HF-KP Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/servo/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Servo Motors",
+    "HG Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/servo/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Servo Motors",
+    "HK Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/servo/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Servo Motors",
+    "LM-F Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/servo/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Servo Motors",
+    "TM-RB Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/servo/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Software Tools"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/items/cnctool/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Software Tools",
+    "MTConnect Data Collector"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/iot/mtconnect_data_collector/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Software Tools",
+    "NC MachiningAID"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/iot/nc_machining_aid/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Software Tools",
+    "NC Virtual Simulator"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/iot/nc_virtual_simulator/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Spindle Motors"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/items/spindle/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Spindle Motors",
+    "HF-KP/HF-SP Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/spindle/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Spindle Motors",
+    "HG-JR Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/spindle/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Spindle Motors",
+    "IPM Spindle Motor"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/spindle/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Spindle Motors",
+    "SJ-BG Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/spindle/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Spindle Motors",
+    "SJ-D Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/spindle/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Spindle Motors",
+    "SJ-DG Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/spindle/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Spindle Motors",
+    "SJ-DL Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/spindle/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Spindle Motors",
+    "SJ-V Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/spindle/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Computerized Numerical Controllers",
+    "Computerized Numerical Controllers",
+    "Spindle Motors",
+    "SJ-VL Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/spindle/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "Embedded Type Servo System Controller"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/sscemb/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "Embedded Type Servo System Controller",
+    "C Controller Interface Module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/sscemb/q173sccf/point.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "Embedded Type Servo System Controller",
+    "Motion Control Board"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/sscemb/mr_em4/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "Embedded Type Servo System Controller",
+    "Position Board"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/sscemb/mr_mc21/point.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "Embedded Type Servo System Controller",
+    "Simple Motion Board"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/sscemb/mr_em/point.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "Engineering Software"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/eng/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "FA Application Package iQ Monozukuri"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/apppack/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "FA Application Package iQ Monozukuri",
+    "iQ Monozukuri CONVERTING"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/apppack/cnv/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "FA Application Package iQ Monozukuri",
+    "iQ Monozukuri HANDLING"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/apppack/hdl/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "FA Application Package iQ Monozukuri",
+    "iQ Monozukuri PACKAGING"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/apppack/pac/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "MELSEC iQ-F series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/ssciqf/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "MELSEC iQ-F series",
+    "Motion module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/ssciqf/fx5g/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "MELSEC iQ-F series",
+    "Simple Motion module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/ssciqf/fx5s/point.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "MELSEC iQ-R series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/ssciqr/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "MELSEC iQ-R series",
+    "Motion Controller"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/ssciqr/r32mt/point.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "MELSEC iQ-R series",
+    "Motion module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/ssciqr/rd78g/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "MELSEC iQ-R series",
+    "Simple Motion module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/ssciqr/rd77ms/point.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "MELSEC-L series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/sscl/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "MELSEC-L series",
+    "Simple Motion module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/sscl/ld77ms/point.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "MELSEC-Q series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/sscq/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "MELSEC-Q series",
+    "Motion Controller"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/sscq/motion_dscpu/point.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "MELSEC-Q series",
+    "Simple Motion module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/sscq/qd77ms/point.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "MELSEC-Q series",
+    "Stand-Alone Motion Controller"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/sscq/q170ms/point.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "Motion Control Software"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/swmg/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "Motion Control Software",
+    "Motion Control Software SWM-G"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/swmg/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "Network Related Products"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/items/svnet/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "Network Related Products",
+    "Optical Hub Unit"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/svnet/mv200/point.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Motion Controllers",
+    "Network Related Products",
+    "Sensing module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/svnet/mt2000/point.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Automation Controllers MELSEC"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Automation Controllers MELSEC",
+    "MELSEC MX Controller MX-F Model"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/mxc/items/mxcf/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Automation Controllers MELSEC",
+    "MELSEC MX Controller MX-F Model",
+    "I/O module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/mxc/pmerit/mxcf/io/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Automation Controllers MELSEC",
+    "MELSEC MX Controller MX-F Model",
+    "MELSEC MX Controller MX-F model"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/mxc/pmerit/mxcf/concept/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Automation Controllers MELSEC",
+    "MELSEC MX Controller MX-R Model"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/mxc/items/mxcr/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Automation Controllers MELSEC",
+    "MELSEC MX Controller MX-R Model",
+    "MELSEC MX Controller MX-R model"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/mxc/pmerit/mxcr/concept/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "Engineering Software"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plceng/items/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-F Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcf/items/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-F Series",
+    "Analog Control module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcf/pmerit/analog/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-F Series",
+    "CPU module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcf/pmerit/cpu/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-F Series",
+    "High-Speed Counting module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcf/pmerit/hc/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-F Series",
+    "I/O module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcf/pmerit/io/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-F Series",
+    "Motion/Positioning Control module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcf/pmerit/positioning/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-F Series",
+    "Network/Communication module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcf/pmerit/communication/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-F Series",
+    "Option"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcf/pmerit/option/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-F Series",
+    "Safety extension module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcf/pmerit/safety/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-R Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcr/items/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-R Series",
+    "Advanced information module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcr/pmerit/it_connect/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-R Series",
+    "Analog module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcr/pmerit/analog/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-R Series",
+    "CPU module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcr/pmerit/cpu/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-R Series",
+    "DataNavigateApp"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcr/pmerit/datanavi/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-R Series",
+    "Energy measuring module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcr/pmerit/measuring/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-R Series",
+    "High-speed counter, Channel isolated pulse input, Flexible high-speed I/O control"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcr/pmerit/high-speed/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-R Series",
+    "I/O module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcr/pmerit/io/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-R Series",
+    "Motion module, Positioning module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcr/pmerit/motion/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-R Series",
+    "Network module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcr/pmerit/network/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC iQ-R Series",
+    "Temperature input module, Temperature control module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcr/pmerit/temp/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-A Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plca/pmerit/concept/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-F Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plc_fx/items/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-F Series",
+    "Analog Control"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plc_fx/pmerit/contents/analog/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-F Series",
+    "High-Speed Counting"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plc_fx/pmerit/contents/hc/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-F Series",
+    "I/O Extension"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plc_fx/pmerit/contents/extension/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-F Series",
+    "Main Unit"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plc_fx/pmerit/contents/plc/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-F Series",
+    "Network/Communication"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plc_fx/pmerit/contents/communication/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-F Series",
+    "Option"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plc_fx/pmerit/contents/option/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-F Series",
+    "Positioning Control"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plc_fx/pmerit/contents/positioning/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-L Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcl/items/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-L Series",
+    "Analog module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcl/pmerit/analog/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-L Series",
+    "CPU module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcl/pmerit/cpu/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-L Series",
+    "High-speed counter/Flexible high-speed I/O control module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcl/pmerit/counter/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-L Series",
+    "I/O module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcl/pmerit/io/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-L Series",
+    "Network module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcl/pmerit/network/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-L Series",
+    "Simple motion/Positioning module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcl/pmerit/motion/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-Q Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcq/items/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-Q Series",
+    "Analog module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcq/pmerit/analog/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-Q Series",
+    "CPU module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcq/pmerit/cpu/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-Q Series",
+    "Energy measuring module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcq/pmerit/energy/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-Q Series",
+    "High-speed counter/Pulse I/O module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcq/pmerit/counter/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-Q Series",
+    "I/O module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcq/pmerit/io/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-Q Series",
+    "Information/Network module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcq/pmerit/network/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-Q Series",
+    "Simple motion/Positioning module"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcq/pmerit/motion/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-QS/WS Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcqsws/items/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-QS/WS Series",
+    "Safety Controller"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcqsws/pmerit/concept/safetycontroller.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-QS/WS Series",
+    "Safety Programmable Controller (Out of production)"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcqsws/pmerit/concept/safetyplc.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "MELSEC-QS/WS Series",
+    "Safety Relay Module (Out of production)"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcqsws/pmerit/concept/safetyrelay.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "Network-related products"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcnet/items/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "Network-related products",
+    "CC-Link IE Control Network"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcnet/pmerit/cclink_ie/concept/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "Network-related products",
+    "CC-Link IE Field Network"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcnet/pmerit/cclink_ie/concept/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "Network-related products",
+    "CC-Link IE Field Network Basic"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcnet/pmerit/cclink_ie/basic/concept/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Programmable Controllers MELSEC",
+    "Network-related products",
+    "CC-Link IE TSN"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcnet/pmerit/cclink_ie_tsn/concept/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Controllers",
+    "Simple Application Controllers"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/sac/index.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Drive Products"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO Others"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/other/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO Others",
+    "--> MELSERVO-J2-Super"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_j2s/amp/mrj2s01l.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO Others",
+    "--> MELSERVO-J3"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_j3/amp/mrj3_merit.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-J4"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_j4/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-J4",
+    "Direct Drive Motor"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_j4/ddm/feature.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-J4",
+    "Linear Servo Motor"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_j4/linear/feature.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-J4",
+    "Rotary Servo Motor"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_j4/motor/feature.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-J4",
+    "Servo Amplifier"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_j4/amp/concept.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-J5"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_j5/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-J5",
+    "Direct Drive Motor"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_j5/ddm/feature.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-J5",
+    "Linear Servo Motor"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_j5/linear/feature.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-J5",
+    "Rotary Servo Motor"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_j5/motor/feature.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-J5",
+    "Servo Amplifier"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_j5/amp/feature.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-JE"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_je/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-JE",
+    "Rotary Servo Motor"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_je/motor/motormodel.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-JE",
+    "Servo Amplifier"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_je/amp/concept.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-JET"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_jet/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-JET",
+    "Linear Servo Motor"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_jet/linear/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-JET",
+    "Rotary Servo Motor"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_jet/motor/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-JET",
+    "Servo Amplifier"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_jet/amp/feature.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-JN"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/mr_jn/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-JN",
+    "Rotary Servo Motor"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_jn/motor/motormodel.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "MELSERVO-JN",
+    "Servo Amplifier"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/pmerit/mr_jn/amp/mrjn.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "AC Servos-MELSERVO",
+    "Servo Support Software"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/items/soft/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Geared Motors"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Geared Motors",
+    "Geared Motors Parallel shaft type"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/gear/items/gm_parallel/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Geared Motors",
+    "Geared Motors Parallel shaft type",
+    "GM-D, DP series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/gear/pmerit/gm_parallel/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Geared Motors",
+    "Geared Motors Parallel shaft type",
+    "GM-LJP series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/gear/pmerit/gm_parallel/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Geared Motors",
+    "Geared Motors Parallel shaft type",
+    "GM-S, SP series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/gear/pmerit/gm_parallel/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Geared Motors",
+    "Geared Motors Right angle shaft type"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/gear/items/gm_right_angle/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Geared Motors",
+    "Geared Motors Right angle shaft type",
+    "GM-SHY, SHYP series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/gear/pmerit/gm_right_angle/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Geared Motors",
+    "Geared Motors Right angle shaft type",
+    "GM-SSY, SSYP series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/gear/pmerit/gm_right_angle/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Geared Motors",
+    "S-PM Geared Motors Parallel shaft type"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/gear/items/spm_parallel/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Geared Motors",
+    "S-PM Geared Motors Parallel shaft type",
+    "GＶ-S series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/gear/pmerit/spm_parallel/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Geared Motors",
+    "S-PM Geared Motors Right angle shaft type"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/gear/items/spm_right_angle/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Geared Motors",
+    "S-PM Geared Motors Right angle shaft type",
+    "GＶ-SHY series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/gear/pmerit/spm_right_angle/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Geared Motors",
+    "S-PM Geared Motors Right angle shaft type",
+    "GＶ-SSY series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/gear/pmerit/spm_right_angle/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "Engineering Software"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/items/soft/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-A series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/items/fr_a/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-A series",
+    "FR-A800"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/fr_a/fr_a800/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-A800 Plus series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/items/fr_a800_plus/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-A800 Plus series",
+    "FR-A800-CRN"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/fr_a800_plus_crn/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-A800 Plus series",
+    "FR-A800-R2R"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/fr_a800_plus_r2r/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-A800 Plus series",
+    "FREQROL-A800-AWH"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/fr_a800_awh/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-A800 Plus series",
+    "FREQROL-A800-LC"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/fr_a800_lc/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-CS series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/items/fr_cs/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-CS series",
+    "FR-CS80"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/fr_cs/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-D series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/items/fr_d/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-D series",
+    "FR-D700"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/fr_d/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-D series",
+    "FR-D800NEW"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/fr_d/d800/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-E series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/items/fr_e/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-E series",
+    "FR-E700"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/fr_e/e700/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-E series",
+    "FR-E800"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/fr_e/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-F series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/items/fr_f/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-F series",
+    "FR-F700PJ"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/fr_f/fr_f700pj/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive Products",
+    "Inverters-FREQROL",
+    "FR-F series",
+    "FR-F800"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/pmerit/fr_f/fr_f800/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Electrical Discharge Machines"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Electrical Discharge Machines",
+    "Electrical Discharge Machines"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Electrical Discharge Machines",
+    "Electrical Discharge Machines",
+    "CAD/CAM , S/W"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/mecha/edm/items/cadcam/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Electrical Discharge Machines",
+    "Electrical Discharge Machines",
+    "Die-sinking Electrical Discharge Machines"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/mecha/edm/items/die_sinking/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Electrical Discharge Machines",
+    "Electrical Discharge Machines",
+    "Wire-cut Electrical Discharge Machines"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/mecha/edm/items/wire/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Electrical Discharge Machines",
+    "Electrical Discharge Machines",
+    "Wire-cut Electrical Discharge Machines",
+    "MG Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/mecha/edm/pmerit/wire/list_mg.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Electrical Discharge Machines",
+    "Electrical Discharge Machines",
+    "Wire-cut Electrical Discharge Machines",
+    "MG-R Series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/mecha/edm/pmerit/wire/list_mg.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Electron Beam Machines"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Electron Beam Machines",
+    "Electron Beam Machines"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Energy Saving Supporting Devices"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Energy Saving Supporting Devices",
+    "Energy Saving Supporting Devices"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Energy Saving Supporting Devices",
+    "Energy Saving Supporting Devices",
+    "Energy Measuring Units"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/pmng/ems/items/ecomonitor/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Energy Saving Supporting Devices",
+    "Energy Saving Supporting Devices",
+    "Energy Measuring Units",
+    "Energy Measuring Unit - EcoMonitorLight"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/pmng/ems/pmerit/ecomonitor_light/ecomonitor_Light_1.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Energy Saving Supporting Devices",
+    "Energy Saving Supporting Devices",
+    "Energy Measuring Units",
+    "Energy Measuring Unit - EcoMonitorPlus"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/pmng/ems/pmerit/ecomonitor/emplus_1.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Energy Saving Supporting Devices",
+    "Energy Saving Supporting Devices",
+    "Energy Saving Data Collecting Servers"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/pmng/ems/items/ecoserver/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Energy Saving Supporting Devices",
+    "Energy Saving Supporting Devices",
+    "Energy Saving Data Collecting Servers",
+    "Energy Saving Data Collecting Servers - EcoWebServerIII"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/pmng/ems/pmerit/ecoserver/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Energy Saving Supporting Devices",
+    "Energy Saving Supporting Devices",
+    "Energy Saving Support Software"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/ems/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Energy Saving Supporting Devices",
+    "Energy Saving Supporting Devices",
+    "MELSEC iQ-R Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcr/pmerit/measuring/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Energy Saving Supporting Devices",
+    "Energy Saving Supporting Devices",
+    "MELSEC-Q Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcq/pmerit/energy/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "AC Servo engineering software (MELSERVO)"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "AC Servo engineering software (MELSERVO)",
+    "MR Configurator2"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/servo/smerit/mr2/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "HMI engineering software (GOT)"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "HMI engineering software (GOT)",
+    "GT Works Text to Speech License"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/smerit/gt_works3/feature/feature03.html#Voice",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "HMI engineering software (GOT)",
+    "GT Works3"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/smerit/gt_works3/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "HMI engineering software (GOT)",
+    "GT Works3 add-on license for GOT2000 enhanced drive control (servo) project data"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/got_solutions/case_63.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "Integrated engineering software"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "Integrated engineering software",
+    "iQ AppPortal"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/sft/melsoft/smerit/iq_app_portal/index.html?menu=kisyu&mid=plc",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "Integrated engineering software",
+    "iQ Works"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/sft/melsoft/smerit/iq_works/index.html?menu=kisyu&mid=plc",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "Inverter engineering software (FREQROL)"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "Inverter engineering software (FREQROL)",
+    "FR Configurator2"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/drv/inv/smerit/fr_config2/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "Motion Controller engineering software"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "Motion Controller engineering software",
+    "GX Works3"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plceng/smerit/gx_works3/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "Motion Controller engineering software",
+    "MT Works2"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/smerit/mt_works2/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "NC Software Tools"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "NC Software Tools",
+    "NC Analyzer2"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/smerit/nc_analyzer2/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "NC Software Tools",
+    "NC Configurator2"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/smerit/nc_configurator2/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "NC Software Tools",
+    "NC Designer2"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/smerit/nc_designer2/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "NC Software Tools",
+    "NC Explorer"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/smerit/nc_explorer/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "NC Software Tools",
+    "NC Machine Tool Optimizer"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/iot/nmt_optimizer/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "NC Software Tools",
+    "NC Monitor2"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/smerit/nc_monitor2/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "NC Software Tools",
+    "NC Servo Selection"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/smerit/nc_servo_selection/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "NC Software Tools",
+    "NC Trainer2 / NC Trainer2 plus"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/smerit/nc_trainer2/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "NC Software Tools",
+    "NC Virtual Simulator"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/iot/nc_virtual_simulator/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "NC Software Tools",
+    "Remote Monitor Tool (C70)"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/smerit/remote_monitor/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "PLC engineering software (MELSEC)"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "PLC engineering software (MELSEC)",
+    "FieldDeviceConfigurator"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/sft/melsoft/smerit/fdc/index.html?menu=kisyu&mid=plc",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "PLC engineering software (MELSEC)",
+    "GX LogViewer"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plceng/smerit/gx_logviewer/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "PLC engineering software (MELSEC)",
+    "GX VideoViewer Pro"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcr/pmerit/sysrecorder/related_soft.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "PLC engineering software (MELSEC)",
+    "GX Works2"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plceng/smerit/gx_works2/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "PLC engineering software (MELSEC)",
+    "GX Works3"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plceng/smerit/gx_works3/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "PLC engineering software (MELSEC)",
+    "iQ Works"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/sft/melsoft/smerit/iq_works/index.html?menu=kisyu&mid=plc",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "PLC engineering software (MELSEC)",
+    "MX Component"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plceng/smerit/mx_component/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "PLC engineering software (MELSEC)",
+    "MX Sheet"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plceng/smerit/mx_sheet/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "PLC engineering software (MELSEC)",
+    "Other development support tools"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plceng/smerit/other_eng/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "PLC engineering software (MELSEC)",
+    "Peripheral device development support tool"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plceng/smerit/support_tools/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "PLC engineering software (MELSEC)",
+    "PX Developer"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plceng/smerit/px_developer/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "Robot engineering software (MELFA)"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "Robot engineering software (MELFA)",
+    "RT ToolBox3"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/smerit/rt3/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Engineering Software",
+    "Robot engineering software (MELFA)",
+    "RT VisualBox"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/assista/smerit/vb/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "FA Sensor"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "FA Sensor",
+    "FA Sensor MELSENSOR"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "FA Sensor",
+    "FA Sensor MELSENSOR",
+    "Code Reader"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/snsr/sensor/items/cr/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "FA Sensor",
+    "FA Sensor MELSENSOR",
+    "Code Reader",
+    "Code Reader CF26/CF37 (Out of production)"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/snsr/sensor/pmerit/cr/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "FA Sensor",
+    "FA Sensor MELSENSOR",
+    "Vision Sensor"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/snsr/sensor/items/vs/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "FA Sensor",
+    "FA Sensor MELSENSOR",
+    "Vision Sensor",
+    "Vision Sensor VS20 (Out of production)"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/snsr/sensor/pmerit/vs/features/vs20.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "FA Sensor",
+    "FA Sensor MELSENSOR",
+    "Vision Sensor",
+    "Vision Sensor VS70 (Out of production)"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/snsr/sensor/pmerit/vs/features/vs70.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "FA Sensor",
+    "FA Sensor MELSENSOR",
+    "Vision Sensor",
+    "Vision Sensor VS80 (Out of production)"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/snsr/sensor/pmerit/vs/features/vs80.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Factory Automation Affiliated Companies"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Factory Automation Affiliated Companies",
+    "Anywire"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/group/anywire/index.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Factory Automation Affiliated Companies",
+    "Mitsubishi Electric Engineering Company"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/group/mee/index.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Human Machine Interfaces"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "Engineering Software"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/items/eng/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "FA Application Package iQ Monozukuri"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/items/apppack/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "FA Application Package iQ Monozukuri",
+    "iQ Monozukuri ANDON"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/apppack/andon/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "FA Application Package iQ Monozukuri",
+    "iQ Monozukuri Process Remote Monitoring"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/apppack/prm/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT SIMPLE Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/items/got_simple/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT SIMPLE Series",
+    "GS21 Model"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got_simple/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT SIMPLE Series",
+    "GS21-N Model"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got_simple/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/items/got2000/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "GOT Mobile Function License for GOT2000"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/got_solutions/case_01.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "GOT Mobile Function License for GT SoftGOT2000"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/sgt/sgt2000/new_function01.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "GT Works3 add-on license for GOT2000 enhanced drive control (servo) project data"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/got_solutions/case_63.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "GT21 Model"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/gt2104.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "GT21 Wide Model"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/wide/gt21wide.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "GT23 Model"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/gt23.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "GT25 Model"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/gt25/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "GT25 Open Frame Model"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/gt25f.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "GT25 Rugged Model"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/tough/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "GT25 Wide Model"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/wide/gt25wide.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "GT27 Model"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/gt27.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "Handy GOT"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/handy/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "MELSOFT GT SoftGOT2000"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/sgt/sgt2000/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "MES I/F Function License"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/got_solutions/case_40.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "Peripheral Equipment"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/lup/unit/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "Remote Personal Computer Operation Function (Ethernet) License"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/got_solutions/case_04.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT2000 Series",
+    "VNC Server Function License"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/got_solutions/case_02.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT3000 Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/items/got3000/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT3000 Series",
+    "GT37 Model"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got3000/gt37wide.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT3000 Series",
+    "MELSOFT GT SoftGOT3000"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/sgt/sgt3000/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GOT3000 Series",
+    "Multimedia Function License"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/functions/videolink.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GT SoftGOT"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/items/sgt/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GT SoftGOT",
+    "GT SoftGOT2000"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/sgt/sgt2000/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Human Machine Interfaces",
+    "Human Machine Interfaces MELHMI-GOT",
+    "GT SoftGOT",
+    "GT SoftGOT3000"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/sgt/sgt3000/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Industrial Computer"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Industrial Computer",
+    "Industrial Computer MELIPC"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Industrial Computer",
+    "Industrial Computer MELIPC",
+    "MI2012-W(-CL)"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/edge/melipc/pmerit/mi2000/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Industrial Computer",
+    "Industrial Computer MELIPC",
+    "MI2532-W/MI2332-W"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/edge/melipc/pmerit/mi25-23/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Industrial Computer",
+    "Industrial Computer MELIPC",
+    "MI3321G-W/MI3315G-W"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/edge/melipc/pmerit/mi3000/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Industrial Computer",
+    "Industrial Computer MELIPC",
+    "MI5122-VW"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/edge/melipc/pmerit/mi5000/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Laser Processing Machines"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Laser Processing Machines",
+    "Laser Processing Machines"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Laser Processing Machines",
+    "Laser Processing Machines",
+    "2D Laser Processing Machines"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/mecha/laser/items/2d/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Laser Processing Machines",
+    "Laser Processing Machines",
+    "3D Laser Processing Machines"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/mecha/laser/items/3d/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Laser Processing Machines",
+    "Laser Processing Machines",
+    "Automation for Laser"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/mecha/laser/items/cuttingl/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Laser Processing Machines",
+    "Laser Processing Machines",
+    "CAD/CAM , S/W"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/mecha/laser/items/cadcam/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Laser Processing Machines",
+    "Laser Processing Machines",
+    "Large Size Laser Processing Machines"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/mecha/laser/items/largesize/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Laser Processing Machines",
+    "Laser Processing Machines",
+    "Laser Drilling Machines"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/mecha/laser/items/drilling/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Contactors"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/items/lvmc/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Contactors",
+    "Compact 3 Pole Contactors"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/lvmc/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Contactors",
+    "Delay Open Type Contactors"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/lvmc/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Contactors",
+    "Mechanically Latched Contactors"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/lvmc/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Contactors",
+    "Non Reversing Contactors"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/lvmc/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Contactors",
+    "Optional Parts and Accessories"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/lvmc/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Contactors",
+    "Reversing Contactors"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/lvmc/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Definite Purpose Contactors"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/items/otcon/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Definite Purpose Contactors",
+    "DC Contactors"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/otcon/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Definite Purpose Contactors",
+    "DC Interface Contactors"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/otcon/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Definite Purpose Contactors",
+    "Heavy Duty Clapper Type Contactors"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/otcon/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Definite Purpose Contactors",
+    "Higt Switching Type Contactors"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/otcon/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Definite Purpose Contactors",
+    "Medium Voltage Vacuum Contactors"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/otcon/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Definite Purpose Contactors",
+    "NC Main Contact Contactors"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/otcon/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Circuit Breakers"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/items/mms/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Circuit Breakers",
+    "Motor Circuit Breakers"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/mms/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Circuit Breakers",
+    "Optional Parts and Accessories"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/mms/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Protection Relays"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/items/thr/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Protection Relays",
+    "Motor Protection Relays with Phase Failure Protection"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/thr/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Protection Relays",
+    "Motor Protection Relays with Saturable ReactorsReactors"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/thr/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Protection Relays",
+    "Motor Protection Relays without Phase Failure Protection"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/thr/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Protection Relays",
+    "Optional Parts and Accessories"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/thr/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Protection Relays",
+    "Quick Trip Motor Protection Relays"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/thr/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Starters"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/items/lvms/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Starters",
+    "Delay Open Type Motor Starters"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/lvms/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Starters",
+    "Enclosed Motor Starters"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/lvms/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Starters",
+    "Mechanically Latched Motor Starters"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/lvms/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Starters",
+    "Motor Starter with Special Thermal Overload Relays"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/lvms/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Starters",
+    "Non Reversing Motor Starters without Enclosure"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/lvms/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Starters",
+    "Optional Parts and Accessories"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/lvms/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Motor Starters",
+    "Reversing Motor Starters without Enclosure"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/lvms/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Related Components"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/items/comdev/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Related Components",
+    "Electronic Motor Protection Relays"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/comdev/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Related Components",
+    "Re Starting Relay"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/comdev/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Related Components",
+    "Star Delta Starters"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/comdev/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Related Components",
+    "Voltage Detection Relays"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/comdev/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Relays"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/items/relay/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Relays",
+    "Contactor Relay with High Current"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/relay/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Relays",
+    "Contactor Relay with Overlap Contact"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/relay/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Relays",
+    "Contactor Relays"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/relay/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Relays",
+    "Delay Open Type Contactor Relays"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/relay/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Relays",
+    "Mechanically Latched Contactor Relays"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/relay/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Relays",
+    "Optional Parts and Accessories"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/relay/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Solid State Contactors"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/items/sscon/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Solid State Contactors",
+    "Optional Parts and Accessories"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/sscon/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Solid State Contactors",
+    "Solid State Contactors for Heater Load"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/sscon/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Contactors and Motor Starters",
+    "Solid State Contactors",
+    "Solid State Contactors for Motor and Heater Load"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvsw/pmerit/sscon/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Accessories and Related Components"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/items/acc/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Accessories and Related Components",
+    "External Accessories Handle, TC, HL, MD"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/acc/index_2.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Accessories and Related Components",
+    "Internal Accessories AL, AX, SHT, UVT"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/acc/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Air Circuit Breakers"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/items/acb/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Air Circuit Breakers",
+    "Air Circuit Breakers (ACB) AE-SW"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/acb/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Circuit Breakers for Distribution Panel and Control Panel"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/items/pbcb/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Circuit Breakers for Distribution Panel and Control Panel",
+    "Circuit Breakers for Control Panel NF-FA"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/pbcb/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Circuit Breakers for Distribution Panel and Control Panel",
+    "Circuit Breakers for Control Panel NF-FAU, FHU"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/pbcb/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Circuit Breakers for Distribution Panel and Control Panel",
+    "Circuit Breakers for Distribution Panel NF-KC"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/pbcb_kc/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Circuit Breakers for Equipment"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/items/cbe/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Circuit Breakers for Equipment",
+    "Circuit Protectors（CBE）CP"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/cbe/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Circuit Breakers for Use in Particular Applications"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/items/spcb/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Circuit Breakers for Use in Particular Applications",
+    "Instantaneous tripping Circuit Breakers"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/spcb_dc/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Circuit Breakers for Use in Particular Applications",
+    "Isolation Switches DSN"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/spcb_dsn/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Circuit Breakers with Spring Clamp Terminals"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/sq/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Circuit Breakers with Spring Clamp Terminals",
+    "Circuit Breakers with Spring Clamp Terminals"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/items/sq/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Earth Leakage Circuit Breakers"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/items/elcb/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Earth Leakage Circuit Breakers",
+    "Earth-Leakage Circuit Breakers (ELCB) NV"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/elcb/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Earth Leakage Circuit Breakers",
+    "Motor Protection Breakers NV"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/elcb/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Earth Leakage Relays"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/items/elr/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Earth Leakage Relays",
+    "Earth Leakage Relays NV-Z"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/elr/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Miniature Circuit Breakers"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/items/mcb/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Miniature Circuit Breakers",
+    "Isolation Switches KB-D"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/mcb/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Miniature Circuit Breakers",
+    "Miniature Circuit Breakers (MCB) BH-D, BH-DN"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/mcb/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Miniature Circuit Breakers",
+    "Residual Current Circuit Breakers (RCCB) BV-D"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/mcb/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Miniature Circuit Breakers",
+    "Residual Current Circuit Breakers with Overload Protection (RCBO) BV-DN"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/mcb/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Molded Case Circuit Breakers"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/items/mccb/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Molded Case Circuit Breakers",
+    "Molded-Case Circuit Breakers (MCCB) NF"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/mccb/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Molded Case Circuit Breakers",
+    "Motor Protection Breakers NF"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/mccb/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/items/dcmccb/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Molded Case Circuit Breakers for DC Circuit (up to 1000VDC)",
+    "Molded Circuit Breakers for DC use NF-HD"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/dcmccb/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Molded Case Circuit Breakers with MDU"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/items/mdu/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "Molded Case Circuit Breakers with MDU",
+    "Molded Case Circuit Breakers with Measuring Display Unit"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/mdu/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "UL 489 Listed Circuit Breakers"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/items/ulcb/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "UL 489 Listed Circuit Breakers",
+    "UL 489 Listed Molded Case Circuit Breakers NF-U"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/ulcb/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Low-voltage Circuit Breakers",
+    "UL 489 Listed Circuit Breakers",
+    "UL 489 Listed Molded Case Circuit Breakers with Ground Fault Protection NV-U"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/lvd/lvcb/pmerit/ulcb/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Power Management Meters"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Power Management Meters",
+    "Electrical Indicators"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/pmng/pmd/items/eim/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Low-voltage Power Distribution Products",
+    "Power Management Meters",
+    "Electrical Indicators",
+    "Electronic Multi Measuring Instruments (ME96 Series)"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/pmng/pmd/pmerit/eim/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Peripheral Equipment"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/items/comdev/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Protection Relays - MELPRO-A Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/items/a3_series/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Protection Relays - MELPRO-A Series",
+    "Earth Fault Directional Relay MDG-A3, A4"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/pmerit/a3_series/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Protection Relays - MELPRO-A Series",
+    "Earth Fault Overcurrent Relay MGR-A3"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/pmerit/a3_series/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Protection Relays - MELPRO-A Series",
+    "Earth Fault Overvoltage Relay MVG-A3, A4"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/pmerit/a3_series/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Protection Relays - MELPRO-A Series",
+    "Over Voltage Relay MOV-A3"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/pmerit/a3_series/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Protection Relays - MELPRO-A Series",
+    "Overcurrent Relay MOC-A3"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/pmerit/a3_series/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Protection Relays - MELPRO-A Series",
+    "Under Voltage Relay MUV-A3"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/pmerit/a3_series/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Protection Relays - MELPRO-D Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/items/nd_series/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Protection Relays - MELPRO-D Series",
+    "Biased Differential Relay for Transformer Protection"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/pmerit/nd_series/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Protection Relays - MELPRO-D Series",
+    "Feeder Protection Relay"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/pmerit/nd_series/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Protection Relays - MELPRO-D Series",
+    "Motor Protection Relay"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/pmerit/nd_series/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Protection Relays - MELPRO-S Series"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/items/s_series/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Protection Relays - MELPRO-S Series",
+    "Overcurrent Relay"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/pmerit/s_series/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Medium-voltage Power Distribution Products",
+    "Protection Relays",
+    "Protection Relays - MELPRO-S Series",
+    "Voltage Relay"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/mvd/pror/pmerit/s_series/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Network"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Network",
+    "CC-Link IE Control"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcnet/pmerit/cclink_ie/concept/index.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Network",
+    "CC-Link IE Field"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcnet/pmerit/cclink_ie/concept/index.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Network",
+    "CC-Link IE Field Network Basic"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcnet/pmerit/cclink_ie/basic/concept/index.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Network",
+    "CC-Link IE TSN"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plcnet/pmerit/cclink_ie_tsn/concept/index.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Network",
+    "SSCNET III/H"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/ssc/pmerit/network/sscnet/index.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Robots"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Robots",
+    "Collaborative Robot-ASSISTA"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Robots",
+    "Collaborative Robot-ASSISTA",
+    "Collaborative Robot-ASSISTA"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/assista/items/assista/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Robots",
+    "Collaborative Robot-ASSISTA",
+    "Collaborative Robot-ASSISTA",
+    "MELFA ASSISTA"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/assista/pmerit/assista/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Collaborative Robot-ASSISTA",
+    "Engineering software"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/robot/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Robots",
+    "Collaborative Robot-ASSISTA",
+    "Intelligent Options"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/assista/items/option/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Robots",
+    "Collaborative Robot-ASSISTA",
+    "Intelligent Options",
+    "3D Vision sensor"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/assista/pmerit/option/vs3d/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Collaborative Robot-ASSISTA",
+    "Intelligent Options",
+    "Force sensor set"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/assista/pmerit/option/forcesensor/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Collaborative Robot-ASSISTA",
+    "Intelligent Options",
+    "High-performance teaching box"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/assista/pmerit/option/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Discontinued models"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/items/discon/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Engineering software"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/robot/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Environment-resistant specifications type robot"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/discon/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Horizontal articulated robot"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/items/horizontal/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Horizontal articulated robot",
+    "RH-CRH series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/horizontal/crhseries/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Horizontal articulated robot",
+    "RH-FRH series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/horizontal/frseries/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Intelligent Options"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/items/option/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Intelligent Options",
+    "3D Vision sensor"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/option/vision_3d.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Intelligent Options",
+    "Force sensor set"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/option/forcesensor.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Intelligent Options",
+    "FR series Robot safety solutions"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/option/safety_fr.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Intelligent Options",
+    "High-performance teaching box"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/option/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Intelligent Options",
+    "Robot hand tool"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/option/handtool.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Intelligent Options",
+    "Wiring solution"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/option/wiring.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "MELFA Smart Plus"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/items/msp/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "MELFA Smart Plus",
+    "2D vision sensor enhancement function"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/msp/vision2d.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "MELFA Smart Plus",
+    "Calibration assistance function"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/msp/calibration.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "MELFA Smart Plus",
+    "Coordinated control of additional axis"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/msp/addaxis.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "MELFA Smart Plus",
+    "Enhancement function for force sense control"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/msp/forcesensor.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "MELFA Smart Plus",
+    "MELFA-3D Vision enhancement function"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/msp/vision3d.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "MELFA Smart Plus",
+    "Predictive maintenance function"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/msp/prediction.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "MELFA Smart Plus",
+    "Preventive maintenance function"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/msp/prevention.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "MELFA Smart Plus",
+    "Robot mechanism thermal compensation function"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/msp/thermal.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Vertical articulated robot"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/items/vertical/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Vertical articulated robot",
+    "RV-CR series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/vertical/crseries/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Robots",
+    "Industrial Robots-MELFA",
+    "Vertical articulated robot",
+    "RV-FR series"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/pmerit/vertical/frseries/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Solution Software"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Data communication software"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Data communication software",
+    "GOT2000 MES interface function"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/got_solutions/case_40.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Data communication software",
+    "GOT2000 MES interface function",
+    "Function list"
+   ],
+   "type": "range",
+   "url": "https://www.mitsubishielectric.com/fa/products/hmi/got/pmerit/got2000/functions_list/index.html",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Data communication software",
+    "MX Component"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plceng/smerit/mx_component/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Data communication software",
+    "MX Sheet"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/plceng/smerit/mx_sheet/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Data science tools"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Data science tools",
+    "e-F@ctory Starter Package"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/visualisation/support-module/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Data science tools",
+    "MELSOFT MaiLab"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/data-science-tools/mailab/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Energy Saving Support Software"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Energy Saving Support Software",
+    "Energy Saving Support Software EcoAdviser"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/ems/eap/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Image Processing Software"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Image Processing Software",
+    "Visual Inspection Software MELSOFT VIXIO"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/image-processing/vixio/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Remote access"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Remote access",
+    "HMI software (GOT)"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/remote-accesses/got/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Remote access",
+    "SCADA software GENESIS™"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/visualisation/genesis64/index.html?dir=/fa/products/software/remote-accesses/got",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Simulation tools"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Simulation tools",
+    "3D Simulator MELSOFT Gemini"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/simulation-tools/gemini/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Simulation tools",
+    "Logic simulator MELSOFT Mirror"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/simulation-tools/mirror/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Simulation tools",
+    "RT ToolBox3"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/rbt/robot/smerit/rt3/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Visualization software"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Visualization software",
+    "e-F@ctory Starter Package"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/visualisation/support-module/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Visualization software",
+    "HMI software (GOT)"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/visualisation/got/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Visualization software",
+    "NC Machine Tool Optimizer"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/cnt/cnc/pmerit/iot/nmt_optimizer/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Visualization software",
+    "SCADA software GENESIS™"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/visualisation/genesis64/index.html",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Solution Software",
+    "Visualization software",
+    "System recorder related software"
+   ],
+   "type": "category",
+   "url": "https://www.mitsubishielectric.com/fa/products/software/visualisation/system-recorder/index.html",
+   "code": null,
+   "level": 3
+  }
+ ]
+}

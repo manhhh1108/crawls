@@ -1,0 +1,46 @@
+product URLs: 267
+  [skip] https://www.balluff.com/en-sg/products/areas/A0001/groups/G0114
+  [skip] https://www.balluff.com/en-sg/products/areas/A0001/groups/G0114/products/F01407
+  [skip] https://www.balluff.com/en-sg/products/areas/A0001/groups/G0117
+  [skip] https://www.balluff.com/en-sg/products/areas/A0001/groups/G0117/products/F11701
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0001/groups/G0123/products/F012302 -> HTTP 404
+  [skip] https://www.balluff.com/en-sg/products/areas/A0001/groups/G0123/products/F012302
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0003/groups/G0301/products/F03105 -> HTTP 404
+  [skip] https://www.balluff.com/en-sg/products/areas/A0003/groups/G0301/products/F03105
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0003/groups/G0302/products/F03207 -> HTTP 404
+  [skip] https://www.balluff.com/en-sg/products/areas/A0003/groups/G0302/products/F03207
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0003/groups/G0305/products/F030506 -> HTTP 429
+  [skip] https://www.balluff.com/en-sg/products/areas/A0003/groups/G0305/products/F030506
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0003/groups/G0306/products/F03604 -> HTTP 429
+  [skip] https://www.balluff.com/en-sg/products/areas/A0003/groups/G0306/products/F03604
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0003/groups/G0306/products/F03605 -> HTTP 429
+  [skip] https://www.balluff.com/en-sg/products/areas/A0003/groups/G0306/products/F03605
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0003/groups/G1801 -> HTTP 404
+  [skip] https://www.balluff.com/en-sg/products/areas/A0003/groups/G1801
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0005/groups/G0501/products/F05103 -> HTTP 404
+  [skip] https://www.balluff.com/en-sg/products/areas/A0005/groups/G0501/products/F05103
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0005/groups/G0509 -> HTTP 404
+  [skip] https://www.balluff.com/en-sg/products/areas/A0005/groups/G0509
+  [skip] https://www.balluff.com/en-sg/products/areas/A0007
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0007/groups/G0701 -> HTTP 429
+  [skip] https://www.balluff.com/en-sg/products/areas/A0007/groups/G0701
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0007/groups/G0701/products/F07102 -> HTTP 429
+  [skip] https://www.balluff.com/en-sg/products/areas/A0007/groups/G0701/products/F07102
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0009/groups/G0901/products/F09104 -> HTTP 429
+  [skip] https://www.balluff.com/en-sg/products/areas/A0009/groups/G0901/products/F09104
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0009/groups/G0901/products/F09106 -> HTTP 429
+  [skip] https://www.balluff.com/en-sg/products/areas/A0009/groups/G0901/products/F09106
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0017/groups/G1703/products/F17300 -> HTTP 404
+  [skip] https://www.balluff.com/en-sg/products/areas/A0017/groups/G1703/products/F17300
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0017/groups/G1706/products/F17609 -> HTTP 404
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0017/groups/G1706/products/F17608 -> HTTP 404
+  [skip] https://www.balluff.com/en-sg/products/areas/A0017/groups/G1706/products/F17608
+  [skip] https://www.balluff.com/en-sg/products/areas/A0017/groups/G1706/products/F17609
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0018/groups/G1801/products/F180101 -> HTTP 404
+  [skip] https://www.balluff.com/en-sg/products/areas/A0018/groups/G1801/products/F180101
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0019/groups/G1902 -> HTTP 404
+  [skip] https://www.balluff.com/en-sg/products/areas/A0019/groups/G1902
+  [warn] FAIL https://www.balluff.com/en-sg/products/areas/A0019/groups/G1902/products/F170603 -> HTTP 404
+  [skip] https://www.balluff.com/en-sg/products/areas/A0019/groups/G1902/products/F170603
+[17 Balluff] saved 194 nodes -> D:\Crawl AUMI\16 hang\crawl\out\17 Balluff.json
+        levels: {1: 11, 2: 56, 3: 127}

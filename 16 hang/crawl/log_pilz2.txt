@@ -1,0 +1,17 @@
+top categories: 10
+  pages: 20 nodes: 64 queue: 44
+  pages: 40 nodes: 114 queue: 74
+  pages: 60 nodes: 171 queue: 111
+  pages: 80 nodes: 231 queue: 151
+  pages: 100 nodes: 267 queue: 167
+  pages: 120 nodes: 290 queue: 170
+  pages: 140 nodes: 290 queue: 150
+  pages: 160 nodes: 290 queue: 130
+  pages: 180 nodes: 290 queue: 110
+  pages: 200 nodes: 290 queue: 90
+  pages: 220 nodes: 290 queue: 70
+  pages: 240 nodes: 290 queue: 50
+  pages: 260 nodes: 290 queue: 30
+  pages: 280 nodes: 290 queue: 10
+[09 Pilz] saved 290 nodes -> D:\Crawl AUMI\16 hang\crawl\out\09 Pilz.json
+        levels: {1: 10, 2: 29, 3: 74, 4: 177}

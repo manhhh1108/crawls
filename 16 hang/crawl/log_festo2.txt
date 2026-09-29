@@ -1,0 +1,22 @@
+  categories: 50 queue 18
+  categories: 100 queue 16
+  categories: 150 queue 7
+  categories: 200 queue 14
+  categories: 250 queue 8
+  categories: 300 queue 11
+  total categories: 330
+  product lists: 25 / 330
+  product lists: 50 / 330
+  product lists: 75 / 330
+  product lists: 100 / 330
+  product lists: 125 / 330
+  product lists: 150 / 330
+  product lists: 175 / 330
+  product lists: 200 / 330
+  product lists: 225 / 330
+  product lists: 250 / 330
+  product lists: 275 / 330
+  product lists: 300 / 330
+  product lists: 325 / 330
+[10 Festo] saved 1527 nodes -> D:\Crawl AUMI\16 hang\crawl\out\10 Festo.json
+        levels: {1: 16, 2: 91, 3: 446, 4: 546, 5: 409, 6: 19}

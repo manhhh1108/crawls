@@ -1,0 +1,3325 @@
+{
+ "brand": "09 Pilz",
+ "site": "https://www.pilz.com/en-INT (crawl qua mirror www.pilz.com.cn/en-CN)",
+ "note": "www.pilz.com chan bot (Cloudflare) - dung mirror .cn ban tieng Anh, eShop. Cap cuoi = cap ngay tren ma dat hang.",
+ "nodes": [
+  {
+   "path": [
+    "Connection technology and education systems"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/c/A0111",
+   "code": "A0111",
+   "level": 1
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/c/A0111B0248",
+   "code": "A0111B0248",
+   "level": 2
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems",
+    "Cables and plug-in connectors (308)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/Cables-and-plug-in-connectors/c/00111002487169",
+   "code": "00111002487169",
+   "level": 3
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems",
+    "Cables and plug-in connectors (308)",
+    "Accessoires (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/Cables-and-plug-in-connectors/Accessoires/c/0011100248716980UM",
+   "code": "0011100248716980UM",
+   "level": 4
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems",
+    "Cables and plug-in connectors (308)",
+    "Adapter (37)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/Cables-and-plug-in-connectors/Adapter/c/0011100248716980UK",
+   "code": "0011100248716980UK",
+   "level": 4
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems",
+    "Cables and plug-in connectors (308)",
+    "Cable by the metre (5)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/Cables-and-plug-in-connectors/Cable-by-the-metre/c/0011100248716980UJ",
+   "code": "0011100248716980UJ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems",
+    "Cables and plug-in connectors (308)",
+    "Plug-in connectors (20)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/Cables-and-plug-in-connectors/Plug-in-connectors/c/0011100248716980UL",
+   "code": "0011100248716980UL",
+   "level": 4
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems",
+    "Cables and plug-in connectors (308)",
+    "Pre-assembled cable (244)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/Cables-and-plug-in-connectors/Pre-assembled-cable/c/0011100248716980UI",
+   "code": "0011100248716980UI",
+   "level": 4
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems",
+    "Education Systems (17)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/Education-Systems/c/00111002597206",
+   "code": "00111002597206",
+   "level": 3
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems",
+    "Education Systems (17)",
+    "Accessoires (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/Education-Systems/Accessoires/c/0011100259720680UM",
+   "code": "0011100259720680UM",
+   "level": 4
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems",
+    "Education Systems (17)",
+    "Education Systems PES - Logic Board PNOZmulti 2 (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/Education-Systems/Education-Systems-PES-Logic-Board-PNOZmulti-2/c/0011100259720680SV",
+   "code": "0011100259720680SV",
+   "level": 4
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems",
+    "Education Systems (17)",
+    "PES - Accessories (7)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/Education-Systems/PES-Accessories/c/0011100259720680SD",
+   "code": "0011100259720680SD",
+   "level": 4
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems",
+    "Education Systems (17)",
+    "PES - Actuator Board Conveyor (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/Education-Systems/PES-Actuator-Board-Conveyor/c/0011100259720680TA",
+   "code": "0011100259720680TA",
+   "level": 4
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems",
+    "Education Systems (17)",
+    "PES - Logic Board PNOZsigma (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/Education-Systems/PES-Logic-Board-PNOZsigma/c/0011100259720680SW",
+   "code": "0011100259720680SW",
+   "level": 4
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems",
+    "Education Systems (17)",
+    "PES - Operation and Monitoring Board (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/Education-Systems/PES-Operation-and-Monitoring-Board/c/0011100259720680SY",
+   "code": "0011100259720680SY",
+   "level": 4
+  },
+  {
+   "path": [
+    "Connection technology and education systems",
+    "Connection technology and education systems",
+    "Education Systems (17)",
+    "PES - Sensor Board (3)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/Connection-technology-and-education-systems/Education-Systems/PES-Sensor-Board/c/0011100259720680SZ",
+   "code": "0011100259720680SZ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/c/A0400",
+   "code": "A0400",
+   "level": 1
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/c/A0400B0450",
+   "code": "A0400B0450",
+   "level": 2
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PDP67 (9)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PDP67/c/00102002127078",
+   "code": "00102002127078",
+   "level": 3
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PDP67 (9)",
+    "Accessories PDP67 - modules (5)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PDP67/Accessories-PDP67-modules/c/0010200212707880NQ",
+   "code": "0010200212707880NQ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PDP67 (9)",
+    "Passive junction (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PDP67/Passive-junction/c/0010200212720480NO",
+   "code": "0010200212720480NO",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PDP67 (9)",
+    "Profinet / Profisafe modules (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PDP67/Profinet-Profisafe-modules/c/0010200212707880QU",
+   "code": "0010200212707880QU",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal - communications modules (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-communications-modules/c/00102002087023",
+   "code": "00102002087023",
+   "level": 3
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal - communications modules (4)",
+    "PSSuniversal - PSS 4000 head modules (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-communications-modules/PSSuniversal-PSS-4000-head-modules/c/0010200208702380IU",
+   "code": "0010200208702380IU",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal - I/O modules (139)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-I-O-modules/c/00102002087017",
+   "code": "00102002087017",
+   "level": 3
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal - I/O modules (139)",
+    "Accessories PSSuniversal (27)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-I-O-modules/Accessories-PSSuniversal/c/0010200208701780HR",
+   "code": "0010200208701780HR",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal - I/O modules (139)",
+    "PSSuniversal - base modules (42)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-I-O-modules/PSSuniversal-base-modules/c/0010200208701780HP",
+   "code": "0010200208701780HP",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal - I/O modules (139)",
+    "PSSuniversal - power supply modules (9)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-I-O-modules/PSSuniversal-power-supply-modules/c/0010200208701780HS",
+   "code": "0010200208701780HS",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal - I/O modules (139)",
+    "PSSuniversal - safe I/O modules (33)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-I-O-modules/PSSuniversal-safe-I-O-modules/c/0010200208701780HT",
+   "code": "0010200208701780HT",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal - I/O modules (139)",
+    "PSSuniversal - standard I/O modules (28)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-I-O-modules/PSSuniversal-standard-I-O-modules/c/0010200208701780HQ",
+   "code": "0010200208701780HQ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal 2 - Communication modules (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-2-Communication-modules/c/00102002097102",
+   "code": "00102002097102",
+   "level": 3
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal 2 - Communication modules (2)",
+    "PSSuniversal 2 - safe communication modules (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-2-Communication-modules/PSSuniversal-2-safe-communication-modules/c/0010200209710280IK",
+   "code": "0010200209710280IK",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal 2 - I/O modules (54)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-2-I-O-modules/c/00102002097088",
+   "code": "00102002097088",
+   "level": 3
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal 2 - I/O modules (54)",
+    "PSSuniversal 2 - Accessories (17)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-2-I-O-modules/PSSuniversal-2-Accessories/c/0010200209708880IP",
+   "code": "0010200209708880IP",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal 2 - I/O modules (54)",
+    "PSSuniversal 2 - Backplanes (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-2-I-O-modules/PSSuniversal-2-Backplanes/c/0010200209708880IO",
+   "code": "0010200209708880IO",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal 2 - I/O modules (54)",
+    "PSSuniversal 2 - Patch terminals (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-2-I-O-modules/PSSuniversal-2-Patch-terminals/c/0010200209708880JO",
+   "code": "0010200209708880JO",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal 2 - I/O modules (54)",
+    "PSSuniversal 2 - Power supply modules (3)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-2-I-O-modules/PSSuniversal-2-Power-supply-modules/c/0010200209708880JN",
+   "code": "0010200209708880JN",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal 2 - I/O modules (54)",
+    "PSSuniversal 2 - safe I/O modules (9)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-2-I-O-modules/PSSuniversal-2-safe-I-O-modules/c/0010200209708880IM",
+   "code": "0010200209708880IM",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "I/O systems",
+    "PSSuniversal 2 - I/O modules (54)",
+    "PSSuniversal 2 - Standard I/O modules (17)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/I-O-systems/PSSuniversal-2-I-O-modules/PSSuniversal-2-Standard-I-O-modules/c/0010200209708880IN",
+   "code": "0010200209708880IN",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "Industrial PC"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/Industrial-PC/c/A0400B0460",
+   "code": "A0400B0460",
+   "level": 2
+  },
+  {
+   "path": [
+    "Controller",
+    "Industrial PC",
+    "Industrial PI - I/O modules (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/Industrial-PC/Industrial-PI-I-O-modules/c/00102002417144",
+   "code": "00102002417144",
+   "level": 3
+  },
+  {
+   "path": [
+    "Controller",
+    "Industrial PC",
+    "Industrial PI - I/O modules (0)",
+    "Industrial PI - I/O modules (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/Industrial-PC/Industrial-PI-I-O-modules/Industrial-PI-I-O-modules/c/0010200241714480XC",
+   "code": "0010200241714480XC",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "Industrial PC",
+    "IndustrialPI (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/Industrial-PC/IndustrialPI-/c/00102002417142",
+   "code": "00102002417142",
+   "level": 3
+  },
+  {
+   "path": [
+    "Controller",
+    "Industrial PC",
+    "IndustrialPI (0)",
+    "IndustrialPI - Accessories (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/Industrial-PC/IndustrialPI-/IndustrialPI-Accessories/c/0010200241714280QY",
+   "code": "0010200241714280QY",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "Industrial PC",
+    "IndustrialPI (0)",
+    "IndustrialPI 4 (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/Industrial-PC/IndustrialPI-/IndustrialPI-4-/c/0010200241714280QX",
+   "code": "0010200241714280QX",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "PLC controllers"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/PLC-controllers/c/A0400B0400",
+   "code": "A0400B0400",
+   "level": 2
+  },
+  {
+   "path": [
+    "Controller",
+    "PLC controllers",
+    "PSS u2 Controller (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/PLC-controllers/PSS-u2-Controller/c/00102002097116",
+   "code": "00102002097116",
+   "level": 3
+  },
+  {
+   "path": [
+    "Controller",
+    "PLC controllers",
+    "PSS u2 Controller (2)",
+    "PSS u2 H PSS 4000 (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/PLC-controllers/PSS-u2-Controller/PSS-u2-H-PSS-4000/c/0010200209711680IL",
+   "code": "0010200209711680IL",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "PLC controllers",
+    "PSSuniversal - controllers (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/PLC-controllers/PSSuniversal-controllers/c/00102002087014",
+   "code": "00102002087014",
+   "level": 3
+  },
+  {
+   "path": [
+    "Controller",
+    "PLC controllers",
+    "PSSuniversal - controllers (4)",
+    "PSSuniversal - PLC Controller (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/PLC-controllers/PSSuniversal-controllers/PSSuniversal-PLC-Controller/c/0010200208701480NB",
+   "code": "0010200208701480NB",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "Software"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/Software/c/A0400B0440",
+   "code": "A0400B0440",
+   "level": 2
+  },
+  {
+   "path": [
+    "Controller",
+    "Software",
+    "PAS4000 (7)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/Software/PAS4000/c/00102002107037",
+   "code": "00102002107037",
+   "level": 3
+  },
+  {
+   "path": [
+    "Controller",
+    "Software",
+    "PAS4000 (7)",
+    "PASkey (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/Software/PAS4000/PASkey/c/0010200210703780J4",
+   "code": "0010200210703780J4",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "Software",
+    "PAS4000 (7)",
+    "PASunits (5)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/Software/PAS4000/PASunits/c/0010200210703780J2",
+   "code": "0010200210703780J2",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "Software",
+    "PSS Tools (21)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/Software/PSS-Tools/c/00102002107094",
+   "code": "00102002107094",
+   "level": 3
+  },
+  {
+   "path": [
+    "Controller",
+    "Software",
+    "PSS Tools (21)",
+    "PSS WIN-PRO Licence (21)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/Software/PSS-Tools/PSS-WIN-PRO-Licence/c/0010200210709480JB",
+   "code": "0010200210709480JB",
+   "level": 4
+  },
+  {
+   "path": [
+    "Controller",
+    "Software",
+    "PSSuniversal Tools (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/Software/PSSuniversal-Tools/c/00102002107095",
+   "code": "00102002107095",
+   "level": 3
+  },
+  {
+   "path": [
+    "Controller",
+    "Software",
+    "PSSuniversal Tools (2)",
+    "PSSu Assistant Licence (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Controller/Software/PSSuniversal-Tools/PSSu-Assistant-Licence/c/0010200210709580JC",
+   "code": "0010200210709580JC",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/c/A0800",
+   "code": "A0800",
+   "level": 1
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Motion control systems"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Motion-control-systems/c/A0800B0800",
+   "code": "A0800B0800",
+   "level": 2
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Motion control systems",
+    "PMCprimo - motion control systems (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Motion-control-systems/PMCprimo-motion-control-systems/c/00107002297009",
+   "code": "00107002297009",
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Motion control systems",
+    "PMCprimo - motion control systems (0)",
+    "Accessories PMCprimo (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Motion-control-systems/PMCprimo-motion-control-systems/Accessories-PMCprimo/c/0010700229700980F6",
+   "code": "0010700229700980F6",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Motion control systems",
+    "PMCprimo - motion control systems (0)",
+    "PMCprimo C (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Motion-control-systems/PMCprimo-motion-control-systems/PMCprimo-C/c/0010700229700980EA",
+   "code": "0010700229700980EA",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Motion control systems",
+    "PMCprimo - motion control systems (0)",
+    "PMCprimo DriveP - drive-based (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Motion-control-systems/PMCprimo-motion-control-systems/PMCprimo-DriveP-drive-based/c/0010700229700980IG",
+   "code": "0010700229700980IG",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Motion control systems",
+    "PMCprimo - motion control systems (0)",
+    "PMCprimo MC - controller-based (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Motion-control-systems/PMCprimo-motion-control-systems/PMCprimo-MC-controller-based/c/0010700229700980QR",
+   "code": "0010700229700980QR",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Motors"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Motors/c/A0800B0820",
+   "code": "A0800B0820",
+   "level": 2
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Motors",
+    "PMC EZ (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Motors/PMC-EZ/c/00107002277176",
+   "code": "00107002277176",
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Motors",
+    "PMC EZ (4)",
+    "PMC EZ (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Motors/PMC-EZ/PMC-EZ/c/0010700227717680VG",
+   "code": "0010700227717680VG",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Motors",
+    "PMCtendo - servo motors (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Motors/PMCtendo-servo-motors/c/00107002277052",
+   "code": "00107002277052",
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Motors",
+    "PMCtendo - servo motors (0)",
+    "PMCtendo SZ (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Motors/PMCtendo-servo-motors/PMCtendo-SZ/c/0010700227705280IV",
+   "code": "0010700227705280IV",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/c/A0800B0810",
+   "code": "A0800B0810",
+   "level": 2
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "Education Systems (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/Education-Systems/c/00900009049094",
+   "code": "00900009049094",
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "Education Systems (0)",
+    "Configurable solution (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/Education-Systems/Configurable-solution/c/0090000904909480SF",
+   "code": "0090000904909480SF",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "Education Systems (0)",
+    "PES - Actuator Board Contactor (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/Education-Systems/PES-Actuator-Board-Contactor/c/0090000904909480X9",
+   "code": "0090000904909480X9",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "PMC SC6, PMC SI6 - servo drives (16)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/PMC-SC6-PMC-SI6-servo-drives/c/00107002267166",
+   "code": "00107002267166",
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "PMC SC6, PMC SI6 - servo drives (16)",
+    "Accessories PMC SC6, PMC SI6 (10)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/PMC-SC6-PMC-SI6-servo-drives/Accessories-PMC-SC6-PMC-SI6/c/0010700226716680US",
+   "code": "0010700226716680US",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "PMC SC6, PMC SI6 - servo drives (16)",
+    "PMC SC6 (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/PMC-SC6-PMC-SI6-servo-drives/PMC-SC6/c/0010700226716680UF",
+   "code": "0010700226716680UF",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "PMC SC6, PMC SI6 - servo drives (16)",
+    "PMC SI6 (6)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/PMC-SC6-PMC-SI6-servo-drives/PMC-SI6/c/0010700226716680UG",
+   "code": "0010700226716680UG",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "PMCprotego - safe motion (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/PMCprotego-safe-motion/c/00107002297073",
+   "code": "00107002297073",
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "PMCprotego - safe motion (1)",
+    "PMCprotego DS - Safe Motion (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/PMCprotego-safe-motion/PMCprotego-DS-Safe-Motion/c/0010700229707380N5",
+   "code": "0010700229707380N5",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "PMCprotego - safe motion (1)",
+    "PMCprotego S safety card (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/PMCprotego-safe-motion/PMCprotego-S-safety-card/c/0010700229707380N3",
+   "code": "0010700229707380N3",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "PMCprotego D - servo drives (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/PMCprotego-D-servo-drives/c/00107002267074",
+   "code": "00107002267074",
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "PMCprotego D - servo drives (0)",
+    "Accessories PMCprotego D (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/PMCprotego-D-servo-drives/Accessories-PMCprotego-D/c/0010700226707480N8",
+   "code": "0010700226707480N8",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "PMCprotego D - servo drives (0)",
+    "PMCprotego D (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/PMCprotego-D-servo-drives/PMCprotego-D/c/0010700226707480N7",
+   "code": "0010700226707480N7",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "PMCtendo DD - servo drives (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/PMCtendo-DD-servo-drives/c/00107002267051",
+   "code": "00107002267051",
+   "level": 3
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "PMCtendo DD - servo drives (0)",
+    "Accessories PMCtendo DD (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/PMCtendo-DD-servo-drives/Accessories-PMCtendo-DD/c/0010700226705180FA",
+   "code": "0010700226705180FA",
+   "level": 4
+  },
+  {
+   "path": [
+    "Drive technology",
+    "Servo amplifier",
+    "PMCtendo DD - servo drives (0)",
+    "PMCtendo DD (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Servo-amplifier/PMCtendo-DD-servo-drives/PMCtendo-DD/c/0010700226705180F9",
+   "code": "0010700226705180F9",
+   "level": 4
+  },
+  {
+   "path": [
+    "Networks"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Networks/c/A0500",
+   "code": "A0500",
+   "level": 1
+  },
+  {
+   "path": [
+    "Networks",
+    "Device Diagnostics System"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Networks/Device-Diagnostics-System/c/A0500B0510",
+   "code": "A0500B0510",
+   "level": 2
+  },
+  {
+   "path": [
+    "Networks",
+    "Device Diagnostics System",
+    "Safety Device Diagnostics (7)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Networks/Device-Diagnostics-System/Safety-Device-Diagnostics/c/00103002387129",
+   "code": "00103002387129",
+   "level": 3
+  },
+  {
+   "path": [
+    "Networks",
+    "Device Diagnostics System",
+    "Safety Device Diagnostics (7)",
+    "Accessories Safety Device Diagnostics (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Networks/Device-Diagnostics-System/Safety-Device-Diagnostics/Accessories-Safety-Device-Diagnostics/c/0010300238712980PS",
+   "code": "0010300238712980PS",
+   "level": 4
+  },
+  {
+   "path": [
+    "Networks",
+    "Device Diagnostics System",
+    "Safety Device Diagnostics (7)",
+    "Fieldbus modules (3)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Networks/Device-Diagnostics-System/Safety-Device-Diagnostics/Fieldbus-modules/c/0010300238712980PQ",
+   "code": "0010300238712980PQ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Networks",
+    "Device Diagnostics System",
+    "Safety Device Diagnostics (7)",
+    "Wiring guides (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Networks/Device-Diagnostics-System/Safety-Device-Diagnostics/Wiring-guides/c/0010300238712980PR",
+   "code": "0010300238712980PR",
+   "level": 4
+  },
+  {
+   "path": [
+    "Networks",
+    "Fieldbus and Ethernet systems"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Networks/Fieldbus-and-Ethernet-systems/c/A0500B0500",
+   "code": "A0500B0500",
+   "level": 2
+  },
+  {
+   "path": [
+    "Networks",
+    "Fieldbus and Ethernet systems",
+    "SafetyNET p - system components (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Networks/Fieldbus-and-Ethernet-systems/SafetyNET-p-system-components/c/00103002137081",
+   "code": "00103002137081",
+   "level": 3
+  },
+  {
+   "path": [
+    "Networks",
+    "Fieldbus and Ethernet systems",
+    "SafetyNET p - system components (0)",
+    "Accessories SafetyNET (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Networks/Fieldbus-and-Ethernet-systems/SafetyNET-p-system-components/Accessories-SafetyNET/c/0010300213708180IB",
+   "code": "0010300213708180IB",
+   "level": 4
+  },
+  {
+   "path": [
+    "Networks",
+    "Fieldbus and Ethernet systems",
+    "System components, fieldbus systems (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Networks/Fieldbus-and-Ethernet-systems/System-components-fieldbus-systems/c/00103002137021",
+   "code": "00103002137021",
+   "level": 3
+  },
+  {
+   "path": [
+    "Networks",
+    "Fieldbus and Ethernet systems",
+    "System components, fieldbus systems (1)",
+    "Gateways (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Networks/Fieldbus-and-Ethernet-systems/System-components-fieldbus-systems/Gateways/c/0010300213702180JM",
+   "code": "0010300213702180JM",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/c/A0600",
+   "code": "A0600",
+   "level": 1
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/c/A0600B0600",
+   "code": "A0600B0600",
+   "level": 2
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "Education Systems (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/Education-Systems/c/00104002147152",
+   "code": "00104002147152",
+   "level": 3
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PIT - Operation elements (26)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PIT-Operation-elements/c/00104002147167",
+   "code": "00104002147167",
+   "level": 3
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PIT - Operation elements (26)",
+    "Operation elements PIT oe (26)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PIT-Operation-elements/Operation-elements-PIT-oe/c/0010400214716780VK",
+   "code": "0010400214716780VK",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITenable - enabling switch (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITenable-enabling-switch/c/00104002147083",
+   "code": "00104002147083",
+   "level": 3
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITenable - enabling switch (4)",
+    "Accessories PITenable (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITenable-enabling-switch/Accessories-PITenable/c/0010400214708380K4",
+   "code": "0010400214708380K4",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITenable - enabling switch (4)",
+    "PITenable (3)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITenable-enabling-switch/PITenable/c/0010400214708380K3",
+   "code": "0010400214708380K3",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITestop - emergency stop pushbuttons (70)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITestop-emergency-stop-pushbuttons/c/00104002147028",
+   "code": "00104002147028",
+   "level": 3
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITestop - emergency stop pushbuttons (70)",
+    "Accessories PITestop (9)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITestop-emergency-stop-pushbuttons/Accessories-PITestop/c/0010400214702880IS",
+   "code": "0010400214702880IS",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITestop - emergency stop pushbuttons (70)",
+    "PITestop - actuators (18)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITestop-emergency-stop-pushbuttons/PITestop-actuators/c/0010400214702880IR",
+   "code": "0010400214702880IR",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITestop - emergency stop pushbuttons (70)",
+    "PITestop - contact blocks (14)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITestop-emergency-stop-pushbuttons/PITestop-contact-blocks/c/0010400214702880IQ",
+   "code": "0010400214702880IQ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITestop - emergency stop pushbuttons (70)",
+    "PITestop - sets (29)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITestop-emergency-stop-pushbuttons/PITestop-sets/c/0010400214702880EV",
+   "code": "0010400214702880EV",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITgatebox - pushbutton unit (42)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITgatebox-pushbutton-unit/c/00104002147149",
+   "code": "00104002147149",
+   "level": 3
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITgatebox - pushbutton unit (42)",
+    "Accessories PITgatebox (22)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITgatebox-pushbutton-unit/Accessories-PITgatebox/c/0010400214714980RO",
+   "code": "0010400214714980RO",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITgatebox - pushbutton unit (42)",
+    "PITgatebox + PITreader (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITgatebox-pushbutton-unit/PITgatebox-%2B-PITreader/c/0010400214714980UR",
+   "code": "0010400214714980UR",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITgatebox - pushbutton unit (42)",
+    "Pushbutton unit PITgatebox (16)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITgatebox-pushbutton-unit/Pushbutton-unit-PITgatebox/c/0010400214714980RN",
+   "code": "0010400214714980RN",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITjog - jog switch (3)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITjog-jog-switch/c/00104002147029",
+   "code": "00104002147029",
+   "level": 3
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITjog - jog switch (3)",
+    "Accessories PITjog (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITjog-jog-switch/Accessories-PITjog/c/0010400214702980IT",
+   "code": "0010400214702980IT",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITjog - jog switch (3)",
+    "PITjog (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITjog-jog-switch/PITjog/c/0010400214702980EW",
+   "code": "0010400214702980EW",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITmode - operating mode & access (60)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITmode-operating-mode-%26-access/c/00104002147075",
+   "code": "00104002147075",
+   "level": 3
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITmode - operating mode & access (60)",
+    "PITmode (57)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITmode-operating-mode-%26-access/PITmode/c/0010400214707580NE",
+   "code": "0010400214707580NE",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITmode - operating mode & access (60)",
+    "User Authentication Service (3)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITmode-operating-mode-%26-access/User-Authentication-Service/c/0010400214707580VY",
+   "code": "0010400214707580VY",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITsign - muting lamps (5)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITsign-muting-lamps/c/00104002157031",
+   "code": "00104002157031",
+   "level": 3
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITsign - muting lamps (5)",
+    "Accessories PITsign (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITsign-muting-lamps/Accessories-PITsign/c/0010400215703180EZ",
+   "code": "0010400215703180EZ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Control and signal devices",
+    "PITsign - muting lamps (5)",
+    "PITsign (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Control-and-signal-devices/PITsign-muting-lamps/PITsign/c/0010400215703180EY",
+   "code": "0010400215703180EY",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Operator terminals"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Operator-terminals/c/A0600B0620",
+   "code": "A0600B0620",
+   "level": 2
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Operator terminals",
+    "Accessories (14)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Operator-terminals/Accessories/c/00104002167036",
+   "code": "00104002167036",
+   "level": 3
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Operator terminals",
+    "Accessories (14)",
+    "Accessories PMI (14)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Operator-terminals/Accessories/Accessories-PMI/c/0010400216703680FD",
+   "code": "0010400216703680FD",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Operator terminals",
+    "Education Systems (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Operator-terminals/Education-Systems/c/00104002167153",
+   "code": "00104002167153",
+   "level": 3
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Operator terminals",
+    "Education Systems (1)",
+    "PES - Operation and Monitoring Board (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Operator-terminals/Education-Systems/PES-Operation-and-Monitoring-Board/c/0010400216715380SY",
+   "code": "0010400216715380SY",
+   "level": 4
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Operator terminals",
+    "PMIvisu - Visualisation system (5)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Operator-terminals/PMIvisu-Visualisation-system/c/00104002167134",
+   "code": "00104002167134",
+   "level": 3
+  },
+  {
+   "path": [
+    "Operating and monitoring",
+    "Operator terminals",
+    "PMIvisu - Visualisation system (5)",
+    "PMIvisu (5)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Operating-and-monitoring/Operator-terminals/PMIvisu-Visualisation-system/PMIvisu/c/0010400216713480FH",
+   "code": "0010400216713480FH",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/c/A0200",
+   "code": "A0200",
+   "level": 1
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Line monitoring devices"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Line-monitoring-devices/c/A0200B0200",
+   "code": "A0200B0200",
+   "level": 2
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Line monitoring devices",
+    "PLIDdys - safe line monitoring devices (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Line-monitoring-devices/PLIDdys-safe-line-monitoring-devices/c/00100002007085",
+   "code": "00100002007085",
+   "level": 3
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Line monitoring devices",
+    "PLIDdys - safe line monitoring devices (2)",
+    "PLIDdys (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Line-monitoring-devices/PLIDdys-safe-line-monitoring-devices/PLIDdys/c/0010000200708580NR",
+   "code": "0010000200708580NR",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Modular safety relays"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Modular-safety-relays/c/A0200B0250",
+   "code": "A0200B0250",
+   "level": 2
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Modular safety relays",
+    "myPNOZ - safety relays (20)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Modular-safety-relays/myPNOZ-safety-relays/c/00100002017126",
+   "code": "00100002017126",
+   "level": 3
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Modular safety relays",
+    "myPNOZ - safety relays (20)",
+    "Accessories myPNOZ (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Modular-safety-relays/myPNOZ-safety-relays/Accessories-myPNOZ/c/0010000201712680UN",
+   "code": "0010000201712680UN",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Modular safety relays",
+    "myPNOZ - safety relays (20)",
+    "Head modules (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Modular-safety-relays/myPNOZ-safety-relays/Head-modules/c/0010000201712680SB",
+   "code": "0010000201712680SB",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Modular safety relays",
+    "myPNOZ - safety relays (20)",
+    "I/O modules (16)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Modular-safety-relays/myPNOZ-safety-relays/I-O-modules/c/0010000201712680SC",
+   "code": "0010000201712680SC",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Modular safety relays",
+    "myPNOZ - safety relays (20)",
+    "System (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Modular-safety-relays/myPNOZ-safety-relays/System/c/0010000201712680SE",
+   "code": "0010000201712680SE",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Monitoring relays / monitoring devices"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Monitoring-relays-monitoring-devices/c/A0200B0220",
+   "code": "A0200B0220",
+   "level": 2
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Monitoring relays / monitoring devices",
+    "PMDsrange - monitoring relays (41)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Monitoring-relays-monitoring-devices/PMDsrange-monitoring-relays/c/00100002027007",
+   "code": "00100002027007",
+   "level": 3
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Monitoring relays / monitoring devices",
+    "PMDsrange - monitoring relays (41)",
+    "Accessories PMDsrange (3)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Monitoring-relays-monitoring-devices/PMDsrange-monitoring-relays/Accessories-PMDsrange/c/0010000202700780FC",
+   "code": "0010000202700780FC",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Monitoring relays / monitoring devices",
+    "PMDsrange - monitoring relays (41)",
+    "PMDsrange (38)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Monitoring-relays-monitoring-devices/PMDsrange-monitoring-relays/PMDsrange/c/0010000202700780FB",
+   "code": "0010000202700780FB",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/c/A0200B0230",
+   "code": "A0200B0230",
+   "level": 2
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZ X - safety relays (217)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZ-X-safety-relays/c/00100002007002",
+   "code": "00100002007002",
+   "level": 3
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZ X - safety relays (217)",
+    "Accessories PNOZ X (8)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZ-X-safety-relays/Accessories-PNOZ-X/c/0010000200700280FN",
+   "code": "0010000200700280FN",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZ X - safety relays (217)",
+    "Contact expansions (33)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZ-X-safety-relays/Contact-expansions/c/0010000200700280FK",
+   "code": "0010000200700280FK",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZ X - safety relays (217)",
+    "Monitoring of E-STOP, safety gates, light barriers (101)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZ-X-safety-relays/Monitoring-of-E-STOP-safety-gates-light-barriers/c/0010000200700280FJ",
+   "code": "0010000200700280FJ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZ X - safety relays (217)",
+    "Muting controller (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZ-X-safety-relays/Muting-controller/c/0010000200700280FM",
+   "code": "0010000200700280FM",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZ X - safety relays (217)",
+    "Pressure sensitive mats monitoring (8)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZ-X-safety-relays/Pressure-sensitive-mats-monitoring/c/0010000200700280FL",
+   "code": "0010000200700280FL",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZ X - safety relays (217)",
+    "Standstill monitoring (7)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZ-X-safety-relays/Standstill-monitoring/c/0010000200700280FO",
+   "code": "0010000200700280FO",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZ X - safety relays (217)",
+    "Time monitoring (46)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZ-X-safety-relays/Time-monitoring/c/0010000200700280FP",
+   "code": "0010000200700280FP",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZ X - safety relays (217)",
+    "Two-hand monitoring (13)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZ-X-safety-relays/Two-hand-monitoring/c/0010000200700280FI",
+   "code": "0010000200700280FI",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZcompact - safety relays (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZcompact-safety-relays/c/00100002007086",
+   "code": "00100002007086",
+   "level": 3
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZcompact - safety relays (2)",
+    "Monitoring of E-STOP, safety gates, light barriers (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZcompact-safety-relays/Monitoring-of-E-STOP-safety-gates-light-barriers/c/0010000200708680IC",
+   "code": "0010000200708680IC",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZelog - safety relays (34)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZelog-safety-relays/c/00100002007004",
+   "code": "00100002007004",
+   "level": 3
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZelog - safety relays (34)",
+    "Monitoring of E-STOP, safety gates, light barriers (26)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZelog-safety-relays/Monitoring-of-E-STOP-safety-gates-light-barriers/c/0010000200700480FT",
+   "code": "0010000200700480FT",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZelog - safety relays (34)",
+    "Pressure sensitive mats monitoring (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZelog-safety-relays/Pressure-sensitive-mats-monitoring/c/0010000200700480FU",
+   "code": "0010000200700480FU",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZelog - safety relays (34)",
+    "Two-hand monitoring (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZelog-safety-relays/Two-hand-monitoring/c/0010000200700480FS",
+   "code": "0010000200700480FS",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZsigma - safety relays (77)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZsigma-safety-relays/c/00100002007003",
+   "code": "00100002007003",
+   "level": 3
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZsigma - safety relays (77)",
+    "Accessories PNOZsigma (19)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZsigma-safety-relays/Accessories-PNOZsigma/c/0010000200700380GB",
+   "code": "0010000200700380GB",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZsigma - safety relays (77)",
+    "Brake control (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZsigma-safety-relays/Brake-control/c/0010000200700380JQ",
+   "code": "0010000200700380JQ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZsigma - safety relays (77)",
+    "Contact expansions (17)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZsigma-safety-relays/Contact-expansions/c/0010000200700380GA",
+   "code": "0010000200700380GA",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZsigma - safety relays (77)",
+    "Monitoring of E-STOP, safety gates, light barriers (17)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZsigma-safety-relays/Monitoring-of-E-STOP-safety-gates-light-barriers/c/0010000200700380G9",
+   "code": "0010000200700380G9",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZsigma - safety relays (77)",
+    "Safe monitoring device (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZsigma-safety-relays/Safe-monitoring-device/c/0010000200700380PT",
+   "code": "0010000200700380PT",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZsigma - safety relays (77)",
+    "Speed monitoring (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZsigma-safety-relays/Speed-monitoring/c/0010000200700380HO",
+   "code": "0010000200700380HO",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZsigma - safety relays (77)",
+    "Time monitoring (9)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZsigma-safety-relays/Time-monitoring/c/0010000200700380GC",
+   "code": "0010000200700380GC",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Safety relays / protection relays",
+    "PNOZsigma - safety relays (77)",
+    "Two-hand monitoring (8)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZsigma-safety-relays/Two-hand-monitoring/c/0010000200700380G8",
+   "code": "0010000200700380G8",
+   "level": 4
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Software"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Software/c/A0100B0240",
+   "code": "A0100B0240",
+   "level": 2
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Software",
+    "PNOZsigma Tools (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Software/PNOZsigma-Tools/c/00100002397139",
+   "code": "00100002397139",
+   "level": 3
+  },
+  {
+   "path": [
+    "Relay modules",
+    "Software",
+    "PNOZsigma Tools (2)",
+    "PNOZsigma Configurator (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Software/PNOZsigma-Tools/PNOZsigma-Configurator/c/0010000239713980SA",
+   "code": "0010000239713980SA",
+   "level": 4
+  },
+  {
+   "path": [
+    "Robotics"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Robotics/c/A0900",
+   "code": "A0900",
+   "level": 1
+  },
+  {
+   "path": [
+    "Robotics",
+    "PRMS - Collision measuring set for HRC"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Robotics/PRMS-Collision-measuring-set-for-HRC/c/A0900B0940",
+   "code": "A0900B0940",
+   "level": 2
+  },
+  {
+   "path": [
+    "Robotics",
+    "PRMS - Collision measuring set for HRC",
+    "PRMS - Collision measuring set for HRC (14)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Robotics/PRMS-Collision-measuring-set-for-HRC/PRMS-Collision-measuring-set-for-HRC/c/00108002497137",
+   "code": "00108002497137",
+   "level": 3
+  },
+  {
+   "path": [
+    "Robotics",
+    "PRMS - Collision measuring set for HRC",
+    "PRMS - Collision measuring set for HRC (14)",
+    "Accessories PRMS (13)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Robotics/PRMS-Collision-measuring-set-for-HRC/PRMS-Collision-measuring-set-for-HRC/Accessories-PRMS/c/0010800249713780QH",
+   "code": "0010800249713780QH",
+   "level": 4
+  },
+  {
+   "path": [
+    "Robotics",
+    "PRMS - Collision measuring set for HRC",
+    "PRMS - Collision measuring set for HRC (14)",
+    "PRMSmdf (1)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Robotics/PRMS-Collision-measuring-set-for-HRC/PRMS-Collision-measuring-set-for-HRC/PRMSmdf/c/0010800249713780QF",
+   "code": "0010800249713780QF",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/c/A0100",
+   "code": "A0100",
+   "level": 1
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Position monitoring devices"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Position-monitoring-devices/c/A0100B0100",
+   "code": "A0100B0100",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Position monitoring devices",
+    "PSENenco - rotary encoder (8)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Position-monitoring-devices/PSENenco-rotary-encoder/c/00106002237084",
+   "code": "00106002237084",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Position monitoring devices",
+    "PSENenco - rotary encoder (8)",
+    "PSENenco - rotary encoder (8)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Position-monitoring-devices/PSENenco-rotary-encoder/PSENenco-rotary-encoder/c/0010600223708480JA",
+   "code": "0010600223708480JA",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Position monitoring devices",
+    "PSENrope - safe rope pull switch (18)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Position-monitoring-devices/PSENrope-safe-rope-pull-switch/c/00106002237080",
+   "code": "00106002237080",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Position monitoring devices",
+    "PSENrope - safe rope pull switch (18)",
+    "Accessories PSENrope (9)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Position-monitoring-devices/PSENrope-safe-rope-pull-switch/Accessories-PSENrope/c/0010600223708080EE",
+   "code": "0010600223708080EE",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Position monitoring devices",
+    "PSENrope - safe rope pull switch (18)",
+    "PSENrope (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Position-monitoring-devices/PSENrope-safe-rope-pull-switch/PSENrope/c/0010600223708080ED",
+   "code": "0010600223708080ED",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Position monitoring devices",
+    "PSENrope - safe rope pull switch (18)",
+    "PSENrope mini (5)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Position-monitoring-devices/PSENrope-safe-rope-pull-switch/PSENrope-mini/c/0010600223708080VP",
+   "code": "0010600223708080VP",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safe camera systems"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safe-camera-systems/c/A0100B0140",
+   "code": "A0100B0140",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safe camera systems",
+    "PSENvip - camera-based protection system (16)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safe-camera-systems/PSENvip-camera-based-protection-system/c/00106002207043",
+   "code": "00106002207043",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safe camera systems",
+    "PSENvip - camera-based protection system (16)",
+    "Accessories PSENvip (11)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safe-camera-systems/PSENvip-camera-based-protection-system/Accessories-PSENvip/c/0010600220704380I1",
+   "code": "0010600220704380I1",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safe camera systems",
+    "PSENvip - camera-based protection system (16)",
+    "PSENvip (5)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safe-camera-systems/PSENvip-camera-based-protection-system/PSENvip/c/0010600220704380HZ",
+   "code": "0010600220704380HZ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safe radar systems"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safe-radar-systems/c/A0100B0170",
+   "code": "A0100B0170",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safe radar systems",
+    "PSENradar - Safe radar sensor (8)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safe-radar-systems/PSENradar-Safe-radar-sensor/c/00106002457163",
+   "code": "00106002457163",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safe radar systems",
+    "PSENradar - Safe radar sensor (8)",
+    "Accessories PSENradar (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safe-radar-systems/PSENradar-Safe-radar-sensor/Accessories-PSENradar/c/0010600245716380TP",
+   "code": "0010600245716380TP",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safe radar systems",
+    "PSENradar - Safe radar sensor (8)",
+    "PSENradar (6)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safe-radar-systems/PSENradar-Safe-radar-sensor/PSENradar/c/0010600245716380TO",
+   "code": "0010600245716380TO",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety Laser Scanner"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-Laser-Scanner/c/A0100B0180",
+   "code": "A0100B0180",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety Laser Scanner",
+    "PSENscan - Safety Laser Scanner (21)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-Laser-Scanner/PSENscan-Safety-Laser-Scanner/c/00106002577131",
+   "code": "00106002577131",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety Laser Scanner",
+    "PSENscan - Safety Laser Scanner (21)",
+    "Accessories PSENscan (11)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-Laser-Scanner/PSENscan-Safety-Laser-Scanner/Accessories-PSENscan/c/0010600257713180QW",
+   "code": "0010600257713180QW",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety Laser Scanner",
+    "PSENscan - Safety Laser Scanner (21)",
+    "PSENscan (10)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-Laser-Scanner/PSENscan-Safety-Laser-Scanner/PSENscan/c/0010600257713180PW",
+   "code": "0010600257713180PW",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/c/A0100B0130",
+   "code": "A0100B0130",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "Education Systems (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/Education-Systems/c/00106002197151",
+   "code": "00106002197151",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "Photoelectric sensor (13)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/Photoelectric-sensor/c/00106002197178",
+   "code": "00106002197178",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "Photoelectric sensor (13)",
+    "Retroreflective photoelectric sensor (13)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/Photoelectric-sensor/Retroreflective-photoelectric-sensor/c/0010600219717880VU",
+   "code": "0010600219717880VU",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt - Safety light curtains (193)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/c/00106002197040",
+   "code": "00106002197040",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt - Safety light curtains (193)",
+    "Accessories PSENopt (72)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/Accessories-PSENopt/c/0010600219704080GT",
+   "code": "0010600219704080GT",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt - Safety light curtains (193)",
+    "Advanced Type 2 light curtain, hand protection (11)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/Advanced-Type-2-light-curtain-hand-protection/c/0010600219704080JR",
+   "code": "0010600219704080JR",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt - Safety light curtains (193)",
+    "Advanced Type 4 light curtain, finger protection (11)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/Advanced-Type-4-light-curtain-finger-protection/c/0010600219704080JT",
+   "code": "0010600219704080JT",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt - Safety light curtains (193)",
+    "Advanced Type 4 light curtain, hand protection (11)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/Advanced-Type-4-light-curtain-hand-protection/c/0010600219704080JS",
+   "code": "0010600219704080JS",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt - Safety light curtains (193)",
+    "Basic Type 2 light curtain, body protection (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/Basic-Type-2-light-curtain-body-protection/c/0010600219704080GO",
+   "code": "0010600219704080GO",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt - Safety light curtains (193)",
+    "Basic Type 2 light curtain, hand protection (12)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/Basic-Type-2-light-curtain-hand-protection/c/0010600219704080GP",
+   "code": "0010600219704080GP",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt - Safety light curtains (193)",
+    "Basic Type 4 light curtain, body protection (8)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/Basic-Type-4-light-curtain-body-protection/c/0010600219704080GQ",
+   "code": "0010600219704080GQ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt - Safety light curtains (193)",
+    "Basic Type 4 light curtain, finger protection (12)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/Basic-Type-4-light-curtain-finger-protection/c/0010600219704080GR",
+   "code": "0010600219704080GR",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt - Safety light curtains (193)",
+    "Basic Type 4 light curtain, hand protection (12)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/Basic-Type-4-light-curtain-hand-protection/c/0010600219704080GS",
+   "code": "0010600219704080GS",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt - Safety light curtains (193)",
+    "Safety light barriers (3)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/Safety-light-barriers/c/0010600219704080GN",
+   "code": "0010600219704080GN",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt - Safety light curtains (193)",
+    "Slimline Type 2 light curtain, hand protection (8)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/Slimline-Type-2-light-curtain-hand-protection/c/0010600219704080QA",
+   "code": "0010600219704080QA",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt - Safety light curtains (193)",
+    "Slimline Type 4 light curtain, finger protection (21)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/Slimline-Type-4-light-curtain-finger-protection/c/0010600219704080QB",
+   "code": "0010600219704080QB",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt - Safety light curtains (193)",
+    "Slimline Type 4 light curtain, hand protection (8)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/Slimline-Type-4-light-curtain-hand-protection/c/0010600219704080QC",
+   "code": "0010600219704080QC",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt II - Safety light curtains (112)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-II-Safety-light-curtains/c/00106002197104",
+   "code": "00106002197104",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt II - Safety light curtains (112)",
+    "Accessories PSENopt II (39)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-II-Safety-light-curtains/Accessories-PSENopt-II/c/0010600219710480JZ",
+   "code": "0010600219710480JZ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt II - Safety light curtains (112)",
+    "Basic Type 3 light curtain, body protection (12)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-II-Safety-light-curtains/Basic-Type-3-light-curtain-body-protection/c/0010600219710480RT",
+   "code": "0010600219710480RT",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt II - Safety light curtains (112)",
+    "Basic Type 3 light curtain, finger protection (12)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-II-Safety-light-curtains/Basic-Type-3-light-curtain-finger-protection/c/0010600219710480JW",
+   "code": "0010600219710480JW",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt II - Safety light curtains (112)",
+    "Basic Type 3 light curtain, hand protection (12)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-II-Safety-light-curtains/Basic-Type-3-light-curtain-hand-protection/c/0010600219710480JV",
+   "code": "0010600219710480JV",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt II - Safety light curtains (112)",
+    "Basic Type 4 light curtain, body protection (12)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-II-Safety-light-curtains/Basic-Type-4-light-curtain-body-protection/c/0010600219710480RU",
+   "code": "0010600219710480RU",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt II - Safety light curtains (112)",
+    "Basic Type 4 light curtain, finger protection (12)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-II-Safety-light-curtains/Basic-Type-4-light-curtain-finger-protection/c/0010600219710480JY",
+   "code": "0010600219710480JY",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety light curtain",
+    "PSENopt II - Safety light curtains (112)",
+    "Basic Type 4 light curtain, hand protection (13)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-II-Safety-light-curtains/Basic-Type-4-light-curtain-hand-protection/c/0010600219710480JX",
+   "code": "0010600219710480JX",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/c/A0100B0110",
+   "code": "A0100B0110",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENbolt - safety bolt (13)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENbolt-safety-bolt/c/00106002217047",
+   "code": "00106002217047",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENbolt - safety bolt (13)",
+    "PSENbolt (13)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENbolt-safety-bolt/PSENbolt/c/0010600221704780I5",
+   "code": "0010600221704780I5",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENcode - non-contact, coded safety switches (136)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENcode-non-contact-coded-safety-switches/c/00106002217046",
+   "code": "00106002217046",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENcode - non-contact, coded safety switches (136)",
+    "Accessories PSENcode (8)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENcode-non-contact-coded-safety-switches/Accessories-PSENcode/c/0010600221704680GG",
+   "code": "0010600221704680GG",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENcode - non-contact, coded safety switches (136)",
+    "PSENcode - compact design (52)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENcode-non-contact-coded-safety-switches/PSENcode-compact-design/c/0010600221704680NI",
+   "code": "0010600221704680NI",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENcode - non-contact, coded safety switches (136)",
+    "PSENcode - large design (24)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENcode-non-contact-coded-safety-switches/PSENcode-large-design/c/0010600221704680GF",
+   "code": "0010600221704680GF",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENcode - non-contact, coded safety switches (136)",
+    "PSENcode - slim design (43)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENcode-non-contact-coded-safety-switches/PSENcode-slim-design/c/0010600221704680KA",
+   "code": "0010600221704680KA",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENcode - non-contact, coded safety switches (136)",
+    "PSENcode key (9)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENcode-non-contact-coded-safety-switches/PSENcode-key/c/0010600221704680VT",
+   "code": "0010600221704680VT",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENhinge - safe hinge switch (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENhinge-safe-hinge-switch/c/00106002217079",
+   "code": "00106002217079",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENhinge - safe hinge switch (4)",
+    "Accessories PSENhinge (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENhinge-safe-hinge-switch/Accessories-PSENhinge/c/0010600221707980E8",
+   "code": "0010600221707980E8",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENhinge - safe hinge switch (4)",
+    "PSENhinge (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENhinge-safe-hinge-switch/PSENhinge/c/0010600221707980E7",
+   "code": "0010600221707980E7",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENini - inductive safety switch (7)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENini-inductive-safety-switch/c/00106002217049",
+   "code": "00106002217049",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENini - inductive safety switch (7)",
+    "Accessories PSENini (3)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENini-inductive-safety-switch/Accessories-PSENini/c/0010600221704980K1",
+   "code": "0010600221704980K1",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENini - inductive safety switch (7)",
+    "PSENini (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENini-inductive-safety-switch/PSENini/c/0010600221704980J9",
+   "code": "0010600221704980J9",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENmag - non-contact, magnetic safety switches (174)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENmag-non-contact-magnetic-safety-switches/c/00106002217045",
+   "code": "00106002217045",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENmag - non-contact, magnetic safety switches (174)",
+    "Accessories PSENmag (20)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENmag-non-contact-magnetic-safety-switches/Accessories-PSENmag/c/0010600221704580GJ",
+   "code": "0010600221704580GJ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENmag - non-contact, magnetic safety switches (174)",
+    "PSENmag for electronic relays (34)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENmag-non-contact-magnetic-safety-switches/PSENmag-for-electronic-relays/c/0010600221704580GH",
+   "code": "0010600221704580GH",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENmag - non-contact, magnetic safety switches (174)",
+    "PSENmag for electronic/electromechanic relays (120)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENmag-non-contact-magnetic-safety-switches/PSENmag-for-electronic-electromechanic-relays/c/0010600221704580GI",
+   "code": "0010600221704580GI",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENmech - mechanical safety switch (34)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENmech-mechanical-safety-switch/c/00106002217044",
+   "code": "00106002217044",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENmech - mechanical safety switch (34)",
+    "Accessories PSENmech (5)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENmech-mechanical-safety-switch/Accessories-PSENmech/c/0010600221704480GM",
+   "code": "0010600221704480GM",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENmech - mechanical safety switch (34)",
+    "PSENmech (14)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENmech-mechanical-safety-switch/PSENmech/c/0010600221704480GL",
+   "code": "0010600221704480GL",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches",
+    "PSENmech - mechanical safety switch (34)",
+    "PSENmech with guard locking (15)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENmech-mechanical-safety-switch/PSENmech-with-guard-locking/c/0010600221704480GK",
+   "code": "0010600221704480GK",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/c/A0100B0120",
+   "code": "A0100B0120",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENmech - safety locking device (23)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmech-safety-locking-device/c/00106002227172",
+   "code": "00106002227172",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENmech - safety locking device (23)",
+    "Accessories PSENmech (6)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmech-safety-locking-device/Accessories-PSENmech/c/0010600222717280UV",
+   "code": "0010600222717280UV",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENmech - safety locking device (23)",
+    "PSENmech with guard locking (17)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmech-safety-locking-device/PSENmech-with-guard-locking/c/0010600222717280UT",
+   "code": "0010600222717280UT",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENmgate - safety gate systems (101)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmgate-safety-gate-systems/c/00106002227179",
+   "code": "00106002227179",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENmgate - safety gate systems (101)",
+    "Accessories PSENmgate (5)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmgate-safety-gate-systems/Accessories-PSENmgate/c/0010600222717980KF",
+   "code": "0010600222717980KF",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENmgate - safety gate systems (101)",
+    "PSENmgate (49)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmgate-safety-gate-systems/PSENmgate/c/0010600222717980KD",
+   "code": "0010600222717980KD",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENmlock - safety locking devices (77)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmlock-safety-locking-devices/c/00106002227123",
+   "code": "00106002227123",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENmlock - safety locking devices (77)",
+    "Accessories PSENmlock (33)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmlock-safety-locking-devices/Accessories-PSENmlock/c/0010600222712380OS",
+   "code": "0010600222712380OS",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENmlock - safety locking devices (77)",
+    "PSENmlock (30)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmlock-safety-locking-devices/PSENmlock/c/0010600222712380OR",
+   "code": "0010600222712380OR",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENmlock - safety locking devices (77)",
+    "PSENmlock door handle module (14)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmlock-safety-locking-devices/PSENmlock-door-handle-module/c/0010600222712380UE",
+   "code": "0010600222712380UE",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENmlock mini - safety locking devices (30)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmlock-mini-safety-locking-devices/c/00106002227174",
+   "code": "00106002227174",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENmlock mini - safety locking devices (30)",
+    "Accessories PSENmlock mini (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmlock-mini-safety-locking-devices/Accessories-PSENmlock-mini/c/0010600222717480VW",
+   "code": "0010600222717480VW",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENmlock mini - safety locking devices (30)",
+    "PSENmlock mini (28)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmlock-mini-safety-locking-devices/PSENmlock-mini-/c/0010600222717480VV",
+   "code": "0010600222717480VV",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENsgate - safety gate system (0)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENsgate-safety-gate-system/c/00106002227048",
+   "code": "00106002227048",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENslock - safety locking devices (36)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENslock-safety-locking-devices/c/00106002227061",
+   "code": "00106002227061",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENslock - safety locking devices (36)",
+    "Accessories PSENslock 2 (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENslock-safety-locking-devices/Accessories-PSENslock-2/c/0010600222706180IA",
+   "code": "0010600222706180IA",
+   "level": 4
+  },
+  {
+   "path": [
+    "Sensor technology",
+    "Safety switches with guard locking",
+    "PSENslock - safety locking devices (36)",
+    "PSENslock 2 (32)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENslock-safety-locking-devices/PSENslock-2/c/0010600222706180SN",
+   "code": "0010600222706180SN",
+   "level": 4
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/c/A0300",
+   "code": "A0300",
+   "level": 1
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Safety systems PNOZmulti Classic"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Safety-systems-PNOZmulti-Classic/c/A0300B0310",
+   "code": "A0300B0310",
+   "level": 2
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Safety systems PNOZmulti Classic",
+    "PNOZmulti - base units (86)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Safety-systems-PNOZmulti-Classic/PNOZmulti-base-units/c/00101002037013",
+   "code": "00101002037013",
+   "level": 3
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Safety systems PNOZmulti Classic",
+    "PNOZmulti - base units (86)",
+    "Accessories PNOZmulti (86)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Safety-systems-PNOZmulti-Classic/PNOZmulti-base-units/Accessories-PNOZmulti/c/0010100203701380FZ",
+   "code": "0010100203701380FZ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Small controllers PNOZmulti 2"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/c/A0300B0300",
+   "code": "A0300B0300",
+   "level": 2
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Small controllers PNOZmulti 2",
+    "PNOZmulti 2 - base units (62)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-base-units/c/00101002047106",
+   "code": "00101002047106",
+   "level": 3
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Small controllers PNOZmulti 2",
+    "PNOZmulti 2 - base units (62)",
+    "Accessories PNOZmulti 2 (56)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-base-units/Accessories-PNOZmulti-2/c/0010100204710680OV",
+   "code": "0010100204710680OV",
+   "level": 4
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Small controllers PNOZmulti 2",
+    "PNOZmulti 2 - base units (62)",
+    "PNOZmulti 2 - base units (6)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-base-units/PNOZmulti-2-base-units/c/0010100204710680NT",
+   "code": "0010100204710680NT",
+   "level": 4
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Small controllers PNOZmulti 2",
+    "PNOZmulti 2 - communication modules (11)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-communication-modules/c/00101002047110",
+   "code": "00101002047110",
+   "level": 3
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Small controllers PNOZmulti 2",
+    "PNOZmulti 2 - communication modules (11)",
+    "PNOZmulti 2 - communication modules (11)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-communication-modules/PNOZmulti-2-communication-modules/c/0010100204711080JJ",
+   "code": "0010100204711080JJ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Small controllers PNOZmulti 2",
+    "PNOZmulti 2 - I/O modules (22)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-I-O-modules/c/00101002047108",
+   "code": "00101002047108",
+   "level": 3
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Small controllers PNOZmulti 2",
+    "PNOZmulti 2 - I/O modules (22)",
+    "PDP67 Link Decentralised I/O (4)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-I-O-modules/PDP67-Link-Decentralised-I-O/c/0010200212720480NN",
+   "code": "0010200212720480NN",
+   "level": 4
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Small controllers PNOZmulti 2",
+    "PNOZmulti 2 - I/O modules (22)",
+    "PNOZmulti 2 - safe I/O modules (16)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-I-O-modules/PNOZmulti-2-safe-I-O-modules/c/0010100204710880JK",
+   "code": "0010100204710880JK",
+   "level": 4
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Small controllers PNOZmulti 2",
+    "PNOZmulti 2 - I/O modules (22)",
+    "PNOZmulti 2 - standard I/O modules (2)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-I-O-modules/PNOZmulti-2-standard-I-O-modules/c/0010100204710880JL",
+   "code": "0010100204710880JL",
+   "level": 4
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Small controllers PNOZmulti 2",
+    "PNOZmulti 2 - Systems (3)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-Systems/c/00101002047148",
+   "code": "00101002047148",
+   "level": 3
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Small controllers PNOZmulti 2",
+    "PNOZmulti 2 - Systems (3)",
+    "Sets, Trumpf conversion kit PSS 3056 (3)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-Systems/Sets-Trumpf-conversion-kit-PSS-3056/c/0010100204714880RM",
+   "code": "0010100204714880RM",
+   "level": 4
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Software PNOZmulti"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Software-PNOZmulti/c/A0300B0330",
+   "code": "A0300B0330",
+   "level": 2
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Software PNOZmulti",
+    "PNOZmulti Tools (12)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Software-PNOZmulti/PNOZmulti-Tools/c/00101002067093",
+   "code": "00101002067093",
+   "level": 3
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Software PNOZmulti",
+    "PNOZmulti Tools (12)",
+    "PNOZmulti Configurator Licence (12)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Software-PNOZmulti/PNOZmulti-Tools/PNOZmulti-Configurator-Licence/c/0010100206709380IZ",
+   "code": "0010100206709380IZ",
+   "level": 4
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Software PNOZmulti",
+    "PVIS Tools (8)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Software-PNOZmulti/PVIS-Tools/c/00101002067091",
+   "code": "00101002067091",
+   "level": 3
+  },
+  {
+   "path": [
+    "Small controllers PNOZmulti",
+    "Software PNOZmulti",
+    "PVIS Tools (8)",
+    "PVIS Licence (8)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Software-PNOZmulti/PVIS-Tools/PVIS-Licence/c/0010100206709180NM",
+   "code": "0010100206709180NM",
+   "level": 4
+  },
+  {
+   "path": [
+    "Software"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Software/c/A0700",
+   "code": "A0700",
+   "level": 1
+  },
+  {
+   "path": [
+    "Software",
+    "Visualisation Software"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Software/Visualisation-Software/c/A0700B0700",
+   "code": "A0700B0700",
+   "level": 2
+  },
+  {
+   "path": [
+    "Software",
+    "Visualisation Software",
+    "PASvisu - HMI Software (13)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Software/Visualisation-Software/PASvisu-HMI-Software/c/00105002177122",
+   "code": "00105002177122",
+   "level": 3
+  },
+  {
+   "path": [
+    "Software",
+    "Visualisation Software",
+    "PASvisu - HMI Software (13)",
+    "PASvisu Licence (13)"
+   ],
+   "type": "category",
+   "url": "https://www.pilz.com.cn/en-CN/eshop/Software/Visualisation-Software/PASvisu-HMI-Software/PASvisu-Licence/c/0010500217712280OQ",
+   "code": "0010500217712280OQ",
+   "level": 4
+  }
+ ]
+}

@@ -1,0 +1,35 @@
+--- REER product_cat
+2780 Counter({9: 1008, 10: 976, 8: 604, 7: 150, 6: 42})
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/a-analoger-ausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/a-analoger-ausgang/ac-stromausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/a-analoger-ausgang/ac-stromausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/a-analoger-ausgang/av-spannungsausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/a-analoger-ausgang/av-spannungsausgang/50-mm-strahlabstand-av-spannungsausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/c-an-aus-ausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/c-an-aus-ausgang/antivalenzausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/c-an-aus-ausgang/antivalenzausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/c-an-aus-ausgang/antivalenzausgang/10-mm-strahlabstand-antivalenzausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/serieller-ausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/serieller-ausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/serieller-ausgang/b-rs485-ausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/serieller-ausgang/iol-io-link-ausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/serieller-ausgang/iol-io-link-ausgang/10-mm-strahlabstand-iol-io-link-ausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/serieller-ausgang/iol-io-link-ausgang/10-mm-strahlabstand-iol-io-link-ausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/serieller-ausgang/iol-io-link-ausgang/25-mm-strahlabstand-iol-io-link-ausgang/
+  https://www.reersafety.com/de/produkt-kategorie/messende-lichtvorhaenge/micron/serieller-ausgang/iol-io-link-ausgang/30-mm-strahlabstand-iol-io-link-ausgang/
+  https://www.reersafety.com/de/produkt-kategorie/schutzvorrichtungen/
+  https://www.reersafety.com/de/produkt-kategorie/schutzvorrichtungen/encoder/
+  https://www.reersafety.com/de/produkt-kategorie/schutzvorrichtungen/encoder/sc-safecoder/
+  https://www.reersafety.com/de/produkt-kategorie/schutzvorrichtungen/kontaktlos/magnus-mg/
+  https://www.reersafety.com/de/produkt-kategorie/schutzvorrichtungen/kontaktlos/magnus-mg/b-gross-magnus-mg/
+  https://www.reersafety.com/de/produkt-kategorie/schutzvorrichtungen/kontaktlos/magnus-mg/m30-zylindrisch/
+  https://www.reersafety.com/de/produkt-kategorie/schutzvorrichtungen/kontaktlos/magnus-mg/s-klein-magnus-mg/
+  https://www.reersafety.com/de/produkt-kategorie/schutzvorrichtungen/kontaktlos/magnus-mg/s-klein-magnus-mg/
+  https://www.reersafety.com/de/produkt-kategorie/schutzvorrichtungen/kontaktlos/pi-safe/
+  https://www.reersafety.com/de/produkt-kategorie/schutzvorrichtungen/kontaktlos/pi-safe/m-zylindrisch/
+  https://www.reersafety.com/de/produkt-kategorie/schutzvorrichtungen/kontaktlos/pi-safe/sq-quadratisch/
+  https://www.reersafety.com/de/produkt-kategorie/schutzvorrichtungen/kontaktlos/r-safe-rfid/
+--- PERMA
+248
+['https://www.perma-tec.com/en', 'https://www.perma-tec.com/en/about-perma', 'https://www.perma-tec.com/en/about-perma/advantages', 'https://www.perma-tec.com/en/about-perma/team', 'https://www.perma-tec.com/en/about-perma/podcast', 'https://www.perma-tec.com/en/lubrication-systems', 'https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems', 'https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems/perma-star-vario-long-range', 'https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems/perma-star-vario-bluetooth', 'https://www.perma-tec.com/en/lubrication-systems/single-point-lubrication-systems/perma-star-control']

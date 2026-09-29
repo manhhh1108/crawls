@@ -1,0 +1,2114 @@
+{
+ "brand": "17 Balluff",
+ "site": "https://www.balluff.com/en-sg",
+ "note": "Tu sitemap en-sg + breadcrumb JSON-LD. Cap cuoi = ho san pham (F....) ngay tren ma SP (BES/BFT...).",
+ "nodes": [
+  {
+   "path": [
+    "Accessories"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017",
+   "code": "A0017",
+   "level": 1
+  },
+  {
+   "path": [
+    "Accessories",
+    "Fastening Technology"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1706",
+   "code": "G1706",
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Fastening Technology",
+    "Brackets for vision sensors and lights"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1706/products/F17607",
+   "code": "F17607",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Fastening Technology",
+    "Clamp without fixed stop for proximity switches"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1706/products/F17604",
+   "code": "F17604",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Fastening Technology",
+    "Flexible mounting system"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1706/products/F17610",
+   "code": "F17610",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Fastening Technology",
+    "Proximity sensor mounts with positive stops"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1706/products/F17603",
+   "code": "F17603",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Fastening Technology",
+    "Universal brackets"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1706/products/F17611",
+   "code": "F17611",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mechanical Protection"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1705",
+   "code": "G1705",
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mechanical Protection",
+    "Plunger probe solutions"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1705/products/F17503",
+   "code": "F17503",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mechanical Protection",
+    "Protective caps and port covers"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1705/products/F17501",
+   "code": "F17501",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mechanical Protection",
+    "Protective housing"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1705/products/F17502",
+   "code": "F17502",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Mechanical Protection",
+    "Protective tubes for cables"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1705/products/F17504",
+   "code": "F17504",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Reflectors, Fibers, Optics"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1704",
+   "code": "G1704",
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Reflectors, Fibers, Optics",
+    "Glass fibers"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1704/products/F17402",
+   "code": "F17402",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Reflectors, Fibers, Optics",
+    "Optics: Apertures, lenses, deflectors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1704/products/F17404",
+   "code": "F17404",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Reflectors, Fibers, Optics",
+    "Plastic fibers"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1704/products/F17403",
+   "code": "F17403",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Reflectors, Fibers, Optics",
+    "Reflectors and reflective foils"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1704/products/F17401",
+   "code": "F17401",
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Signal converter"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1707",
+   "code": "G1707",
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Signal converter",
+    "Signal converters"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0017/groups/G1707/products/F17704",
+   "code": "F17704",
+   "level": 3
+  },
+  {
+   "path": [
+    "Connectivity"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0011",
+   "code": "A0011",
+   "level": 1
+  },
+  {
+   "path": [
+    "Connectivity",
+    "Adapters"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0011/products/G1108",
+   "code": "A0011",
+   "level": 2
+  },
+  {
+   "path": [
+    "Connectivity",
+    "Bulk cables"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0011/products/G1101",
+   "code": "A0011",
+   "level": 2
+  },
+  {
+   "path": [
+    "Connectivity",
+    "Bulkheads"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0011/products/G1109",
+   "code": "A0011",
+   "level": 2
+  },
+  {
+   "path": [
+    "Connectivity",
+    "Double-ended cordsets"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0011/products/G1103",
+   "code": "A0011",
+   "level": 2
+  },
+  {
+   "path": [
+    "Connectivity",
+    "Field attachables"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0011/products/G1105",
+   "code": "A0011",
+   "level": 2
+  },
+  {
+   "path": [
+    "Connectivity",
+    "Junction blocks"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0011/products/G1106",
+   "code": "A0011",
+   "level": 2
+  },
+  {
+   "path": [
+    "Connectivity",
+    "Receptacles"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0011/products/G1104",
+   "code": "A0011",
+   "level": 2
+  },
+  {
+   "path": [
+    "Connectivity",
+    "Single-ended cordsets"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0011/products/G1102",
+   "code": "A0011",
+   "level": 2
+  },
+  {
+   "path": [
+    "Connectivity",
+    "Tees"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0011/products/G1110",
+   "code": "A0011",
+   "level": 2
+  },
+  {
+   "path": [
+    "Connectivity",
+    "Terminating resistors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0011/products/G1107",
+   "code": "A0011",
+   "level": 2
+  },
+  {
+   "path": [
+    "Connectivity",
+    "Y-splitters"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0011/products/G1111",
+   "code": "A0011",
+   "level": 2
+  },
+  {
+   "path": [
+    "Control devices, indicator devices, and LED machine lights"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0013",
+   "code": "A0013",
+   "level": 1
+  },
+  {
+   "path": [
+    "Control devices, indicator devices, and LED machine lights",
+    "IO-Link control panel"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0013/products/G1306",
+   "code": "A0013",
+   "level": 2
+  },
+  {
+   "path": [
+    "Control devices, indicator devices, and LED machine lights",
+    "Machine Lights"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0013/products/G1305",
+   "code": "A0013",
+   "level": 2
+  },
+  {
+   "path": [
+    "Control devices, indicator devices, and LED machine lights",
+    "SmartLight – LED stack lights"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0013/products/G1301",
+   "code": "A0013",
+   "level": 2
+  },
+  {
+   "path": [
+    "Industrial Communication"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Industrial Communication",
+    "I/O modules"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Industrial Communication",
+    "I/O modules",
+    "IO-Link hubs - flexible and cost-efficient signal bundling"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0007/groups/G0701/products/F07101",
+   "code": "F07101",
+   "level": 3
+  },
+  {
+   "path": [
+    "Industrial Communication",
+    "I/O modules",
+    "IO-Link valve interface"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0009/groups/G0903/products/F09303",
+   "code": "F09303",
+   "level": 3
+  },
+  {
+   "path": [
+    "Industrial Communication",
+    "I/O modules",
+    "Universal IO-Link interfaces"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0009/groups/G0903/products/F09302",
+   "code": "F09302",
+   "level": 3
+  },
+  {
+   "path": [
+    "Industrial Communication",
+    "Inductive Couplers"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0009/groups/G0905",
+   "code": "G0905",
+   "level": 2
+  },
+  {
+   "path": [
+    "Industrial Communication",
+    "Inductive Couplers",
+    "Inductive couplers for contactless energy and signal transmission"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0009/groups/G0905/products/F09501",
+   "code": "F09501",
+   "level": 3
+  },
+  {
+   "path": [
+    "Industrial Communication",
+    "Network blocks"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0009/groups/G0901",
+   "code": "G0901",
+   "level": 2
+  },
+  {
+   "path": [
+    "Industrial Communication",
+    "Network blocks",
+    "Fieldbus modules"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0009/groups/G0901/products/F09103",
+   "code": "F09103",
+   "level": 3
+  },
+  {
+   "path": [
+    "Industrial Communication",
+    "Network blocks",
+    "IO-Link Master - Intelligent interface for your automation"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0009/groups/G0901/products/F09105",
+   "code": "F09105",
+   "level": 3
+  },
+  {
+   "path": [
+    "Industrial Communication",
+    "Switches"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0009/groups/G0902",
+   "code": "G0902",
+   "level": 2
+  },
+  {
+   "path": [
+    "Industrial Communication",
+    "Switches",
+    "Unmanaged switches"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0009/groups/G0902/products/F09201",
+   "code": "F09201",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005",
+   "code": "A0005",
+   "level": 1
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "3D Machine Vision"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0503",
+   "code": "G0503",
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "3D Machine Vision",
+    "3D Stereo Camera"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0503/products/F05302",
+   "code": "F05302",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "3D Machine Vision",
+    "Smart 3D Camera"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0503/products/F05301",
+   "code": "F05301",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "3D Machine Vision",
+    "Software and Controller"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0503/products/F05303",
+   "code": "F05303",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Embedded vision"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0508",
+   "code": "G0508",
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Embedded vision",
+    "Embedded PCI Express cameras"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0508/products/F05801",
+   "code": "F05801",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Embedded vision",
+    "USB 2.0 board-level cameras"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0508/products/F05803",
+   "code": "F05803",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Embedded vision",
+    "USB3 Vision board-level cameras"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0508/products/F05802",
+   "code": "F05802",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Industrial cameras"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0504",
+   "code": "G0504",
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Industrial cameras",
+    "10GigE Vision Cameras"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0504/products/F05404",
+   "code": "F05404",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Industrial cameras",
+    "25GigE Vision Cameras"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0504/products/F05409",
+   "code": "F05409",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Industrial cameras",
+    "5GigE Vision Cameras"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0504/products/F05408",
+   "code": "F05408",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Industrial cameras",
+    "Dual GigE Vision Cameras"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0504/products/F05406",
+   "code": "F05406",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Industrial cameras",
+    "GigE Vision Cameras"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0504/products/F05401",
+   "code": "F05401",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Industrial cameras",
+    "PCI Express cameras"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0504/products/F05402",
+   "code": "F05402",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Industrial cameras",
+    "SWIR and UV cameras"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0504/products/F05407",
+   "code": "F05407",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Industrial cameras",
+    "USB 2.0 Cameras"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0504/products/F05403",
+   "code": "F05403",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Industrial cameras",
+    "USB3 Vision Cameras"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0504/products/F05405",
+   "code": "F05405",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Lights for vision systems and machines"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0506",
+   "code": "G0506",
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Lights for vision systems and machines",
+    "Background lights"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0506/products/F05602",
+   "code": "F05602",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Lights for vision systems and machines",
+    "Dark field lights"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0506/products/F05601",
+   "code": "F05601",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Lights for vision systems and machines",
+    "Line lasers"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0506/products/F05607",
+   "code": "F05607",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Lights for vision systems and machines",
+    "Ring lights"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0506/products/F05603",
+   "code": "F05603",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Lights for vision systems and machines",
+    "Strip lights"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0506/products/F05604",
+   "code": "F05604",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Machine Vision Software"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0507",
+   "code": "G0507",
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Machine Vision Software",
+    "Machine Vision Software"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0507/products/F05701",
+   "code": "F05701",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Optical Identification"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0502",
+   "code": "G0502",
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Optical Identification",
+    "Portable code reader"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0502/products/F05206",
+   "code": "F05206",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Optical Identification",
+    "Stationary optical ID sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0502/products/F05205",
+   "code": "F05205",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Optics"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0505",
+   "code": "G0505",
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Optics",
+    "Auto Focus Lens"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0505/products/F05503",
+   "code": "F05503",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Optics",
+    "C-mount lenses"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0505/products/F05501",
+   "code": "F05501",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Optics",
+    "Optical filters"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0505/products/F05505",
+   "code": "F05505",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Optics",
+    "S-mount lenses"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0505/products/F05502",
+   "code": "F05502",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Optics",
+    "TFL-mount lenses"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0505/products/F05506",
+   "code": "F05506",
+   "level": 3
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Smart Vision"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0501",
+   "code": "G0501",
+   "level": 2
+  },
+  {
+   "path": [
+    "Machine Vision and Optical Identification",
+    "Smart Vision",
+    "BVS VisionSensor"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0005/groups/G0501/products/F05108",
+   "code": "F05108",
+   "level": 3
+  },
+  {
+   "path": [
+    "Power Supplies"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0015",
+   "code": "A0015",
+   "level": 1
+  },
+  {
+   "path": [
+    "Power Supplies",
+    "Field power supplies with IO-Link interface"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0015/products/G1505",
+   "code": "A0015",
+   "level": 2
+  },
+  {
+   "path": [
+    "Power Supplies",
+    "Heartbeat® power supply units"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0015/products/G1503",
+   "code": "A0015",
+   "level": 2
+  },
+  {
+   "path": [
+    "Power Supplies",
+    "Heartbeat® power supply units with IO-Link interface"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0015/products/G1504",
+   "code": "A0015",
+   "level": 2
+  },
+  {
+   "path": [
+    "Power Supplies",
+    "Power supplies for the control cabinet"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0015/products/G1501",
+   "code": "A0015",
+   "level": 2
+  },
+  {
+   "path": [
+    "Produkte"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Produkte",
+    "Industrielle Kommunikation"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Produkte",
+    "Industrielle Kommunikation",
+    "E/A-Module"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0007/groups/G0701",
+   "code": "G0701",
+   "level": 3
+  },
+  {
+   "path": [
+    "Produkte",
+    "Sensortechnik"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0007/groups/G0703",
+   "code": "G0703",
+   "level": 2
+  },
+  {
+   "path": [
+    "RFID systems"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003",
+   "code": "A0003",
+   "level": 1
+  },
+  {
+   "path": [
+    "RFID systems",
+    "HF RFID System BIS M"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0304",
+   "code": "G0304",
+   "level": 2
+  },
+  {
+   "path": [
+    "RFID systems",
+    "HF RFID System BIS M",
+    "HF RFID processors (13.56 MHz)"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0304/products/F03402",
+   "code": "F03402",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "HF RFID System BIS M",
+    "HF RFID readers (13.56 MHz)"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0304/products/F03405",
+   "code": "F03405",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "HF RFID System BIS M",
+    "HF RFID tags (13.56 MHz)"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0304/products/F03401",
+   "code": "F03401",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "LF RFID System BIS C"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0301",
+   "code": "G0301",
+   "level": 2
+  },
+  {
+   "path": [
+    "RFID systems",
+    "LF RFID System BIS C",
+    "LF RFID data coupler (70/455 kHz)"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0301/products/F03107",
+   "code": "F03107",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "LF RFID System BIS C",
+    "LF RFID processors (70/455 kHz)"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0301/products/F03102",
+   "code": "F03102",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "LF RFID System BIS C",
+    "LF RFID readers (70/455 kHz)"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0301/products/F03106",
+   "code": "F03106",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "LF RFID System BIS C",
+    "LF RFID tags (70/455 kHz)"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0301/products/F03101",
+   "code": "F03101",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "LF RFID system BIS L"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0302",
+   "code": "G0302",
+   "level": 2
+  },
+  {
+   "path": [
+    "RFID systems",
+    "LF RFID system BIS L",
+    "LF RFID processors (125 kHz)"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0302/products/F03202",
+   "code": "F03202",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "LF RFID system BIS L",
+    "LF RFID readers (125 kHz)"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0302/products/F03205",
+   "code": "F03205",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "LF RFID system BIS L",
+    "LF RFID tags (125 kHz)"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0302/products/F03201",
+   "code": "F03201",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "RFID evaluation units"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0307",
+   "code": "G0307",
+   "level": 2
+  },
+  {
+   "path": [
+    "RFID systems",
+    "RFID evaluation units",
+    "Multi-frequency RFID processors (BIS V)"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0307/products/F03701",
+   "code": "F03701",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "RFID handhelds for industry"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0306",
+   "code": "G0306",
+   "level": 2
+  },
+  {
+   "path": [
+    "RFID systems",
+    "RFID handhelds for industry",
+    "RFID handhelds: Accessories"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0306/products/F03603",
+   "code": "F03603",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "RFID handhelds for industry",
+    "RFID handhelds: Base devices"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0306/products/F03601",
+   "code": "F03601",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "UHF RFID system BIS U"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0305",
+   "code": "G0305",
+   "level": 2
+  },
+  {
+   "path": [
+    "RFID systems",
+    "UHF RFID system BIS U",
+    "UHF RFID processors (860...930 MHz)"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0305/products/F03502",
+   "code": "F03502",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "UHF RFID system BIS U",
+    "UHF RFID readers (860...930 MHz)"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0305/products/F030506",
+   "code": "F030506",
+   "level": 3
+  },
+  {
+   "path": [
+    "RFID systems",
+    "UHF RFID system BIS U",
+    "UHF RFID tags (860…930 MHz)"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0003/groups/G0305/products/F03501",
+   "code": "F03501",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001",
+   "code": "A0001",
+   "level": 1
+  },
+  {
+   "path": [
+    "Sensors",
+    "Cam switches"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0113",
+   "code": "G0113",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Cam switches",
+    "Inductive multiple position limit switches"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0113/products/F01304",
+   "code": "F01304",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Cam switches",
+    "Inductive single position limit switches"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0113/products/F01303",
+   "code": "F01303",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Cam switches",
+    "Mechanical multiple position limit switches"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0113/products/F01302",
+   "code": "F01302",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Cam switches",
+    "Mechanical multiple position limit switches for extended temperature range"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0113/products/F01309",
+   "code": "F01309",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Cam switches",
+    "Mechanical multiple position limit switches with interchangeable plunger unit"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0113/products/F01311",
+   "code": "F01311",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Cam switches",
+    "Mechanical multiple position limit switches with positive opening"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0113/products/F01308",
+   "code": "F01308",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Cam switches",
+    "Mechanical multiple position limit switches with safety switch positions"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0113/products/F01306",
+   "code": "F01306",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Cam switches",
+    "Mechanical single position limit switches"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0113/products/F01301",
+   "code": "F01301",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Cam switches",
+    "Mechanical single position limit switches for extended temperature range"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0113/products/F01332",
+   "code": "F01332",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Cam switches",
+    "Mechanical single position limit switches with positive opening"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0113/products/F01307",
+   "code": "F01307",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Cam switches",
+    "Mechanical single position limit switches with safety switch positions"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0113/products/F01305",
+   "code": "F01305",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Capacitive sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0102",
+   "code": "G0102",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Capacitive sensors",
+    "Amplifiers for capacitive sensor heads"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0102/products/F01210",
+   "code": "F01210",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Capacitive sensors",
+    "Capacitive level sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0102/products/F01203",
+   "code": "F01203",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Capacitive sensors",
+    "Capacitive proximity switches for object detection"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0102/products/F01202",
+   "code": "F01202",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Capacitive sensors",
+    "Capacitive sensors with special properties"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0102/products/F01201",
+   "code": "F01201",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Condition Monitoring Sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0119",
+   "code": "G0119",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Condition Monitoring Sensors",
+    "Condition monitoring sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0119/products/F011901",
+   "code": "F011901",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Contact temperature sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0114",
+   "code": "G0114",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Encoders"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0121",
+   "code": "G0121",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Encoders",
+    "Absolute encoders"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0121/products/F012102",
+   "code": "F012102",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Encoders",
+    "Incremental encoders"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0121/products/F012101",
+   "code": "F012101",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inclination sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0109",
+   "code": "G0109",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inclination sensors",
+    "Single and dual axis inclinometers"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0109/products/F01901",
+   "code": "F01901",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0101",
+   "code": "G0101",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive sensors",
+    "Inductive distance sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0101/products/F01115",
+   "code": "F01115",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive sensors",
+    "Inductive position sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0101/products/F01110",
+   "code": "F01110",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive sensors",
+    "Inductive proximity switches and proximity sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0101/products/F01101",
+   "code": "F01101",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive sensors",
+    "Inductive ring sensors and tube sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0101/products/F01113",
+   "code": "F01113",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Inductive sensors",
+    "Rapid inductive position measuring systems"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0101/products/F01118",
+   "code": "F01118",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetic field sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0105",
+   "code": "G0105",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetic field sensors",
+    "Cylinder sensors for multiple slot shapes"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0105/products/F01501",
+   "code": "F01501",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetic field sensors",
+    "Cylindrical magnetic field sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0105/products/F01507",
+   "code": "F01507",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetic field sensors",
+    "Magnetic field positioning systems"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0105/products/F01508",
+   "code": "F01508",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetic field sensors",
+    "Magnetic field sensors with adjustable switchpoints"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0105/products/F01520",
+   "code": "F01520",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetic field sensors",
+    "Single-connector version with two BMF magnetic field sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0105/products/F01521",
+   "code": "F01521",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetic tape sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0107",
+   "code": "G0107",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetic tape sensors",
+    "Absolute linear distance measuring system and rotary angle measuring system"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0107/products/F01707",
+   "code": "F01707",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetic tape sensors",
+    "Axial Magnetic Rings for Absolute Angle Measurement"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0107/products/F01704",
+   "code": "F01704",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetic tape sensors",
+    "Incremental linear distance measuring system and rotary angle measuring system"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0107/products/F01709",
+   "code": "F01709",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetic tape sensors",
+    "Magnetic tapes with incremental or absolute coding"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0107/products/F01701",
+   "code": "F01701",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetostrictive sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0116",
+   "code": "G0116",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetostrictive sensors",
+    "Magnetostrictive linear position sensors for explosive areas"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0116/products/F01807",
+   "code": "F01807",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetostrictive sensors",
+    "Magnetostrictive linear position sensors for extreme environments"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0116/products/F01811",
+   "code": "F01811",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetostrictive sensors",
+    "Magnetostrictive linear position sensors for industrial hydraulics"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0116/products/F01812",
+   "code": "F01812",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetostrictive sensors",
+    "Magnetostrictive linear position sensors in profile housing"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0116/products/F01809",
+   "code": "F01809",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetostrictive sensors",
+    "Magnetostrictive position measuring systems for long distances"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0116/products/F01814",
+   "code": "F01814",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetostrictive sensors",
+    "Magnetostrictive position measuring systems for mobile hydraulics"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0116/products/F01813",
+   "code": "F01813",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Magnetostrictive sensors",
+    "Redundant magnetostrictive linear position sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0116/products/F01810",
+   "code": "F01810",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Optical sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0103",
+   "code": "G0103",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Optical sensors",
+    "Color sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0103/products/F01326",
+   "code": "F01326",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Optical sensors",
+    "Contrast sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0103/products/F01324",
+   "code": "F01324",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Optical sensors",
+    "Diffuse sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0103/products/F01319",
+   "code": "F01319",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Optical sensors",
+    "Fiber optic sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0103/products/F01314",
+   "code": "F01314",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Optical sensors",
+    "Fork sensors and angle sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0103/products/F01313",
+   "code": "F01313",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Optical sensors",
+    "Light bands and light grids"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0103/products/F01320",
+   "code": "F01320",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Optical sensors",
+    "Luminescence sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0103/products/F01322",
+   "code": "F01322",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Optical sensors",
+    "Micromote - optical sensor heads"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0103/products/F01315",
+   "code": "F01315",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Optical sensors",
+    "Optical windows"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0103/products/F01317",
+   "code": "F01317",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Optical sensors",
+    "Photoelectric distance sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0103/products/F01328",
+   "code": "F01328",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Optical sensors",
+    "Retroreflective sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0103/products/F01318",
+   "code": "F01318",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Optical sensors",
+    "Through-beam sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0103/products/F01327",
+   "code": "F01327",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Position Indicators"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0120",
+   "code": "G0120",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Position Indicators",
+    "Digital position indicators"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0120/products/F012001",
+   "code": "F012001",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Pressure sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0110",
+   "code": "G0110",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Pressure sensors",
+    "Digital pressure sensors with display"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0110/products/F01007",
+   "code": "F01007",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Pressure sensors",
+    "Front flush pressure sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0110/products/F00108",
+   "code": "F00108",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Pressure sensors",
+    "Pressure transmitter"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0110/products/F01006",
+   "code": "F01006",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Sensortechnik und Industrieautomation | Balluff"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0007",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Thermal flow sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0117",
+   "code": "G0117",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Ultrasonic sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0104",
+   "code": "G0104",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sensors",
+    "Ultrasonic sensors",
+    "Pressure-rated ultrasonic sensors"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0104/products/F01401",
+   "code": "F01401",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Ultrasonic sensors",
+    "Ultrasonic sensors for short-stroke hydraulic cylinders"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0104/products/F01408",
+   "code": "F01408",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sensors",
+    "Ultrasonic sensors",
+    "Ultrasonic sensors with analog output or digital output"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0001/groups/G0104/products/F01404",
+   "code": "F01404",
+   "level": 3
+  },
+  {
+   "path": [
+    "Software"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0019",
+   "code": "A0019",
+   "level": 1
+  },
+  {
+   "path": [
+    "Software",
+    "Setup and configuration"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0019/groups/G1901",
+   "code": "G1901",
+   "level": 2
+  },
+  {
+   "path": [
+    "Software",
+    "Setup and configuration",
+    "Balluff Engineering Tool"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0019/groups/G1901/products/F170601",
+   "code": "F170601",
+   "level": 3
+  },
+  {
+   "path": [
+    "Systems solutions"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0018",
+   "code": "A0018",
+   "level": 1
+  },
+  {
+   "path": [
+    "Systems solutions",
+    "Monitoring"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0018/groups/G1802",
+   "code": "G1802",
+   "level": 2
+  },
+  {
+   "path": [
+    "Systems solutions",
+    "Monitoring",
+    "Condition Monitoring Toolkit"
+   ],
+   "type": "range",
+   "url": "https://www.balluff.com/en-sg/products/areas/A0018/groups/G1802/products/F190202",
+   "code": "F190202",
+   "level": 3
+  }
+ ]
+}

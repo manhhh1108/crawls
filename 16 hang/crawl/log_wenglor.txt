@@ -1,0 +1,4 @@
+category pages: 184
+  [skip] https://www.wenglor.com/en/Connection-and-Network-Technology/Network-and-Fieldbus-Components/Ethernet-Connection-Boxes/c/cxmCID197689
+[06 wenglor] saved 181 nodes -> D:\Crawl AUMI\16 hang\crawl\out\06 wenglor.json
+        levels: {1: 4, 2: 29, 3: 94, 4: 39, 5: 15}

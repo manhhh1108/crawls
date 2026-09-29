@@ -1,0 +1,511 @@
+{
+ "brand": "15 ESPE Technology",
+ "site": "https://www.espetech.com/",
+ "note": "Cay 2 cap tu trang /products (co phan trang); cap 2 la dong SP ngay tren ma cu the.",
+ "nodes": [
+  {
+   "path": [
+    "Accessories"
+   ],
+   "type": "category",
+   "url": "https://www.espetech.com/accessory/",
+   "code": "accessory",
+   "level": 1
+  },
+  {
+   "path": [
+    "Accessories",
+    "Proximity Sensor"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/accessory/Proximity Sensor.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Safety Control Module"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/accessory/safety-control-module.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Safety Relay Expansion Module"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/accessory/safety-relay-expansion-module.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Safety Relay Module"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/accessory/safety-relay-module.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Slot-type sensor"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/accessory/slot-type-sensor.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Two Hand Button Control Module"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/accessory/two-hand-button-control-module.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Ultra-thin Photoelectric Sensor"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/accessory/ultra-thin-photoelectric-sensor.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Laser Scanners"
+   ],
+   "type": "category",
+   "url": "https://www.espetech.com/laser-scanner/",
+   "code": "laser-scanner",
+   "level": 1
+  },
+  {
+   "path": [
+    "Laser Scanners",
+    "LGA10 270° Laser Scanner"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/laser-scanner/lga10-series-laser-scanner.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Laser Scanners",
+    "LGA60 320° Laser Scanner"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/laser-scanner/lga60-320-scan-high-performance-laser-scanner.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Laser Scanners",
+    "LGA60P1 270° Laser Scanner"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/laser-scanner/50.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Laser Scanners",
+    "LRA70 Millimeter Wavelength Lidar"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/laser-scanner/lra70-millimeter-wavelength-lidar.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Tower Lights"
+   ],
+   "type": "category",
+   "url": "https://www.espetech.com/led-tower-light/",
+   "code": "led-tower-light",
+   "level": 1
+  },
+  {
+   "path": [
+    "LED Tower Lights",
+    "WLC LED Signal Tower Light"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/led-tower-light/wlc-led-signal-tower-light.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Tower Lights",
+    "WLE LED Signal Tower Light"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/led-tower-light/wle-led-signal-tower-light.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Tower Lights",
+    "WLM LED Signal Tower Light"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/led-tower-light/wlm-led-signal-tower-light.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Tower Lights",
+    "WSL LED signal tower light"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/led-tower-light/wsl-led-signal-tower-light.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Measuring Light Curtains"
+   ],
+   "type": "category",
+   "url": "https://www.espetech.com/measuring-light-curtains/",
+   "code": "measuring-light-curtains",
+   "level": 1
+  },
+  {
+   "path": [
+    "Measuring Light Curtains",
+    "Central Correction Light Curtain Sensor"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/measuring-light-curtains/central-correction-light-curtain-sensor.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Measuring Light Curtains",
+    "Measuring Light Curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/measuring-light-curtains/45.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Measuring Light Curtains",
+    "Measuring Light Curtain Sensor"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/measuring-light-curtains/measuring-light-curtain-sensor.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Door Switches"
+   ],
+   "type": "category",
+   "url": "https://www.espetech.com/safety-door-switch/",
+   "code": "safety-door-switch",
+   "level": 1
+  },
+  {
+   "path": [
+    "Safety Door Switches",
+    "EMB Series Slide Unit"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-door-switch/emb-series-slide-unit.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Door Switches",
+    "SK Series Key of Safety Door Switch"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-door-switch/various-key-of-safety-door-switch.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Door Switches",
+    "SLE21 Safety Interlock Switch"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-door-switch/sle21-safety-interlock-switch.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Door Switches",
+    "SLM11 Safety Door Switch(2 contacts)"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-door-switch/slm11-safety-door-switch(2-contacts).html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Door Switches",
+    "SLM13 Safety Door Switch"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-door-switch/slm13-safety-door-switch.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Door Switches",
+    "SLM21 Safety Door Switch(6 contacts)"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-door-switch/slm21-safety-door-switch-(-6-contacts).html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Door Switches",
+    "SLR11 High Level Safety Interlock"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-door-switch/slr-high-level-safety-interlock.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Door Switches",
+    "SSG11 Door Switch"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-door-switch/ssg11-door-switch.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Door Switches",
+    "SSM11 Safety Door Switch (economic)"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-door-switch/ssm11-safety-door-switch-(economic).html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Door Switches",
+    "SSR21 Contactless Safety Door Switch"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-door-switch/ssr21-contactless-safety-door-switch.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Door Switches",
+    "SSR22 Contactless Safety Door Switch"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-door-switch/ssr22-contactless-safety-door-switch.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains"
+   ],
+   "type": "category",
+   "url": "https://www.espetech.com/safety-light-curtains/",
+   "code": "safety-light-curtains",
+   "level": 1
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Against strong light safety light curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/Against strong light safety light curtain.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Area Sensor (Curtain)"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/49.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Automation Safety Light Curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/Automation Safety Light Curtain.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Classic Type 4 Safety Light Curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/type-4-safety-light-curtain.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Compact Safety Light Curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/compact-safety-light-curtain.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EB13 Ultra-thin Safety Light Curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/eb13-ultra-thin.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EB15 Compact Safety Light Curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/eb15-compact-safety-light-curtain.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Economical Safety Light Curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/economical-safety-light-curtain.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Explosion Proof Safety Light Curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/explosion-proof-safety-light-curtain.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Multiple-side Safety Light Curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/area-safety-light-curtain.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "No-dead zone safety light curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/no-dead-zone-safety-light-curtain.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "No-dead Zone Type 2 Safety Light Curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/48.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Punching Machine Safety Light Curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/punching-machine-safety-light-curtain.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Type 4 Safety Light Curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/esv-series-type-4-safety-light-curtain.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vehicle Separation Light Curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/Vehicle Separation Light Curtain.html",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Waterproof Safety Light Curtain"
+   ],
+   "type": "range",
+   "url": "https://www.espetech.com/safety-light-curtains/waterproof-safety-light-curtain.html",
+   "code": null,
+   "level": 2
+  }
+ ]
+}

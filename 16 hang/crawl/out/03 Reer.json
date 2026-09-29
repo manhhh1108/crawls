@@ -1,0 +1,3495 @@
+{
+ "brand": "03 Reer",
+ "site": "https://www.reersafety.com/en/",
+ "note": "Cay danh muc EN tu product_cat sitemap + breadcrumb JSON-LD.",
+ "nodes": [
+  {
+   "path": [
+    "Accessories"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Accessories",
+    "Brackets"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/brackets/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Brackets",
+    "EOS"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/brackets/eos/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Brackets",
+    "Hokuyo"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/brackets/hokuyo/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Brackets",
+    "Ilion"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/brackets/ilion-brackets-accessories/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Brackets",
+    "Janus"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/brackets/janus-brackets-accessories/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Brackets",
+    "PI-SAFE"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/brackets/pi-safe-brackets-accessories/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Brackets",
+    "Safegate"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/brackets/safegate-brackets-accessories/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Brackets",
+    "Safeready"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/brackets/safeready-brackets-accessories/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Devices"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/devices/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Devices",
+    "Hokuyo UAM"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/devices/hokuyo-uam-devices-cables/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Devices",
+    "Magnus MG"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/devices/magnus-mg-devices-cables/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Devices",
+    "R-SAFE RFID"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/devices/r-safe-rfid-devices-cables/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Devices",
+    "Safecoder"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/devices/safecoder/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Devices",
+    "Ulisse"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/devices/ulisse-devices-cables/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Light curtains"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/light-curtains/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Light curtains",
+    "General"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/light-curtains/general/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Light curtains",
+    "General",
+    "M12 5-pole"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/light-curtains/general/m12-5-pole/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Light curtains",
+    "General",
+    "M12 8-pole"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/light-curtains/general/m12-8-pole/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Light curtains",
+    "Janus"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/light-curtains/janus-light-curtains-cables/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Light curtains",
+    "Janus",
+    "M12-M12"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/light-curtains/janus-light-curtains-cables/m12-m12/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Light curtains",
+    "Micron"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/light-curtains/micron-light-curtains-cables/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Light curtains",
+    "Safegate"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/light-curtains/safegate-light-curtains-cables/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Light curtains",
+    "Vision"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/light-curtains/vision-light-curtains-cables/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Cables",
+    "Mosaic"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/cables/mosaic-cables/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Components"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/components-accessories/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Components",
+    "Laser Alignement Devices (LAD)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/components-accessories/laser-alignement-devices-lad/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Components",
+    "Test Rods (TR)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/components-accessories/test-rods-tr/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/floor-mounting/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting",
+    "Bases (CB)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/floor-mounting/bases-cb/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting",
+    "Columns (FMC)"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting",
+    "Columns (FMC)",
+    "Admiral/Vision (B)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/floor-mounting/columns-fmc/admiral-vision-b/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting",
+    "Columns (FMC)",
+    "EOS (EB)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/floor-mounting/columns-fmc/eos-eb/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting",
+    "Columns (FMC)",
+    "Profiles (B)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/floor-mounting/columns-fmc/profiles-b/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting",
+    "Columns (FMC)",
+    "Profiles (B) Stainless Steel Accessories"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/floor-mounting/columns-fmc/profiles-b-stainless-steel-accessories/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting",
+    "Columns (FMC)",
+    "Safegate (SG)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/floor-mounting/columns-fmc/safegate-sg/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting",
+    "Columns (FMC)",
+    "Stainless Steel Accessories (KIT SS)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/floor-mounting/columns-fmc/stainless-steel-accessories-kit-ss/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting",
+    "Columns (FMC)",
+    "UNIMOUNT"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/floor-mounting/columns-fmc/unimount-columns-fmc/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting",
+    "Mirrors"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/floor-mounting/mirrors/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting",
+    "Mirrors",
+    "Columns with mirrors (FMC)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/floor-mounting/mirrors/columns-with-mirrors-fmc/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting",
+    "Mirrors",
+    "Stainless Steel Accessories (KIT SS)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/floor-mounting/mirrors/stainless-steel-accessories-kit-ss-mirrors-floor-mounting/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting",
+    "Mirrors",
+    "Stand-alone mirrors (SP)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/floor-mounting/mirrors/stand-alone-mirrors-sp/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Accessories",
+    "Floor Mounting",
+    "Stainless Steel Bases (CB SS)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/accessories/floor-mounting/stainless-steel-bases-cb-ss/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measurement Light Curtains"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "Analogue output (A)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/analogue-output-a/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "Analogue output (A)",
+    "Current Output (AC)"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "Analogue output (A)",
+    "Current Output (AC)",
+    "10 mm beam Spacing"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/analogue-output-a/current-output-ac/10-mm-beam-spacing/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "Analogue output (A)",
+    "Current Output (AC)",
+    "5 mm beam spacing"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/analogue-output-a/current-output-ac/5-mm-beam-spacing/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "Analogue output (A)",
+    "Voltage Output (AV)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/analogue-output-a/voltage-output-av/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "Analogue output (A)",
+    "Voltage Output (AV)",
+    "25 mm beam spacing"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/analogue-output-a/voltage-output-av/25-mm-beam-spacing-voltage-output-av/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "Analogue output (A)",
+    "Voltage Output (AV)",
+    "50 mm beam spacing"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/analogue-output-a/voltage-output-av/50-mm-beam-spacing-voltage-output-av/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "Communication units"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/communication-units/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "ON/OFF output (C)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/on-off-output-c/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "ON/OFF output (C)",
+    "Antivalent output"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/on-off-output-c/antivalent-output/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "ON/OFF output (C)",
+    "Antivalent output",
+    "30 mm beam spacing"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/on-off-output-c/antivalent-output/30-mm-beam-spacing-antivalent-output/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "Serial Output"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/serial-output/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "Serial Output",
+    "IO-Link Output (IOL)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/serial-output/io-link-output-iol/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "Serial Output",
+    "IO-Link Output (IOL)",
+    "30 mm beam spacing"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/serial-output/io-link-output-iol/30-mm-beam-spacing-io-link-output-iol/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "Serial Output",
+    "RS485 Serial Output (B)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/serial-output/rs485-serial-output-b/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Measurement Light Curtains",
+    "Micron",
+    "Serial Output",
+    "RS485 Serial Output (B)",
+    "30 mm beam spacing"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/measurement-light-curtains/micron/serial-output/rs485-serial-output-b/30-mm-beam-spacing-rs485-serial-output-b/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers",
+    "Mosaic"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/controllers/mosaic/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers",
+    "Mosaic",
+    "Communication Units"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/controllers/mosaic/communication-units-mosaic/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers",
+    "Mosaic",
+    "Communication Units",
+    "Fieldbus (MB)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/controllers/mosaic/communication-units-mosaic/fieldbus-mb/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers",
+    "Mosaic",
+    "Components"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/controllers/mosaic/components-mosaic-controllers/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers",
+    "Mosaic",
+    "Expansion Units"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/controllers/mosaic/expansion-units/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers",
+    "Mosaic",
+    "Expansion Units",
+    "Input/Output"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/controllers/mosaic/expansion-units/input-output/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers",
+    "Mosaic",
+    "Expansion Units",
+    "Speed Monitoring (MV)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/controllers/mosaic/expansion-units/speed-monitoring-mv/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers",
+    "Mosaic",
+    "Master Units"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/controllers/mosaic/master-units/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers",
+    "Mosaic",
+    "Master Units",
+    "Field-Bus Ready (M1S COM)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/controllers/mosaic/master-units/field-bus-ready-m1s-com/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers",
+    "Mosaic",
+    "Safety Relay Units"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/controllers/mosaic/safety-relay-units/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers",
+    "Mosaic",
+    "Safety Relay Units",
+    "Configurable (MOR)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/controllers/mosaic/safety-relay-units/configurable-mor/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers",
+    "Mosaic",
+    "Safety Relay Units",
+    "Stand-Alone (MR)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/controllers/mosaic/safety-relay-units/stand-alone-mr/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers",
+    "MZERO"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/controllers/mzero/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Controllers",
+    "MZERO",
+    "Components"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/controllers/mzero/components-mzero/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Interfaces"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/interfaces/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Interfaces",
+    "Multi-functions"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/interfaces/multi-functions/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Interfaces",
+    "Multi-functions",
+    "SR SELECT"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/interfaces/multi-functions/sr-select/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Interfaces",
+    "Single function"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/interfaces/single-function/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Interfaces",
+    "Single function",
+    "E-Stop interfaces cat. 4"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/interfaces/single-function/e-stop-interfaces-cat-4/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Interfaces",
+    "Single function",
+    "E-Stop interfaces cat. 4",
+    "AD"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/interfaces/single-function/e-stop-interfaces-cat-4/ad-e-stop-interfaces-cat-4/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Interfaces",
+    "Single function",
+    "E-Stop interfaces cat. 4",
+    "SR"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/interfaces/single-function/e-stop-interfaces-cat-4/sr-e-stop-interfaces-cat-4/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Interfaces",
+    "Single function",
+    "Relay interfaces"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Interfaces",
+    "Single function",
+    "Relay interfaces",
+    "SR"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/interfaces/single-function/relay-interfaces/sr-relay-interfaces/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Interfaces",
+    "Single function",
+    "Safety photocells interfaces"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/interfaces/single-function/safety-photocells-interfaces/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Interfaces",
+    "Single function",
+    "Speed Monitoring interfaces"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/interfaces/single-function/speed-monitoring-interfaces/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Interfaces",
+    "Single function",
+    "Speed Monitoring interfaces",
+    "SV MR0"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/interfaces/single-function/speed-monitoring-interfaces/sv-mr0/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Controllers and Interfaces",
+    "Interfaces",
+    "Single function",
+    "Two-hand interfaces"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-controllers-and-interfaces/interfaces/single-function/two-hand-interfaces/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Devices"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Contactless"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/contactless/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Contactless",
+    "Magnus MG"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/contactless/magnus-mg/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Contactless",
+    "Magnus MG",
+    "78 mm Interaxis (B)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/contactless/magnus-mg/78-mm-interaxis-b-magnus-mg/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Contactless",
+    "Magnus MG",
+    "Cylindrical M30 (M)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/contactless/magnus-mg/cylindrical-m30-m/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Contactless",
+    "PI-SAFE"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/contactless/pi-safe/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Contactless",
+    "PI-SAFE",
+    "Cylindrical (M)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/contactless/pi-safe/cylindrical-m/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Contactless",
+    "PI-SAFE",
+    "Cylindrical (M)",
+    "M18"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/contactless/pi-safe/cylindrical-m/m18/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Contactless",
+    "PI-SAFE",
+    "Cylindrical (M)",
+    "M30"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/contactless/pi-safe/cylindrical-m/m30/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Contactless",
+    "PI-SAFE",
+    "Square (SQ)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/contactless/pi-safe/square-sq/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Contactless",
+    "R-SAFE RFID"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/contactless/r-safe-rfid/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Contactless",
+    "R-SAFE RFID",
+    "G - Generic coding"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/contactless/r-safe-rfid/g-generic-coding/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Contactless",
+    "R-SAFE RFID",
+    "T - Teach-in coding"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/contactless/r-safe-rfid/t-teach-in-coding/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Contactless",
+    "R-SAFE RFID",
+    "U - Unique coding"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/contactless/r-safe-rfid/u-unique-coding/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Contactless",
+    "R-SAFE RFID",
+    "U - Unique coding",
+    "C - Connector"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/contactless/r-safe-rfid/u-unique-coding/c-connector-u-unique-coding-r-safe-rfid/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Encoders"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Encoders",
+    "Safecoder (SC)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/encoders/safecoder-sc/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Interlocks"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/interlocks/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Interlocks",
+    "Safelock (SLK)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/interlocks/safelock-slk/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Interlocks",
+    "Safelock (SLK)",
+    "Actuators"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/interlocks/safelock-slk/actuators/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Interlocks",
+    "Safelock (SLK)",
+    "Electrical (E)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/interlocks/safelock-slk/electrical-e/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Interlocks",
+    "Safelock (SLK)",
+    "Mechanical (M)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/interlocks/safelock-slk/mechanical-m/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Laser scanner"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/laser-scanner/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Laser scanner",
+    "Hokuyo UAM"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Laser scanner",
+    "Hokuyo UAM",
+    "Components"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/laser-scanner/hokuyo-uam/components-hokuyo-uam-laser-scanner/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Laser scanner",
+    "Hokuyo UAM",
+    "UAM"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/laser-scanner/hokuyo-uam/uam/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Photocells"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/photocells/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Photocells",
+    "Ilion"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/photocells/ilion/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Devices",
+    "Photocells",
+    "Ulisse"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-devices/photocells/ulisse/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/",
+   "code": null,
+   "level": 1
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Automatic Start/Restart"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Automatic Start/Restart",
+    "Standard range (AD)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/automatic-start-restart-admiral/standard-range-ad/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Automatic Start/Restart",
+    "Standard range (AD)",
+    "20 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/automatic-start-restart-admiral/standard-range-ad/20-mm-resolution-hand-standard-range-ad/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Automatic Start/Restart",
+    "Standard range (AD)",
+    "50 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/automatic-start-restart-admiral/standard-range-ad/50-mm-resolution-body-standard-range-ad/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Blanking"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Blanking",
+    "Standard (BK)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/blanking/standard-bk/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Blanking",
+    "Standard (BK)",
+    "40 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/blanking/standard-bk/40-mm-resolution-hand-standard-bk/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Integrated functions"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/integrated-functions-admiral/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Integrated functions",
+    "Standard range (AX)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/integrated-functions-admiral/standard-range-ax/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Integrated functions",
+    "Standard range (AX)",
+    "20 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/integrated-functions-admiral/standard-range-ax/20-mm-resolution-hand-standard-range-ax/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Integrated functions",
+    "Standard range (AX)",
+    "40 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/integrated-functions-admiral/standard-range-ax/40-mm-resolution-hand-standard-range-ax/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Long-Range"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/long-range/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Master/Slave"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/master-slave-admiral/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Master/Slave",
+    "Master (M)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/master-slave-admiral/master-m/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Master/Slave",
+    "Master (M)",
+    "20 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/master-slave-admiral/master-m/20-mm-resolution-hand-master-m/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Master/Slave",
+    "Slave (S)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/master-slave-admiral/slave-s/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Master/Slave",
+    "Slave (S)",
+    "30 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/master-slave-admiral/slave-s/30-mm-resolution-hand-slave-s/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Master/Slave",
+    "Slave (S)",
+    "50 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/master-slave-admiral/slave-s/50-mm-resolution-body-slave-s/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Watertight Enclosures (WT)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/watertight-enclosures-wt-admiral/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Watertight Enclosures (WT)",
+    "Heated (WTH)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/watertight-enclosures-wt-admiral/heated-wth/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Watertight Enclosures (WT)",
+    "Heated UV Resistant (WTH UV)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/watertight-enclosures-wt-admiral/heated-uv-resistant-wth-uv/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Admiral",
+    "Watertight Enclosures (WT)",
+    "Standard (WT)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/admiral/watertight-enclosures-wt-admiral/standard-wt/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "Automatic Start/Restart"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/automatic-start-restart-eos2/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "High Vibrations"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/high-vibrations-eos2/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "High Vibrations",
+    "A - Automatic Start/Restart"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/high-vibrations-eos2/a-automatic-start-restart-high-vibrations-eos2/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "High Vibrations",
+    "A - Automatic Start/Restart",
+    "30 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/high-vibrations-eos2/a-automatic-start-restart-high-vibrations-eos2/30-mm-resolution-hand-a-automatic-start-restart-high-vibrations-eos2/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "High Vibrations",
+    "X - Integrated functions"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/high-vibrations-eos2/x-integrated-functions-high-vibrations-eos2/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "High Vibrations",
+    "X - Integrated functions",
+    "30 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/high-vibrations-eos2/x-integrated-functions-high-vibrations-eos2/30-mm-resolution-hand-x-integrated-functions-high-vibrations-eos2/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "Integrated Functions"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "Integrated Functions",
+    "Standard Range (X)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/integrated-functions-eos2/standard-range-x-integrated-functions-eos2/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "Master/Slave"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/master-slave-eos2/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "Master/Slave",
+    "Master (XM)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/master-slave-eos2/master-xm-master-slave-eos2/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "Master/Slave",
+    "Primary Slave (XS)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/master-slave-eos2/primary-slave-xs-master-slave-eos2/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "Master/Slave",
+    "Primary Slave (XS)",
+    "40 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/master-slave-eos2/primary-slave-xs-master-slave-eos2/40-mm-resolution-hand-primary-slave-xs-master-slave-eos2/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "Master/Slave",
+    "Secondary Slave (XS2)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/master-slave-eos2/secondary-slave-xs2-master-slave-eos2/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "Watertight Enclosures"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/watertight-enclosures/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "Watertight Enclosures",
+    "Heated (WTHF)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/watertight-enclosures/heated-wthf-watertight-enclosures/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "Watertight Enclosures",
+    "Standard (WTF)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/watertight-enclosures/standard-wtf-watertight-enclosures/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "Watertight Enclosures",
+    "Standard (WTF)",
+    "30 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/watertight-enclosures/standard-wtf-watertight-enclosures/30-mm-resolution-hand-standard-wtf-watertight-enclosures/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS2",
+    "Watertight Enclosures",
+    "Standard (WTF)",
+    "Multi-Beam (Access control)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos2/watertight-enclosures/standard-wtf-watertight-enclosures/multi-beam-access-control-standard-wtf-watertight-enclosures/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Atex (Ex)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/atex-ex/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Automatic Start/Restart"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/automatic-start-restart/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Automatic Start/Restart",
+    "High range (AH)"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Automatic Start/Restart",
+    "High range (AH)",
+    "50 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/automatic-start-restart/high-range-ah/50-mm-resolution-body-high-range-ah/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Automatic Start/Restart",
+    "Standard range (A)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/automatic-start-restart/standard-range-a/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Automatic Start/Restart",
+    "Standard range (A)",
+    "14 mm resolution (Finger)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/automatic-start-restart/standard-range-a/14-mm-resolution-finger-standard-range-a/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "High vibrations"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "High vibrations",
+    "A - Automatic Start/Restart"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/high-vibrations/a-automatic-start-restart/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "High vibrations",
+    "X - Integrated functions"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/high-vibrations/x-integrated-functions/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Integrated functions"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/integrated-functions/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Integrated functions",
+    "High range (XH)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/integrated-functions/high-range-xh-integrated-functions/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Integrated functions",
+    "High range (XH)",
+    "20 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/integrated-functions/high-range-xh-integrated-functions/20-mm-resolution-hand-high-range-xh-integrated-functions/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Integrated functions",
+    "High range (XH)",
+    "90 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/integrated-functions/high-range-xh-integrated-functions/90-mm-resolution-body-high-range-xh-integrated-functions/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Integrated functions",
+    "Standard range (X)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/integrated-functions/standard-range-x/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Integrated functions",
+    "Standard range (X)",
+    "14 mm resolution (Finger)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/integrated-functions/standard-range-x/14-mm-resolution-finger-standard-range-x/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Master/Slave"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/master-slave/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Master/Slave",
+    "Master (XM)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/master-slave/master-xm/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Master/Slave",
+    "Master (XM)",
+    "14 mm resolution (Finger)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/master-slave/master-xm/14-mm-resolution-finger-master-xm/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Master/Slave",
+    "Master (XM)",
+    "50 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/master-slave/master-xm/50-mm-resolution-body-master-xm/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Master/Slave",
+    "Primary Slave (XS)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/master-slave/primary-slave-xs/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Master/Slave",
+    "Primary Slave (XS)",
+    "30 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/master-slave/primary-slave-xs/30-mm-resolution-hand-primary-slave-xs/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Master/Slave",
+    "Primary Slave (XS)",
+    "50 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/master-slave/primary-slave-xs/50-mm-resolution-body-primary-slave-xs/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Master/Slave",
+    "Secondary Slave (XS2)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/master-slave/secondary-slave-xs2/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Master/Slave",
+    "Secondary Slave (XS2)",
+    "14 mm resolution (Finger)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/master-slave/secondary-slave-xs2/14-mm-resolution-finger-secondary-slave-xs2/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Master/Slave",
+    "Secondary Slave (XS2)",
+    "50 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/master-slave/secondary-slave-xs2/50-mm-resolution-body-secondary-slave-xs2/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Watertight Enclosures (WT)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/watertight-enclosures-wt/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "EOS4",
+    "Watertight Enclosures (WT)",
+    "Heated (WTHF)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/eos4/watertight-enclosures-wt/heated-wthf/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "Components"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "Components",
+    "Muting Arms (SL)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/components-janus/muting-arms-sl/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "Components",
+    "Muting Arms (SL)",
+    "Transceiver (TRX)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/components-janus/muting-arms-sl/transceiver-trx-muting-arms-sl/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "Components",
+    "Muting Box (MJ)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/components-janus/muting-box-mj/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "Long-Range (LR)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/long-range-lr-janus/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "Long-Range (LR)",
+    "Muting Integrated (MI)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/long-range-lr-janus/muting-integrated-mi-long-range-lr-janus/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "Long-Range (LR)",
+    "No Muting (J)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/long-range-lr-janus/no-muting-j-long-range-lr-janus/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "Modular (MM)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/modular-mm/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "Modular (MM)",
+    "Transceiver (TRX)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/modular-mm/transceiver-trx-modular-mm/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "Muting Integrated (MI)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/muting-integrated-mi/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "Muting Integrated (MI)",
+    "Emitter/Receiver"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/muting-integrated-mi/emitter-receiver-muting-integrated-mi/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "Muting Integrated (MI)",
+    "Emitter/Receiver",
+    "40 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/muting-integrated-mi/emitter-receiver-muting-integrated-mi/40-mm-resolution-hand-emitter-receiver-muting-integrated-mi/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "Muting Integrated (MI)",
+    "Transceiver (TRX)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/muting-integrated-mi/transceiver-trx-muting-integrated-mi/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "No Muting (J)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/no-muting-j/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "No Muting (J)",
+    "Emitter/Receiver"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/no-muting-j/emitter-receiver-no-muting-j/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "No Muting (J)",
+    "Transceiver (TRX)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/no-muting-j/transceiver-trx-no-muting-j/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "With L Muting Arms (ML)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/with-l-muting-arms-ml/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "With L Muting Arms (ML)",
+    "Emitter/Receiver"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/with-l-muting-arms-ml/emitter-receiver-with-l-muting-arms-ml/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "With L Muting Arms (ML)",
+    "Transceiver (TRX)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/with-l-muting-arms-ml/transceiver-trx-with-l-muting-arms-ml/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "With T Muting Arms (MT)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/with-t-muting-arms-mt/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "With T Muting Arms (MT)",
+    "Emitter/Receiver"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/with-t-muting-arms-mt/emitter-receiver-with-t-muting-arms-mt/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Janus",
+    "With T Muting Arms (MT)",
+    "Transceiver (TRX)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/janus/with-t-muting-arms-mt/transceiver-trx-with-t-muting-arms-mt/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Components"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/components/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Components",
+    "Muting Arms (MA)"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Components",
+    "Muting Arms (MA)",
+    "Emitter/Receiver"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/components/muting-arms-ma/emitter-receiver-muting-arms-ma/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Components",
+    "Muting Arms (MA)",
+    "Transceiver (TRX)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/components/muting-arms-ma/transceiver-trx-muting-arms-ma/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Components",
+    "Muting Box (M SG)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/components/muting-box-m-sg/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Components",
+    "Muting photocells"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/components/muting-photocells/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Components",
+    "Muting photocells",
+    "Retroreflectors"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/components/muting-photocells/retroreflectors/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Components",
+    "Muting photocells",
+    "Transceiver (MTRX)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/components/muting-photocells/transceiver-mtrx/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Long-Range (LR)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/long-range-lr/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Long-Range (LR)",
+    "No Muting (S)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/long-range-lr/no-muting-s-long-range-lr/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Long-Range (LR)",
+    "No Muting (S)",
+    "With Laser Pointer (ILP)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/long-range-lr/no-muting-s-long-range-lr/with-laser-pointer-ilp/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Long-Range (LR)",
+    "No Muting / Lamp (SO)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/long-range-lr/no-muting-lamp-so-long-range-lr/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Long-Range (LR)",
+    "No Muting / Lamp (SO)",
+    "Standard"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/long-range-lr/no-muting-lamp-so-long-range-lr/standard-no-muting-lamp-so-long-range-lr/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Long-Range (LR)",
+    "No Muting / Lamp (SO)",
+    "With Laser Pointer (ILP)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/long-range-lr/no-muting-lamp-so-long-range-lr/with-laser-pointer-ilp-no-muting-lamp-so-long-range-lr/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Muting (SM)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/muting-sm/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Muting (SM)",
+    "Transceiver (TRX)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/muting-sm/transceiver-trx-muting-sm/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Muting / Lamp (SMO)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/muting-lamp-smo/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Muting / Lamp (SMO)",
+    "Emitter/Receiver"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/muting-lamp-smo/emitter-receiver-muting-lamp-smo/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Muting / Lamp (SMO)",
+    "Transceiver (TRX)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/muting-lamp-smo/transceiver-trx-muting-lamp-smo/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Muting / Lamp / Progr (SMPO)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/muting-lamp-progr-smpo/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Muting / Lamp / Progr (SMPO)",
+    "Emitter/Receiver"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/muting-lamp-progr-smpo/emitter-receiver-muting-lamp-progr-smpo/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Muting / Lamp / Progr (SMPO)",
+    "Emitter/Receiver",
+    "40 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/muting-lamp-progr-smpo/emitter-receiver-muting-lamp-progr-smpo/40-mm-resolution-hand-emitter-receiver-muting-lamp-progr-smpo/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "Muting / Lamp / Progr (SMPO)",
+    "Transceiver (TRX)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/muting-lamp-progr-smpo/transceiver-trx-muting-lamp-progr-smpo/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "No Muting (S)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/no-muting-s/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "No Muting (S)",
+    "Emitter/Receiver"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/no-muting-s/emitter-receiver/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "No Muting (S)",
+    "Emitter/Receiver",
+    "30 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/no-muting-s/emitter-receiver/30-mm-resolution-hand-emitter-receiver/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Safegate",
+    "No Muting (S)",
+    "Transceiver (TRX)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safegate/no-muting-s/transceiver-trx/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/",
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "A - BASIC"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/a-basic-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "A - BASIC",
+    "Standard range"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/a-basic-safeready-safety-light-curtains/standard-range-a-basic-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "A - BASIC",
+    "Standard range",
+    "14 mm resolution (Finger)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/a-basic-safeready-safety-light-curtains/standard-range-a-basic-safeready-safety-light-curtains/14-mm-resolution-finger-standard-range-a-basic-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "A - BASIC",
+    "Standard range",
+    "20 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/a-basic-safeready-safety-light-curtains/standard-range-a-basic-safeready-safety-light-curtains/20-mm-resolution-hand-standard-range-a-basic-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "A - BASIC",
+    "Standard range",
+    "30 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/a-basic-safeready-safety-light-curtains/standard-range-a-basic-safeready-safety-light-curtains/30-mm-resolution-hand-standard-range-a-basic-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "A - BASIC",
+    "Standard range",
+    "40 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/a-basic-safeready-safety-light-curtains/standard-range-a-basic-safeready-safety-light-curtains/40-mm-resolution-hand-standard-range-a-basic-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "A - BASIC",
+    "Standard range",
+    "50 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/a-basic-safeready-safety-light-curtains/standard-range-a-basic-safeready-safety-light-curtains/50-mm-resolution-body-standard-range-a-basic-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "A - BASIC",
+    "Standard range",
+    "90 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/a-basic-safeready-safety-light-curtains/standard-range-a-basic-safeready-safety-light-curtains/90-mm-resolution-body-standard-range-a-basic-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "A - BASIC",
+    "Standard range",
+    "Multi-Beam (Access control)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/a-basic-safeready-safety-light-curtains/standard-range-a-basic-safeready-safety-light-curtains/multi-beam-access-control-standard-range-a-basic-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "P - PLUS"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/p-plus/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "P - PLUS",
+    "Standard range"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/p-plus/standard-range-p-plus/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "P - PLUS",
+    "Standard range",
+    "14 mm resolution (Finger)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/p-plus/standard-range-p-plus/14-mm-resolution-finger-standard-range-p-plus/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "P - PLUS",
+    "Standard range",
+    "20 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/p-plus/standard-range-p-plus/20-mm-resolution-hand-standard-range-p-plus/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "P - PLUS",
+    "Standard range",
+    "30 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/p-plus/standard-range-p-plus/30-mm-resolution-hand-standard-range-p-plus/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "P - PLUS",
+    "Standard range",
+    "40 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/p-plus/standard-range-p-plus/40-mm-resolution-hand-standard-range-p-plus/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "P - PLUS",
+    "Standard range",
+    "50 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/p-plus/standard-range-p-plus/50-mm-resolution-body-standard-range-p-plus/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "P - PLUS",
+    "Standard range",
+    "90 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/p-plus/standard-range-p-plus/90-mm-resolution-body-standard-range-p-plus/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "P - PLUS",
+    "Standard range",
+    "Multi-Beam (Access control)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/p-plus/standard-range-p-plus/multi-beam-access-control-standard-range-p-plus/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "X - STANDARD"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "X - STANDARD",
+    "Standard range"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/x-standard-safeready-safety-light-curtains/standard-range-x-standard-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "X - STANDARD",
+    "Standard range",
+    "14 mm resolution (Finger)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/x-standard-safeready-safety-light-curtains/standard-range-x-standard-safeready-safety-light-curtains/14-mm-resolution-finger-standard-range-x-standard-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "X - STANDARD",
+    "Standard range",
+    "20 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/x-standard-safeready-safety-light-curtains/standard-range-x-standard-safeready-safety-light-curtains/20-mm-resolution-hand-standard-range-x-standard-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "X - STANDARD",
+    "Standard range",
+    "30 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/x-standard-safeready-safety-light-curtains/standard-range-x-standard-safeready-safety-light-curtains/30-mm-resolution-hand-standard-range-x-standard-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "X - STANDARD",
+    "Standard range",
+    "40 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/x-standard-safeready-safety-light-curtains/standard-range-x-standard-safeready-safety-light-curtains/40-mm-resolution-hand-standard-range-x-standard-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "X - STANDARD",
+    "Standard range",
+    "50 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/x-standard-safeready-safety-light-curtains/standard-range-x-standard-safeready-safety-light-curtains/50-mm-resolution-body-standard-range-x-standard-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "X - STANDARD",
+    "Standard range",
+    "90 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/x-standard-safeready-safety-light-curtains/standard-range-x-standard-safeready-safety-light-curtains/90-mm-resolution-body-standard-range-x-standard-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "SAFEREADY",
+    "X - STANDARD",
+    "Standard range",
+    "Multi-Beam (Access control)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/safeready-safety-light-curtains/x-standard-safeready-safety-light-curtains/standard-range-x-standard-safeready-safety-light-curtains/multi-beam-access-control-standard-range-x-standard-safeready-safety-light-curtains/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 2
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Automatic Start/Restart"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Automatic Start/Restart",
+    "Entry-Level (VL)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/automatic-start-restart-vision/entry-level-vl/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Automatic Start/Restart",
+    "High Range (VH)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/automatic-start-restart-vision/high-range-vh/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Automatic Start/Restart",
+    "High Range (VH)",
+    "20 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/automatic-start-restart-vision/high-range-vh/20-mm-resolution-hand-high-range-vh/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Automatic Start/Restart",
+    "High Range (VH)",
+    "50 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/automatic-start-restart-vision/high-range-vh/50-mm-resolution-body-high-range-vh/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Integrated Functions"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/integrated-functions-vision/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Integrated Functions",
+    "Entry-Level (VXL)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/integrated-functions-vision/entry-level-vxl/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Integrated Functions",
+    "Standard (VX)"
+   ],
+   "type": "category",
+   "url": null,
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Integrated Functions",
+    "Standard (VX)",
+    "20 mm resolution (Hand)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/integrated-functions-vision/standard-vx/20-mm-resolution-hand-standard-vx/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Integrated Muting (MXL)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/integrated-muting-mxl/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Integrated Muting (MXL)",
+    "Components"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/integrated-muting-mxl/components-integrated-muting-mxl/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Integrated Muting (MXL)",
+    "Standard"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/integrated-muting-mxl/standard-integrated-muting-mxl/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Integrated Muting (MXL)",
+    "With L-Muting Arms (L)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/integrated-muting-mxl/with-l-muting-arms-l/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Integrated Muting (MXL)",
+    "With L-Muting Arms (L)",
+    "Multi-Beam (Access control)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/integrated-muting-mxl/with-l-muting-arms-l/multi-beam-access-control-with-l-muting-arms-l/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Integrated Muting (MXL)",
+    "With T-Muting Arms (T)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/integrated-muting-mxl/with-t-muting-arms-t/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Long-Range (LR)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/long-range-lr-vision/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Long-Range (LR)",
+    "Integrated Functions (VX LR)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/long-range-lr-vision/integrated-functions-vx-lr/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Master/Slave"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/master-slave-vision/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Master/Slave",
+    "Master (M)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/master-slave-vision/master-m-master-slave-vision/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Master/Slave",
+    "Slave (S)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/master-slave-vision/slave-s-master-slave-vision/",
+   "code": null,
+   "level": 4
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Master/Slave",
+    "Slave (S)",
+    "50 mm resolution (Body)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/master-slave-vision/slave-s-master-slave-vision/50-mm-resolution-body-slave-s-master-slave-vision/",
+   "code": null,
+   "level": 5
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Watertight Enclosures"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/watertight-enclosures-vision/",
+   "code": null,
+   "level": 3
+  },
+  {
+   "path": [
+    "Safety Light Curtains",
+    "Vision",
+    "Watertight Enclosures",
+    "Standard (WT)"
+   ],
+   "type": "category",
+   "url": "https://www.reersafety.com/en/product-category/safety-light-curtains/vision/watertight-enclosures-vision/standard-wt-watertight-enclosures-vision/",
+   "code": null,
+   "level": 4
+  }
+ ]
+}

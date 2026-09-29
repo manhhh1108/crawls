@@ -1,0 +1,79 @@
+top categories: 10
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Connection-technology-and-education-systems/c/A0111 -> HTTP 000
+  [skip] /en-CN/eshop/Connection-technology-and-education-systems/c/A0111
+  pages: 20 nodes: 62 queue: 42
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Drive-technology/Motors/c/A0800B0820 -> HTTP 000
+  [skip] /en-CN/eshop/Drive-technology/Motors/c/A0800B0820
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Robotics/PRMS-Collision-measuring-set-for-HRC/c/A0900B0940 -> HTTP 000
+  [skip] /en-CN/eshop/Robotics/PRMS-Collision-measuring-set-for-HRC/c/A0900B0940
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Position-monitoring-devices/PSENrope-safe-rope-pull-switch/c/00106002237080 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Position-monitoring-devices/PSENrope-safe-rope-pull-switch/c/00106002237080
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safe-camera-systems/PSENvip-camera-based-protection-system/c/00106002207043 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safe-camera-systems/PSENvip-camera-based-protection-system/c/00106002207043
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safe-radar-systems/PSENradar-Safe-radar-sensor/c/00106002457163 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safe-radar-systems/PSENradar-Safe-radar-sensor/c/00106002457163
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-Laser-Scanner/PSENscan-Safety-Laser-Scanner/c/00106002577131 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-Laser-Scanner/PSENscan-Safety-Laser-Scanner/c/00106002577131
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/Education-Systems/c/00106002197151 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-light-curtain/Education-Systems/c/00106002197151
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-II-Safety-light-curtains/c/00106002197104 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-II-Safety-light-curtains/c/00106002197104
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/c/00106002197040 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-light-curtain/PSENopt-Safety-light-curtains/c/00106002197040
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-light-curtain/Photoelectric-sensor/c/00106002197178 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-light-curtain/Photoelectric-sensor/c/00106002197178
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmech-safety-locking-device/c/00106002227172 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmech-safety-locking-device/c/00106002227172
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmgate-safety-gate-systems/c/00106002227179 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmgate-safety-gate-systems/c/00106002227179
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmlock-mini-safety-locking-devices/c/00106002227174 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmlock-mini-safety-locking-devices/c/00106002227174
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmlock-safety-locking-devices/c/00106002227123 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENmlock-safety-locking-devices/c/00106002227123
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENsgate-safety-gate-system/c/00106002227048 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENsgate-safety-gate-system/c/00106002227048
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENslock-safety-locking-devices/c/00106002227061 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-switches-with-guard-locking/PSENslock-safety-locking-devices/c/00106002227061
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENbolt-safety-bolt/c/00106002217047 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-switches/PSENbolt-safety-bolt/c/00106002217047
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENcode-non-contact-coded-safety-switches/c/00106002217046 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-switches/PSENcode-non-contact-coded-safety-switches/c/00106002217046
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENhinge-safe-hinge-switch/c/00106002217079 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-switches/PSENhinge-safe-hinge-switch/c/00106002217079
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENini-inductive-safety-switch/c/00106002217049 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-switches/PSENini-inductive-safety-switch/c/00106002217049
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENmag-non-contact-magnetic-safety-switches/c/00106002217045 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-switches/PSENmag-non-contact-magnetic-safety-switches/c/00106002217045
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Sensor-technology/Safety-switches/PSENmech-mechanical-safety-switch/c/00106002217044 -> HTTP 000
+  [skip] /en-CN/eshop/Sensor-technology/Safety-switches/PSENmech-mechanical-safety-switch/c/00106002217044
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Line-monitoring-devices/PLIDdys-safe-line-monitoring-devices/c/00100002007085 -> HTTP 000
+  [skip] /en-CN/eshop/Relay-modules/Line-monitoring-devices/PLIDdys-safe-line-monitoring-devices/c/00100002007085
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Modular-safety-relays/myPNOZ-safety-relays/c/00100002017126 -> HTTP 000
+  [skip] /en-CN/eshop/Relay-modules/Modular-safety-relays/myPNOZ-safety-relays/c/00100002017126
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Monitoring-relays-monitoring-devices/PMDsrange-monitoring-relays/c/00100002027007 -> HTTP 000
+  [skip] /en-CN/eshop/Relay-modules/Monitoring-relays-monitoring-devices/PMDsrange-monitoring-relays/c/00100002027007
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZ-X-safety-relays/c/00100002007002 -> HTTP 000
+  [skip] /en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZ-X-safety-relays/c/00100002007002
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZcompact-safety-relays/c/00100002007086 -> HTTP 000
+  [skip] /en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZcompact-safety-relays/c/00100002007086
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZelog-safety-relays/c/00100002007004 -> HTTP 000
+  [skip] /en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZelog-safety-relays/c/00100002007004
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZsigma-safety-relays/c/00100002007003 -> HTTP 000
+  [skip] /en-CN/eshop/Relay-modules/Safety-relays-protection-relays/PNOZsigma-safety-relays/c/00100002007003
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Relay-modules/Software/PNOZsigma-Tools/c/00100002397139 -> HTTP 000
+  [skip] /en-CN/eshop/Relay-modules/Software/PNOZsigma-Tools/c/00100002397139
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Safety-systems-PNOZmulti-Classic/PNOZmulti-base-units/c/00101002037013 -> HTTP 000
+  [skip] /en-CN/eshop/Small-controllers-PNOZmulti/Safety-systems-PNOZmulti-Classic/PNOZmulti-base-units/c/00101002037013
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-I-O-modules/c/00101002047108 -> HTTP 000
+  [skip] /en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-I-O-modules/c/00101002047108
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-Systems/c/00101002047148 -> HTTP 000
+  [skip] /en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-Systems/c/00101002047148
+  [warn] FAIL https://www.pilz.com.cn/en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-base-units/c/00101002047106 -> HTTP 000
+  [skip] /en-CN/eshop/Small-controllers-PNOZmulti/Small-controllers-PNOZmulti-2/PNOZmulti-2-base-units/c/00101002047106
+  pages: 80 nodes: 128 queue: 48
+  pages: 100 nodes: 160 queue: 60
+  pages: 120 nodes: 176 queue: 56
+  pages: 140 nodes: 176 queue: 36
+  pages: 160 nodes: 176 queue: 16
+[09 Pilz] saved 176 nodes -> D:\Crawl AUMI\16 hang\crawl\out\09 Pilz.json
+        levels: {1: 10, 2: 28, 3: 69, 4: 69}

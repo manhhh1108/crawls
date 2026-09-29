@@ -1,0 +1,729 @@
+Getting top-level categories...
+Found 16 categories
+
+=== Safety (g568264) ===
+  Safety distance sensors > WTT12-S: 2
+  Safety distance sensors > DT35-S: 2
+  Safety controllers > Flexi Net: 9
+  Safety controllers > Flexi Soft: 40
+  Safety controllers > Flexi Compact: 7
+  Safety controllers > Flexi Classic: 32
+  Safety controllers > Flexi IO: 2
+  Safety controllers > Flexi Mobile: 6
+  Safety controllers > Flexi Gateway: 4
+  Safety controllers > Safety Designer: 13
+  Safety controllers > Flexi Soft Designer: 5
+  Safety switches > flexLock: 11
+  Safety switches > safeIDS: 2
+  Safety switches > i10 Lock: 10
+  Safety switches > TR110 Lock: 15
+  Safety switches > RE1: 11
+  Safety switches > RE2: 16
+  Safety switches > IME2S: 14
+  Safety switches > TR10 Lock: 12
+  Safety switches > i110R: 3
+  Safety switches > i110 Lock: 10
+  Safety switches > STR1: 80
+  Safety switches > i110P: 3
+  Safety switches > TR4 Direct: 40
+  Safety switches > i150RP: 3
+  Safety switches > i14 Lock: 2
+  Safety switches > i17S: 1
+  Safety switches > i10R: 1
+  Safety switches > ES21: 21
+  Safety switches > i15 Lock: 8
+  Safety switches > i10P: 1
+  Safety switches > i12S: 5
+  Safety switches > IN4000 Standard: 4
+  Safety switches > i200 Lock: 3
+  Safety switches > i110RP: 3
+  Safety switches > i10H: 2
+  Safety switches > IQB2S: 3
+  Safety switches > E100: 7
+  Safety switches > IN4000 Direct: 2
+  Safety switches > ER12: 5
+  Safety switches > MLP1: 6
+  Safety switches > i16S: 3
+  Safety switches > ES11: 3
+  Safety switches > i110S: 3
+  Safety laser scanners > multiScan100-S: 0
+  Safety laser scanners > nanoScan3: 5
+  Safety laser scanners > microScan3: 112
+  Safety laser scanners > TiM-S: 3
+  Safety laser scanners > outdoorScan3: 12
+  Safety laser scanners > S300: 8
+  Safety laser scanners > S300 Mini: 5
+  Safety radar sensors > safeRS3: 7
+  Safe series connection > Flexi Loop: 11
+  Safety relays > ReLy: 10
+  Safety multibeam scanners > scanGrid2: 2
+  Safe motor feedback systems > TTK70-S: 2
+  Safe motor feedback systems > STL70-S: 1
+  Safe motor feedback systems > TTK50-S: 2
+  Safe motor feedback systems > EKS/EKM36-S: 14
+  Safe motor feedback systems > EDS/EDM35-S: 11
+  Safe motor feedback systems > SFS/SFM60-S: 28
+  Safe motor feedback systems > EES/EEM37-S: 8
+  Safe motor feedback systems > SKS/SKM36-S: 4
+  Safe motor feedback systems > SRS/SRM50-S: 13
+  Safe motion monitoring and control > Standstill Monitor: 6
+  Safe motion monitoring and control > Speed Monitor: 4
+  Safe motion monitoring and control > Flexi Soft Drive Monitor: 3
+  Safety encoders > AFS/AFM60S Pro: 944
+  Safety encoders > DFS60S Pro: 93
+  Safety light-beam sensors > deTem: 152
+  Safety light-beam sensors > L29: 3
+  Safety light-beam sensors > L41: 21
+  Safety light-beam sensors > L25: 6
+  Safety light-beam sensors > L4000 Systems: 12
+  Safety light-beam sensors > L21: 18
+  Safety light-beam sensors > L26: 6
+  Safety light-beam sensors > WSU/WEU26-3: 8
+  Safety light-beam sensors > M4000 Standard A/P: 43
+  Safety light-beam sensors > M4000 Advanced A/P: 20
+  Safety light-beam sensors > M4000 Standard: 247
+  Safety light-beam sensors > M4000 Advanced: 88
+  Safety light-beam sensors > Upgrade kit MSL to M4000: 17
+  Safety light-beam sensors > M2000 Standard A/P: 3
+  Safety light-beam sensors > M2000 Standard: 22
+  Safety light-beam sensors > M2000 RES/EDM A/P: 3
+  Safety light-beam sensors > M2000 RES/EDM: 22
+  Safety light-beam sensors > M2000 Cascadable: 14
+  Safety light curtains > deTec: 1367
+  Safety light curtains > C4-RD: 58
+  Safety light curtains > C4000 Advanced: 187
+  Safety light curtains > miniTwin: 510
+  Safety light curtains > C4000 Palletizer: 63
+  Safety light curtains > C4000 Fusion: 55
+  Safety light curtains > C4000 Advanced Ex: 12
+  Safety light curtains > TWINOX4: 3
+  Safety light curtains > C4000 Entry/Exit: 15
+  Safety light curtains > C4000 Fusion ATEX II 3G/3D: 7
+  Safety light curtains > C4000 Entry/Exit ATEX II 3G/3D: 1
+  Safety light curtains > C4000 Advanced ATEX II 3G/3D: 6
+  Safety light curtains > C4000 Fusion Ex: 12
+  Safety light curtains > C4000 Palletizer ATEX II 3G/3D: 1
+  Safety light curtains > Upgrade kit FGS to deTec4 Core: 22
+  Safety light curtains > M4000 Area: 33
+  Safety light curtains > M4000 Advanced Curtain: 134
+  Safe 3D cameras > safeVisionary2: 1
+  Safety systems > Safe Portal: 4
+  Safety systems > Safe Entry Exit: 1
+  Safety systems > End-of-Arm-Safeguard: 2
+  Safety systems > Safe AGV Easy: 6
+  Safety systems > Safeguard Detector: 15
+  Safety systems > Safe Brake Assist: 1
+  Safety systems > AGV Dynamic Weather Assist: 2
+  Safety systems > Safe EFI-pro System: 35
+  Safety systems > Safe Robotics Area Protection: 23
+
+=== Process sensors (g576774) ===
+  Pressure sensors > PTA: 45
+  Pressure sensors > PBST: 90
+  Pressure sensors > PBT: 1322
+  Pressure sensors > PBS Hygienic: 151
+  Pressure sensors > PBS plus: 412
+  Pressure sensors > PFT: 701
+  Pressure sensors > PAC50: 76
+  Pressure sensors > PET: 79
+  Pressure sensors > PFT-2: 48
+  Pressure sensors > PHT: 272
+  Temperature sensors > TSP: 38
+  Temperature sensors > TCT: 58
+  Temperature sensors > TBS: 107
+  Temperature sensors > THTS: 110
+  Temperature sensors > THTE: 20
+  Temperature sensors > THTL: 12
+  Level sensors > LXRH: 4
+  Level sensors > LBV3xx: 41
+  Level sensors > UP56: 37
+  Level sensors > LFC: 6
+  Level sensors > LFV200: 446
+  Level sensors > GRF18S: 8
+  Level sensors > LFP Cubic: 195
+  Level sensors > LXRC: 16
+  Level sensors > LFP Inox: 256
+  Level sensors > LFH: 135
+  Flow sensors > FTMg: 16
+  Flow sensors > FFU: 44
+  Flow sensors > T-Easic FTS: 20
+  Flow sensors > Bulkscan: 2
+
+=== Detection sensors (g568257) ===
+  Fiber-optic sensors > GLL70: 2
+  Fiber-optic sensors > WLL80: 25
+  Fiber-optic sensors > Fiber-optic cables: 322
+  Fiber-optic sensors > WLL24: 2
+  Fiber-optic sensors > GLL170: 18
+  Photoelectric sensors > W16: 119
+  Photoelectric sensors > W12: 266
+  Photoelectric sensors > W26: 80
+  Photoelectric sensors > G6: 507
+  Photoelectric sensors > G2: 195
+  Photoelectric sensors > WTT12 PowerProx: 99
+  Photoelectric sensors > W4: 601
+  Photoelectric sensors > G10: 162
+  Photoelectric sensors > GR18: 372
+  Photoelectric sensors > WTT4 PowerProx: 16
+  Photoelectric sensors > RAY26 Reflex Array: 25
+  Photoelectric sensors > W9: 221
+  Photoelectric sensors > G20: 58
+  Photoelectric sensors > Z18 Simple Sense: 269
+  Photoelectric sensors > W2: 169
+  Photoelectric sensors > W280-2: 31
+  Photoelectric sensors > W10: 4
+  Photoelectric sensors > WTT190 PowerProx: 19
+  Photoelectric sensors > W27: 11
+  Photoelectric sensors > RAY10 Reflex Array: 15
+  Photoelectric sensors > V180: 119
+  Photoelectric sensors > V18: 17
+  Photoelectric sensors > V12: 17
+  Photoelectric sensors > W8: 41
+  Photoelectric sensors > W250-2: 33
+  Photoelectric sensors > WTT280 PowerProx: 12
+  Photoelectric sensors > ZoneControl: 143
+  Photoelectric sensors > WTT2 PowerProx: 11
+  Photoelectric sensors > W100 Laser: 24
+  Photoelectric sensors > H18 Sure Sense: 615
+  Photoelectric sensors > Roller Sensor Bar: 341
+  Photoelectric sensors > W100-2: 53
+  Photoelectric sensors > W24: 63
+  Photoelectric sensors > HISIC: 3
+  Photoelectric sensors > W8G: 10
+  Photoelectric sensors > W11-2: 29
+  Photoelectric sensors > W34: 37
+  Photoelectric sensors > W8 Laser: 12
+  Photoelectric sensors > W45: 19
+  Photoelectric sensors > W18-3 Ex: 3
+  Photoelectric sensors > W11G-2: 3
+  Condition Monitoring sensors > Multi Physics Box: 1
+  Glare sensors > Glare: 5
+  Magnetic sensors > MLS: 14
+  Magnetic sensors > MME: 30
+  Magnetic sensors > MQB: 7
+  Magnetic sensors > MIS: 1
+  Magnetic sensors > MMN: 6
+  Capacitive proximity sensors > CM: 24
+  Capacitive proximity sensors > CMB: 8
+  Capacitive proximity sensors > CQF: 8
+  Capacitive proximity sensors > CQ: 25
+  Inductive proximity sensors > IME: 641
+  Inductive proximity sensors > IMB: 238
+  Inductive proximity sensors > IMM: 201
+  Inductive proximity sensors > IQG: 38
+  Inductive proximity sensors > IMI: 78
+  Inductive proximity sensors > IQM: 11
+  Inductive proximity sensors > IMS: 101
+  Inductive proximity sensors > IQY: 43
+  Inductive proximity sensors > IME2S: 14
+  Inductive proximity sensors > IQV: 6
+  Inductive proximity sensors > IMF: 47
+  Inductive proximity sensors > IMW: 12
+  Inductive proximity sensors > IMA: 21
+  Inductive proximity sensors > IMR: 14
+  Inductive proximity sensors > IDF: 2
+  Inductive proximity sensors > IQE: 7
+  Inductive proximity sensors > IMP: 31
+  Inductive proximity sensors > IQB2S: 3
+  Inductive proximity sensors > IQB: 84
+  Inductive proximity sensors > SAM: 2
+  Inductive proximity sensors > IN4000 Direct: 2
+  Inductive proximity sensors > IMG: 96
+  Inductive proximity sensors > IMN: 7
+  Inductive proximity sensors > IQL: 3
+  Inductive proximity sensors > IMC: 32
+  Inductive proximity sensors > IMX: 56
+  Automation light grids > MLG-2: 1553
+  Automation light grids > FlexChain: 275
+  Automation light grids > SLG: 335
+  Automation light grids > WLG: 3
+  Automation light grids > SLG-2: 320
+  Automation light grids > FLG: 12
+  Automation light grids > MLG-2 WebChecker: 255
+  Automation light grids > ELG: 88
+  Automation light grids > PLG: 7
+  Automation light grids > HLG: 2
+  Cylinder sensors > MZCS: 14
+  Cylinder sensors > MPS-T: 53
+  Cylinder sensors > MZT7: 36
+  Cylinder sensors > MPS-M: 4
+  Cylinder sensors > MZT8 ATEX: 13
+  Cylinder sensors > MZ2Q-T: 13
+  Cylinder sensors > MZT8 Twin: 9
+  Cylinder sensors > RZN: 5
+  Cylinder sensors > MZC2: 12
+  Cylinder sensors > MPS-G: 12
+  Cylinder sensors > MZT8: 62
+  Cylinder sensors > MZN: 6
+  Cylinder sensors > MZCG: 12
+  Cylinder sensors > MZT8 VIA: 11
+  Cylinder sensors > RZC1: 12
+  Cylinder sensors > MZC1 VIA: 7
+  Cylinder sensors > MZ2Q-C: 21
+  Cylinder sensors > MPA: 45
+  Cylinder sensors > MZCG VIA: 1
+  Cylinder sensors > MZT7 Twin: 1
+  Cylinder sensors > MZC1 Twin: 4
+  Cylinder sensors > MPS-C: 11
+  Cylinder sensors > RZT7: 28
+  Cylinder sensors > MZC1: 30
+  Luminescence sensors > LUTS/LUTX: 27
+  Luminescence sensors > LUTM: 4
+  Luminescence sensors > LUT3: 3
+  Luminescence sensors > LUT8: 8
+  Luminescence sensors > LUT1: 7
+  Luminescence sensors > LUT9: 15
+  Fork sensors > MF: 44
+  Fork sensors > CFM/CFX: 4
+  Fork sensors > UD18: 8
+  Fork sensors > UF: 7
+  Fork sensors > WFS: 10
+  Fork sensors > UFW: 4
+  Fork sensors > UFS: 18
+  Fork sensors > WF: 78
+  Fork sensors > WFE: 10
+  Fork sensors > WFM: 23
+  Fork sensors > WFL: 42
+  Array sensors > AS30: 19
+  Contrast sensors > KTM: 49
+  Contrast sensors > KTX: 115
+  Contrast sensors > KTS: 59
+  Contrast sensors > OLS: 9
+  Contrast sensors > KTL180: 10
+  Contrast sensors > KT8: 4
+  Contrast sensors > RS10: 1
+  Color sensors > CSS High Resolution: 6
+  Color sensors > CSM: 12
+  Color sensors > CSS/CSX High Speed: 25
+
+=== Network and connection technology (g568265) ===
+  Displays > SID: 1
+  Network devices > SIG300: 4
+  Network devices > CDF: 5
+  Network devices > SIG350: 3
+  Network devices > SIG200: 4
+  Network devices > SIG100: 1
+  Network devices > CDE100: 1
+  Edge computing devices > SIM1200: 1
+  Edge computing devices > SM1000: 2
+  Edge computing devices > SIM2x00: 13
+  Edge computing devices > Telematic Data Collector: 4
+  Edge computing devices > SIM800: 1
+  Edge computing devices > SIM10xx: 4
+  Edge computing devices > SIM200: 1
+  Junction boxes > CDB: 7
+  Junction boxes > CDE50: 3
+  Junction boxes > CDM: 10
+  Connectors and cables > Sensor-actuator cables: 1200
+  Connectors and cables > Field-wireable connectors: 131
+  Connectors and cables > Other connectors and cables: 624
+  Connectors and cables > Industrial Ethernet cables and fieldbus cables: 211
+  Connectors and cables > Y- and T-splitters: 51
+  Connectors and cables > Passive distribution boxes: 20
+  System plugs and extension modules > DCM4: 1
+  System plugs and extension modules > System plugs deTec and deTem: 8
+  System plugs and extension modules > System plugs S3000: 2
+  System plugs and extension modules > System plugs Flexi Soft: 4
+  System plugs and extension modules > System plugs MultiScan and picoScan: 3
+  System plugs and extension modules > System plugs S300: 10
+  System plugs and extension modules > System plugs outdoorScan3: 2
+  System plugs and extension modules > System plugs miniTwin: 7
+  System plugs and extension modules > DMM4: 1
+  System plugs and extension modules > System plugs Flexi Compact: 3
+  System plugs and extension modules > System plugs LMS5xx: 10
+  System plugs and extension modules > System plugs microScan3: 9
+  System plugs and extension modules > UE401: 1
+  System plugs and extension modules > System plugs nanoScan3: 9
+  System plugs and extension modules > UE402: 1
+  System plugs and extension modules > UE403: 1
+  Power supply units and power supply cables > Power supply units: 35
+  Power supply units and power supply cables > Power supply cables: 5
+
+=== Service (g568261) ===
+  Engineering and integration > Installation and commissioning: 8
+  Engineering and integration > Solution Engineering: 2
+  Engineering and integration > Extended warranty: 1
+  Engineering and integration > Acceptance services: 3
+  Engineering and integration > Initial verification: 1
+  Modernization > Upgrade and retrofit: 4
+  Maintenance and inspection > Software and firmware maintenance: 1
+  Maintenance and inspection > Service agreements: 4
+  Maintenance and inspection > Maintenance: 5
+  Maintenance and inspection > Monitoring Services: 0
+  Maintenance and inspection > Smart Parts: 0
+  Maintenance and inspection > Inspection of protective devices: 2
+  Maintenance and inspection > Machine safety inspection: 1
+  Maintenance and inspection > Stop time measurement: 1
+  Maintenance and inspection > Performance check: 1
+  Technical support > Troubleshooting: 3
+  Technical support > Repairs: 29
+  Technical support > Preparation for reverification: 0
+  Consulting > Safety and risk assessment: 5
+  Consulting > Accident investigation: 1
+  Consulting > Concept and feasibility: 2
+
+=== Machine vision and identification (g569794) ===
+  Machine vision > InspectorP61x: 12
+  Machine vision > InspectorP62x: 8
+  Machine vision > Visionary AI-Assist: 1
+  Machine vision > sensingCam SEC310: 1
+  Machine vision > sensingCam SEC100: 2
+  Machine vision > Inspector83x: 41
+  Machine vision > Visionary-B Two: 2
+  Machine vision > Ranger3: 4
+  Machine vision > midiCam2: 8
+  Machine vision > Inspector85x: 4
+  Machine vision > picoCam2: 6
+  Machine vision > Ruler3000: 13
+  Machine vision > Visionary-T Mini: 7
+  Machine vision > Visionary-S: 9
+  Machine vision > PLOC2D: 23
+  Machine vision > SICK Nova: 13
+  Machine vision > InspectorP63x: 4
+  Machine vision > PLB: 66
+  Machine vision > InspectorP64x/InspectorP65x: 5
+  Machine vision > Color Inspection and Sorting: 1
+  Machine vision > Static Package Dimensioning: 1
+  Machine vision > 3D Object Detection: 2
+  Machine vision > PLR: 4
+  Machine vision > Inspector: 0
+  Machine vision > 3D Belt Pick: 7
+  Machine vision > InspectorP Rack Fine Positioning: 8
+  Machine vision > TriSpector1000: 16
+  Machine vision > Label Checker: 10
+  Mobile handheld scanners > Zx36: 22
+  Mobile handheld scanners > IDM: 41
+  Mobile handheld scanners > HW19: 4
+  Fixed mount barcode scanners > CLV62x: 37
+  Fixed mount barcode scanners > CLV Identification System: 10
+  Fixed mount barcode scanners > CLV64x: 18
+  Fixed mount barcode scanners > CLV63x: 62
+  Fixed mount barcode scanners > CLV61x: 25
+  Fixed mount barcode scanners > CLV50x: 6
+  Fixed mount barcode scanners > CLV60x: 14
+  Fixed mount barcode scanners > CLV65x: 19
+  Fixed mount barcode scanners > CLV69x: 13
+  RFID > RFU63x: 24
+  RFID > RFH5xx: 3
+  RFID > RFU62x: 18
+  RFID > RFH6xx: 3
+  RFID > RFU61x: 14
+  RFID > RFU65x: 6
+  RFID > RFID antennas: 7
+  RFID > HF transponders: 16
+  RFID > UHF transponders: 17
+  RFID > Ident Gate System: 1
+  RFID > RF Identification System: 5
+  Image-based code readers > Lector83x: 12
+  Image-based code readers > Lector61x: 14
+  Image-based code readers > Lector85x: 58
+  Image-based code readers > ICR Identification System: 11
+  Image-based code readers > Lector Identification System: 42
+  Image-based code readers > Lector62x: 8
+  Image-based code readers > GLS6: 2
+  Image-based code readers > GLS100: 2
+  Image-based code readers > Lector63x: 26
+  Image-based code readers > ICD8xx: 8
+  Image-based code readers > Lector64x/Lector65x: 21
+  Image-based code readers > Lector65x System: 3
+
+=== Distance sensors (g576773) ===
+  Ultrasonic distance sensors > UM30: 37
+  Ultrasonic distance sensors > UM18: 82
+  Ultrasonic distance sensors > UC30: 8
+  Ultrasonic distance sensors > UC4: 11
+  Ultrasonic distance sensors > UM12: 10
+  Ultrasonic distance sensors > UC40: 6
+  Ultrasonic distance sensors > UC12: 2
+  Laser distance sensors > OD200: 3
+  Laser distance sensors > Dx80: 2
+  Laser distance sensors > OD2000: 6
+  Laser distance sensors > WTT12 PowerProx: 99
+  Laser distance sensors > OD Mini: 35
+  Laser distance sensors > Dx35: 10
+  Laser distance sensors > Dx50: 22
+  Laser distance sensors > WTT4 PowerProx: 16
+  Laser distance sensors > OD Value: 60
+  Laser distance sensors > Dx1000: 8
+  Laser distance sensors > OD5000: 8
+  Laser distance sensors > OL1: 1
+  Laser distance sensors > Profiler: 2
+  Laser distance sensors > WTT190 PowerProx: 19
+  Laser distance sensors > Dx100: 62
+  Laser distance sensors > Dx50-2: 2
+  Laser distance sensors > OD1000: 1
+  Laser distance sensors > OD Precision: 10
+  Laser distance sensors > WTT280 PowerProx: 12
+  Laser distance sensors > DT20 Hi: 10
+  Laser distance sensors > OD7000: 8
+  Laser distance sensors > WTT2 PowerProx: 11
+  Laser distance sensors > Dx500: 21
+  Laser distance sensors > DME4000: 0
+
+=== Systems (g568259) ===
+  Localization systems > Triton Floor-LOC: 1
+  Localization systems > OccupID System: 1
+  Localization systems > Coriva System: 4
+  Localization systems > Tag-LOC System: 5
+  Localization systems > Automated Load Detect Ident System: 0
+  Robot guidance systems > PLOC2D: 23
+  Robot guidance systems > PLB: 66
+  Robot guidance systems > PALLOC: 1
+  Robot guidance systems > Body Position System: 6
+  Robot guidance systems > PLR: 4
+  Profiling systems > Multi-Lane Profiling System: 2
+  Profiling systems > Axle Classification System: 1
+  Profiling systems > TICx02: 4
+  Profiling systems > Load Volume Measurement System: 3
+  Profiling systems > Free Flow Profiler: 2
+  Profiling systems > VPS Pro: 2
+  Profiling systems > TIC501: 1
+  Object detection systems > AOS LiDAR: 12
+  Object detection systems > Area Hotspot Detection System: 3
+  Object detection systems > AOS Radar: 2
+  Object detection systems > Overheight Detection System: 1
+  Object detection systems > Backup Assistance System: 4
+  Object detection systems > Vehicle Hotspot Detection System: 1
+  Object detection systems > Drive Assist System: 2
+  Object detection systems > APS: 1
+  Quality control systems > Pallet Serialization System: 1
+  Quality control systems > Pallet Integrity Inspection System: 3
+  Quality control systems > Pallet Classification System: 2
+  Quality control systems > Foreign Object Detection System: 3
+  Quality control systems > Label Checker: 10
+  Track and trace systems > Inspector Logistics System: 1
+  Track and trace systems > DWS Dynamic: 4
+  Track and trace systems > CLV Identification System: 10
+  Track and trace systems > Ident Gate System: 1
+  Track and trace systems > ICR Identification System: 11
+  Track and trace systems > RF Identification System: 5
+  Track and trace systems > Lector Identification System: 42
+  Track and trace systems > VMS4x00/5x00: 11
+  Track and trace systems > Master Data Analyzer Vision: 4
+  Track and trace systems > VMV Dimensioning System: 2
+  Track and trace systems > VMS6x00/7x00: 1
+  Track and trace systems > Master Data Analyzer: 4
+  Track and trace systems > VML: 1
+  Track and trace systems > Lector65x System: 3
+  Track and trace systems > DWS Pallet: 1
+
+=== Digital services and software (g568260) ===
+  Engineering Tools > Sentio Creator: 4
+  Engineering Tools > SICK Stream Software: 5
+  Engineering Tools > SOPAS ET: 4
+  Engineering Tools > SICK dStudio: 4
+  Engineering Tools > SICK AppStudio: 1
+  Engineering Tools > SICK AppManager: 1
+  Engineering Tools > SICK AppEngine: 4
+  Engineering Tools > Function Block Factory: 1
+  Integration software > SICK ConnectX: 9
+  Integration software > Hermes Standard Solution: 3
+  Insight Tools > Energy Monitoring: 2
+  Insight Tools > Condition Monitoring: 2
+  Insight Tools > Location Management: 3
+  Insight Tools > Track and Trace Analytics Lite: 9
+  Insight Tools > Tire Analytics: 1
+  Insight Tools > Logistics Diagnostic Analytics: 1
+  Insight Tools > Safety Machine Analytics: 1
+  Insight Tools > Baggage Analytics: 1
+  Insight Tools > Safety Laser Scanner Visualization: 12
+  Insight Tools > SICK Safety Assistant App: 1
+  Insight Tools > SICK Augmented Reality Assistant: 5
+  Insight Tools > Package Analytics: 1
+  Insight Tools > Incoming Goods Suite: 0
+  Insight Tools > Asset Analytics: 1
+  Insight Tools > FieldAnalytics: 1
+  Application software > AI-Assist: 1
+  Application software > Track and Trace Vision Software: 6
+  Application software > SICK Nova: 13
+  Application software > LiDAR-LOC: 8
+  Application software > Color Inspection and Sorting: 1
+  Application software > Static Package Dimensioning: 1
+  Application software > 3D Object Detection: 2
+  Application software > CODE-LOC: 2
+  Application software > Smart Motor Sensors Software: 2
+  Application software > 3D Belt Pick: 7
+
+=== LiDAR and radar sensors (g576776) ===
+  Radar sensors > RMS2000: 5
+  Radar sensors > RMS1000: 3
+  LiDAR sensors > TiM: 27
+  LiDAR sensors > picoScan100: 12
+  LiDAR sensors > LMS1xx: 19
+  LiDAR sensors > MRS1000: 6
+  LiDAR sensors > LMS5xx: 18
+  LiDAR sensors > LD-MRS: 7
+  LiDAR sensors > MRS6000: 1
+  LiDAR sensors > LMC1xx: 7
+  LiDAR sensors > NAV2xx: 3
+  LiDAR sensors > LMS1000: 1
+  LiDAR sensors > NAV3xx: 3
+  LiDAR sensors > LRS4000: 1
+  LiDAR sensors > LMS4000: 3
+  LiDAR sensors > multiScan100: 14
+  LiDAR sensors > S100: 2
+  LiDAR sensors > LD-LRS: 3
+  LiDAR sensors > LD-OEM: 2
+
+=== Flow measurement (g568267) ===
+
+=== Analyzers (g568258) ===
+
+=== Accessories (g568263) ===
+  Codes > Positioning codes: 92
+  Codes > Magnetic-coded tags: 15
+  Magnets > Position magnets: 27
+  Magnets > Magnetic tapes: 27
+  Optical data transmission > ISD400: 12
+  Optical data transmission > ISD300: 8
+  Measuring wheels and measuring wheel mechanics > Measuring wheels: 41
+  Measuring wheels and measuring wheel mechanics > Measuring wheel mechanics: 12
+  Integration modules and adapters > Interface modules: 33
+  Integration modules and adapters > Bus adapters: 2
+  Integration modules and adapters > Fieldbus modules: 17
+  Integration modules and adapters > Cloning modules: 1
+  Integration modules and adapters > HIPERFACE adapters: 3
+  Integration modules and adapters > SSI analog adapters: 1
+  Integration modules and adapters > Display modules: 10
+  Integration modules and adapters > Power supply modules: 13
+  Rechargeable batteries and base stations > Base stations: 11
+  Rechargeable batteries and base stations > Rechargeable batteries: 5
+  Signal transmitters > Acoustic signal transmitters: 1
+  Signal transmitters > Optical signal transmitters: 9
+  Device protection and care > Protective housing: 124
+  Device protection and care > Cooling devices: 15
+  Device protection and care > Purge air equipment: 4
+  Device protection and care > Front screens and front screen protection: 110
+  Device protection and care > Cleaning agents: 5
+  Device protection and care > Protection filter: 4
+  Device protection and care > Protective caps and hoods: 82
+  Device protection and care > Drying agent: 0
+  Device protection and care > Heating devices: 0
+  Wire draw mechanism > Wire draw mechanism for wire draw encoders: 23
+  Wire draw mechanism > Wire draw mechanism for rope pull switches: 17
+  Commissioning aids and test equipment > Test equipment: 32
+  Commissioning aids and test equipment > Configuration devices: 26
+  Commissioning aids and test equipment > Alignment aids: 32
+  Antennas > RFID antennas: 7
+  Antennas > WLAN antennas: 2
+  Antennas > GSM, UMTS and LTE antennas: 6
+  Antennas > GPS antennas: 2
+  Programming devices > PGT-13-S: 1
+  Programming devices > PGT-08-S: 2
+  Programming devices > PGT-11-S: 1
+  Programming devices > PGT-10 Pro: 1
+  Programming devices > PGT-15: 2
+  Programming devices > CPA: 1
+  Programming devices > PGT-12 Pro: 1
+  Programming devices > PGT-01-S: 1
+  Programming devices > PGT-14: 1
+  Manual unlocking > Locks: 3
+  RFID transponders > HF transponders: 16
+  RFID transponders > UHF transponders: 17
+  Actuators and bolts > MB1: 15
+  Actuators and bolts > Actuators for electromechanical safety switches: 34
+  Actuators and bolts > Actuators for magnetic safety switches: 6
+  Actuators and bolts > Actuators for RFID safety switches: 52
+  Shaft adaptation > Shaft couplings: 37
+  Shaft adaptation > Collets: 72
+  Mounting systems > Flanges and nozzles: 139
+  Mounting systems > Brackets: 619
+  Mounting systems > Muting arms: 27
+  Mounting systems > Assembly accessories: 218
+  Mounting systems > Stator couplings: 20
+  Mounting systems > Device columns: 34
+  Reflectors and optics > Reflectors: 169
+  Reflectors and optics > Illuminations: 85
+  Reflectors and optics > Lenses: 146
+  Reflectors and optics > Mirror: 75
+  Reflectors and optics > Optical apertures: 17
+  Reflectors and optics > Optical filters: 44
+  Storage media > USB sticks: 0
+  Storage media > Memory cards: 6
+
+=== Training (g568262) ===
+  Training and education > Safety competence trainings: 25
+  Training and education > Technology trainings: 16
+  Training and education > Product, system, and software trainings: 23
+  Training and education > Specialized and methodology trainings: 7
+
+=== Motion control sensors (g576775) ===
+  Motor feedback systems > TTK70: 5
+  Motor feedback systems > STL/ETL70: 3
+  Motor feedback systems > ELS/ELM35: 5
+  Motor feedback systems > STS: 3
+  Motor feedback systems > TTK50: 4
+  Motor feedback systems > Smart Motor Sensors Software: 2
+  Motor feedback systems > sCon: 1
+  Motor feedback systems > SHub: 3
+  Motor feedback systems > VFS60: 1
+  Motor feedback systems > EDS/EDM35: 17
+  Motor feedback systems > SFS/SFM60: 435
+  Motor feedback systems > SRS/SRM50: 77
+  Motor feedback systems > SKS/SKM36: 17
+  Motor feedback systems > EKS/EKM36: 12
+  Motor feedback systems > SES/SEM: 4
+  Motor feedback systems > SEK/SEL: 6
+  Motor feedback systems > EES/EEM37: 20
+  Incremental encoders > DFS60S Pro: 93
+  Incremental encoders > DGS80/90: 152
+  Incremental encoders > DFS60: 4463
+  Incremental encoders > DBS60: 4274
+  Incremental encoders > DBS36/50: 660
+  Incremental encoders > DFS2x: 1458
+  Incremental encoders > DLS40: 151
+  Incremental encoders > DUS60: 142
+  Absolute encoders > ANS/ANM58: 71
+  Absolute encoders > AFS/AFM60S Pro: 944
+  Absolute encoders > MAS: 1
+  Absolute encoders > ACM60: 2
+  Absolute encoders > ACS/ACM36: 4
+  Absolute encoders > AHS/AHM36: 562
+  Absolute encoders > AFS/AFM60 SSI: 1736
+  Absolute encoders > AFS/AFM60 Ethernet: 75
+  Absolute encoders > A3M60: 21
+  Absolute encoders > ARS60: 839
+  Wire draw encoders > EcoLine: 74
+  Wire draw encoders > HighLine: 87
+  Wire draw encoders > VarioLine: 19
+  Non-contact motion sensors > SPEETEC 1D: 14
+  Measuring wheel encoders > MWS250: 29
+  Measuring wheel encoders > MWS075: 24
+  Measuring wheel encoders > DFV60: 15
+  Measuring wheel encoders > MWS120: 117
+  Measuring wheel encoders > DKV60: 49
+  Measuring wheel encoders > DBV50: 98
+  Measuring wheel encoders > DUV60: 108
+  Linear encoders > DAX: 546
+  Linear encoders > TTK70: 5
+  Linear encoders > STL/ETL70: 3
+  Linear encoders > TTK50: 4
+  Linear encoders > OLM: 13
+  Linear encoders > KH53: 48
+  Linear encoders > MAX: 666
+  Inertial sensors > TMS/TMM61: 2
+  Inertial sensors > TMS/TMM88: 17
+  Inertial sensors > TMS/TMM22: 89
+  Inertial sensors > TMS/TMM88 Dynamic: 15
+
+=== Other products (g575324) ===
+
+
+JSON saved. Creating Excel...
+Total categories: 16
+  Safety: 114 lines, 5024 products
+  Process sensors: 30 lines, 4767 products
+  Detection sensors: 145 lines, 11025 products
+  Network and connection technology: 41 lines, 2414 products
+  Service: 21 lines, 74 products
+  Machine vision and identification: 63 lines, 870 products
+  Distance sensors: 31 lines, 584 products
+  Systems: 45 lines, 272 products
+  Digital services and software: 35 lines, 120 products
+  LiDAR and radar sensors: 19 lines, 137 products
+  Flow measurement: 0 lines, 0 products
+  Analyzers: 0 lines, 0 products
+  Accessories: 70 lines, 2693 products
+  Training: 4 lines, 71 products
+  Motion control sensors: 57 lines, 18305 products
+  Other products: 0 lines, 0 products
