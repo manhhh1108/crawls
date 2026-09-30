@@ -1,0 +1,541 @@
+{
+ "brand": "16 OTENNLUX Lighting",
+ "site": "https://en.otennlux.com/",
+ "note": "Cay 2 cap tu mega-menu ban EN. Cap 2 la cap ngay tren trang SP cu the. Ban CN co them 5 dong SP chua dua len ban EN.",
+ "nodes": [
+  {
+   "path": [
+    "Electric Cabinet Light"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/electric-cabinet-light_c3",
+   "code": "c3",
+   "level": 1
+  },
+  {
+   "path": [
+    "EMERGENCY STOP BUTTON"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/emergency-stop-button_c10",
+   "code": "c10",
+   "level": 1
+  },
+  {
+   "path": [
+    "Explosion-proof lamp"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/explosion-proof-lamp_c37",
+   "code": "c37",
+   "level": 1
+  },
+  {
+   "path": [
+    "Explosion-proof lamp",
+    "Explosion-proof Signal Light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/explosion-proof-signal-light_c38",
+   "code": "c38",
+   "level": 2
+  },
+  {
+   "path": [
+    "Explosion-proof lamp",
+    "Explosion-proof Tube Working lamp"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/explosion-proof-tube-working-lamp_c40",
+   "code": "c40",
+   "level": 2
+  },
+  {
+   "path": [
+    "Flood Light"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/flood-light_c39",
+   "code": "c39",
+   "level": 1
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/intelligent-industrial-signal-light_c6",
+   "code": "c6",
+   "level": 1
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "Ethernet signal light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/ethernet-signal-light_c19",
+   "code": "c19",
+   "level": 2
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "Infrared signal light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/infrared-signal-light_c16",
+   "code": "c16",
+   "level": 2
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "IO-LINK Signal light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/io-link-signal-light_c14",
+   "code": "c14",
+   "level": 2
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "Push button signal light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/push-button-signal-light_c15",
+   "code": "c15",
+   "level": 2
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "RS232 led signal tower light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/rs232-led-signal-tower-light_c58",
+   "code": "c58",
+   "level": 2
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "RS485 Led signal tower light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/rs485-led-signal-tower-light_c18",
+   "code": "c18",
+   "level": 2
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "Touch signal light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/touch-signal-light_c12",
+   "code": "c12",
+   "level": 2
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "USB signal tower light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/usb-signal-tower-light_c13",
+   "code": "c13",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/led-indicator-light_c7",
+   "code": "c7",
+   "level": 1
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "N18mm indicator light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/n18mm-indicator-light_c31",
+   "code": "c31",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "N22mm indicator light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/n22mm-indicator-light_c32",
+   "code": "c32",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O101 indicator light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/o101-indicator-light_c54",
+   "code": "c54",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O102 indicator light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/o102-indicator-light_c55",
+   "code": "c55",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O30mm indicator light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/o30mm-indicator-light_c33",
+   "code": "c33",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O50mm indicator light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/o50mm-indicator-light_c34",
+   "code": "c34",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O51 indicator light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/o51-indicator-light_c50",
+   "code": "c50",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O52 indicator light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/o52-indicator-light_c51",
+   "code": "c51",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O70mm indicator light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/o70mm-indicator-light_c35",
+   "code": "c35",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O71 indicator light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/o71-indicator-light_c52",
+   "code": "c52",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O72 indicator light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/o72-indicator-light_c53",
+   "code": "c53",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O90mm indicator light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/o90mm-indicator-light_c36",
+   "code": "c36",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Machine Vision Lighting"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/led-machine-vision-lighting_c4",
+   "code": "c4",
+   "level": 1
+  },
+  {
+   "path": [
+    "Led Signal Light"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/led-signal-light_c5",
+   "code": "c5",
+   "level": 1
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Aluminium Alloy Signal Light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/aluminium-alloy-signal-light_c22",
+   "code": "c22",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Led signal tower light with switch button"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/led-signal-tower-light-with-switch-button_c20",
+   "code": "c20",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Plastic Led Signal Light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/plastic-led-signal-light_c23",
+   "code": "c23",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "wall-mounted signal light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/wall-mounted-signal-light_c42",
+   "code": "c42",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "waterproof led signal tower light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/waterproof-led-signal-tower-light_c21",
+   "code": "c21",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED spot light"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/led-spot-light_c2",
+   "code": "c2",
+   "level": 1
+  },
+  {
+   "path": [
+    "LED spot light",
+    "long arm spotlight"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/long-arm-spotlight_c29",
+   "code": "c29",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED spot light",
+    "short arm spotlight"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/short-arm-spotlight_c28",
+   "code": "c28",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED spot light",
+    "spotlight with magnetic base"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/spotlight-with-magnetic-base_c30",
+   "code": "c30",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Tricolor Light Bar"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/led-tricolor-light-bar_c9",
+   "code": "c9",
+   "level": 1
+  },
+  {
+   "path": [
+    "LED Work Light"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/led-work-light_c1",
+   "code": "c1",
+   "level": 1
+  },
+  {
+   "path": [
+    "LED Work Light",
+    "Embedded Led Work Light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/embedded-led-work-light_c26",
+   "code": "c26",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Work Light",
+    "Flat Led Work Light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/flat-led-work-light_c27",
+   "code": "c27",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Work Light",
+    "Tube Led Work Light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/tube-led-work-light_c24",
+   "code": "c24",
+   "level": 2
+  },
+  {
+   "path": [
+    "OPTICAL TOUCH BUTTON"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/optical-touch-button_c11",
+   "code": "c11",
+   "level": 1
+  },
+  {
+   "path": [
+    "Products with UL"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/products-with-ul_c41",
+   "code": "c41",
+   "level": 1
+  },
+  {
+   "path": [
+    "Signal Loudspeaker"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/signal-loudspeaker_c43",
+   "code": "c43",
+   "level": 1
+  },
+  {
+   "path": [
+    "Signal Loudspeaker",
+    "CAN Type Signal Loudspeaker"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/can-type-signal-loudspeaker_c59",
+   "code": "c59",
+   "level": 2
+  },
+  {
+   "path": [
+    "Signal Loudspeaker",
+    "IO Type Signal Loudspeaker"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/io-type-signal-loudspeaker_c60",
+   "code": "c60",
+   "level": 2
+  },
+  {
+   "path": [
+    "Signal Loudspeaker",
+    "RS485 Type Signal Loudspeaker"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/rs485-type-signal-loudspeaker_c61",
+   "code": "c61",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sound Signal light"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/sound-signal-light_c8",
+   "code": "c8",
+   "level": 1
+  },
+  {
+   "path": [
+    "Sound Signal light",
+    "CAN type Sound Signal light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/can-type-sound-signal-light_c62",
+   "code": "c62",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sound Signal light",
+    "IO type Sound Signal light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/io-type-sound-signal-light_c63",
+   "code": "c63",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sound Signal light",
+    "RS485 type Sound Signal light"
+   ],
+   "type": "range",
+   "url": "https://en.otennlux.com/rs485-type-sound-signal-light_c64",
+   "code": "c64",
+   "level": 2
+  },
+  {
+   "path": [
+    "Touch Switch Dimmer controller"
+   ],
+   "type": "category",
+   "url": "https://en.otennlux.com/touch-switch-dimmer-controller_c17",
+   "code": "c17",
+   "level": 1
+  }
+ ]
+}

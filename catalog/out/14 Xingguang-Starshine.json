@@ -1,0 +1,259 @@
+{
+ "brand": "14 Xingguang-Starshine",
+ "site": "https://en.xgcd.cn/",
+ "note": "Cay 2 cap tu ban EN: nav /product/<id> (cap 1) + the series card tren trang (cap 2, ngay tren ma SP).",
+ "nodes": [
+  {
+   "path": [
+    "B/JXJ Series Cycloid Gear Reducer"
+   ],
+   "type": "category",
+   "url": "https://en.xgcd.cn/product/1356565744128249856.html",
+   "code": "1356565744128249856",
+   "level": 1
+  },
+  {
+   "path": [
+    "B/JXJ Series Cycloid Gear Reducer",
+    "Cycloid Speed Reducer SXJ Series"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565875636457472.html",
+   "code": "1356565875636457472",
+   "level": 2
+  },
+  {
+   "path": [
+    "Dedicated Gear Reducer For Industry"
+   ],
+   "type": "category",
+   "url": "https://en.xgcd.cn/product/1356565744153415680.html",
+   "code": "1356565744153415680",
+   "level": 1
+  },
+  {
+   "path": [
+    "Dedicated Gear Reducer For Industry",
+    "Planetary Gear Box SHMF Series"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565883031015424.html",
+   "code": "1356565883031015424",
+   "level": 2
+  },
+  {
+   "path": [
+    "Dedicated Gear Reducer For Industry",
+    "SKC87 Gear Units Dedicated for Construction Lift"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565859291254784.html",
+   "code": "1356565859291254784",
+   "level": 2
+  },
+  {
+   "path": [
+    "Dedicated Gear Reducer For Industry",
+    "SNFEG3000 GEAR REDUCER"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565884528381952.html",
+   "code": "1356565884528381952",
+   "level": 2
+  },
+  {
+   "path": [
+    "Dedicated Gear Reducer For Industry",
+    "XGK Series- Helical Hypoid Gear Units"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565857684836352.html",
+   "code": "1356565857684836352",
+   "level": 2
+  },
+  {
+   "path": [
+    "JWB-X Series Variator"
+   ],
+   "type": "category",
+   "url": "https://en.xgcd.cn/product/1356565744094695424.html",
+   "code": "1356565744094695424",
+   "level": 1
+  },
+  {
+   "path": [
+    "JWB-X Series Variator",
+    "Speed Variator SWB Series"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565877045743616.html",
+   "code": "1356565877045743616",
+   "level": 2
+  },
+  {
+   "path": [
+    "NCJ Series Helical Gear Reducer"
+   ],
+   "type": "category",
+   "url": "https://en.xgcd.cn/product/1356565744015003648.html",
+   "code": "1356565744015003648",
+   "level": 1
+  },
+  {
+   "path": [
+    "NCJ Series Helical Gear Reducer",
+    "NCJ series gear reducer"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565870997557248.html",
+   "code": "1356565870997557248",
+   "level": 2
+  },
+  {
+   "path": [
+    "NCJ Series Helical Gear Reducer",
+    "NCJ Series Helical Gear Units"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565869470830592.html",
+   "code": "1356565869470830592",
+   "level": 2
+  },
+  {
+   "path": [
+    "R/F/K/S Series Helical Gear Reducer"
+   ],
+   "type": "category",
+   "url": "https://en.xgcd.cn/product/1356565743985643520.html",
+   "code": "1356565743985643520",
+   "level": 1
+  },
+  {
+   "path": [
+    "R/F/K/S Series Helical Gear Reducer",
+    "Helical Geared Motor SHR Series"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565880015310848.html",
+   "code": "1356565880015310848",
+   "level": 2
+  },
+  {
+   "path": [
+    "R/F/K/S Series Helical Gear Reducer",
+    "Helical-bevel Gearedmotor SHK Series"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565881504288768.html",
+   "code": "1356565881504288768",
+   "level": 2
+  },
+  {
+   "path": [
+    "R/F/K/S Series Helical Gear Reducer",
+    "Helical-worm Geared Motor SHS Series"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565872566226944.html",
+   "code": "1356565872566226944",
+   "level": 2
+  },
+  {
+   "path": [
+    "R/F/K/S Series Helical Gear Reducer",
+    "Parallel Shaft-helical Geared Motor-SHF Series"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565874202005504.html",
+   "code": "1356565874202005504",
+   "level": 2
+  },
+  {
+   "path": [
+    "RV Series Worm Gear Reducer"
+   ],
+   "type": "category",
+   "url": "https://en.xgcd.cn/product/1356565744069529600.html",
+   "code": "1356565744069529600",
+   "level": 1
+  },
+  {
+   "path": [
+    "RV Series Worm Gear Reducer",
+    "SVF Series Worm Gear Reducer"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565856166498304.html",
+   "code": "1356565856166498304",
+   "level": 2
+  },
+  {
+   "path": [
+    "RV Series Worm Gear Reducer",
+    "Worm Gearox Snw Series"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565878471806976.html",
+   "code": "1356565878471806976",
+   "level": 2
+  },
+  {
+   "path": [
+    "SCK series helical-hypoid gear units"
+   ],
+   "type": "category",
+   "url": "https://en.xgcd.cn/product/1356565744178581504.html",
+   "code": "1356565744178581504",
+   "level": 1
+  },
+  {
+   "path": [
+    "SCK series helical-hypoid gear units",
+    "SVF Series Worm Gear Reducer"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565856166498304.html",
+   "code": "1356565856166498304",
+   "level": 2
+  },
+  {
+   "path": [
+    "SCK series helical-hypoid gear units",
+    "XGK Series- Helical Hypoid Gear Units"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565857684836352.html",
+   "code": "1356565857684836352",
+   "level": 2
+  },
+  {
+   "path": [
+    "SNKG Series Helical Gear Reducer"
+   ],
+   "type": "category",
+   "url": "https://en.xgcd.cn/product/1356565744044363776.html",
+   "code": "1356565744044363776",
+   "level": 1
+  },
+  {
+   "path": [
+    "SNKG Series Helical Gear Reducer",
+    "SMQ340 SMART BEVEL HELICAL GEARED MOTOR"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565860805398528.html",
+   "code": "1356565860805398528",
+   "level": 2
+  },
+  {
+   "path": [
+    "SNKG Series Helical Gear Reducer",
+    "SNKG Series Helical Gear Reducer"
+   ],
+   "type": "range",
+   "url": "https://en.xgcd.cn/products_details/1356565862361485312.html",
+   "code": "1356565862361485312",
+   "level": 2
+  }
+ ]
+}

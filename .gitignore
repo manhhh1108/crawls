@@ -1,0 +1,14 @@
+# HTTP / browser caches (tải lại được, không commit)
+.cache/
+
+# Python
+__pycache__/
+*.pyc
+
+# Excel lock files & backups
+~$*
+*.bak
+
+# Logs & cache dịch của dự án SICK (quá lớn / tái tạo được)
+sick/translation-cache.json
+sick/crawl.log

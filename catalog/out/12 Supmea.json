@@ -1,0 +1,321 @@
+{
+ "brand": "12 Supmea",
+ "site": "https://en.supmea.com/",
+ "note": "Cay 2 cap tu menu Products cua ban EN; cap 2 la cap ngay tren ma SP cu the.",
+ "nodes": [
+  {
+   "path": [
+    "Flowmeter"
+   ],
+   "type": "category",
+   "url": "https://en.supmea.com/flowmeter",
+   "code": "flowmeter",
+   "level": 1
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Coriolis mass flowmeters"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/coriolis-mass-flowmeters",
+   "code": "coriolis-mass-flowmeters",
+   "level": 2
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Magnetic flowmeter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/magnetic-flowmeter",
+   "code": "magnetic-flowmeter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Thermal mass flowmeter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/thermal-mass-flowmeter",
+   "code": "thermal-mass-flowmeter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Turbine flowmeter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/turbine-flowmeter",
+   "code": "turbine-flowmeter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Ultrasonic flowmeter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/ultrasonic-flowmeter",
+   "code": "ultrasonic-flowmeter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Vortex flowmeter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/vortex-flowmeter",
+   "code": "vortex-flowmeter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Level"
+   ],
+   "type": "category",
+   "url": "https://en.supmea.com/level",
+   "code": "level",
+   "level": 1
+  },
+  {
+   "path": [
+    "Level",
+    "Hydrostatic level transmitter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/hydrostatic-level-meter",
+   "code": "hydrostatic-level-meter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Level",
+    "Radar level transmitter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/radar-level-meter",
+   "code": "radar-level-meter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Level",
+    "Ultrasonic level transmitter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/ultrasonic-level-meter",
+   "code": "ultrasonic-level-meter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Liquid analysis"
+   ],
+   "type": "category",
+   "url": "https://en.supmea.com/liquid-analysis",
+   "code": "liquid-analysis",
+   "level": 1
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Chlorine sensor and meter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/chlorine-sensor-and-meter",
+   "code": "chlorine-sensor-and-meter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "COD sensor and meter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/cod-sensor-and-meter",
+   "code": "cod-sensor-and-meter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "EC sensor and meter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/ec-sensor-and-meter",
+   "code": "ec-sensor-and-meter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Multi-parameter analyzer"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/multi-parameter-analyzer",
+   "code": "multi-parameter-analyzer",
+   "level": 2
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Online water quality analyzer"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/online-water-quality-analyzer",
+   "code": "online-water-quality-analyzer",
+   "level": 2
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Oxygen sensor and meter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/oxygen-sensor-and-meter",
+   "code": "oxygen-sensor-and-meter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "pH sensor and meter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/ph-sensor-and-meter",
+   "code": "ph-sensor-and-meter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "TSS/SS sensor and meter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/tss-ss-sensor-and-meter",
+   "code": "tss-ss-sensor-and-meter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Turbidity sensor and meter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/turbidity-sensor-and-meter",
+   "code": "turbidity-sensor-and-meter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Pressure"
+   ],
+   "type": "category",
+   "url": "https://en.supmea.com/pressure",
+   "code": "pressure",
+   "level": 1
+  },
+  {
+   "path": [
+    "Pressure",
+    "Differential pressure transmitter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/differential-pressure-transmitter",
+   "code": "differential-pressure-transmitter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Pressure",
+    "Digital pressure gauge"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/digital-pressure-gauge",
+   "code": "digital-pressure-gauge",
+   "level": 2
+  },
+  {
+   "path": [
+    "Pressure",
+    "Pressure transmitter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/pressure-transmitter",
+   "code": "pressure-transmitter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Temperature"
+   ],
+   "type": "category",
+   "url": "https://en.supmea.com/temperature",
+   "code": "temperature",
+   "level": 1
+  },
+  {
+   "path": [
+    "Temperature",
+    "Temperature sensor"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/temperature-sensor",
+   "code": "temperature-sensor",
+   "level": 2
+  },
+  {
+   "path": [
+    "Temperature",
+    "Temperature transmitter"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/temperature-transmitter",
+   "code": "temperature-transmitter",
+   "level": 2
+  },
+  {
+   "path": [
+    "Valve"
+   ],
+   "type": "category",
+   "url": "https://en.supmea.com/valve",
+   "code": "valve",
+   "level": 1
+  },
+  {
+   "path": [
+    "Valve",
+    "Ball valves"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/ball-valves",
+   "code": "ball-valves",
+   "level": 2
+  },
+  {
+   "path": [
+    "Valve",
+    "Butterfly valves"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/butterfly-valves",
+   "code": "butterfly-valves",
+   "level": 2
+  },
+  {
+   "path": [
+    "Valve",
+    "Control valves"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/control-valves",
+   "code": "control-valves",
+   "level": 2
+  }
+ ]
+}
