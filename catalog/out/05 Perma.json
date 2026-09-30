@@ -1,7 +1,7 @@
 {
  "brand": "05 Perma",
  "site": "https://www.perma-tec.com/en",
- "note": "Cay danh muc tu sitemap EN + breadcrumb JSON-LD.",
+ "note": "Cây danh mục từ sitemap EN + breadcrumb JSON-LD.",
  "nodes": [
   {
    "path": [

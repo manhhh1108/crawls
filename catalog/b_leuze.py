@@ -38,4 +38,4 @@ def crawl():
 
 if __name__ == "__main__":
     save("08 Leuze", "https://www.leuze.com/en-int", crawl(),
-         "Cay danh muc day du tu sitemap en-int. Cap sau cung = cap ngay tren ma SP.")
+         "Cây danh mục đầy đủ từ sitemap en-int. Cấp sâu cùng = cấp ngay trên mã SP.")

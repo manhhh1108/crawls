@@ -63,4 +63,4 @@ def crawl():
 
 if __name__ == "__main__":
     save("06 wenglor", "https://www.wenglor.com/en/", crawl(),
-         "Cay danh muc day du tu sitemap; cap sau cung la cap ngay tren ma SP (vd P1PC011).")
+         "Cây danh mục đầy đủ từ sitemap; cấp sâu cùng là cấp ngay trên mã SP (vd P1PC011).")

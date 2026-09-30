@@ -78,4 +78,4 @@ def crawl():
 
 if __name__ == "__main__":
     save("17 Balluff", "https://www.balluff.com/en-sg", crawl(),
-         "Tu sitemap en-sg + breadcrumb JSON-LD. Cap cuoi = ho san pham (F....) ngay tren ma SP (BES/BFT...).")
+         "Từ sitemap en-sg + breadcrumb JSON-LD. Cấp cuối = họ sản phẩm (F....) ngay trên mã SP (BES/BFT...).")

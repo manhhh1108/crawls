@@ -118,4 +118,4 @@ def crawl():
 
 if __name__ == "__main__":
     save("04 IFM", "https://www.ifm.com/us/en", crawl(),
-         "L1-L3 tu navbar REST; L4/L5 tu trang danh muc render. Cap cuoi = product range ngay tren ma SP.")
+         "L1-L3 từ navbar REST; L4/L5 từ trang danh mục render. Cấp cuối = product range ngay trên mã SP.")

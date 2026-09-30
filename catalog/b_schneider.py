@@ -102,4 +102,4 @@ def crawl():
 
 if __name__ == "__main__":
     save("11 Schneider", "https://www.se.com/ca/en", crawl(),
-         "Category > Subcategory > Range tu sitemap ca/en. Range la cap ngay tren ma thuong mai.")
+         "Category > Subcategory > Range từ sitemap ca/en. Range là cấp ngay trên mã thương mại.")

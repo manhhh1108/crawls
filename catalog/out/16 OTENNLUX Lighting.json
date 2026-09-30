@@ -1,7 +1,7 @@
 {
  "brand": "16 OTENNLUX Lighting",
  "site": "https://en.otennlux.com/",
- "note": "Cay 2 cap tu mega-menu ban EN. Cap 2 la cap ngay tren trang SP cu the. Ban CN co them 5 dong SP chua dua len ban EN.",
+ "note": "Cây 2 cấp từ mega-menu bản EN + mã SP (_pNN, type=product) từ grid trên trang danh mục. Bản CN có thêm 5 dòng SP chưa đưa lên bản EN.",
  "nodes": [
   {
    "path": [
@@ -14,12 +14,122 @@
   },
   {
    "path": [
+    "Electric Cabinet Light",
+    "2025 Otennlux New item manufactrurer price TSLED IP20 electric cabinet light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/2025-otennlux-new-item-manufactrurer-price-tsled-ip20-electric-cabinet-light_p242.html",
+   "code": "p242",
+   "level": 2
+  },
+  {
+   "path": [
+    "Electric Cabinet Light",
+    "FSLED 24V 10W electric under cabinet lighting with switch"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/fsled-24v-10w-electric-under-cabinet-lighting-with-switch_p67.html",
+   "code": "p67",
+   "level": 2
+  },
+  {
+   "path": [
+    "Electric Cabinet Light",
+    "GSLED 9W electric under cabinet lighting with switch"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/gsled-9w-electric-under-cabinet-lighting-with-switch_p71.html",
+   "code": "p71",
+   "level": 2
+  },
+  {
+   "path": [
+    "Electric Cabinet Light",
+    "HSLED 24v 5W electric led cabinet lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/hsled-24v-5w-electric-led-cabinet-lights_p91.html",
+   "code": "p91",
+   "level": 2
+  },
+  {
+   "path": [
+    "Electric Cabinet Light",
+    "JSLED Super Quality 10W 24V human body induction lamp"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/jsled-super-quality-10w-24v-human-body-induction-lamp_p92.html",
+   "code": "p92",
+   "level": 2
+  },
+  {
+   "path": [
+    "Electric Cabinet Light",
+    "New item good quality manufacturer price QSLED electric under cabinet lighting"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/new-item-good-quality-manufacturer-price-qsled-electric-under-cabinet-lighting_p218.html",
+   "code": "p218",
+   "level": 2
+  },
+  {
+   "path": [
+    "Electric Cabinet Light",
+    "Otennlux high quality GSLED2 electric under cabinet lighting with switch"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-high-quality-gsled2-electric-under-cabinet-lighting-with-switch_p205.html",
+   "code": "p205",
+   "level": 2
+  },
+  {
+   "path": [
+    "Electric Cabinet Light",
+    "Otennlux manufacturer price HSLED2 electric under cabinet lighting"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-manufacturer-price-hsled2-electric-under-cabinet-lighting_p206.html",
+   "code": "p206",
+   "level": 2
+  },
+  {
+   "path": [
+    "Electric Cabinet Light",
+    "RSLED New item manufactrurer price IP20 electric under cabinet lighting"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/rsled-new-item-manufactrurer-price-ip20-electric-under-cabinet-lighting_p219.html",
+   "code": "p219",
+   "level": 2
+  },
+  {
+   "path": [
     "EMERGENCY STOP BUTTON"
    ],
    "type": "category",
    "url": "https://en.otennlux.com/emergency-stop-button_c10",
    "code": "c10",
    "level": 1
+  },
+  {
+   "path": [
+    "EMERGENCY STOP BUTTON",
+    "Otennlux new item factory price hand-pat and Foot-pedal Switch Mushroom Head Button Switch Foot Pedal Hand Racket Self Reset Waterproof and Dustproof Emergency Stop Switch"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-new-item-factory-price-hand-pat-and-foot-pedal-switch-mushroom-head-button-switch-foot-pedal-hand-racket-self-reset-waterproof-and-dustproof-emergency-stop-switch_p244.html",
+   "code": "p244",
+   "level": 2
+  },
+  {
+   "path": [
+    "EMERGENCY STOP BUTTON",
+    "Otennlux Newest item OET EMERGENCY STOP BUTTON"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-newest-item-oet-emergency-stop-button_p221.html",
+   "code": "p221",
+   "level": 2
   },
   {
    "path": [
@@ -43,12 +153,34 @@
   {
    "path": [
     "Explosion-proof lamp",
+    "Explosion-proof Signal Light",
+    "OLE2-301 cnc machine tower lamp with buzzer 24vdc"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ole2-301-cnc-machine-tower-lamp-with-buzzer-24vdc_p102.html",
+   "code": "p102",
+   "level": 3
+  },
+  {
+   "path": [
+    "Explosion-proof lamp",
     "Explosion-proof Tube Working lamp"
    ],
    "type": "range",
    "url": "https://en.otennlux.com/explosion-proof-tube-working-lamp_c40",
    "code": "c40",
    "level": 2
+  },
+  {
+   "path": [
+    "Explosion-proof lamp",
+    "Explosion-proof Tube Working lamp",
+    "IP67 110v explosion proof led work light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ip67-110v-explosion-proof-led-work-light_p153.html",
+   "code": "p153",
+   "level": 3
   },
   {
    "path": [
@@ -81,12 +213,34 @@
   {
    "path": [
     "Intelligent Industrial Signal Light",
+    "Ethernet signal light",
+    "Otennlux OLSY Ethernet Multi-Functional Signal Light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-olsy-ethernet-multi-functional-signal-light_p231.html",
+   "code": "p231",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
     "Infrared signal light"
    ],
    "type": "range",
    "url": "https://en.otennlux.com/infrared-signal-light_c16",
    "code": "c16",
    "level": 2
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "Infrared signal light",
+    "I50 infrared induction led signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/i50-infrared-induction-led-signal-light_p171.html",
+   "code": "p171",
+   "level": 3
   },
   {
    "path": [
@@ -101,12 +255,100 @@
   {
    "path": [
     "Intelligent Industrial Signal Light",
+    "IO-LINK Signal light",
+    "IO-LINK IP69 24V AC DC Intelligent signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/io-link-ip69-24v-ac-dc-intelligent-signal-light_p31.html",
+   "code": "p31",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "IO-LINK Signal light",
+    "IP69K 3colors 24V Intelligent io link stack light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ip69k-3colors-24v-intelligent-io-link-stack-light_p98.html",
+   "code": "p98",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "IO-LINK Signal light",
+    "manufacturer M12 IP69K 3 colors IO-LINK signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/manufacturer-m12-ip69k-3-colors-io-link-signal-light_p155.html",
+   "code": "p155",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "IO-LINK Signal light",
+    "OLG Series M12 IP69K 3 colors IO-LINK led signal tower light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/olg-series-m12-ip69k-3-colors-io-link-led-signal-tower-light_p181.html",
+   "code": "p181",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "IO-LINK Signal light",
+    "Otennlux 3colors 24V waterproof io link stack signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-3colors-24v-waterproof-io-link-stack-signal-light_p99.html",
+   "code": "p99",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "IO-LINK Signal light",
+    "Otennlux OLG Series IP69K 5 colors IO-LINK led signal stack light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-olg-series-ip69k-5-colors-io-link-led-signal-stack-light_p183.html",
+   "code": "p183",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "IO-LINK Signal light",
+    "Otennlux OLG Series M12 IP69K 4 colors IO-LINK led signal stack light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-olg-series-m12-ip69k-4-colors-io-link-led-signal-stack-light_p182.html",
+   "code": "p182",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
     "Push button signal light"
    ],
    "type": "range",
    "url": "https://en.otennlux.com/push-button-signal-light_c15",
    "code": "c15",
    "level": 2
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "Push button signal light",
+    "intelligent B50 3colors Push button led signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/intelligent-b50-3colors-push-button-led-signal-light_p180.html",
+   "code": "p180",
+   "level": 3
   },
   {
    "path": [
@@ -121,12 +363,45 @@
   {
    "path": [
     "Intelligent Industrial Signal Light",
+    "RS232 led signal tower light",
+    "Otennlux new item RS232 3 colors led signal tower light with buzzer"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-new-item-rs232-3-colors-led-signal-tower-light-with-buzzer_p249.html",
+   "code": "p249",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
     "RS485 Led signal tower light"
    ],
    "type": "range",
    "url": "https://en.otennlux.com/rs485-led-signal-tower-light_c18",
    "code": "c18",
    "level": 2
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "RS485 Led signal tower light",
+    "manufacturer Modbus RS485 3 colors LED signal tower light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/manufacturer-modbus-rs485-3-colors-led-signal-tower-light_p175.html",
+   "code": "p175",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "RS485 Led signal tower light",
+    "RS485/RS232 3 colors led signal tower light for machine tools"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/rs485-rs232-3-colors-led-signal-tower-light-for-machine-tools_p156.html",
+   "code": "p156",
+   "level": 3
   },
   {
    "path": [
@@ -141,12 +416,188 @@
   {
    "path": [
     "Intelligent Industrial Signal Light",
+    "Touch signal light",
+    "IP69K M12 3 colors Touch led signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ip69k-m12-3-colors-touch-led-signal-light_p158.html",
+   "code": "p158",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "Touch signal light",
+    "manufacturer IP69K 3 colors Touch signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/manufacturer-ip69k-3-colors-touch-signal-light_p157.html",
+   "code": "p157",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "Touch signal light",
+    "manufacturer Otennlux T51 IP69K 3 colors Touch signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/manufacturer-otennlux-t51-ip69k-3-colors-touch-signal-light_p216.html",
+   "code": "p216",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "Touch signal light",
+    "manufacturer price Otennlux 2025 new T54 IP69K 3 colors Touch signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/manufacturer-price-otennlux-2025-new-t54-ip69k-3-colors-touch-signal-light_p239.html",
+   "code": "p239",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "Touch signal light",
+    "Otennlux 2025 New Item T52 3 colors Touch led signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-2025-new-item-t52-3-colors-touch-led-signal-light_p237.html",
+   "code": "p237",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "Touch signal light",
+    "Otennlux 2025 New Item T53 7 colors Touch led signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-2025-new-item-t53-7-colors-touch-led-signal-light_p238.html",
+   "code": "p238",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "Touch signal light",
+    "Otennlux 2025 T55 New Item 7colors Touch led signal light pick to light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-2025-t55-new-item-7colors-touch-led-signal-light-pick-to-light_p240.html",
+   "code": "p240",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "Touch signal light",
+    "T50 IP69K M12 24v 50mm 3colors pick -to- light for order picking"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/t50-ip69k-m12-24v-50mm-3colors-pick-to-light-for-order-picking_p142.html",
+   "code": "p142",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "Touch signal light",
+    "T50 IP69K M12 24v 50mm 3colors pick to light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/t50-ip69k-m12-24v-50mm-3colors-pick-to-light_p141.html",
+   "code": "p141",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
     "USB signal tower light"
    ],
    "type": "range",
    "url": "https://en.otennlux.com/usb-signal-tower-light_c13",
    "code": "c13",
    "level": 2
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "USB signal tower light",
+    "2021 manufacturer aluminium alloy cnc machine 3 colors usb stack light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/2021-manufacturer-aluminium-alloy-cnc-machine-3-colors-usb-stack-light_p97.html",
+   "code": "p97",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "USB signal tower light",
+    "2021 new Multiple Color programmable 5V input USB Signal Tower light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/2021-new-multiple-color-programmable-5v-input-usb-signal-tower-light_p81.html",
+   "code": "p81",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "USB signal tower light",
+    "2021 programmable computer controlled Multiple Color usb signal tower warning light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/2021-programmable-computer-controlled-multiple-color-usb-signal-tower-warning-light_p83.html",
+   "code": "p83",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "USB signal tower light",
+    "2021 wireless stack light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/2021-wireless-stack-light_p115.html",
+   "code": "p115",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "USB signal tower light",
+    "2022 manufacturer 3 colors usb tower light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/2022-manufacturer-3-colors-usb-tower-light_p116.html",
+   "code": "p116",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "USB signal tower light",
+    "manufacturer 3 colors usb signal tower light with buzzer"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/manufacturer-3-colors-usb-signal-tower-light-with-buzzer_p172.html",
+   "code": "p172",
+   "level": 3
+  },
+  {
+   "path": [
+    "Intelligent Industrial Signal Light",
+    "USB signal tower light",
+    "Otennlux 7 colors USB Controlled Multicolor Signal Beacon"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-7-colors-usb-controlled-multicolor-signal-beacon_p199.html",
+   "code": "p199",
+   "level": 3
   },
   {
    "path": [
@@ -170,12 +621,34 @@
   {
    "path": [
     "Led Indicator Light",
+    "N18mm indicator light",
+    "N18/ N22 IP69K 24v 18mm/22mm mini size machine indicator lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/n18-n22-ip69k-24v-18mm-22mm-mini-size-machine-indicator-lights_p241.html",
+   "code": "p241",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
     "N22mm indicator light"
    ],
    "type": "range",
    "url": "https://en.otennlux.com/n22mm-indicator-light_c32",
    "code": "c32",
    "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "N22mm indicator light",
+    "N18/ N22 IP69K 24v 18mm/22mm mini size machine indicator lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/n18-n22-ip69k-24v-18mm-22mm-mini-size-machine-indicator-lights_p213.html",
+   "code": "p213",
+   "level": 3
   },
   {
    "path": [
@@ -190,12 +663,34 @@
   {
    "path": [
     "Led Indicator Light",
+    "O101 indicator light",
+    "Otennlux new product O101 IP69K 24v 3colors 100mm machine indicator lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-new-product-o101-ip69k-24v-3colors-100mm-machine-indicator-lights_p248.html",
+   "code": "p248",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
     "O102 indicator light"
    ],
    "type": "range",
    "url": "https://en.otennlux.com/o102-indicator-light_c55",
    "code": "c55",
    "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O102 indicator light",
+    "Otennlux O102 IP69K 24v 3colors big diameter100mm led indicator lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-o102-ip69k-24v-3colors-big-diameter100mm-led-indicator-lights_p246.html",
+   "code": "p246",
+   "level": 3
   },
   {
    "path": [
@@ -210,12 +705,155 @@
   {
    "path": [
     "Led Indicator Light",
+    "O30mm indicator light",
+    "H30 IP69K 24v 30mm 3colors led signal warning Indicator light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/h30-ip69k-24v-30mm-3colors-led-signal-warning-indicator-light_p84.html",
+   "code": "p84",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O30mm indicator light",
+    "H30 manufacturer IP69K waterproof 24v 30mm milk white cover 3colors led signal Indicator light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/h30-manufacturer-ip69k-waterproof-24v-30mm-milk-white-cover-3colors-led-signal-indicator-light_p147.html",
+   "code": "p147",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O30mm indicator light",
+    "Manufacturer price waterproof 30mm led indicator light with buzzer"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/manufacturer-price-waterproof-30mm-led-indicator-light-with-buzzer_p139.html",
+   "code": "p139",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O30mm indicator light",
+    "O30 IP69K 24v 30mm led signal indicator light with buzzer"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/o30-ip69k-24v-30mm-led-signal-indicator-light-with-buzzer_p138.html",
+   "code": "p138",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O30mm indicator light",
+    "O30 IP69K 24v 30mm mini round shape 3colors led signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/o30-ip69k-24v-30mm-mini-round-shape-3colors-led-signal-light_p64.html",
+   "code": "p64",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
     "O50mm indicator light"
    ],
    "type": "range",
    "url": "https://en.otennlux.com/o50mm-indicator-light_c34",
    "code": "c34",
    "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O50mm indicator light",
+    "2025 new item O52 IP69K 24v 3colors 50mm led indicator signal lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/2025-new-item-o52-ip69k-24v-3colors-50mm-led-indicator-signal-lights_p236.html",
+   "code": "p236",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O50mm indicator light",
+    "7colors led Indicator light H30/H50 waterproof 50mm 3colors led warning Indicator light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/7colors-led-indicator-light-h30-h50-waterproof-50mm-3colors-led-warning-indicator-light_p233.html",
+   "code": "p233",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O50mm indicator light",
+    "H50 waterproof 50mm 3colors led warning Indicator light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/h50-waterproof-50mm-3colors-led-warning-indicator-light_p85.html",
+   "code": "p85",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O50mm indicator light",
+    "O50 IP69K 24v 50mm mini size industrial led signal warming light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/o50-ip69k-24v-50mm-mini-size-industrial-led-signal-warming-light_p65.html",
+   "code": "p65",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O50mm indicator light",
+    "O50 IP69K 24v 50mm mini size machine indicator lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/o50-ip69k-24v-50mm-mini-size-machine-indicator-lights_p119.html",
+   "code": "p119",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O50mm indicator light",
+    "O50 IP69K 50mm 24v mini industrial beacon light with buzzer"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/o50-ip69k-50mm-24v-mini-industrial-beacon-light-with-buzzer_p140.html",
+   "code": "p140",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O50mm indicator light",
+    "O51 IP69K 24v 3colors 50mm mini size machine indicator lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/o51-ip69k-24v-3colors-50mm-mini-size-machine-indicator-lights_p210.html",
+   "code": "p210",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O50mm indicator light",
+    "Otennlux OI IP69K 24v 50mm Crystal cover LED indicator lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-oi-ip69k-24v-50mm-crystal-cover-led-indicator-lights_p234.html",
+   "code": "p234",
+   "level": 3
   },
   {
    "path": [
@@ -250,12 +888,34 @@
   {
    "path": [
     "Led Indicator Light",
+    "O70mm indicator light",
+    "O70 IP69K 24v 70mm mini led dome indicator light for automation"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/o70-ip69k-24v-70mm-mini-led-dome-indicator-light-for-automation_p66.html",
+   "code": "p66",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
     "O71 indicator light"
    ],
    "type": "range",
    "url": "https://en.otennlux.com/o71-indicator-light_c52",
    "code": "c52",
    "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O71 indicator light",
+    "Otennlux new product O71 IP69K 24v 3colors 70mm machine indicator lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-new-product-o71-ip69k-24v-3colors-70mm-machine-indicator-lights_p247.html",
+   "code": "p247",
+   "level": 3
   },
   {
    "path": [
@@ -270,12 +930,45 @@
   {
    "path": [
     "Led Indicator Light",
+    "O72 indicator light",
+    "Otennlux O72 IP69K 24v 3colors 70mm led indicator signal lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-o72-ip69k-24v-3colors-70mm-led-indicator-signal-lights_p245.html",
+   "code": "p245",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
     "O90mm indicator light"
    ],
    "type": "range",
    "url": "https://en.otennlux.com/o90mm-indicator-light_c36",
    "code": "c36",
    "level": 2
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O90mm indicator light",
+    "O90 IP69K 24v 90mm machine led dome indicator signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/o90-ip69k-24v-90mm-machine-led-dome-indicator-signal-light_p87.html",
+   "code": "p87",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Indicator Light",
+    "O90mm indicator light",
+    "Otennlux O90 IP69K 24v 90mm machine led dome indicator signal light with buzzer"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-o90-ip69k-24v-90mm-machine-led-dome-indicator-signal-light-with-buzzer_p232.html",
+   "code": "p232",
+   "level": 3
   },
   {
    "path": [
@@ -288,12 +981,102 @@
   },
   {
    "path": [
+    "Led Machine Vision Lighting",
+    "OVF-20-4 24v 9W Industrial inspection machine vision bar light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ovf-20-4-24v-9w-industrial-inspection-machine-vision-bar-light_p70.html",
+   "code": "p70",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Machine Vision Lighting",
+    "OVF-60-4 15W Industrial inspection machine vision light source illuminator"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ovf-60-4-15w-industrial-inspection-machine-vision-light-source-illuminator_p21.html",
+   "code": "p21",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Machine Vision Lighting",
+    "OVO 6W RGBW cnc machine vision led lighting"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ovo-6w-rgbw-cnc-machine-vision-led-lighting_p17.html",
+   "code": "p17",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Machine Vision Lighting",
+    "OVO-02 2W machine Vision Ring Industrial Light for reflective surface inspect"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ovo-02-2w-machine-vision-ring-industrial-light-for-reflective-surface-inspect_p20.html",
+   "code": "p20",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Machine Vision Lighting",
+    "OVO-03 3W RGBW machine Vision LED Dome Lights for reflective surface inspect"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ovo-03-3w-rgbw-machine-vision-led-dome-lights-for-reflective-surface-inspect_p19.html",
+   "code": "p19",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Machine Vision Lighting",
+    "OVO-05 5W RGBW industrial cnc machine vision led lightings"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ovo-05-5w-rgbw-industrial-cnc-machine-vision-led-lightings_p18.html",
+   "code": "p18",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Machine Vision Lighting",
+    "OVO-06 Ring Industrial Inspection Illumination light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ovo-06-ring-industrial-inspection-illumination-light_p69.html",
+   "code": "p69",
+   "level": 2
+  },
+  {
+   "path": [
+    "Led Machine Vision Lighting",
+    "Ring Industrial machine vision light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ring-industrial-machine-vision-light_p150.html",
+   "code": "p150",
+   "level": 2
+  },
+  {
+   "path": [
     "Led Signal Light"
    ],
    "type": "category",
    "url": "https://en.otennlux.com/led-signal-light_c5",
    "code": "c5",
    "level": 1
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "24V Ip67 3colors 3 layers waterproof led stack light for outdoor"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/24v-ip67-3colors-3-layers-waterproof-led-stack-light-for-outdoor_p169.html",
+   "code": "p169",
+   "level": 2
   },
   {
    "path": [
@@ -308,12 +1091,210 @@
   {
    "path": [
     "Led Signal Light",
+    "Aluminium Alloy Signal Light",
+    "24V Ip67 3colors 3 layers waterproof led signal tower light for outdoor"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/24v-ip67-3colors-3-layers-waterproof-led-signal-tower-light-for-outdoor_p168.html",
+   "code": "p168",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Aluminium Alloy Signal Light",
+    "3 colors led signal tower light for machine tools"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/3-colors-led-signal-tower-light-for-machine-tools_p151.html",
+   "code": "p151",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Aluminium Alloy Signal Light",
+    "OLA2-301 cnc machine 3colors foldable industrial tower light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ola2-301-cnc-machine-3colors-foldable-industrial-tower-light_p120.html",
+   "code": "p120",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Aluminium Alloy Signal Light",
+    "OMC1-301 110V Industrial Signal Light Indicator LED Signal Tower Lamp Warning Stack Light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/omc1-301-110v-industrial-signal-light-indicator-led-signal-tower-lamp-warning-stack-light_p100.html",
+   "code": "p100",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Aluminium Alloy Signal Light",
+    "OMC1-301 3colors 110V cheap price tower indicator light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/omc1-301-3colors-110v-cheap-price-tower-indicator-light_p122.html",
+   "code": "p122",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Aluminium Alloy Signal Light",
+    "OMC1-301 3colors 110V industrial cnc machine led stack light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/omc1-301-3colors-110v-industrial-cnc-machine-led-stack-light_p108.html",
+   "code": "p108",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Aluminium Alloy Signal Light",
+    "OMC1-301 3colors tower lamp with buzzer price"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/omc1-301-3colors-tower-lamp-with-buzzer-price_p117.html",
+   "code": "p117",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Aluminium Alloy Signal Light",
+    "OMC1-401 4colors cnc machine alarm tower light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/omc1-401-4colors-cnc-machine-alarm-tower-light_p110.html",
+   "code": "p110",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Aluminium Alloy Signal Light",
+    "OMJ1-301 24v stack light color standards"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/omj1-301-24v-stack-light-color-standards_p111.html",
+   "code": "p111",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Aluminium Alloy Signal Light",
+    "OSC-101 7colors Industrial machine tower warning lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/osc-101-7colors-industrial-machine-tower-warning-lights_p103.html",
+   "code": "p103",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Aluminium Alloy Signal Light",
+    "Otennlux 24v waterproof led signal light for machine"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-24v-waterproof-led-signal-light-for-machine_p112.html",
+   "code": "p112",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Aluminium Alloy Signal Light",
+    "Otennlux OLD 24V Ip54 3colors 3 layers waterproof led stack light for outdoor with M12"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-old-24v-ip54-3colors-3-layers-waterproof-led-stack-light-for-outdoor-with-m12_p211.html",
+   "code": "p211",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
     "Led signal tower light with switch button"
    ],
    "type": "range",
    "url": "https://en.otennlux.com/led-signal-tower-light-with-switch-button_c20",
    "code": "c20",
    "level": 2
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Led signal tower light with switch button",
+    "BMSL2-401 110v 4colors Signal Tower Light with switch button with buzzer"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/bmsl2-401-110v-4colors-signal-tower-light-with-switch-button-with-buzzer_p226.html",
+   "code": "p226",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Led signal tower light with switch button",
+    "MSL1-301 24v Signal Tower Light with Push Button Control Box"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/msl1-301-24v-signal-tower-light-with-push-button-control-box_p76.html",
+   "code": "p76",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Led signal tower light with switch button",
+    "MSL1-401 110v 4colors Signal Tower Light with switch button"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/msl1-401-110v-4colors-signal-tower-light-with-switch-button_p77.html",
+   "code": "p77",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Led signal tower light with switch button",
+    "MSL1-501 220v 5colors CNC signal warning light with switch button"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/msl1-501-220v-5colors-cnc-signal-warning-light-with-switch-button_p78.html",
+   "code": "p78",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Led signal tower light with switch button",
+    "Otennlux MSL2-301 24v Signal Tower Light with Push Button Control Box"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-msl2-301-24v-signal-tower-light-with-push-button-control-box_p224.html",
+   "code": "p224",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Led signal tower light with switch button",
+    "Otennlux MSL2-501 220v 5colors CNC signal warning light with switch button with buzzer"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-msl2-501-220v-5colors-cnc-signal-warning-light-with-switch-button-with-buzzer_p225.html",
+   "code": "p225",
+   "level": 3
   },
   {
    "path": [
@@ -328,12 +1309,155 @@
   {
    "path": [
     "Led Signal Light",
+    "Plastic Led Signal Light",
+    "24V Ip65 waterproof led andon stack light for machine tool"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/24v-ip65-waterproof-led-andon-stack-light-for-machine-tool_p160.html",
+   "code": "p160",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Plastic Led Signal Light",
+    "IP65 waterproof led signal tower stack lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ip65-waterproof-led-signal-tower-stack-lights_p149.html",
+   "code": "p149",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Plastic Led Signal Light",
+    "manufacturer wholesale price Otennlux OH 3colors led signal light with crystal cover"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/manufacturer-wholesale-price-otennlux-oh-3colors-led-signal-light-with-crystal-cover_p235.html",
+   "code": "p235",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Plastic Led Signal Light",
+    "OLC1-101 24vDC led signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/olc1-101-24vdc-led-signal-light_p148.html",
+   "code": "p148",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Plastic Led Signal Light",
+    "OLM cheap price 3colors 3 layers led stack light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/olm-cheap-price-3colors-3-layers-led-stack-light_p192.html",
+   "code": "p192",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Plastic Led Signal Light",
+    "OMT manufacturer price 3colors 3 layers led stack light with louder buzzer"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/omt-manufacturer-price-3colors-3-layers-led-stack-light-with-louder-buzzer_p223.html",
+   "code": "p223",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Plastic Led Signal Light",
+    "OS50 /60 manufacturer wholesale price 3colors /7 colors with buzzer with CE"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/os50-60-manufacturer-wholesale-price-3colors-7-colors-with-buzzer-with-ce_p230.html",
+   "code": "p230",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Plastic Led Signal Light",
+    "OSLC manufacturer price 3colors 3 layers led stack light with buzzer"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/oslc-manufacturer-price-3colors-3-layers-led-stack-light-with-buzzer_p229.html",
+   "code": "p229",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Plastic Led Signal Light",
+    "otennlux indoor 24v 3colors led stack light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-indoor-24v-3colors-led-stack-light_p201.html",
+   "code": "p201",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Plastic Led Signal Light",
+    "Otennlux ODB Silver color 24V 3colors 3 layers led stack light for outdoor"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-odb-silver-color-24v-3colors-3-layers-led-stack-light-for-outdoor_p212.html",
+   "code": "p212",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Plastic Led Signal Light",
+    "Otennlux OMW manufacturer price 3colors /4colors /5 colors led stack light with louder buzzer"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-omw-manufacturer-price-3colors-4colors-5-colors-led-stack-light-with-louder-buzzer_p228.html",
+   "code": "p228",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "Plastic Led Signal Light",
+    "plastic ip65 waterproof 3 colors andon light stack"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/plastic-ip65-waterproof-3-colors-andon-light-stack_p154.html",
+   "code": "p154",
+   "level": 3
+  },
+  {
+   "path": [
+    "Led Signal Light",
     "wall-mounted signal light"
    ],
    "type": "range",
    "url": "https://en.otennlux.com/wall-mounted-signal-light_c42",
    "code": "c42",
    "level": 2
+  },
+  {
+   "path": [
+    "Led Signal Light",
+    "wall-mounted signal light",
+    "OLS manufacturer wall-mounted signal light 3colors /4 colors led signal light with buzzer"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ols-manufacturer-wall-mounted-signal-light-3colors-4-colors-led-signal-light-with-buzzer_p227.html",
+   "code": "p227",
+   "level": 3
   },
   {
    "path": [
@@ -367,12 +1491,177 @@
   {
    "path": [
     "LED spot light",
+    "long arm spotlight",
+    "15w waterproof oil proof IP 65 24V AC/DC LED machine spot light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/15w-waterproof-oil-proof-ip-65-24v-ac-dc-led-machine-spot-light_p9.html",
+   "code": "p9",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "long arm spotlight",
+    "3w waterproof oil proof IP 65 24V AC/DC flexible neck gooseneck cnc machine spot light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/3w-waterproof-oil-proof-ip-65-24v-ac-dc-flexible-neck-gooseneck-cnc-machine-spot-light_p16.html",
+   "code": "p16",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "long arm spotlight",
+    "5w waterproof flexible neck gooseneck cnc machine led spot light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/5w-waterproof-flexible-neck-gooseneck-cnc-machine-led-spot-light_p30.html",
+   "code": "p30",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "long arm spotlight",
+    "General-Purpose Long Arm IP65 24V 9W CNC Machine Led Spot work Light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/general-purpose-long-arm-ip65-24v-9w-cnc-machine-led-spot-work-light_p88.html",
+   "code": "p88",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "long arm spotlight",
+    "IP65 high quality milling machine long arm work light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ip65-high-quality-milling-machine-long-arm-work-light_p134.html",
+   "code": "p134",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "long arm spotlight",
+    "Long Arm IP65 24V AC/DC LED Machine Spot work Light for CNC Machine Tools"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/long-arm-ip65-24v-ac-dc-led-machine-spot-work-light-for-cnc-machine-tools_p47.html",
+   "code": "p47",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "long arm spotlight",
+    "New Item SLED6-103 3w swanneck cnc led spot light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/new-item-sled6-103-3w-swanneck-cnc-led-spot-light_p243.html",
+   "code": "p243",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "long arm spotlight",
+    "Otennlux New item IP65 high quality machine tool long arm led work light led spot light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-new-item-ip65-high-quality-machine-tool-long-arm-led-work-light-led-spot-light_p252.html",
+   "code": "p252",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "long arm spotlight",
+    "Spled-103 3w ip65 flexible neck spotlights for cnc"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/spled-103-3w-ip65-flexible-neck-spotlights-for-cnc_p195.html",
+   "code": "p195",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "long arm spotlight",
+    "Spled-103 3w swanneck cnc led spot light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/spled-103-3w-swanneck-cnc-led-spot-light_p196.html",
+   "code": "p196",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
     "short arm spotlight"
    ],
    "type": "range",
    "url": "https://en.otennlux.com/short-arm-spotlight_c28",
    "code": "c28",
    "level": 2
+  },
+  {
+   "path": [
+    "LED spot light",
+    "short arm spotlight",
+    "12w IP65 waterproof short arm flexible head lathe work light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/12w-ip65-waterproof-short-arm-flexible-head-lathe-work-light_p131.html",
+   "code": "p131",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "short arm spotlight",
+    "3w waterproof cnc machine led spot light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/3w-waterproof-cnc-machine-led-spot-light_p32.html",
+   "code": "p32",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "short arm spotlight",
+    "5w short arm waterproof cnc machine best led spotlights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/5w-short-arm-waterproof-cnc-machine-best-led-spotlights_p37.html",
+   "code": "p37",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "short arm spotlight",
+    "5w short arm waterproof cnc machine led spot light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/5w-short-arm-waterproof-cnc-machine-led-spot-light_p33.html",
+   "code": "p33",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "short arm spotlight",
+    "Short Arm IP 65 24V AC/DC LED Machine Spot Light for CNC Machine Tools"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/short-arm-ip-65-24v-ac-dc-led-machine-spot-light-for-cnc-machine-tools_p29.html",
+   "code": "p29",
+   "level": 3
   },
   {
    "path": [
@@ -386,6 +1675,39 @@
   },
   {
    "path": [
+    "LED spot light",
+    "spotlight with magnetic base",
+    "Black color waterproof CNC Machine Lamp with Magnetic Base"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/black-color-waterproof-cnc-machine-lamp-with-magnetic-base_p135.html",
+   "code": "p135",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "spotlight with magnetic base",
+    "SLED2-103 LED Flexible Arm Cnc Machine Light With Magnetic Base"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/sled2-103-led-flexible-arm-cnc-machine-light-with-magnetic-base_p45.html",
+   "code": "p45",
+   "level": 3
+  },
+  {
+   "path": [
+    "LED spot light",
+    "spotlight with magnetic base",
+    "SLED2-105 24V LED gooseneck cnc machine light with magnetic base"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/sled2-105-24v-led-gooseneck-cnc-machine-light-with-magnetic-base_p39.html",
+   "code": "p39",
+   "level": 3
+  },
+  {
+   "path": [
     "LED Tricolor Light Bar"
    ],
    "type": "category",
@@ -395,12 +1717,92 @@
   },
   {
    "path": [
+    "LED Tricolor Light Bar",
+    "Otennlux OLL1 led tricolor RYG signal bar light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-oll1-led-tricolor-ryg-signal-bar-light_p184.html",
+   "code": "p184",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Tricolor Light Bar",
+    "Otennlux OLL2 led tricolor flowing water lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-oll2-led-tricolor-flowing-water-lights_p185.html",
+   "code": "p185",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Tricolor Light Bar",
+    "Otennlux OLL3 3colors led tricolor signal bar light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-oll3-3colors-led-tricolor-signal-bar-light_p186.html",
+   "code": "p186",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Tricolor Light Bar",
+    "Otennlux OLL4 3colors led tricolor signal bar light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-oll4-3colors-led-tricolor-signal-bar-light_p191.html",
+   "code": "p191",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Tricolor Light Bar",
+    "Otennlux OLL7 3colors led tricolor signal bar light for machine tool"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-oll7-3colors-led-tricolor-signal-bar-light-for-machine-tool_p217.html",
+   "code": "p217",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Tricolor Light Bar",
+    "Otennlux OLWS IP67 3colors/7colors led tricolor signal bar light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-olws-ip67-3colors-7colors-led-tricolor-signal-bar-light_p215.html",
+   "code": "p215",
+   "level": 2
+  },
+  {
+   "path": [
     "LED Work Light"
    ],
    "type": "category",
    "url": "https://en.otennlux.com/led-work-light_c1",
    "code": "c1",
    "level": 1
+  },
+  {
+   "path": [
+    "LED Work Light",
+    "China Manufacturer high quality AL60 17w 24v lathe machine lamp"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/china-manufacturer-high-quality-al60-17w-24v-lathe-machine-lamp_p132.html",
+   "code": "p132",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Work Light",
+    "ELED IP67 24v 12W led flat work light for machine tool"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/eled-ip67-24v-12w-led-flat-work-light-for-machine-tool_p197.html",
+   "code": "p197",
+   "level": 2
   },
   {
    "path": [
@@ -425,6 +1827,106 @@
   {
    "path": [
     "LED Work Light",
+    "High quality AL45 IP67 waterproof machine tool Led work light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/high-quality-al45-ip67-waterproof-machine-tool-led-work-light_p204.html",
+   "code": "p204",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Work Light",
+    "IP67 24v 12W Machine Tool Work light replace Patlite"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ip67-24v-12w-machine-tool-work-light-replace-patlite_p166.html",
+   "code": "p166",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Work Light",
+    "IP67 24v 24W LED Lathe Lamp"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ip67-24v-24w-led-lathe-lamp_p164.html",
+   "code": "p164",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Work Light",
+    "IP67 24v 8W same as PATLITE work light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ip67-24v-8w-same-as-patlite-work-light_p167.html",
+   "code": "p167",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Work Light",
+    "Manufacturer BL30 IP67 waterproof machine tool work light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/manufacturer-bl30-ip67-waterproof-machine-tool-work-light_p194.html",
+   "code": "p194",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Work Light",
+    "Manufacturer BL60 20w Ip67 explosion proof machine led work light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/manufacturer-bl60-20w-ip67-explosion-proof-machine-led-work-light_p193.html",
+   "code": "p193",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Work Light",
+    "OL70 70mm 20W IP67 waterproof led cnc machine work light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ol70-70mm-20w-ip67-waterproof-led-cnc-machine-work-light_p173.html",
+   "code": "p173",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Work Light",
+    "OL70 70mm 32W big power IP67 waterproof led cnc machine work light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ol70-70mm-32w-big-power-ip67-waterproof-led-cnc-machine-work-light_p170.html",
+   "code": "p170",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Work Light",
+    "Otennlux high quality SFLED 24v IP67 waterproof led cnc machine work light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-high-quality-sfled-24v-ip67-waterproof-led-cnc-machine-work-light_p250.html",
+   "code": "p250",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Work Light",
+    "Otennlux OL60-T24 Newest product IP67 explosionproof Machine Tool led Work light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-ol60-t24-newest-product-ip67-explosionproof-machine-tool-led-work-light_p200.html",
+   "code": "p200",
+   "level": 2
+  },
+  {
+   "path": [
+    "LED Work Light",
     "Tube Led Work Light"
    ],
    "type": "range",
@@ -443,12 +1945,52 @@
   },
   {
    "path": [
+    "OPTICAL TOUCH BUTTON",
+    "Otennlux OTP Newest item manufacturer price OPTICAL TOUCH BUTTON"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-otp-newest-item-manufacturer-price-optical-touch-button_p222.html",
+   "code": "p222",
+   "level": 2
+  },
+  {
+   "path": [
     "Products with UL"
    ],
    "type": "category",
    "url": "https://en.otennlux.com/products-with-ul_c41",
    "code": "c41",
    "level": 1
+  },
+  {
+   "path": [
+    "Products with UL",
+    "High quality 24v IP67 waterproof machine tool work light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/high-quality-24v-ip67-waterproof-machine-tool-work-light_p152.html",
+   "code": "p152",
+   "level": 2
+  },
+  {
+   "path": [
+    "Products with UL",
+    "OLE2-301 DC24v foldable cnc Industrial Multilayer Stack Lamp with buzzer"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/ole2-301-dc24v-foldable-cnc-industrial-multilayer-stack-lamp-with-buzzer_p62.html",
+   "code": "p62",
+   "level": 2
+  },
+  {
+   "path": [
+    "Products with UL",
+    "Qled3-120 AC110V Industrial Machine Tube Light led cnc machine lights"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/qled3-120-ac110v-industrial-machine-tube-light-led-cnc-machine-lights_p126.html",
+   "code": "p126",
+   "level": 2
   },
   {
    "path": [
@@ -472,6 +2014,28 @@
   {
    "path": [
     "Signal Loudspeaker",
+    "CAN Type Signal Loudspeaker",
+    "DOLSPK CAN type Signal loudspeaker"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/dolspk-can-type-signal-loudspeaker_p189.html",
+   "code": "p189",
+   "level": 3
+  },
+  {
+   "path": [
+    "Signal Loudspeaker",
+    "CAN Type Signal Loudspeaker",
+    "DOLSPK CAN/RS485/IO type Signal loudspeaker"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/dolspk-can-rs485-io-type-signal-loudspeaker_p190.html",
+   "code": "p190",
+   "level": 3
+  },
+  {
+   "path": [
+    "Signal Loudspeaker",
     "IO Type Signal Loudspeaker"
    ],
    "type": "range",
@@ -482,12 +2046,45 @@
   {
    "path": [
     "Signal Loudspeaker",
+    "IO Type Signal Loudspeaker",
+    "DOLSPK IO type Sound signal light and speaker with Strobe Light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/dolspk-io-type-sound-signal-light-and-speaker-with-strobe-light_p187.html",
+   "code": "p187",
+   "level": 3
+  },
+  {
+   "path": [
+    "Signal Loudspeaker",
     "RS485 Type Signal Loudspeaker"
    ],
    "type": "range",
    "url": "https://en.otennlux.com/rs485-type-signal-loudspeaker_c61",
    "code": "c61",
    "level": 2
+  },
+  {
+   "path": [
+    "Signal Loudspeaker",
+    "RS485 Type Signal Loudspeaker",
+    "DOLSPK RS485 type Signal loudspeaker"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/dolspk-rs485-type-signal-loudspeaker_p188.html",
+   "code": "p188",
+   "level": 3
+  },
+  {
+   "path": [
+    "Signal Loudspeaker",
+    "RS485 Type Signal Loudspeaker",
+    "Otennlux OLSPK RS485 hot sale newest RS485 Signal LoudSpeaker Alarm"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-olspk-rs485-hot-sale-newest-rs485-signal-loudspeaker-alarm_p178.html",
+   "code": "p178",
+   "level": 3
   },
   {
    "path": [
@@ -521,6 +2118,67 @@
   {
    "path": [
     "Sound Signal light",
+    "IO type Sound Signal light",
+    "OSLA-SPK-IO-R/G/B IO type Sound signal light and speaker with Strobe Light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/osla-spk-io-r-g-b-io-type-sound-signal-light-and-speaker-with-strobe-light_p179.html",
+   "code": "p179",
+   "level": 3
+  },
+  {
+   "path": [
+    "Sound Signal light",
+    "OSLA2-101-Q3-R/G/BAudible and Visual Alarm, Sound and Light Loud Alarm Siren with Strobe Light, Warning Light Horn Siren Alarm"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/osla2-101-q3-r-g-baudible-and-visual-alarm-sound-and-light-loud-alarm-siren-with-strobe-light-warning-light-horn-siren-alarm_p176.html",
+   "code": "p176",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sound Signal light",
+    "OSLB IP65 100mm colors sound and light signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/oslb-ip65-100mm-colors-sound-and-light-signal-light_p214.html",
+   "code": "p214",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sound Signal light",
+    "OSLC Orange color IP65 80mm sound and light signal light for construction machinery"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/oslc-orange-color-ip65-80mm-sound-and-light-signal-light-for-construction-machinery_p203.html",
+   "code": "p203",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sound Signal light",
+    "OSLE IP65 140mm sound and light signal light"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/osle-ip65-140mm-sound-and-light-signal-light_p202.html",
+   "code": "p202",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sound Signal light",
+    "Otennlux Signal LoudSpeaker Switching IO + RS485 + CAN Alarm"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/otennlux-signal-loudspeaker-switching-io-rs485-can-alarm_p177.html",
+   "code": "p177",
+   "level": 2
+  },
+  {
+   "path": [
+    "Sound Signal light",
     "RS485 type Sound Signal light"
    ],
    "type": "range",
@@ -536,6 +2194,16 @@
    "url": "https://en.otennlux.com/touch-switch-dimmer-controller_c17",
    "code": "c17",
    "level": 1
+  },
+  {
+   "path": [
+    "Touch Switch Dimmer controller",
+    "New products high quality TLS TOUCH SWITCH DIMMER CONTROLLER"
+   ],
+   "type": "product",
+   "url": "https://en.otennlux.com/new-products-high-quality-tls-touch-switch-dimmer-controller_p220.html",
+   "code": "p220",
+   "level": 2
   }
  ]
 }

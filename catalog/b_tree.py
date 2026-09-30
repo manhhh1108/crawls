@@ -54,5 +54,5 @@ def crawl():
 
 if __name__ == "__main__":
     save("13 Tree Electric", "http://www.tree-electric.com/", crawl(),
-         "Danh muc phang 1 cap (web khong co cap con; model nam trong catalogue PDF). "
-         "Web chi co tieng Trung; ten EN dich theo file cu, dang 'English (中文)'.")
+         "Danh mục phẳng 1 cấp (web không có cấp con; model nằm trong catalogue PDF). "
+         "Web chỉ có tiếng Trung; tên EN dịch theo file cũ, dạng 'English (中文)'.")

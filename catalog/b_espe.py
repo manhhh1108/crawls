@@ -49,4 +49,4 @@ def crawl():
 
 if __name__ == "__main__":
     save("15 ESPE Technology", "https://www.espetech.com/", crawl(),
-         "Cay 2 cap tu trang /products (co phan trang); cap 2 la dong SP ngay tren ma cu the.")
+         "Cây 2 cấp từ trang /products (có phân trang); cấp 2 là dòng SP ngay trên mã cụ thể.")

@@ -34,8 +34,12 @@ Cột **"La cap ngay tren ma SP"** đánh dấu `x` ở đúng những dòng là
 | Perma | 41 | **95** |
 | Xingguang / Starshine | 23 | **26** |
 | Schneider | 1.232 | 1.218 |
-| Supmea / Tree / ESPE / OTENNLUX | 157 | 147 |
-| **Tổng** | **2.898** | **5.977** |
+| Supmea / Tree / ESPE / OTENNLUX | 157 | 152 |
+| **Tổng** | **2.898** | **5.982** |
+
+Riêng **Supmea** và **OTENNLUX** còn crawl thêm **mã sản phẩm cụ thể** (type `product`,
+104 + 156 dòng, chữ nghiêng xám trong Excel) nằm dưới cấp đánh dấu `x`; các dòng này
+không tính vào bảng đếm danh mục ở trên.
 
 Schneider / Supmea / ESPE / OTENNLUX / Tree Electric gần như không đổi — cấp cuối của các hãng này
 trong file cũ **đã đúng** là cấp ngay trên mã SP.
@@ -48,7 +52,8 @@ trong file cũ **đã đúng** là cấp ngay trên mã SP.
 - **Pepperl+Fuchs** — navigation (cấp 1–2) + thẻ danh mục trên trang (render bằng Chrome). 162 mục cấp 3 của file cũ chưa thấy lại trên web được giữ nguyên, đánh dấu `file cu` ở cột **Nguon**.
 - **Pilz** — `www.pilz.com` chặn bot bằng Cloudflare (curl, Chromium headless và Chrome thật đều không qua). Dùng **mirror Trung Quốc `www.pilz.com.cn`, bản tiếng Anh `/en-CN/`** — cùng catalogue, crawl qua eShop nên có tới 4 cấp.
 - **Reer / Leuze / Balluff / Perma / wenglor** — sitemap + breadcrumb (JSON-LD hoặc microdata).
-- **Supmea / Xingguang / OTENNLUX** — crawl từ **bản EN** (`en.supmea.com`, `en.xgcd.cn`, `en.otennlux.com`), tên tiếng Anh. Lưu ý bản EN là catalogue riêng của hãng nên hơi khác bản CN: Supmea EN không có nhóm "Display instruments" nhưng thêm "Valve"; OTENNLUX CN có 5 dòng SP chưa đưa lên bản EN.
+- **Supmea / Xingguang / OTENNLUX** — crawl từ **bản EN** (`en.supmea.com`, `en.xgcd.cn`, `en.otennlux.com`), tên tiếng Anh. Lưu ý bản EN là catalogue riêng của hãng nên hơi khác bản CN: Supmea EN không có nhóm "Display instruments" nhưng thêm "Valve" và "System products" (Recorder, Process indicator…); OTENNLUX CN có 5 dòng SP chưa đưa lên bản EN.
+- **Mã SP Supmea** lấy từ trang từng dòng SP (model đứng đầu tên: FMC240, FMX400, SUP-…); 3 dòng SP chưa có sản phẩm nào trên web (Digital pressure gauge, TSS/SS, Online water quality analyzer). **Mã SP OTENNLUX** lấy từ grid trên trang danh mục (mã `_pNN`; trang cha cũng có SP riêng không thuộc subcategory nào — đã lấy cả).
 - **Tree Electric** — web chỉ có tiếng Trung; tên EN dịch theo file cũ, dạng `English (中文)`.
 
 ## Lưu ý

@@ -75,4 +75,4 @@ def crawl():
 if __name__ == "__main__":
     ns = crawl()
     save("10 Festo", "https://www.festo.com/us/en", ns,
-         "Cay danh muc lay tu API /search/categories; cap cuoi = dong san pham (product family) ngay tren ma SP cu the.")
+         "Cây danh mục lấy từ API /search/categories; cấp cuối = dòng sản phẩm (product family) ngay trên mã SP cụ thể.")

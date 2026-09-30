@@ -1,7 +1,7 @@
 {
  "brand": "17 Balluff",
  "site": "https://www.balluff.com/en-sg",
- "note": "Tu sitemap en-sg + breadcrumb JSON-LD. Cap cuoi = ho san pham (F....) ngay tren ma SP (BES/BFT...).",
+ "note": "Từ sitemap en-sg + breadcrumb JSON-LD. Cấp cuối = họ sản phẩm (F....) ngay trên mã SP (BES/BFT...).",
  "nodes": [
   {
    "path": [

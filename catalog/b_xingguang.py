@@ -54,4 +54,4 @@ def crawl():
 if __name__ == "__main__":
     ns = crawl()
     save("14 Xingguang-Starshine", "https://en.xgcd.cn/", ns,
-         "Cay 2 cap tu ban EN: nav /product/<id> (cap 1) + the series card tren trang (cap 2, ngay tren ma SP).")
+         "Cây 2 cấp từ bản EN: nav /product/<id> (cấp 1) + thẻ series card trên trang (cấp 2, ngay trên mã SP).")

@@ -1,7 +1,7 @@
 {
  "brand": "07 Mitsubishi Electric",
  "site": "https://www.mitsubishielectric.com/fa/",
- "note": "L1-L3 tu megadropdown_products.json; L4 = nhom SP tren trang series (cap ngay tren ma model).",
+ "note": "L1-L3 từ megadropdown_products.json; L4 = nhóm SP trên trang series (cấp ngay trên mã model).",
  "nodes": [
   {
    "path": [

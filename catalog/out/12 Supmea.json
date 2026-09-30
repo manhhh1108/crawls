@@ -1,7 +1,7 @@
 {
  "brand": "12 Supmea",
  "site": "https://en.supmea.com/",
- "note": "Cay 2 cap tu menu Products cua ban EN; cap 2 la cap ngay tren ma SP cu the.",
+ "note": "Cây 2 cấp từ menu Products bản EN + mã SP (level 3, type=product) từ trang từng dòng SP.",
  "nodes": [
   {
    "path": [
@@ -25,12 +25,100 @@
   {
    "path": [
     "Flowmeter",
+    "Coriolis mass flowmeters",
+    "Coriolis mass flowmeter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/coriolis-mass-flowmeters/sup-mass-flowmeter",
+   "code": "sup-mass-flowmeter",
+   "level": 3
+  },
+  {
+   "path": [
+    "Flowmeter",
     "Magnetic flowmeter"
    ],
    "type": "range",
    "url": "https://en.supmea.com/magnetic-flowmeter",
    "code": "magnetic-flowmeter",
    "level": 2
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Magnetic flowmeter",
+    "FMC240 Electromagnetic Flowmeter Measuring Tap Water"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/magnetic-flowmeter/electromagnetic-flowmeter",
+   "code": "FMC240",
+   "level": 3
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Magnetic flowmeter",
+    "FMC240 Electronic Water Meter for flow measurement"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/magnetic-flowmeter/electronic-water-meter",
+   "code": "FMC240",
+   "level": 3
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Magnetic flowmeter",
+    "FMC240 Remote type electromagnetic flowmeter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/magnetic-flowmeter/2255",
+   "code": "FMC240",
+   "level": 3
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Magnetic flowmeter",
+    "FMC240 Sanitary electromagnetic flowmeter for food processing"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/magnetic-flowmeter/2256",
+   "code": "FMC240",
+   "level": 3
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Magnetic flowmeter",
+    "FMC800 Battery powered electromagnetic flowmeter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/magnetic-flowmeter/bettery-powered-electromagnetic-flowmeter",
+   "code": "FMC800",
+   "level": 3
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Magnetic flowmeter",
+    "FMX300 Compact Electromagnetic Flowmeter for Data Center"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/magnetic-flowmeter/fmx300-compact-electromagnetic-flowmeter-for-data-center",
+   "code": "FMX300",
+   "level": 3
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Magnetic flowmeter",
+    "FMX400 Compact Electromagnetic Flowmeter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/magnetic-flowmeter/fmx400-compact-electromagnetic-flowmeter",
+   "code": "FMX400",
+   "level": 3
   },
   {
    "path": [
@@ -45,12 +133,56 @@
   {
    "path": [
     "Flowmeter",
+    "Thermal mass flowmeter",
+    "MF Thermal mass flowmeter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/thermal-mass-flowmeter/mf-thermal-mass-flowmeter",
+   "code": "mf-thermal-mass-flowmeter",
+   "level": 3
+  },
+  {
+   "path": [
+    "Flowmeter",
     "Turbine flowmeter"
    ],
    "type": "range",
    "url": "https://en.supmea.com/turbine-flowmeter",
    "code": "turbine-flowmeter",
    "level": 2
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Turbine flowmeter",
+    "FLC240 Turbine flowmeter flange connection"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/turbine-flowmeter/2259",
+   "code": "FLC240",
+   "level": 3
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Turbine flowmeter",
+    "FLC400 Turbine Flowmeter for Precision Liquid Flow Measurement"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/turbine-flowmeter/flc400-turbine-flowmeter-for-precision-liquid-flow-measurement",
+   "code": "FLC400",
+   "level": 3
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Turbine flowmeter",
+    "FLC420 Turbine Flowmeter - High-Accuracy Liquid Flow Measurement for Data Center"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/turbine-flowmeter/flc420-turbine-flowmeter-high-accuracy-liquid-flow-measurement-for-data-center",
+   "code": "FLC420",
+   "level": 3
   },
   {
    "path": [
@@ -65,12 +197,56 @@
   {
    "path": [
     "Flowmeter",
+    "Ultrasonic flowmeter",
+    "SUP-1158S Wall mounted ultrasonic flowmeter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ultrasonic-flowmeter/sup-1158s-wall-mounted-ultrasonic-flowmeter",
+   "code": "SUP-1158S",
+   "level": 3
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Ultrasonic flowmeter",
+    "SUP-2100H Handheld ultrasonic flowmeter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ultrasonic-flowmeter/handheld-ultrasonic-flowmeter",
+   "code": "SUP-2100H",
+   "level": 3
+  },
+  {
+   "path": [
+    "Flowmeter",
     "Vortex flowmeter"
    ],
    "type": "range",
    "url": "https://en.supmea.com/vortex-flowmeter",
    "code": "vortex-flowmeter",
    "level": 2
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Vortex flowmeter",
+    "FVC240 Vortex flowmeter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/vortex-flowmeter/2258",
+   "code": "FVC240",
+   "level": 3
+  },
+  {
+   "path": [
+    "Flowmeter",
+    "Vortex flowmeter",
+    "SUP-FVX260 Compact Vortex Flowmeter for Reliable Liquid Flow Measurement"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/vortex-flowmeter/sup-fvx260-compact-vortex-flowmeter-for-reliable-liquid-flow-measurement",
+   "code": "SUP-FVX260",
+   "level": 3
   },
   {
    "path": [
@@ -94,6 +270,72 @@
   {
    "path": [
     "Level",
+    "Hydrostatic level transmitter",
+    "SUP-P260-M2 Slurry level sensor submersible level transmitter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/hydrostatic-level-meter/sup-p260-m2-slurry-level-meter",
+   "code": "SUP-P260-M2",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
+    "Hydrostatic level transmitter",
+    "SUP-P260-M3 Submersible level meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/hydrostatic-level-meter/sup-p260-m3-level-meter",
+   "code": "SUP-P260-M3",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
+    "Hydrostatic level transmitter",
+    "SUP-P260-M4 Submersible level and temperature meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/hydrostatic-level-meter/sup-p260-m4-submersible-level-and-temperature-meter",
+   "code": "SUP-P260-M4",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
+    "Hydrostatic level transmitter",
+    "SUP-P262-B PTFE Submersible level meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/hydrostatic-level-meter/sup-p262-b-ptfe-submersible-level-meter",
+   "code": "SUP-P262-B",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
+    "Hydrostatic level transmitter",
+    "SUP-WSP260 Water level sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/hydrostatic-level-meter/2278",
+   "code": "SUP-WSP260",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
+    "Hydrostatic level transmitter",
+    "SUP-WSP506 Submersible level meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/hydrostatic-level-meter/2279",
+   "code": "SUP-WSP506",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
     "Radar level transmitter"
    ],
    "type": "range",
@@ -104,12 +346,133 @@
   {
    "path": [
     "Level",
+    "Radar level transmitter",
+    "SUP-RD701 Guided wave radar level meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/radar-level-meter/rd701-radar-level-meter",
+   "code": "SUP-RD701",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
+    "Radar level transmitter",
+    "SUP-RD702 Guided wave radar level meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/radar-level-meter/rd702-radar-level-meter",
+   "code": "SUP-RD702",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
+    "Radar level transmitter",
+    "WSR150 Radar level meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/radar-level-meter/2277",
+   "code": "WSR150",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
+    "Radar level transmitter",
+    "WSR180 Radar level meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/radar-level-meter/2276",
+   "code": "WSR180",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
+    "Radar level transmitter",
+    "WSR200 80G Radar level meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/radar-level-meter/wsr200-80g-radar-level-meter",
+   "code": "WSR200",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
+    "Radar level transmitter",
+    "WSR300 Radar level meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/radar-level-meter/2275",
+   "code": "WSR300",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
+    "Radar level transmitter",
+    "WSR550 76-81GHz Radar level transmitter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/radar-level-meter/wsr550",
+   "code": "WSR550",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
+    "Radar level transmitter",
+    "WSR700 Radar level meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/radar-level-meter/2274",
+   "code": "WSR700",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
     "Ultrasonic level transmitter"
    ],
    "type": "range",
    "url": "https://en.supmea.com/ultrasonic-level-meter",
    "code": "ultrasonic-level-meter",
    "level": 2
+  },
+  {
+   "path": [
+    "Level",
+    "Ultrasonic level transmitter",
+    "SUP-MP-C Ultrasonic level transmitter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ultrasonic-level-meter/sup-mp-c",
+   "code": "SUP-MP-C",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
+    "Ultrasonic level transmitter",
+    "SUP-ULS-B Ultrasonic level transmitter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ultrasonic-level-meter/sup-uls-b-ultrasonic-level-transmitter",
+   "code": "SUP-ULS-B",
+   "level": 3
+  },
+  {
+   "path": [
+    "Level",
+    "Ultrasonic level transmitter",
+    "WSU300 Ultrasonic level transmitter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ultrasonic-level-meter/2273",
+   "code": "WSU300",
+   "level": 3
   },
   {
    "path": [
@@ -133,12 +496,34 @@
   {
    "path": [
     "Liquid analysis",
+    "Chlorine sensor and meter",
+    "SUP-TRC 400 Residual chlorine meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/chlorine-sensor-and-meter/sup-trc-erc400",
+   "code": "SUP-TRC",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
     "COD sensor and meter"
    ],
    "type": "range",
    "url": "https://en.supmea.com/cod-sensor-and-meter",
    "code": "cod-sensor-and-meter",
    "level": 2
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "COD sensor and meter",
+    "ADS2000 COD sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/cod-sensor-and-meter/ads2000-cod-sensor",
+   "code": "ADS2000",
+   "level": 3
   },
   {
    "path": [
@@ -153,12 +538,89 @@
   {
    "path": [
     "Liquid analysis",
+    "EC sensor and meter",
+    "MDA-EC Conductivity meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ec-sensor-and-meter/2261",
+   "code": "2261",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "EC sensor and meter",
+    "SUP-ADE3300 Conductivity Sensor for Pure Water and Water Treatment"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ec-sensor-and-meter/sup-ade3300-conductivity-sensor-for-pure-water-and-water-treatment",
+   "code": "SUP-ADE3300",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "EC sensor and meter",
+    "SUP-ADE3500 Inductive conductivity electrode"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ec-sensor-and-meter/inductive-conductivity-electrode",
+   "code": "SUP-ADE3500",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "EC sensor and meter",
+    "SUP-TDS7001 Conductivity sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ec-sensor-and-meter/tds7001-conductivity-sensor",
+   "code": "SUP-TDS7001",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "EC sensor and meter",
+    "TDS 7001G Conductivity sensor for data center"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ec-sensor-and-meter/tds-7001g-conductivity-sensor-for-data-center",
+   "code": "tds-7001g-conductivity-sensor-for-data-center",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
     "Multi-parameter analyzer"
    ],
    "type": "range",
    "url": "https://en.supmea.com/multi-parameter-analyzer",
    "code": "multi-parameter-analyzer",
    "level": 2
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Multi-parameter analyzer",
+    "MDX500 Multi-parameter analyzer"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/multi-parameter-analyzer/2265",
+   "code": "MDX500",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Multi-parameter analyzer",
+    "MPP1000 Multi-parameter analyzer"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/multi-parameter-analyzer/multi-parameter-analyzer",
+   "code": "MPP1000",
+   "level": 3
   },
   {
    "path": [
@@ -183,12 +645,177 @@
   {
    "path": [
     "Liquid analysis",
+    "Oxygen sensor and meter",
+    "SUP-DO7011 Membrane dissolved oxygen sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/oxygen-sensor-and-meter/do7011-dissolved-oxygen-sensor",
+   "code": "SUP-DO7011",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Oxygen sensor and meter",
+    "SUP-DO7012 Optical dissolved oxygen sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/oxygen-sensor-and-meter/do7012-dissolved-oxygen-sensor",
+   "code": "SUP-DO7012",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Oxygen sensor and meter",
+    "SUP-DO7013 Electrochemical dissolved oxygen sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/oxygen-sensor-and-meter/sup-do7013-electrochemical-dissolved-oxygen-sensor",
+   "code": "SUP-DO7013",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Oxygen sensor and meter",
+    "SUP-DO7017 Optical dissolved oxygen sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/oxygen-sensor-and-meter/sup-do7017-optical-dissolved-oxygen-sensor",
+   "code": "SUP-DO7017",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Oxygen sensor and meter",
+    "SUP-DO7018 Optical dissolved oxygen sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/oxygen-sensor-and-meter/529",
+   "code": "SUP-DO7018",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Oxygen sensor and meter",
+    "SUP-DO7019 Liquid analyzing meter dissolved oxygen transmitter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/oxygen-sensor-and-meter/sup-do7019-optical-dissolved-oxygen-sensor",
+   "code": "SUP-DO7019",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
     "pH sensor and meter"
    ],
    "type": "range",
    "url": "https://en.supmea.com/ph-sensor-and-meter",
    "code": "ph-sensor-and-meter",
    "level": 2
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "pH sensor and meter",
+    "MDA-PH pH ORP meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ph-sensor-and-meter/2262",
+   "code": "2262",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "pH sensor and meter",
+    "MDA-U2-PH pH ORP meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ph-sensor-and-meter/2264",
+   "code": "2264",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "pH sensor and meter",
+    "MDC-P1 Single Channel Universal Controller"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ph-sensor-and-meter/mdc-p1-single-channel-universal-controller",
+   "code": "mdc-p1-single-channel-universal-controller",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "pH sensor and meter",
+    "MDC-P2 Dual Channel Universal Controller"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ph-sensor-and-meter/mdc-p2-dual-channel-universal-controller",
+   "code": "mdc-p2-dual-channel-universal-controller",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "pH sensor and meter",
+    "SUP-PH-5015 Glass pH sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ph-sensor-and-meter/530",
+   "code": "SUP-PH-5015",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "pH sensor and meter",
+    "SUP-PH5014 Hydrofluoric acid pH sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ph-sensor-and-meter/ph5014-glass-ph-sensor",
+   "code": "SUP-PH5014",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "pH sensor and meter",
+    "SUP-PH5018 Glass pH sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ph-sensor-and-meter/ph5018-glass-ph-sensor",
+   "code": "SUP-PH5018",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "pH sensor and meter",
+    "SUP-PH5019 Plastic pH sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ph-sensor-and-meter/sup-ph5019-plastic-ph-sensor",
+   "code": "SUP-PH5019",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "pH sensor and meter",
+    "SUP-PH5022 Germany glass pH sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ph-sensor-and-meter/ph5022-glass-ph-sensor",
+   "code": "SUP-PH5022",
+   "level": 3
   },
   {
    "path": [
@@ -212,6 +839,94 @@
   },
   {
    "path": [
+    "Liquid analysis",
+    "Turbidity sensor and meter",
+    "ADT3100 Suspended solids/ TSS/ MLSS meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/turbidity-sensor-and-meter/tss-meter",
+   "code": "ADT3100",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Turbidity sensor and meter",
+    "ADT3300 Suspended solids/ TSS/ MLSS meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/turbidity-sensor-and-meter/2267",
+   "code": "ADT3300",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Turbidity sensor and meter",
+    "ADU1310 Turbidity sensor for data center"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/turbidity-sensor-and-meter/adu1310-turbidity-sensor-for-data-center",
+   "code": "ADU1310",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Turbidity sensor and meter",
+    "ADU3100 Turbidity meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/turbidity-sensor-and-meter/2270",
+   "code": "ADU3100",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Turbidity sensor and meter",
+    "ADU3300 Turbidity meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/turbidity-sensor-and-meter/2269",
+   "code": "ADU3300",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Turbidity sensor and meter",
+    "ADU3500 Pressure-resistant Turbidity Sensor for data center"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/turbidity-sensor-and-meter/adu3500-pressure-resistant-turbidity-sensor-for-data-center",
+   "code": "ADU3500",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Turbidity sensor and meter",
+    "SUP-PTU300 Turbidity meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/turbidity-sensor-and-meter/sup-ptu300-turbidity-meter",
+   "code": "SUP-PTU300",
+   "level": 3
+  },
+  {
+   "path": [
+    "Liquid analysis",
+    "Turbidity sensor and meter",
+    "SUP-PTU8011 Turbidity Sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/turbidity-sensor-and-meter/ptu8011-turbidity-sensor",
+   "code": "SUP-PTU8011",
+   "level": 3
+  },
+  {
+   "path": [
     "Pressure"
    ],
    "type": "category",
@@ -228,6 +943,39 @@
    "url": "https://en.supmea.com/differential-pressure-transmitter",
    "code": "differential-pressure-transmitter",
    "level": 2
+  },
+  {
+   "path": [
+    "Pressure",
+    "Differential pressure transmitter",
+    "PD536 Flange mounted differential pressure transmitters"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/differential-pressure-transmitter/2283",
+   "code": "PD536",
+   "level": 3
+  },
+  {
+   "path": [
+    "Pressure",
+    "Differential pressure transmitter",
+    "PD556 Flange mounted differential pressure transmitters"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/differential-pressure-transmitter/2282",
+   "code": "PD556",
+   "level": 3
+  },
+  {
+   "path": [
+    "Pressure",
+    "Differential pressure transmitter",
+    "PD566 Flange mounted differential pressure transmitters"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/differential-pressure-transmitter/2281",
+   "code": "PD566",
+   "level": 3
   },
   {
    "path": [
@@ -251,6 +999,330 @@
   },
   {
    "path": [
+    "Pressure",
+    "Pressure transmitter",
+    "PM356 Pressure transmitter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/pressure-transmitter/pm356-pressure-transmitter",
+   "code": "PM356",
+   "level": 3
+  },
+  {
+   "path": [
+    "Pressure",
+    "Pressure transmitter",
+    "PM556 Pressure transmitter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/pressure-transmitter/2284",
+   "code": "PM556",
+   "level": 3
+  },
+  {
+   "path": [
+    "Pressure",
+    "Pressure transmitter",
+    "SUP-P300 Pressure transmitter with compact size for universal use"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/pressure-transmitter/p300-pressure-transmitter",
+   "code": "SUP-P300",
+   "level": 3
+  },
+  {
+   "path": [
+    "Pressure",
+    "Pressure transmitter",
+    "SUP-P300G High temperature pressure transmitter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/pressure-transmitter/p300g-pressure-transmitter",
+   "code": "SUP-P300G",
+   "level": 3
+  },
+  {
+   "path": [
+    "Pressure",
+    "Pressure transmitter",
+    "SUP-P300T Cost-effective pressure transducer with ceramic sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/pressure-transmitter/sup-p300t-cost-effective-pressure-transducer-with-ceramic-sensor",
+   "code": "SUP-P300T",
+   "level": 3
+  },
+  {
+   "path": [
+    "Pressure",
+    "Pressure transmitter",
+    "SUP-P302-B Anti-corrosion pressure transmitter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/pressure-transmitter/sup-p302-b",
+   "code": "SUP-P302-B",
+   "level": 3
+  },
+  {
+   "path": [
+    "Pressure",
+    "Pressure transmitter",
+    "SUP-P350K Hygienic pressure transmitter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/pressure-transmitter/p350k-pressure-transmitter",
+   "code": "SUP-P350K",
+   "level": 3
+  },
+  {
+   "path": [
+    "Pressure",
+    "Pressure transmitter",
+    "SUP-PE100 Compact Pressure Transmitter for Data Center Cooling"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/pressure-transmitter/sup-pe100-compact-pressure-transmitter-for-data-center-cooling",
+   "code": "SUP-PE100",
+   "level": 3
+  },
+  {
+   "path": [
+    "Pressure",
+    "Pressure transmitter",
+    "SUP-PX300 Pressure transmitter with display"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/pressure-transmitter/px300-pressure-transmitter",
+   "code": "SUP-PX300",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products"
+   ],
+   "type": "category",
+   "url": "https://en.supmea.com/system-products",
+   "code": "system-products",
+   "level": 1
+  },
+  {
+   "path": [
+    "System products",
+    "Process indicator"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/process-indicator",
+   "code": "process-indicator",
+   "level": 2
+  },
+  {
+   "path": [
+    "System products",
+    "Process indicator",
+    "SUP-1100 LED Display multi panel meter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/process-indicator/1100-multi-panel-meter",
+   "code": "SUP-1100",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Process indicator",
+    "SUP-110T Economic 3-digit Single-loop Digital Display Controller"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/process-indicator/110t-3-digit-display-controller",
+   "code": "SUP-110T",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Process indicator",
+    "SUP-1300 Easy Fuzzy PID Regulator"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/process-indicator/sup-1300-easy-fuzzy-pid-regulator",
+   "code": "SUP-1300",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Process indicator",
+    "SUP-130T Economic 3-digit Display Fuzzy PID Temperature Controller"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/process-indicator/sup-130t-digit-display-fuzzy-pid-temperature-controller",
+   "code": "SUP-130T",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Process indicator",
+    "SUP-2100 Single-loop digital display controller"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/process-indicator/sup-2100-single-loop-digital-display-controller",
+   "code": "SUP-2100",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Process indicator",
+    "SUP-2200 Dual-loop digital display controller"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/process-indicator/sup-2200-dual-loop-digital-display-controller",
+   "code": "SUP-2200",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Process indicator",
+    "SUP-2300 Artificial Intelligence PID Regulator"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/process-indicator/sup-2300-artificial-intelligence-pid-regulator",
+   "code": "SUP-2300",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Process indicator",
+    "SUP-2600 LCD Flow (Heat) Totalizer / Recorder"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/process-indicator/sup-2600-lcd-flow-heat-totalizer-recorder",
+   "code": "SUP-2600",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Process indicator",
+    "SUP-2700 Multi-loop digital display controller"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/process-indicator/sup-5700-multi-loop-digital-display-controller",
+   "code": "SUP-2700",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Recorder"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/recorder",
+   "code": "recorder",
+   "level": 2
+  },
+  {
+   "path": [
+    "System products",
+    "Recorder",
+    "SUP-R1200 Chart recorder"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/recorder/r1200-chart-recorder",
+   "code": "SUP-R1200",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Recorder",
+    "SUP-R6000F Paperless recorder"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/recorder/r6000f-paperless-recorder",
+   "code": "SUP-R6000F",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Recorder",
+    "SUP-RN3000 18-channel analog signal input paperless recorder"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/recorder/sup-rn3000-paperless-recorder",
+   "code": "SUP-RN3000",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Signal generator"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/signal-generator",
+   "code": "signal-generator",
+   "level": 2
+  },
+  {
+   "path": [
+    "System products",
+    "Signal generator",
+    "SUP-C703S Signal generator"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/signal-generator/c703s-signal-generator",
+   "code": "SUP-C703S",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Signal isolator"
+   ],
+   "type": "range",
+   "url": "https://en.supmea.com/signal-isolator",
+   "code": "signal-isolator",
+   "level": 2
+  },
+  {
+   "path": [
+    "System products",
+    "Signal isolator",
+    "SUP-1002S Smart signal isolator"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/signal-isolator/sup-1002s-smart-signal-isolator",
+   "code": "SUP-1002S",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Signal isolator",
+    "SUP-602S Intelligent signal isolator for voltage/current"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/signal-isolator/602s-signal-isolator",
+   "code": "SUP-602S",
+   "level": 3
+  },
+  {
+   "path": [
+    "System products",
+    "Signal isolator",
+    "SUP-603S Temperature signal isolator"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/signal-isolator/603s-signal-isolator",
+   "code": "SUP-603S",
+   "level": 3
+  },
+  {
+   "path": [
     "Temperature"
    ],
    "type": "category",
@@ -271,12 +1343,78 @@
   {
    "path": [
     "Temperature",
+    "Temperature sensor",
+    "Cable thermocouple sensors B, E, J, K, N, R, S, T"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/temperature-sensor/thermocouple-sensors-b-e-j-k-n-r-s-t-type",
+   "code": "thermocouple-sensors-b-e-j-k-n-r-s-t-type",
+   "level": 3
+  },
+  {
+   "path": [
+    "Temperature",
+    "Temperature sensor",
+    "SUP-P202 Industrial Temperature Sensors"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/temperature-sensor/sup-p202-industrial-temperature-sensors",
+   "code": "SUP-P202",
+   "level": 3
+  },
+  {
+   "path": [
+    "Temperature",
+    "Temperature sensor",
+    "SUP-PX202 Hirschmann Temperature Sensor"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/temperature-sensor/hirschmann-temperature-sensor",
+   "code": "SUP-PX202",
+   "level": 3
+  },
+  {
+   "path": [
+    "Temperature",
+    "Temperature sensor",
+    "TSC500 Thermocouples sensors with mineral insulated"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/temperature-sensor/2272",
+   "code": "TSC500",
+   "level": 3
+  },
+  {
+   "path": [
+    "Temperature",
+    "Temperature sensor",
+    "TSR500 Temperature sensors with mineral insulated resistance thermometers"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/temperature-sensor/2271",
+   "code": "TSR500",
+   "level": 3
+  },
+  {
+   "path": [
+    "Temperature",
     "Temperature transmitter"
    ],
    "type": "range",
    "url": "https://en.supmea.com/temperature-transmitter",
    "code": "temperature-transmitter",
    "level": 2
+  },
+  {
+   "path": [
+    "Temperature",
+    "Temperature transmitter",
+    "SUP-TBY100 Compact Temperature Transmitter"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/temperature-transmitter/sup-tby100-compact-temperature-transmitter",
+   "code": "SUP-TBY100",
+   "level": 3
   },
   {
    "path": [
@@ -300,6 +1438,28 @@
   {
    "path": [
     "Valve",
+    "Ball valves",
+    "Electric O-type ball valve"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ball-valves/electric-o-type-ball-valve",
+   "code": "electric-o-type-ball-valve",
+   "level": 3
+  },
+  {
+   "path": [
+    "Valve",
+    "Ball valves",
+    "Pneumatic ball valves"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/ball-valves/pneumatic-ball-valves",
+   "code": "pneumatic-ball-valves",
+   "level": 3
+  },
+  {
+   "path": [
+    "Valve",
     "Butterfly valves"
    ],
    "type": "range",
@@ -310,12 +1470,45 @@
   {
    "path": [
     "Valve",
+    "Butterfly valves",
+    "Electric stainless steel butterfly valve"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/butterfly-valves/electric-stainless-steel-butterfly-valve",
+   "code": "electric-stainless-steel-butterfly-valve",
+   "level": 3
+  },
+  {
+   "path": [
+    "Valve",
+    "Butterfly valves",
+    "Pneumatic PVC Wafer Butterfly Valve"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/butterfly-valves/pneumatic-pvc-wafer-butterfly-valve",
+   "code": "pneumatic-pvc-wafer-butterfly-valve",
+   "level": 3
+  },
+  {
+   "path": [
+    "Valve",
     "Control valves"
    ],
    "type": "range",
    "url": "https://en.supmea.com/control-valves",
    "code": "control-valves",
    "level": 2
+  },
+  {
+   "path": [
+    "Valve",
+    "Control valves",
+    "Single seat regulating valve"
+   ],
+   "type": "product",
+   "url": "https://en.supmea.com/control-valves/single-seat-regulating-valve",
+   "code": "single-seat-regulating-valve",
+   "level": 3
   }
  ]
 }

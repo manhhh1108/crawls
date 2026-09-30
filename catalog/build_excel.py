@@ -84,11 +84,20 @@ def tree(nodes):
 
     rows = []
 
+    def sp_flag(p):
+        """'x' = the level directly above concrete products: a childless
+        non-product node, or a node whose children are all products."""
+        if by_path[p].get("type") == "product":
+            return False
+        kids = children.get(p)
+        if not kids:
+            return True
+        return all(by_path[k].get("type") == "product" for k in kids)
+
     def walk(parent, prefix):
         for i, p in enumerate(children.get(parent, []), 1):
             stt = "%s%d" % (prefix, i)
-            leaf = not children.get(p)
-            rows.append((stt, len(p), p, by_path[p], leaf))
+            rows.append((stt, len(p), p, by_path[p], sp_flag(p)))
             walk(p, stt + ".")
 
     walk((), "")
@@ -99,14 +108,14 @@ def sheet_for(wb, brand, data):
     rows = tree(data["nodes"])
     maxlv = max([r[1] for r in rows] or [1])
     ws = wb.create_sheet(brand[:31])
-    ws["A1"] = "DANH MUC SAN PHAM - %s" % brand
+    ws["A1"] = "DANH MỤC SẢN PHẨM - %s" % brand
     ws["A1"].font = TITLE_FONT
     ws["A2"] = "Website: %s" % data.get("site", "")
     ws["A3"] = data.get("note", "")
     ws["A3"].font = Font(italic=True, size=9, color="808080")
-    hdr = ["STT", "Ten danh muc (co thut dong)", "Cap"] + \
-          ["Cap %d" % i for i in range(1, maxlv + 1)] + \
-          ["La cap ngay tren ma SP", "Link", "Ma DM"]
+    hdr = ["STT", "Tên danh mục (có thụt dòng)", "Cấp"] + \
+          ["Cấp %d" % i for i in range(1, maxlv + 1)] + \
+          ["Là cấp ngay trên mã SP", "Link", "Mã DM", "Nguồn"]
     ws.append([])
     ws.append(hdr)
     hr = ws.max_row
@@ -121,7 +130,7 @@ def sheet_for(wb, brand, data):
         line = [stt, ("    " * (lv - 1)) + str(name), lv]
         line += [p[i] if i < len(p) else None for i in range(maxlv)]
         line += ["x" if leaf else "", n.get("url") or "", n.get("code") or "",
-                 "file cu" if n.get("src") == "old" else "crawl"]
+                 "file cũ" if n.get("src") == "old" else ""]
         ws.append(line)
         r = ws.max_row
         if lv in LVL_FILL:
@@ -129,6 +138,8 @@ def sheet_for(wb, brand, data):
                 ws.cell(row=r, column=c).fill = LVL_FILL[lv]
         if lv <= 2:
             ws.cell(row=r, column=2).font = Font(bold=True)
+        if n.get("type") == "product":
+            ws.cell(row=r, column=2).font = Font(italic=True, color="808080")
         if leaf:
             ws.cell(row=r, column=3 + maxlv + 1).fill = LEAF_FILL
     ws.freeze_panes = ws.cell(row=hr + 1, column=4)
@@ -136,10 +147,12 @@ def sheet_for(wb, brand, data):
     widths = [10, 62, 6] + [26] * maxlv + [12, 60, 14, 10]
     for i, w in enumerate(widths, 1):
         ws.column_dimensions[get_column_letter(i)].width = w
-    counts = {}
+    counts, nleaf = {}, 0
     for _s, lv, _p, _n, leaf in rows:
         counts[lv] = counts.get(lv, 0) + 1
-    return counts, len(rows), maxlv
+        if leaf:
+            nleaf += 1
+    return counts, len(rows), maxlv, nleaf
 
 
 def main():
@@ -161,17 +174,18 @@ def main():
         data["nodes"], nadd = merge_old(brand, data["nodes"], oldwb)
         if nadd:
             print("  (+%d muc bo sung tu file cu cho %s)" % (nadd, brand))
-        counts, total, maxlv = sheet_for(wb, brand, data)
-        stats.append((brand, data.get("site", ""), counts, total, maxlv, data.get("note", "")))
-        print("  %-28s %5d rows  levels=%s" % (brand, total, dict(sorted(counts.items()))))
+        counts, total, maxlv, nleaf = sheet_for(wb, brand, data)
+        stats.append((brand, data.get("site", ""), counts, total, maxlv, nleaf, data.get("note", "")))
+        print("  %-28s %5d rows  %4d bai  levels=%s"
+              % (brand, total, nleaf, dict(sorted(counts.items()))))
 
     maxlv = max([s[4] for s in stats] or [1])
-    summary["A1"] = "TONG HOP DANH MUC SAN PHAM - 16 HANG (crawl den cap ngay tren ma SP)"
+    summary["A1"] = "TỔNG HỢP DANH MỤC SẢN PHẨM - 16 HÃNG (crawl đến cấp ngay trên mã SP)"
     summary["A1"].font = TITLE_FONT
-    summary["A2"] = "Ngay crawl: %s" % datetime.date.today().isoformat()
+    summary["A2"] = "Ngày crawl: %s" % datetime.date.today().isoformat()
     summary["A2"].font = Font(italic=True, size=9, color="808080")
-    hdr = ["STT", "Ten hang", "Website"] + ["DM cap %d" % i for i in range(1, maxlv + 1)] + \
-          ["Tong DM", "So cap sau", "Ghi chu"]
+    hdr = ["STT", "Tên hãng", "Website"] + ["DM cấp %d" % i for i in range(1, maxlv + 1)] + \
+          ["Tổng DM", "Số bài đăng web (dòng đánh dấu x)", "Số cấp sâu", "Ghi chú"]
     summary.append([])
     summary.append(hdr)
     hr = summary.max_row
@@ -180,16 +194,18 @@ def main():
         cell.fill = HDR_FILL
         cell.font = HDR_FONT
         cell.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
-    tot = [0] * maxlv
-    for i, (brand, site, counts, total, mx, note) in enumerate(stats, 1):
-        row = [i, brand, site] + [counts.get(l, 0) for l in range(1, maxlv + 1)] + [total, mx, note]
+    tot, tot_leaf = [0] * maxlv, 0
+    for i, (brand, site, counts, total, mx, nleaf, note) in enumerate(stats, 1):
+        row = [i, brand, site] + [counts.get(l, 0) for l in range(1, maxlv + 1)] + \
+              [total, nleaf, mx, note]
         summary.append(row)
         for l in range(maxlv):
             tot[l] += counts.get(l + 1, 0)
-    summary.append([None, "TONG CONG", None] + tot + [sum(tot), None, None])
+        tot_leaf += nleaf
+    summary.append([None, "TỔNG CỘNG", None] + tot + [sum(tot), tot_leaf, None, None])
     for c in range(1, len(hdr) + 1):
         summary.cell(row=summary.max_row, column=c).font = Font(bold=True)
-    widths = [6, 30, 40] + [10] * maxlv + [10, 10, 70]
+    widths = [6, 30, 40] + [10] * maxlv + [10, 12, 10, 70]
     for i, w in enumerate(widths, 1):
         summary.column_dimensions[get_column_letter(i)].width = w
     summary.freeze_panes = summary.cell(row=hr + 1, column=1)

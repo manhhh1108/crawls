@@ -1,7 +1,7 @@
 {
  "brand": "03 Reer",
  "site": "https://www.reersafety.com/en/",
- "note": "Cay danh muc EN tu product_cat sitemap + breadcrumb JSON-LD.",
+ "note": "Cây danh mục EN từ product_cat sitemap + breadcrumb JSON-LD.",
  "nodes": [
   {
    "path": [

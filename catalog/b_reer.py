@@ -39,4 +39,4 @@ def crawl():
 
 if __name__ == "__main__":
     save("03 Reer", "https://www.reersafety.com/en/", crawl(),
-         "Cay danh muc EN tu product_cat sitemap + breadcrumb JSON-LD.")
+         "Cây danh mục EN từ product_cat sitemap + breadcrumb JSON-LD.")

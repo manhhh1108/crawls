@@ -70,4 +70,4 @@ def crawl():
 
 if __name__ == "__main__":
     save("09 Pilz", "https://www.pilz.com/en-INT (crawl qua mirror www.pilz.com.cn/en-CN)", crawl(),
-         "www.pilz.com chan bot (Cloudflare) - dung mirror .cn ban tieng Anh, eShop. Cap cuoi = cap ngay tren ma dat hang.")
+         "www.pilz.com chặn bot (Cloudflare) - dùng mirror .cn bản tiếng Anh, eShop. Cấp cuối = cấp ngay trên mã đặt hàng.")

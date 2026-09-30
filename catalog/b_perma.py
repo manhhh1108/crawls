@@ -38,4 +38,4 @@ def crawl():
 
 if __name__ == "__main__":
     save("05 Perma", "https://www.perma-tec.com/en", crawl(),
-         "Cay danh muc tu sitemap EN + breadcrumb JSON-LD.")
+         "Cây danh mục từ sitemap EN + breadcrumb JSON-LD.")

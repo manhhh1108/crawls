@@ -83,4 +83,4 @@ def crawl():
 
 if __name__ == "__main__":
     save("07 Mitsubishi Electric", "https://www.mitsubishielectric.com/fa/", crawl(),
-         "L1-L3 tu megadropdown_products.json; L4 = nhom SP tren trang series (cap ngay tren ma model).")
+         "L1-L3 từ megadropdown_products.json; L4 = nhóm SP trên trang series (cấp ngay trên mã model).")

@@ -161,4 +161,4 @@ def crawl():
 
 if __name__ == "__main__":
     save("02 Pepperl+Fuchs", "https://www.pepperl-fuchs.com/en-sg", crawl(),
-         "L1/L2 tu navigation; cap sau lay tu the danh muc tren trang (render bang Chrome that). Cap cuoi = cap ngay tren ma SP.")
+         "L1/L2 từ navigation; cấp sâu lấy từ thẻ danh mục trên trang (render bằng Chrome thật). Cấp cuối = cấp ngay trên mã SP.")
