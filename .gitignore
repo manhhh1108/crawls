@@ -1,14 +1,36 @@
-# HTTP / browser caches (tải lại được, không commit)
+# ===== Cache (tai lai duoc, khong commit) =====
+# cache HTTP/browser/dich cua shared.fetcher & content/translate.py
 .cache/
+# anh goc tai tu web hang (ghep lai duoc, da co cache)
+content/out/*/src_img/
+# anh da ghep logo + file Excel bai viet: sinh lai bang
+#   python c_<hang>.py && python build_content_excel.py
+# (khong commit de khoi phinh repo khi nhan ra 16 hang ~1.3GB)
+content/out/*/images/
+data/Noi dung */[0-9][0-9] - *.xlsx
 
-# Python
+# ===== Python =====
 __pycache__/
 *.pyc
+.venv/
+venv/
 
-# Excel lock files & backups
+# ===== Node (du an SICK cu) =====
+node_modules/
+
+# ===== Excel/Office =====
+# file lock khi dang mo Excel/Word
 ~$*
-*.bak
+*.tmp
 
-# Logs & cache dịch của dự án SICK (quá lớn / tái tạo được)
+# ===== Backup & log =====
+*.bak
+*.log
+log_*.txt
+# cache dich ~80MB cua du an SICK
 sick/translation-cache.json
-sick/crawl.log
+
+# ===== He dieu hanh =====
+Thumbs.db
+desktop.ini
+.DS_Store

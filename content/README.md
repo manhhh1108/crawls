@@ -1,14 +1,24 @@
-# content/ — crawl nội dung sản phẩm 16 hãng (chưa bắt đầu)
+# content/ — crawl nội dung bài đăng web NTREND (mỗi dòng SP = 1 bài)
 
-Giai đoạn tiếp theo: lấy nội dung chi tiết (mô tả, thông số, ảnh, tài liệu) cho từng
-sản phẩm/danh mục, đầu vào là cây danh mục ở `catalog/out/*.json` (mỗi node lá có URL).
+Mỗi bài = 1 dòng sản phẩm (node đánh dấu `x` trong cây danh mục `catalog/out/*.json`).
+Nội dung theo template `data/ntrend template.xlsx`, dựng 2 bản EN + VI.
 
-## Khung dự kiến
+## Cấu trúc
 
 ```
 content/
-├─ c_<hãng>.py    crawler nội dung từng hãng (dùng shared.fetcher / shared.browser)
-└─ out/<hãng>/    JSON + ảnh tải về
+├─ translate.py            EN→VI qua translate.googleapis.com, cache .cache/translate_vi.json
+├─ brandimg.py             ghép ảnh SP: nền trắng + logo NTREND + hotline (theo mẫu)
+├─ assets/ntrend-logo.png  logo gốc
+├─ c_<hãng>.py             crawler nội dung từng hãng → out/<hãng>/content.json
+├─ build_content_excel.py  content.json → data/Noi dung san pham - <hãng>.xlsx
+└─ out/<hãng>/             content.json + src_img/ (ảnh gốc) + images/ (ảnh đã ghép)
+```
+
+## Chạy (ví dụ Perma)
+
+```bash
+cd content && python c_perma.py && python build_content_excel.py
 ```
 
 ## Lưu ý đã khảo sát trước (2026-09-30)
