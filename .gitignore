@@ -8,6 +8,7 @@ content/out/*/src_img/
 # (khong commit de khoi phinh repo khi nhan ra 16 hang ~1.3GB)
 content/out/*/images/
 data/Noi dung */[0-9][0-9] - *.xlsx
+data/Noi dung */[0-9][0-9][0-9] - *.xlsx
 
 # ===== Python =====
 __pycache__/
@@ -27,6 +28,8 @@ node_modules/
 *.bak
 *.log
 log_*.txt
+content/logs/
+catalog/logs/
 # cache dich ~80MB cua du an SICK
 sick/translation-cache.json
 

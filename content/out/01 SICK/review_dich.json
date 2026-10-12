@@ -1,0 +1,58 @@
+[
+ [
+  "W12",
+  "Giá trị thông số",
+  "chua dich",
+  "W12-2 Laser; W12 Teflon; W12-3; W12; W12-2 AS-i; W12G",
+  "W12-2 Laser; W12 Teflon; W12-3; W12; W12-2 AS-i; W12G"
+ ],
+ [
+  "MLG-2",
+  "Giá trị thông số",
+  "chua dich",
+  "RS-485 + 6 x Q + 2 x I/O; 2 x analog + 1 x Q (IO-Link); 3 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 2 x analog + 2 x Q (IO-Link); 4 x Q (IO-Link)",
+  "RS-485 + 6 x Q + 2 x I/O; 2 x analog + 1 x Q (IO-Link); 3 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 2 x analog + 2 x Q (IO-Link); 4 x Q (IO-Link)"
+ ],
+ [
+  "MLG-2",
+  "Giá trị thông số",
+  "chua dich",
+  "MLGxxNxxxxHxxxxx; MLGxxS-xxxxAx; MLGxxS-xxxxDx; MLGxxN-xxxxNx; MLGxxA-xxxxRx; MLGxxA-xxxxIx (+3 tuỳ chọn khác)",
+  "MLGxxNxxxxHxxxxx; MLGxxS-xxxxAx; MLGxxS-xxxxDx; MLGxxN-xxxxNx; MLGxxA-xxxxRx; MLGxxA-xxxxIx (+3 tuỳ chọn khác)"
+ ],
+ [
+  "MLG-2 WebChecker",
+  "Giá trị thông số",
+  "chua dich",
+  "1 x analog + 3 x Q (IO-Link); 2 x analog + 2 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 4 x Q (IO-Link)",
+  "1 x analog + 3 x Q (IO-Link); 2 x analog + 2 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 4 x Q (IO-Link)"
+ ],
+ [
+  "Sensor-actuator cables",
+  "Giá trị thông số",
+  "chua dich",
+  "M8; D-Sub; M26; RJ45; D-Sub-HD; M12 (+1 tuỳ chọn khác)",
+  "M8; D-Sub; M26; RJ45; D-Sub-HD; M12 (+1 tuỳ chọn khác)"
+ ],
+ [
+  "Industrial Ethernet cables and fieldbus cables",
+  "Mô tả ngắn",
+  "chua dich",
+  "PROFIBUS, CANopen, Interbus, PROFINET, EtherNet/IP™ & Gigabit Ethernet",
+  "PROFIBUS, CANopen, Interbus, PROFINET, EtherNet/IP™ & Gigabit Ethernet"
+ ],
+ [
+  "HF transponders",
+  "Giá trị thông số",
+  "chua dich",
+  "Texas Instruments Tag-it HF-I; Fujitsu MB89R118; NXP ICODE SLIX2; NXP ICODE SLIX",
+  "Texas Instruments Tag-it HF-I; Fujitsu MB89R118; NXP ICODE SLIX2; NXP ICODE SLIX"
+ ],
+ [
+  "HF transponders",
+  "Giá trị thông số",
+  "chua dich",
+  "Texas Instruments Tag-it HF-I; Fujitsu MB89R118; NXP ICODE SLIX2; NXP ICODE SLIX",
+  "Texas Instruments Tag-it HF-I; Fujitsu MB89R118; NXP ICODE SLIX2; NXP ICODE SLIX"
+ ]
+]

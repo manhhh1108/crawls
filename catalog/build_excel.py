@@ -180,7 +180,8 @@ def main():
               % (brand, total, nleaf, dict(sorted(counts.items()))))
 
     maxlv = max([s[4] for s in stats] or [1])
-    summary["A1"] = "TỔNG HỢP DANH MỤC SẢN PHẨM - 16 HÃNG (crawl đến cấp ngay trên mã SP)"
+    summary["A1"] = ("TỔNG HỢP DANH MỤC SẢN PHẨM - %d HÃNG (crawl đến cấp ngay trên mã SP)"
+                     % len(stats))
     summary["A1"].font = TITLE_FONT
     summary["A2"] = "Ngày crawl: %s" % datetime.date.today().isoformat()
     summary["A2"].font = Font(italic=True, size=9, color="808080")

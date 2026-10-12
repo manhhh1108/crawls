@@ -8,7 +8,9 @@ crawls/
 │    fetcher.py   HTTP qua curl (bypass TLS fingerprint) + cache đĩa
 │    browser.py   Playwright: Browser (headed, cho web chặn bot) & Renderer (headless)
 │
-├─ sick/        Dự án crawl SICK (hãng 01) — nội dung + ảnh + dịch, đã xong
+├─ sick/        Dự án SICK đời cũ (crawl theo từng SKU) — giữ để tham khảo
+│                 sick-translate.js chứa TERM_DICT 662 cặp EN→VI (dùng lại cho vi_terms.py)
+│                 loi dich san pham.xlsx = các lỗi dịch đã soát tay
 │
 ├─ catalog/     Crawl CÂY DANH MỤC 16 hãng (02–17) — đã xong
 │    b_<hãng>.py     mỗi hãng 1 crawler, chạy độc lập: python b_festo.py
@@ -17,9 +19,15 @@ crawls/
 │    build_excel.py  gộp out/*.json → data/Danh muc san pham 16 hang - FULL.xlsx
 │    logs/           log các lần chạy
 │
-├─ content/     (SẮP TỚI) Crawl NỘI DUNG sản phẩm 16 hãng — xem content/README.md
+├─ content/     Crawl NỘI DUNG bài đăng (mỗi dòng SP = 1 bài) — xem content/README.md
+│                 Perma: 78 bài  → data/Noi dung Perma/
+│                 SICK : 618 bài → data/Noi dung SICK/
+│                 vi_terms.py + vi_engine.py = bộ dịch EN→VI có từ điển ngành
 │
 ├─ data/        Kết quả + tài liệu yêu cầu
+│    Noi dung SICK/                           ← 618 bài SICK (mới nhất)
+│    Noi dung Perma/                          ← 78 bài Perma
+│    SICK_Web_Products_Statistics.xlsx        ← danh mục SICK + map danh mục Ntrend
 │    Danh muc san pham 16 hang - FULL.xlsx   ← file danh mục mới nhất
 │    Danh muc san pham 16 hang.xlsx          ← file cũ (đối chiếu)
 │    README - crawl danh muc.md              ← tài liệu chi tiết crawl danh mục
@@ -36,6 +44,9 @@ cd catalog && python b_supmea.py
 
 # dựng lại file Excel danh mục từ out/*.json
 cd catalog && python build_excel.py
+
+# crawl nội dung bài đăng
+cd content && python c_sick_fetch.py && python c_sick.py && python build_sick_excel.py
 ```
 
 Yêu cầu: Python 3.10+, `openpyxl`, `playwright` (cho Festo/IFM/Pilz/Pepperl), `curl` trong PATH.
