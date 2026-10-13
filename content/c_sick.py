@@ -49,6 +49,8 @@ def is_proper_name(s):
         return False
     return len(words) <= 2                        # Lector, ReLy, Flexi Loop
 
+IMG_EXT = ".jpg"        # duoi anh thanh pham trong images/
+LOGO_FALLBACK = os.path.join(HERE, "assets", "sick-logo.jpg")
 OUT_DIR = os.path.join(HERE, "out", "01 SICK")
 SRC_IMG = os.path.join(OUT_DIR, "src_img")
 BRAND_IMG = os.path.join(OUT_DIR, "images")
@@ -106,17 +108,18 @@ def build_one(rec, review):
         v = vals[:MAX_VALS]
         spans.append((len(a_vals), len(v), len(vals) - len(v)))
         a_vals += v
-    prose_src = overview_en + bullets_en + rec.get("applications_en", [])
+    # Slogan (hang) + Linh vuc ung dung da bo khoi bai dang -> khong dich nua
+    prose_src = overview_en + bullets_en
 
     keys_vi = translate_many(a_keys, "key")
     vals_vi = translate_many(a_vals, "value")
     prose_vi = translate_many(prose_src, "prose")
-    slogan_vi = translate_many([rec.get("slogan", "")], "prose")[0] if rec.get("slogan") else ""
+    slogan_vi = ""
 
     n_ov, n_bl = len(overview_en), len(bullets_en)
     ov_vi = prose_vi[:n_ov]
     bl_vi = prose_vi[n_ov:n_ov + n_bl]
-    app_vi = prose_vi[n_ov + n_bl:]
+    app_vi = []
 
     specs_en, specs_vi = [], []
     for (aname, unit, vals), kvi, (off, cnt, more) in zip(attrs, keys_vi, spans):
@@ -143,9 +146,16 @@ def build_one(rec, review):
         src = os.path.join(SRC_IMG, slug + ext)
         if download(url, src):
             try:
-                img_file = brandimg.compose(src, os.path.join(BRAND_IMG, slug + ".png"))
+                img_file = brandimg.compose(src, os.path.join(BRAND_IMG, slug + IMG_EXT))
             except Exception as e:
                 print("  [img fail]", name, repr(e))
+    if not img_file and os.path.exists(LOGO_FALLBACK):
+        # dong SP khong co anh tren web SICK -> dung logo SICK lam anh thay the
+        try:
+            img_file = brandimg.compose(LOGO_FALLBACK,
+                                        os.path.join(BRAND_IMG, slug + IMG_EXT))
+        except Exception as e:
+            print("  [logo fail]", name, repr(e))
 
     return {
         "name": name, "slug": slug, "url_src": rec.get("url", ""),

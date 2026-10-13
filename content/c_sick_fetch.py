@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """SICK (hang 01) - PHA 1: keo du lieu tho tung dong san pham tu API sick.com.
 
-Dau vao : data/SICK_Web_Products_Statistics.xlsx, sheet "Thong ke SP SICK Web SP",
-          cac dong co danh dau 'x' (= dong san pham can viet bai).
+Dau vao : data/SICK - dong SP can crawl.xlsx (sinh boi make_sick_input.py tu
+          danh muc moi nhat, da bo cac nhom boi vang + software/tools).
 Dau ra  : content/out/01 SICK/raw.json  (chua dich, chua ghep anh)
 
 API dung:
@@ -17,7 +17,7 @@ REPO = os.path.dirname(HERE)
 sys.path.insert(0, REPO)
 from shared.fetcher import try_fetch  # noqa: E402
 
-XLSX = os.path.join(REPO, "data", "SICK_Web_Products_Statistics.xlsx")
+XLSX = os.path.join(REPO, "data", "SICK - dong SP can crawl.xlsx")
 SHEET = "Thong ke SP SICK Web SP"
 OUT_DIR = os.path.join(HERE, "out", "01 SICK")
 os.makedirs(OUT_DIR, exist_ok=True)
@@ -126,6 +126,8 @@ def rows_from_xlsx():
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     lines = rows_from_xlsx()
+    if len(sys.argv) > 1:                     # 'python c_sick_fetch.py 5' = chay thu 5 dong
+        lines = lines[:int(sys.argv[1])]
     print("dong san pham can lam:", len(lines))
     done, fails = [], []
     for i, ln in enumerate(lines, 1):

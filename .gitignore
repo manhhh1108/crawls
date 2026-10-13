@@ -9,6 +9,15 @@ content/out/*/src_img/
 content/out/*/images/
 data/Noi dung */[0-9][0-9] - *.xlsx
 data/Noi dung */[0-9][0-9][0-9] - *.xlsx
+# anh thanh pham cua bai dang (SICK ~37MB) - sinh lai bang build_<hang>_excel.py
+data/Noi dung */images/
+
+# ===== Ban sao luu truoc khi crawl lai =====
+# vd "data/Noi dung SICK (ban cu 2026-10-10)/" ~130MB
+data/Noi dung * (ban cu *)/
+data/*.zip
+# file xlsx sinh ra tu danh muc goc (dung make_sick_input.py tao lai)
+data/* (bo ma SP cu the).xlsx
 
 # ===== Python =====
 __pycache__/

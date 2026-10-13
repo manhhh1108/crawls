@@ -1,38 +1,45 @@
 [
  [
-  "W12",
+  "HF transponders",
   "Giá trị thông số",
   "chua dich",
-  "W12-2 Laser; W12 Teflon; W12-3; W12; W12-2 AS-i; W12G",
-  "W12-2 Laser; W12 Teflon; W12-3; W12; W12-2 AS-i; W12G"
+  "NXP ICODE SLIX2; Fujitsu MB89R118; Texas Instruments Tag-it HF-I; NXP ICODE SLIX",
+  "NXP ICODE SLIX2; Fujitsu MB89R118; Texas Instruments Tag-it HF-I; NXP ICODE SLIX"
+ ],
+ [
+  "UHF transponders",
+  "Giá trị thông số",
+  "chua dich",
+  "NXP UCODE G2iM; Impinj Monza 4E; NXP UCODE 9xm; Impinj Monza 4QT; Impinj Monza X 8k; NXP UCODE G2XM (+9 tuỳ chọn khác)",
+  "NXP UCODE G2iM; Impinj Monza 4E; NXP UCODE 9xm; Impinj Monza 4QT; Impinj Monza X 8k; NXP UCODE G2XM (+9 tuỳ chọn khác)"
  ],
  [
   "MLG-2",
   "Giá trị thông số",
   "chua dich",
-  "RS-485 + 6 x Q + 2 x I/O; 2 x analog + 1 x Q (IO-Link); 3 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 2 x analog + 2 x Q (IO-Link); 4 x Q (IO-Link)",
-  "RS-485 + 6 x Q + 2 x I/O; 2 x analog + 1 x Q (IO-Link); 3 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 2 x analog + 2 x Q (IO-Link); 4 x Q (IO-Link)"
+  "2 x analog + 2 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 4 x Q (IO-Link); RS-485 + 6 x Q + 2 x I/O; 2 x analog + 1 x Q (IO-Link); 3 x Q (IO-Link)",
+  "2 x analog + 2 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 4 x Q (IO-Link); RS-485 + 6 x Q + 2 x I/O; 2 x analog + 1 x Q (IO-Link); 3 x Q (IO-Link)"
  ],
  [
   "MLG-2",
   "Giá trị thông số",
   "chua dich",
-  "MLGxxNxxxxHxxxxx; MLGxxS-xxxxAx; MLGxxS-xxxxDx; MLGxxN-xxxxNx; MLGxxA-xxxxRx; MLGxxA-xxxxIx (+3 tuỳ chọn khác)",
-  "MLGxxNxxxxHxxxxx; MLGxxS-xxxxAx; MLGxxS-xxxxDx; MLGxxN-xxxxNx; MLGxxA-xxxxRx; MLGxxA-xxxxIx (+3 tuỳ chọn khác)"
+  "MLGxxNxxxxHxxxxx; MLGxxS-xxxxAx; MLGxxN-xxxxEx; MLGxxA-xxxxBx; MLGxxA-xxxxRx; MLGxxA-xxxxIx (+3 tuỳ chọn khác)",
+  "MLGxxNxxxxHxxxxx; MLGxxS-xxxxAx; MLGxxN-xxxxEx; MLGxxA-xxxxBx; MLGxxA-xxxxRx; MLGxxA-xxxxIx (+3 tuỳ chọn khác)"
  ],
  [
   "MLG-2 WebChecker",
   "Giá trị thông số",
   "chua dich",
-  "1 x analog + 3 x Q (IO-Link); 2 x analog + 2 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 4 x Q (IO-Link)",
-  "1 x analog + 3 x Q (IO-Link); 2 x analog + 2 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 4 x Q (IO-Link)"
+  "4 x Q (IO-Link); 1 x analog + 3 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 2 x analog + 2 x Q (IO-Link)",
+  "4 x Q (IO-Link); 1 x analog + 3 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 2 x analog + 2 x Q (IO-Link)"
  ],
  [
-  "Sensor-actuator cables",
+  "W12",
   "Giá trị thông số",
   "chua dich",
-  "M8; D-Sub; M26; RJ45; D-Sub-HD; M12 (+1 tuỳ chọn khác)",
-  "M8; D-Sub; M26; RJ45; D-Sub-HD; M12 (+1 tuỳ chọn khác)"
+  "W12-3; W12-2 AS-i; W12 Teflon; W12; W12-2 Laser; W12G",
+  "W12-3; W12-2 AS-i; W12 Teflon; W12; W12-2 Laser; W12G"
  ],
  [
   "Industrial Ethernet cables and fieldbus cables",
@@ -40,19 +47,5 @@
   "chua dich",
   "PROFIBUS, CANopen, Interbus, PROFINET, EtherNet/IP™ & Gigabit Ethernet",
   "PROFIBUS, CANopen, Interbus, PROFINET, EtherNet/IP™ & Gigabit Ethernet"
- ],
- [
-  "HF transponders",
-  "Giá trị thông số",
-  "chua dich",
-  "Texas Instruments Tag-it HF-I; Fujitsu MB89R118; NXP ICODE SLIX2; NXP ICODE SLIX",
-  "Texas Instruments Tag-it HF-I; Fujitsu MB89R118; NXP ICODE SLIX2; NXP ICODE SLIX"
- ],
- [
-  "HF transponders",
-  "Giá trị thông số",
-  "chua dich",
-  "Texas Instruments Tag-it HF-I; Fujitsu MB89R118; NXP ICODE SLIX2; NXP ICODE SLIX",
-  "Texas Instruments Tag-it HF-I; Fujitsu MB89R118; NXP ICODE SLIX2; NXP ICODE SLIX"
  ]
 ]

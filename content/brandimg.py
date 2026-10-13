@@ -99,5 +99,9 @@ def compose(src_path, dst_path, size=800):
     canvas.paste(prod, (margin + (box_w - nw) // 2, top + (box_h - nh) // 2))
 
     os.makedirs(os.path.dirname(dst_path), exist_ok=True)
-    canvas.save(dst_path, "PNG")
+    ext = os.path.splitext(dst_path)[1].lower()
+    if ext in (".jpg", ".jpeg"):
+        canvas.save(dst_path, "JPEG", quality=90, optimize=True, subsampling=0)
+    else:
+        canvas.save(dst_path, "PNG")
     return dst_path

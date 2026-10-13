@@ -14,6 +14,7 @@ import io
 import json
 import os
 import re
+import shutil
 import sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
@@ -23,15 +24,17 @@ sys.path.insert(0, HERE)
 from openpyxl import Workbook                              # noqa: E402
 from openpyxl.styles import Font, Alignment, PatternFill   # noqa: E402  # noqa
 from openpyxl.utils import get_column_letter               # noqa: E402
-from openpyxl.drawing.image import Image as XImage         # noqa: E402
 
+from sick_names_vi import name_vi                          # noqa: E402
 from build_content_excel import (LONG_TPL_VI, LONG_TPL_EN, SHORT_TPL_VI,       # noqa: E402
                                  SHORT_TPL_EN, SPECDESC_TPL_VI, SPECDESC_TPL_EN,
                                  HDR_FILL, FIELD_FILL, HDR_FONT, FIELD_FONT, WRAP)
 
+IMG_SUBDIR = "images"       # anh de rieng 1 folder, khong nhung vao xlsx
+
 BRAND_FULL_VI = "SICK (Đức)"
 BRAND_FULL_EN = "SICK (Germany)"
-MAX_ITEM_ROWS = 60          # so dong toi da cua bang ma san pham trong 1 bai
+MAX_ITEM_ROWS = None        # None = in het, khong cat bang ma san pham
 
 NOSPEC_DESC_VI = ("{type_c} {name_brand} là sản phẩm công nghiệp chính hãng của "
                   + BRAND_FULL_VI + "; bảng mã sản phẩm chi tiết như bảng dưới:")
@@ -48,6 +51,24 @@ META_TPL_EN = ("Buy genuine {name_brand} {type_l} – full specifications, good 
 def with_brand(a):
     return a["name"] if a["brand"].lower() in a["name"].lower() \
         else "%s %s" % (a["name"], a["brand"])
+
+
+def with_brand_vi(a):
+    """Nhu with_brand nhung dung ten da dich (xem sick_names_vi.py)."""
+    n = name_vi(a["name"])
+    return n if a["brand"].lower() in n.lower() else "%s %s" % (n, a["brand"])
+
+
+def title_vi(cv, a):
+    """'<loai> <ten> SICK', bo <loai> neu ten da chua san (vd Anten + Anten RFID)."""
+    nb = with_brand_vi(a)
+    t = cv["type_c"]
+    return nb if not t or t.lower() in nb.lower() else "%s %s" % (t, nb)
+
+
+def fmt_vi(tpl, cv):
+    """format() cho cot tieng Viet, don khoang trang thua khi type_c/type_l rong."""
+    return re.sub(r"\s{2,}", " ", tpl.format(**cv)).strip()
 
 
 def singular(s):
@@ -68,6 +89,18 @@ def ctx(a):
 def ctx_vi(a):
     c = ctx(a)
     c["type_l"] = (a["type_vi"] or "sản phẩm").lower()
+    c["name"] = name_vi(a["name"])
+    c["name_brand"] = with_brand_vi(a)
+    # ten da dich sang tieng Viet thi ban than no da noi ro loai SP roi -> dung
+    # luon ten lam "<loai>", khong viet "Bo cap nguon va cap cap nguon Bo nguon SICK"
+    # cac mau cau ghep theo dang "{type_c} {name_brand}" / "{type_c} {name}",
+    # nen dat ten da dich vao {type_c}/{type_l} va bo trong {name} - fmt_vi se
+    # don khoang trang thua.
+    if c["name"] != a["name"]:
+        c["type_c"] = c["name"]
+        c["type_l"] = c["name"][:1].lower() + c["name"][1:]   # giu nguyen RFID, GPS...
+        c["name_brand"] = a["brand"]
+        c["name"] = ""
     return c
 
 
@@ -116,19 +149,19 @@ def build_article(a, i, out_dir):
     if a.get("overview_vi"):
         long_vi, long_en = "\n\n".join(a["overview_vi"]), "\n\n".join(a["overview_en"])
     else:
-        long_vi, long_en = LONG_TPL_VI.format(**cv), LONG_TPL_EN.format(**ce)
+        long_vi, long_en = fmt_vi(LONG_TPL_VI, cv), LONG_TPL_EN.format(**ce)
     if a.get("features_vi"):
         short_vi = "\n".join("- " + x for x in a["features_vi"])
         short_en = "\n".join("- " + x for x in a["features_en"])
     else:
-        short_vi, short_en = SHORT_TPL_VI.format(**cv), SHORT_TPL_EN.format(**ce)
+        short_vi, short_en = fmt_vi(SHORT_TPL_VI, cv), SHORT_TPL_EN.format(**ce)
     if has_specs:
-        sd_vi, sd_en = SPECDESC_TPL_VI.format(**cv), SPECDESC_TPL_EN.format(**ce)
+        sd_vi, sd_en = fmt_vi(SPECDESC_TPL_VI, cv), SPECDESC_TPL_EN.format(**ce)
     elif a.get("items"):
-        sd_vi, sd_en = NOSPEC_DESC_VI.format(**cv), NOSPEC_DESC_EN.format(**ce)
+        sd_vi, sd_en = fmt_vi(NOSPEC_DESC_VI, cv), NOSPEC_DESC_EN.format(**ce)
     else:
-        sd_vi = ("{type_c} {name_brand} là sản phẩm công nghiệp chính hãng của "
-                 + BRAND_FULL_VI + ".").format(**cv)
+        sd_vi = fmt_vi("{type_c} {name_brand} là sản phẩm công nghiệp chính hãng của "
+                       + BRAND_FULL_VI + ".", cv)
         sd_en = ("The {name_brand} {type_l} is a genuine industrial product from "
                  + BRAND_FULL_EN + ".").format(**ce)
 
@@ -136,23 +169,18 @@ def build_article(a, i, out_dir):
             os.path.basename(a["img_file"]) if a.get("img_file") else "(chưa có ảnh)", "")
     add_row(ws, "Danh mục sản phẩm", a.get("cat_vi") or "(chưa phân loại)",
             a.get("cat_en") or " > ".join(a.get("path", [])[1:]))
-    add_row(ws, "Thẻ tag", "%s, %s" % (a["name"], a["brand"]),
+    add_row(ws, "Thẻ tag", "%s, %s" % (name_vi(a["name"]), a["brand"]),
             "%s, %s" % (a["name"], a["brand"]))
     add_row(ws, "Thương hiệu", a.get("brand_field") or a["brand"],
             a.get("brand_field") or a["brand"])
     add_row(ws, "URL", slug, slug)
-    add_row(ws, "Keyword chính", with_brand(a), with_brand(a))
-    add_row(ws, "Meta title", "%s %s" % (cv["type_c"], with_brand(a)),
+    add_row(ws, "Keyword chính", with_brand_vi(a), with_brand(a))
+    add_row(ws, "Meta title", title_vi(cv, a),
             "%s %s" % (with_brand(a), ce["type_l"]))
     add_row(ws, "Meta description (155 - 165 characters)",
-            META_TPL_VI.format(**cv), META_TPL_EN.format(**ce))
-    if a.get("slogan_vi"):
-        add_row(ws, "Slogan (hãng)", a["slogan_vi"], a.get("slogan_en", ""))
+            fmt_vi(META_TPL_VI, cv), META_TPL_EN.format(**ce))
     add_row(ws, "Mô tả dài của sản phẩm", long_vi, long_en)
     add_row(ws, "Mô tả ngắn của sản phẩm", short_vi, short_en)
-    if a.get("applications_vi"):
-        add_row(ws, "Lĩnh vực ứng dụng", "; ".join(a["applications_vi"]),
-                "; ".join(a["applications_en"]))
     add_row(ws, "Mô tả thông số", sd_vi, sd_en)
 
     if has_specs:
@@ -193,10 +221,11 @@ def build_article(a, i, out_dir):
         ws.column_dimensions[get_column_letter(i2)].width = w
 
     if a.get("img_file") and os.path.exists(a["img_file"]):
+        img_dir = os.path.join(out_dir, IMG_SUBDIR)
+        os.makedirs(img_dir, exist_ok=True)
         try:
-            img = XImage(a["img_file"])
-            img.width, img.height = 170, 170
-            ws.add_image(img, "E4")
+            shutil.copy2(a["img_file"],
+                         os.path.join(img_dir, os.path.basename(a["img_file"])))
         except Exception:
             pass
 

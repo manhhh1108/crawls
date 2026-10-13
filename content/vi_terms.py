@@ -19,6 +19,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 JS = os.path.join(REPO, "sick", "sick-translate.js")
 FIXXLSX = os.path.join(REPO, "sick", "loi dich san pham.xlsx")
+USERXLSX = os.path.join(REPO, "data", "Tu dien dich EN-VI.xlsx")
 CACHE = os.path.join(HERE, "data", "glossary_sick.json")
 
 # ---------------------------------------------------------------------------
@@ -302,6 +303,12 @@ EXTRA = {
     "Quick and easy mounting": "Lắp đặt nhanh và dễ dàng",
     "mini USB": "mini USB",
     "USB-C": "USB-C",
+    # "track and trace" tung bi may dich thanh "theo doi va theo doi"
+    "track and trace": "theo dõi và truy xuất",
+    "track and trace system": "hệ thống theo dõi và truy xuất",
+    "track and trace systems": "hệ thống theo dõi và truy xuất",
+    "Track and Trace": "theo dõi và truy xuất",
+    "traceability": "truy xuất nguồn gốc",
 }
 
 
@@ -317,6 +324,28 @@ def _from_js():
         k, v = k.strip().strip('"'), v.strip()
         if k and v:
             out[k] = v
+    return out
+
+
+def _from_user_xlsx():
+    """data/Tu dien dich EN-VI.xlsx - file nguoi dung tu dien, uu tien CAO NHAT.
+
+    Cot A = tieng Anh, cot B = tieng Viet. Bo qua dong trong / dong tieu de.
+    """
+    try:
+        from openpyxl import load_workbook
+        ws = load_workbook(USERXLSX, read_only=True, data_only=True).active
+    except Exception:
+        return {}
+    out = {}
+    for r in ws.iter_rows(values_only=True):
+        if not r or len(r) < 2:
+            continue
+        en = str(r[0] or "").strip()
+        vi = str(r[1] or "").strip()
+        if not en or not vi or en == "Tiếng Anh":
+            continue
+        out[en] = vi
     return out
 
 
@@ -344,7 +373,8 @@ def terms():
     global _TERMS
     if _TERMS is None:
         merged = {}
-        for src in (_from_js(), _from_fixes(), EXTRA):   # nguon sau de len nguon truoc
+        # nguon sau de len nguon truoc -> file nguoi dung tu dien uu tien cao nhat
+        for src in (_from_js(), _from_fixes(), EXTRA, _from_user_xlsx()):
             for k, v in src.items():
                 merged[k.strip().lower()] = v
         _TERMS = merged
@@ -374,5 +404,6 @@ if __name__ == "__main__":
     import sys
     sys.stdout.reconfigure(encoding="utf-8")
     t = terms()
-    print("js:", len(_from_js()), "| fixes:", len(_from_fixes()), "| extra:", len(EXTRA))
+    print("js:", len(_from_js()), "| fixes:", len(_from_fixes()),
+          "| extra:", len(EXTRA), "| file nguoi dung:", len(_from_user_xlsx()))
     print("tong:", len(t), "->", CACHE)
