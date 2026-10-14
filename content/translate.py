@@ -4,11 +4,18 @@ SICK cu), co cache tren dia o .cache/translate_vi.json."""
 import json, os, io, time, hashlib, subprocess, urllib.parse, re
 from concurrent.futures import ThreadPoolExecutor
 
-WORKERS = 6
+WORKERS = int(os.environ.get("TRANSLATE_WORKERS",
+                             "3" if os.path.exists(
+                                 os.path.join(os.path.dirname(os.path.dirname(
+                                     os.path.abspath(__file__))), ".env")) else "6"))
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
-CACHE_PATH = os.path.join(REPO, ".cache", "translate_vi.json")
+_BACKEND = "google" if os.environ.get("TRANSLATE_BACKEND", "").lower() == "google"     else ("gemini" if (os.environ.get("GEMINI_API_KEY")
+                       or os.path.exists(os.path.join(REPO, ".env"))) else "google")
+CACHE_PATH = os.path.join(REPO, ".cache",
+                          "translate_vi.json" if _BACKEND == "google"
+                          else "translate_vi_gemini.json")
 os.makedirs(os.path.dirname(CACHE_PATH), exist_ok=True)
 try:
     with io.open(CACHE_PATH, encoding="utf-8") as f:
@@ -27,7 +34,34 @@ def _flush(force=False):
     _dirty = 0
 
 
-def _call(text):
+_LLM = None
+
+
+def _llm():
+    """Gemini neu co GEMINI_API_KEY, nguoc lai None -> quay ve Google.
+
+    Dat TRANSLATE_BACKEND=google de ep dung may dich cu (vd khi Gemini het quota).
+    """
+    global _LLM
+    if os.environ.get("TRANSLATE_BACKEND", "").lower() == "google":
+        return None
+    if _LLM is None:
+        try:
+            import llm_translate
+            _LLM = llm_translate if llm_translate.available() else False
+        except Exception:
+            _LLM = False
+    return _LLM or None
+
+
+def backend():
+    return "gemini" if _llm() else "google"
+
+
+def _call(text, kind="prose"):
+    eng = _llm()
+    if eng:
+        return eng.translate_batch([text], kind)[0]
     url = ("https://translate.googleapis.com/translate_a/single"
            "?client=gtx&sl=en&tl=vi&dt=t&q=" + urllib.parse.quote(text))
     p = subprocess.run(["curl", "-sS", "--max-time", "30", url],
@@ -36,7 +70,10 @@ def _call(text):
     return "".join(seg[0] for seg in data[0] if seg and seg[0])
 
 
-def _call_blob(items):
+def _call_blob(items, kind="prose"):
+    eng = _llm()
+    if eng:
+        return eng.translate_batch(items, kind)
     """Dich nhieu chuoi NGAN trong 1 request bang cach noi bang xuong dong.
     Tra ve list cung do dai, hoac None neu Google tra ve lech dong."""
     blob = "\n".join(items)
@@ -60,7 +97,13 @@ def _looks_untranslated(src, out):
     return len(_RX_WORD.findall(src)) >= 2 and not _RX_VI.search(src)
 
 
-def vi_many(texts, sleep=0.1, batch=60, maxchars=4000):
+def vi_many(texts, sleep=0.1, batch=None, maxchars=None, kind="prose"):
+    # LLM cho duoc nhieu chuoi hon han may dich -> gop to de it request
+    # (free tier Gemini chi 500 request/ngay/model)
+    if batch is None:
+        batch = 250 if _llm() else 60
+    if maxchars is None:
+        maxchars = 24000 if _llm() else 4000
     """Dich 1 loat chuoi (co cache). Nhanh hon vi() ~20 lan nho gop request."""
     global _dirty
     texts = [(t or "").strip() for t in texts]
@@ -83,7 +126,7 @@ def vi_many(texts, sleep=0.1, batch=60, maxchars=4000):
         got = None
         for attempt in range(2):
             try:
-                got = _call_blob(chunk)
+                got = _call_blob(chunk, kind)
                 break
             except Exception:
                 time.sleep(1.5 * (attempt + 1))

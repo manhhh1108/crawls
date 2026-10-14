@@ -40,9 +40,10 @@ NOSPEC_DESC_VI = ("{type_c} {name_brand} là sản phẩm công nghiệp chính 
                   + BRAND_FULL_VI + "; bảng mã sản phẩm chi tiết như bảng dưới:")
 NOSPEC_DESC_EN = ("The {name_brand} {type_l} is a genuine industrial product from "
                   + BRAND_FULL_EN + "; the detailed part-number table is below:")
+# mau chot trong review 'Crawl noi dung Ntrend.docx' - ngan hon ban cu 15 ky tu
 META_TPL_VI = ("Mua {type_l} {name_brand} chính hãng – thông số kỹ thuật đầy đủ, "
                "giá tốt, hỗ trợ tư vấn và lựa chọn model phù hợp. "
-               "Liên hệ Ntrend ngay để được tư vấn!")
+               "Liên hệ Ntrend ngay!")
 META_TPL_EN = ("Buy genuine {name_brand} {type_l} – full specifications, good "
                "price, support in selecting the right model. "
                "Contact Ntrend now for a consultation!")
@@ -64,6 +65,66 @@ def title_vi(cv, a):
     nb = with_brand_vi(a)
     t = cv["type_c"]
     return nb if not t or t.lower() in nb.lower() else "%s %s" % (t, nb)
+
+
+MIN_HL, MAX_HL = 8, 10      # so gach dau dong cua "Mo ta dai"
+MAX_HL_LEN = 150            # 1 gach dau dong dai toi da bao nhieu ky tu
+
+# thu tu uu tien khi bu them thong so - theo dung danh sach trong file review
+SPEC_PRIORITY = [
+    r"measuring range|detection range|sensing range|scanning range|working range",
+    r"resolution",
+    r"accurac|repeatab|linearity",
+    r"response time|switching frequency|speed|scanning rate",
+    r"supply voltage|power consumption|current consumption",
+    r"output|signal",
+    r"interface|communication|protocol|fieldbus",
+    r"enclosure rating|protection class|degree of protection|ip\b",
+    r"ambient temperature|operating temperature",
+    r"housing material|connection type|light source|dimension|weight",
+]
+
+
+def _trim(s, n=MAX_HL_LEN):
+    s = re.sub(r"\s+", " ", str(s or "")).strip()
+    return s if len(s) <= n else s[:n].rsplit(" ", 1)[0] + "…"
+
+
+def highlights(a):
+    """'Mo ta dai' = 8-10 gach dau dong: Features/Benefits truoc, thieu thi bu
+    bang thong so ky thuat quan trong (theo review Ntrend)."""
+    vi = [x for x in (a.get("features_vi") or []) if x]
+    en = [x for x in (a.get("features_en") or []) if x]
+    n = min(len(vi), len(en))
+    vi, en = vi[:n], en[:n]
+
+    sp_en, sp_vi = a.get("specs_en") or [], a.get("specs_vi") or []
+    used = set()
+
+    def add_specs(patterns):
+        for rx in patterns:
+            for i, kvp in enumerate(sp_en):
+                if len(vi) >= MAX_HL:
+                    return
+                if i in used or i >= len(sp_vi):
+                    continue
+                if not re.search(rx, str(kvp[0]), re.I):
+                    continue
+                kv, vv = sp_vi[i][0], sp_vi[i][1]
+                if not vv:
+                    continue
+                used.add(i)
+                vi.append("%s: %s" % (kv, _trim(vv)))
+                en.append("%s: %s" % (kvp[0], _trim(kvp[1])))
+
+    if len(vi) < MAX_HL:
+        add_specs(SPEC_PRIORITY)
+    if len(vi) < MIN_HL:                       # van thieu -> lay thong so con lai
+        add_specs([r"."])
+    if not vi:
+        return "", ""
+    return ("\n".join("- " + x for x in vi[:MAX_HL]),
+            "\n".join("- " + x for x in en[:MAX_HL]))
 
 
 def fmt_vi(tpl, cv):
@@ -146,13 +207,15 @@ def build_article(a, i, out_dir):
     slug = a["slug"] if a["brand"].lower() in a["slug"].lower() \
         else "%s-%s" % (a["slug"], a["brand"].lower())
 
-    if a.get("overview_vi"):
-        long_vi, long_en = "\n\n".join(a["overview_vi"]), "\n\n".join(a["overview_en"])
-    else:
+    # Theo review 'Crawl noi dung Ntrend.docx':
+    #   Mo ta DAI   = 8-10 gach dau dong dac diem/thong so quan trong
+    #   Mo ta NGAN  = doan overview cua web hang
+    long_vi, long_en = highlights(a)
+    if not long_vi:
         long_vi, long_en = fmt_vi(LONG_TPL_VI, cv), LONG_TPL_EN.format(**ce)
-    if a.get("features_vi"):
-        short_vi = "\n".join("- " + x for x in a["features_vi"])
-        short_en = "\n".join("- " + x for x in a["features_en"])
+    if a.get("overview_vi"):
+        short_vi = "\n\n".join(a["overview_vi"])
+        short_en = "\n\n".join(a["overview_en"])
     else:
         short_vi, short_en = fmt_vi(SHORT_TPL_VI, cv), SHORT_TPL_EN.format(**ce)
     if has_specs:

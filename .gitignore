@@ -46,3 +46,8 @@ sick/translation-cache.json
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# ===== API key - KHONG BAO GIO COMMIT =====
+.env
+.env.*
+*.key

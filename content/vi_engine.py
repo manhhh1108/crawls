@@ -233,7 +233,7 @@ def translate_many(items, kind="prose"):
     """Dich ca loat - gop request nen nhanh hon goi tung chuoi rat nhieu."""
     preps = [_prep(x, kind) for x in items]
     need = [p[1][1] for p in preps if p[0] == "mt"]
-    got = iter(_mt_many(need) if need else [])
+    got = iter(_mt_many(need, kind=kind) if need else [])
     out = []
     for st, payload in preps:
         if st == "done":

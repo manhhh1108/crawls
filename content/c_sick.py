@@ -179,6 +179,42 @@ def build_one(rec, review):
     }
 
 
+def prewarm(lines, chunk=400):
+    """Gom TOAN BO chuoi cua ca 558 bai roi dich 1 luot, thay vi dich tung bai.
+
+    Dich tung bai thi moi lo chi co ~5-10 chuoi -> moi request API cho duoc rat
+    it, dot sach hang muc request/ngay (free tier Gemini = 500 req/ngay/model).
+    Gom lai thi 1 request cho duoc hang tram chuoi, giam so request ~50 lan.
+    Dich xong nam trong cache, vong lap chinh ben duoi chi viec lay ra.
+    """
+    bag = {"key": set(), "value": set(), "prose": set()}
+    for r in lines:
+        for _n, _u, vals in r.get("attrs", []):
+            bag["key"].add(_n)
+            for v in vals[:MAX_VALS]:
+                bag["value"].add(v)
+        bag["prose"].update(r.get("overview_en") or [])
+        bag["prose"].update(r.get("features_en") or [])
+        bag["prose"].update(r.get("benefits_en") or [])
+        for n in (r.get("family_group"), r.get("name_addon")):
+            if n:
+                bag["key"].add(n.rstrip("."))
+    tot = sum(len(v) for v in bag.values())
+    print("prewarm: gom %d chuoi (key=%d value=%d prose=%d), dich theo lo %d"
+          % (tot, len(bag["key"]), len(bag["value"]), len(bag["prose"]), chunk))
+    done = 0
+    for kind in ("key", "value", "prose"):
+        items = sorted(x for x in bag[kind] if x and str(x).strip())
+        for i in range(0, len(items), chunk):
+            part = items[i:i + chunk]
+            translate_many(part, kind)
+            done += len(part)
+            print("  prewarm %-5s %5d/%-5d (tong %d/%d)"
+                  % (kind, min(i + chunk, len(items)), len(items), done, tot))
+            _flush(True)
+    print("prewarm xong.")
+
+
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     limit = int(sys.argv[1]) if len(sys.argv) > 1 else 0
@@ -219,6 +255,8 @@ def main():
     if limit:
         lines = lines[:limit]
     print("so dong:", len(lines))
+
+    prewarm(lines)
 
     arts, review = [], []
     for i, rec in enumerate(lines, 1):
