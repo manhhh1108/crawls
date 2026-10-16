@@ -68,7 +68,16 @@ def title_vi(cv, a):
 
 
 MIN_HL, MAX_HL = 8, 10      # so gach dau dong cua "Mo ta dai"
-MAX_HL_LEN = 150            # 1 gach dau dong dai toi da bao nhieu ky tu
+MAX_HL_LEN = 220            # 1 gach dau dong dai toi da bao nhieu ky tu
+
+# Truong KHONG bao gio dua vao "Mo ta dai" - la metadata catalog, dang web vo
+# nghia: "San pham moi: Khong", "San pham: Bo loc bao ve" (lap lai chinh ten),
+# "Phan khuc san pham: ..." (lap lai danh muc).
+SPEC_SKIP = re.compile(
+    r"^\s*(new\s*products?|products?|product\s*(sub)?segments?|product\s*family|"
+    r"product\s*categor(y|ies)|part\s*(no|number)s?|art(icle)?\.?\s*(no|number)?s?|"
+    r"order(ing)?\s*(no|number|code)s?|type\s*codes?|eclass|etim|unspsc|gtin|ean|"
+    r"customs\s*tariff.*|country\s*of\s*origin|brand|manufacturer)\.?\s*$", re.I)
 
 # thu tu uu tien khi bu them thong so - theo dung danh sach trong file review
 SPEC_PRIORITY = [
@@ -86,7 +95,13 @@ SPEC_PRIORITY = [
 
 
 def _trim(s, n=MAX_HL_LEN):
+    """SICK gop nhieu bien the vao 1 o, ngan bang ';'. Lay ve dau cho tron cau
+    thay vi cat cung giua chung roi bo dau '…'."""
     s = re.sub(r"\s+", " ", str(s or "")).strip()
+    if len(s) > n and ";" in s:
+        head = s.split(";")[0].strip()
+        if 25 <= len(head) <= n:          # ve dau du nghia thi dung luon
+            return head
     return s if len(s) <= n else s[:n].rsplit(" ", 1)[0] + "…"
 
 
@@ -107,6 +122,8 @@ def highlights(a):
                 if len(vi) >= MAX_HL:
                     return
                 if i in used or i >= len(sp_vi):
+                    continue
+                if SPEC_SKIP.match(str(kvp[0])):      # metadata catalog -> bo
                     continue
                 if not re.search(rx, str(kvp[0]), re.I):
                     continue

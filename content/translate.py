@@ -100,10 +100,11 @@ def _looks_untranslated(src, out):
 def vi_many(texts, sleep=0.1, batch=None, maxchars=None, kind="prose"):
     # LLM cho duoc nhieu chuoi hon han may dich -> gop to de it request
     # (free tier Gemini chi 500 request/ngay/model)
+    eng = _llm()
     if batch is None:
-        batch = 250 if _llm() else 60
+        batch = eng.chunk_size() if eng else 60
     if maxchars is None:
-        maxchars = 24000 if _llm() else 4000
+        maxchars = (batch * 95) if eng else 4000
     """Dich 1 loat chuoi (co cache). Nhanh hon vi() ~20 lan nho gop request."""
     global _dirty
     texts = [(t or "").strip() for t in texts]

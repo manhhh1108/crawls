@@ -22,16 +22,56 @@ import urllib.request
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 
-# Hang muc free tier tinh RIENG cho tung model (500 request/ngay/model), nen
-# khi model dau het quota (429) hoac qua tai (503) thi tu chuyen sang model sau.
-MODELS = [m.strip() for m in os.environ.get(
-    "GEMINI_MODEL",
-    "gemini-3.8-flash,gemini-3.1-flash-lite,gemini-flash-lite-latest,"
-    "gemini-3.5-flash,gemini-3.6-flash,gemini-3-flash-preview").split(",") if m.strip()]
-MODEL = MODELS[0]
+# Hang muc free tier tinh RIENG cho tung model VA tung nha cung cap, nen khi
+# model hien tai het quota (429) hoac qua tai (503) thi tu nhay sang muc sau.
+# Thu tu: Gemini truoc (tieng Viet tot nhat), Groq lam du phong.
+ENDPOINTS = [
+    ("gemini", "gemini-3.8-flash"),
+    ("gemini", "gemini-3.1-flash-lite"),
+    ("gemini", "gemini-flash-lite-latest"),
+    ("gemini", "gemini-3.5-flash"),
+    ("gemini", "gemini-3.6-flash"),
+    ("gemini", "gemini-3-flash-preview"),
+    ("groq", "GROQ_MODEL_1"),          # dien bang model that luc chay
+    ("groq", "GROQ_MODEL_2"),
+]
+GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta"
+GROQ_BASE = "https://api.groq.com/openai/v1"
 _cur = 0
-BASE = "https://generativelanguage.googleapis.com/v1beta"
 MAX_RETRY = 3
+
+
+def _env(name):
+    _load_dotenv()
+    return os.environ.get(name)
+
+
+def groq_models():
+    """Model chat cua Groq, uu tien ban lon (dich tot hon)."""
+    k = _env("GROQ_API_KEY")
+    if not k:
+        return []
+    d = _http(GROQ_BASE + "/models", None, 60, {"Authorization": "Bearer " + k})
+    ids = [m["id"] for m in d.get("data", []) if "whisper" not in m["id"]
+           and "tts" not in m["id"] and "guard" not in m["id"]]
+    ids.sort(key=lambda x: (0 if "120b" in x or "70b" in x or "qwen" in x.lower()
+                            else 1, x))
+    return ids
+
+
+def _resolve_endpoints():
+    """Thay 2 muc GROQ_MODEL_* bang model Groq that su co."""
+    global ENDPOINTS
+    if not any(m.startswith("GROQ_MODEL") for _p, m in ENDPOINTS):
+        return
+    real = []
+    try:
+        real = groq_models()[:2]
+    except Exception:
+        pass
+    out = [(p, m) for p, m in ENDPOINTS if not m.startswith("GROQ_MODEL")]
+    out += [("groq", m) for m in real]
+    ENDPOINTS = out
 
 
 # ---------------------------------------------------------------------------
@@ -71,12 +111,19 @@ def available():
 # ---------------------------------------------------------------------------
 # Goi API
 # ---------------------------------------------------------------------------
-def _http(url, data=None, timeout=90):
+def _http(url, data=None, timeout=90, extra_headers=None):
     """Goi HTTP bang urllib (KHONG dung subprocess curl - curl goi tu nhieu luong
     tren Windows/Git Bash bi deadlock o duong ong, da lam treo lan chay 14/10)."""
     req = urllib.request.Request(
         url, data=json.dumps(data).encode("utf-8") if data is not None else None,
-        headers={"Content-Type": "application/json"})
+        headers=dict({"Content-Type": "application/json",
+                      # Groq chan User-Agent mac dinh cua urllib o tang Cloudflare
+                      # (HTTP 403 error code 1010) -> phai dat UA trinh duyet
+                      "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+                                    "AppleWebKit/537.36 (KHTML, like Gecko) "
+                                    "Chrome/131.0.0.0 Safari/537.36",
+                      "Accept": "application/json"},
+                     **(extra_headers or {})))
     try:
         with urllib.request.urlopen(req, timeout=timeout) as r:
             return json.loads(r.read().decode("utf-8", "replace"))
@@ -88,11 +135,52 @@ def _http(url, data=None, timeout=90):
             raise RuntimeError("HTTP %s: %s" % (e.code, body[:300]))
 
 
-def _post(path, payload, timeout=90):
-    d = _http("%s/%s?key=%s" % (BASE, path, api_key()), payload, timeout)
+def _call_gemini(model, system, prompt, n):
+    d = _http("%s/models/%s:generateContent?key=%s" % (GEMINI_BASE, model, api_key()),
+              {"systemInstruction": {"parts": [{"text": system}]},
+               "contents": [{"role": "user", "parts": [{"text": prompt}]}],
+               "generationConfig": {"temperature": 0,
+                                    "responseMimeType": "application/json",
+                                    "responseSchema": {"type": "ARRAY",
+                                                       "items": {"type": "STRING"}}}})
     if "error" in d:
         raise RuntimeError("Gemini loi: %s" % json.dumps(d["error"])[:300])
-    return d
+    return d["candidates"][0]["content"]["parts"][0]["text"]
+
+
+def _call_groq(model, system, prompt, n):
+    """Groq dung chuan OpenAI. Khong co responseSchema -> ep JSON object
+    {"items":[...]} vi json_object mode cua ho khong nhan mang o cap cao nhat."""
+    k = _env("GROQ_API_KEY")
+    if not k:
+        raise RuntimeError("chua co GROQ_API_KEY")
+    d = _http(GROQ_BASE + "/chat/completions",
+              {"model": model, "temperature": 0, "max_tokens": 16000,
+               "response_format": {"type": "json_object"},
+               "messages": [
+                   {"role": "system", "content": system},
+                   {"role": "user", "content": prompt +
+                    '\n\nTra ve JSON dang {"items": [<%d chuoi da dich>]}' % n}]},
+              180, {"Authorization": "Bearer " + k})
+    if "error" in d:
+        raise RuntimeError("Groq loi: %s" % json.dumps(d["error"])[:300])
+    return d["choices"][0]["message"]["content"]
+
+
+CALLERS = {"gemini": _call_gemini, "groq": _call_groq}
+
+
+def _parse(txt, n):
+    got = json.loads(txt)
+    if isinstance(got, dict):
+        for key in ("items", "translations", "result", "data"):
+            if isinstance(got.get(key), list):
+                got = got[key]
+                break
+    if not isinstance(got, list) or len(got) != n:
+        raise RuntimeError("lech so dong: can %d, nhan %s"
+                           % (n, len(got) if isinstance(got, list) else type(got).__name__))
+    return [str(x).strip() for x in got]
 
 
 def list_models():
@@ -165,6 +253,18 @@ def build_prompt(items, kind, terms):
 # ---------------------------------------------------------------------------
 # Dich
 # ---------------------------------------------------------------------------
+# So chuoi toi da 1 request. De GIONG NHAU cho moi nha cung cap: giua chung co
+# the phai chuyen tu Gemini sang Groq, neu lo dang to (250) gui sang Groq thi
+# treo im lang (da gap 14/10, ket 50 phut). 60 chuoi/request chay ~4 giay,
+# ca bo 14.448 chuoi het ~241 request - van thoai mai trong moi han muc free.
+CHUNK = {"gemini": 60, "groq": 60}
+
+
+def chunk_size():
+    _resolve_endpoints()
+    return CHUNK.get(ENDPOINTS[_cur][0], 60)
+
+
 def translate_batch(items, kind="prose", terms=None):
     """Dich 1 lo chuoi -> list cung do dai. Nem Exception neu that bai."""
     items = [str(x) for x in items]
@@ -187,40 +287,36 @@ def translate_batch(items, kind="prose", terms=None):
     }
     global _cur
     import time
-    last = None
-    tried = 0
-    while tried < len(MODELS) * MAX_RETRY:
-        model = MODELS[_cur]
+    _resolve_endpoints()
+    system, prompt = SYSTEM, build_prompt(items, kind, terms)
+    last, tried = None, 0
+    while tried < len(ENDPOINTS) * MAX_RETRY:
+        prov, model = ENDPOINTS[_cur]
         try:
-            d = _post("models/%s:generateContent" % model, payload)
-            txt = d["candidates"][0]["content"]["parts"][0]["text"]
-            got = json.loads(txt)
-            if isinstance(got, list) and len(got) == len(items):
-                return [str(x).strip() for x in got]
-            last = RuntimeError("lech so dong: gui %d, nhan %d"
-                                % (len(items),
-                                   len(got) if isinstance(got, list) else -1))
+            return _parse(CALLERS[prov](model, system, prompt, len(items)), len(items))
         except Exception as e:
             last = e
             msg = str(e)
-            if ("429" in msg or "RESOURCE_EXHAUSTED" in msg
-                    or "503" in msg or "UNAVAILABLE" in msg):
-                if _cur + 1 < len(MODELS):
-                    _cur += 1
-                    print("  [doi model -> %s] (%s)"
-                          % (MODELS[_cur], "het quota" if "429" in msg else "qua tai"))
-                    tried += 1
-                    continue
+            busy = ("429" in msg or "RESOURCE_EXHAUSTED" in msg
+                    or "rate_limit" in msg or "503" in msg or "UNAVAILABLE" in msg)
+            if busy and _cur + 1 < len(ENDPOINTS):
+                _cur += 1
+                print("  [chuyen -> %s/%s] (%s)"
+                      % (ENDPOINTS[_cur][0], ENDPOINTS[_cur][1],
+                         "het quota" if "429" in msg or "rate_limit" in msg else "qua tai"))
+                tried += 1
+                continue
         tried += 1
         time.sleep(2 * min(tried, 4))
-    raise last or RuntimeError("that bai khong ro ly do")
+    raise last or RuntimeError("tat ca nha cung cap deu khong dung duoc")
 
 
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     if len(sys.argv) > 1 and sys.argv[1] == "--models":
-        for m in list_models():
-            print(" ", m)
+        _resolve_endpoints()
+        for p, m in ENDPOINTS:
+            print("  %-8s %s" % (p, m))
         sys.exit()
     args = sys.argv[1:] or ["Housing material", "Bus termination", "Drive concept"]
     for en, vi in zip(args, translate_batch(args, "key")):
