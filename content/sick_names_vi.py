@@ -14,6 +14,11 @@ Pham vi anh huong: The tag, Keyword chinh, Meta title, Meta description, mo ta
 Sua xong chi can chay lai `python build_sick_excel.py` (khong phai crawl lai).
 """
 
+import io
+import json
+import os
+import re
+
 NAME_VI = {
     # ---- Phu kien ----
     "Actuators for electromechanical safety switches":
@@ -64,6 +69,21 @@ NAME_VI = {
     "System plugs and front connectors Flexi":
         "Phích cắm hệ thống và đầu nối mặt trước Flexi",
     "System plugs Flexi Soft": "Phích cắm hệ thống Flexi Soft",
+
+    # ---- Sua tay sau review 18/10 (de thong nhat voi cac ten "... System"
+    #      da dich o tren, va sua vai cho may dich ra chua sat nghia) ----
+    "Coriva System": "Hệ thống Coriva",
+    "OccupID System": "Hệ thống OccupID",
+    "Lector65x System": "Hệ thống Lector65x",
+    "InspectorP Rack Fine Positioning": "Định vị chính xác giá kệ InspectorP",
+    "Muting arms": "Tay đỡ cảm biến muting",
+    "Stator couplings": "Khớp nối stato",
+    "USB sticks": "Thẻ nhớ USB",
+    "Standstill Monitor": "Bộ giám sát trạng thái dừng",
+    "Field-wireable connectors": "Đầu nối đấu dây tại hiện trường",
+    "Cloning modules": "Module sao chép cấu hình",
+    "Fieldbus modules": "Module bus trường",
+    "Display modules": "Module hiển thị",
 }
 
 # Ten GIU NGUYEN tieng Anh + ban dich goi y, phong khi muon doi y sau nay.
@@ -106,5 +126,34 @@ SUGGESTED = {
 }
 
 
+_JSON = os.path.join(os.path.dirname(os.path.abspath(__file__)),
+                     "out", "01 SICK", "names_vi.json")
+_CACHE = None
+
+
+def _norm(s):
+    return re.sub(r"\s+", " ", str(s or "").replace("\xa0", " ")).strip()
+
+
+def _loaded():
+    """Ban dich day du do sick_name_translate.py sinh (tu dien + Gemini + sua tay).
+
+    Thieu file thi van chay duoc bang NAME_VI o tren.
+    """
+    global _CACHE
+    if _CACHE is None:
+        try:
+            with io.open(_JSON, encoding="utf-8") as f:
+                _CACHE = {_norm(k): _norm(v) for k, v in json.load(f).items()}
+        except Exception:
+            _CACHE = {}
+    return _CACHE
+
+
 def name_vi(name):
-    return NAME_VI.get((name or "").strip(), name)
+    """Ten dong SP dung o COT B. Ten la ma/ten rieng cua SICK -> tra ve nguyen ban."""
+    key = _norm(name)
+    for src in (NAME_VI, SUGGESTED):          # chot tay thang truoc
+        if _norm(src.get(key, "")):
+            return _norm(src[key])
+    return _loaded().get(key) or name

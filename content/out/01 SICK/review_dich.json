@@ -1,45 +1,24 @@
 [
  [
-  "HF transponders",
+  "FlexChain",
   "Giá trị thông số",
   "chua dich",
-  "NXP ICODE SLIX2; Fujitsu MB89R118; Texas Instruments Tag-it HF-I; NXP ICODE SLIX",
-  "NXP ICODE SLIX2; Fujitsu MB89R118; Texas Instruments Tag-it HF-I; NXP ICODE SLIX"
+  "IO-Link (V1.1); Serial (RS-485); CANopen; IO-Link; Serial",
+  "IO-Link (V1.1); Serial (RS-485); CANopen; IO-Link; Serial"
  ],
  [
-  "UHF transponders",
+  "Visionary-B Two",
   "Giá trị thông số",
   "chua dich",
-  "NXP UCODE G2iM; Impinj Monza 4E; NXP UCODE 9xm; Impinj Monza 4QT; Impinj Monza X 8k; NXP UCODE G2XM (+9 tuỳ chọn khác)",
-  "NXP UCODE G2iM; Impinj Monza 4E; NXP UCODE 9xm; Impinj Monza 4QT; Impinj Monza X 8k; NXP UCODE G2XM (+9 tuỳ chọn khác)"
+  "SICK AppStudio, SICK AppManager, SOPASair",
+  "SICK AppStudio, SICK AppManager, SOPASair"
  ],
  [
-  "MLG-2",
+  "DFS2x",
   "Giá trị thông số",
   "chua dich",
-  "2 x analog + 2 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 4 x Q (IO-Link); RS-485 + 6 x Q + 2 x I/O; 2 x analog + 1 x Q (IO-Link); 3 x Q (IO-Link)",
-  "2 x analog + 2 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 4 x Q (IO-Link); RS-485 + 6 x Q + 2 x I/O; 2 x analog + 1 x Q (IO-Link); 3 x Q (IO-Link)"
- ],
- [
-  "MLG-2",
-  "Giá trị thông số",
-  "chua dich",
-  "MLGxxNxxxxHxxxxx; MLGxxS-xxxxAx; MLGxxN-xxxxEx; MLGxxA-xxxxBx; MLGxxA-xxxxRx; MLGxxA-xxxxIx (+3 tuỳ chọn khác)",
-  "MLGxxNxxxxHxxxxx; MLGxxS-xxxxAx; MLGxxN-xxxxEx; MLGxxA-xxxxBx; MLGxxA-xxxxRx; MLGxxA-xxxxIx (+3 tuỳ chọn khác)"
- ],
- [
-  "MLG-2 WebChecker",
-  "Giá trị thông số",
-  "chua dich",
-  "4 x Q (IO-Link); 1 x analog + 3 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 2 x analog + 2 x Q (IO-Link)",
-  "4 x Q (IO-Link); 1 x analog + 3 x Q (IO-Link); RS-485 + 2 x Q (IO-Link); 2 x analog + 2 x Q (IO-Link)"
- ],
- [
-  "W12",
-  "Giá trị thông số",
-  "chua dich",
-  "W12-3; W12-2 AS-i; W12 Teflon; W12; W12-2 Laser; W12G",
-  "W12-3; W12-2 AS-i; W12 Teflon; W12; W12-2 Laser; W12G"
+  "TTL / RS-422; HTL / Push pull; Open Collector; TTL / HTL",
+  "TTL / RS-422; HTL / Push pull; Open Collector; TTL / HTL"
  ],
  [
   "Industrial Ethernet cables and fieldbus cables",
@@ -47,5 +26,19 @@
   "chua dich",
   "PROFIBUS, CANopen, Interbus, PROFINET, EtherNet/IP™ & Gigabit Ethernet",
   "PROFIBUS, CANopen, Interbus, PROFINET, EtherNet/IP™ & Gigabit Ethernet"
+ ],
+ [
+  "DWS Dynamic",
+  "Giá trị thông số",
+  "chua dich",
+  "1D; 2D; RFID; PDF417; Aztec; 4-state; Maxi-Code",
+  "1D; 2D; RFID; PDF417; Aztec; 4-state; Maxi-Code"
+ ],
+ [
+  "DWS Pallet",
+  "Giá trị thông số",
+  "chua dich",
+  "1D; 2D; PDF417; Aztec; 4-state; Maxi-Code",
+  "1D; 2D; PDF417; Aztec; 4-state; Maxi-Code"
  ]
 ]

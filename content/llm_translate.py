@@ -39,6 +39,11 @@ GEMINI_BASE = "https://generativelanguage.googleapis.com/v1beta"
 GROQ_BASE = "https://api.groq.com/openai/v1"
 _cur = 0
 MAX_RETRY = 3
+# Han muc free cua Gemini tinh theo PHUT: dinh 429 thi nghi 60s roi dung lai
+# duoc, khong nen bo han model tot nhat.
+COOLDOWN = 60
+MAX_ROUNDS = 60
+_cooldown = [0.0] * 32          # thoi diem moi muc duoc dung lai
 
 
 def _env(name):
@@ -72,6 +77,9 @@ def _resolve_endpoints():
     out = [(p, m) for p, m in ENDPOINTS if not m.startswith("GROQ_MODEL")]
     out += [("groq", m) for m in real]
     ENDPOINTS = out
+    global _cooldown
+    if len(_cooldown) < len(ENDPOINTS):
+        _cooldown += [0.0] * (len(ENDPOINTS) - len(_cooldown))
 
 
 # ---------------------------------------------------------------------------
@@ -161,7 +169,7 @@ def _call_groq(model, system, prompt, n):
                    {"role": "system", "content": system},
                    {"role": "user", "content": prompt +
                     '\n\nTra ve JSON dang {"items": [<%d chuoi da dich>]}' % n}]},
-              180, {"Authorization": "Bearer " + k})
+              90, {"Authorization": "Bearer " + k})
     if "error" in d:
         raise RuntimeError("Groq loi: %s" % json.dumps(d["error"])[:300])
     return d["choices"][0]["message"]["content"]
@@ -289,25 +297,39 @@ def translate_batch(items, kind="prose", terms=None):
     import time
     _resolve_endpoints()
     system, prompt = SYSTEM, build_prompt(items, kind, terms)
-    last, tried = None, 0
-    while tried < len(ENDPOINTS) * MAX_RETRY:
-        prov, model = ENDPOINTS[_cur]
+
+    last = None
+    for rounds in range(MAX_ROUNDS):
+        # chon muc dau tien chua bi phat (thu tu ENDPOINTS = thu tu uu tien,
+        # Gemini truoc vi tieng Viet tot nhat)
+        now = time.time()
+        idx = next((i for i in range(len(ENDPOINTS)) if _cooldown[i] <= now), None)
+        if idx is None:
+            wait = min(max(min(_cooldown) - now, 1), 90)
+            print("  [cho %ds - moi nha cung cap deu dang bi gioi han]" % int(wait))
+            time.sleep(wait)
+            continue
+        if idx != _cur:
+            print("  [chuyen -> %s/%s]" % ENDPOINTS[idx])
+        _cur = idx
+        prov, model = ENDPOINTS[idx]
         try:
             return _parse(CALLERS[prov](model, system, prompt, len(items)), len(items))
         except Exception as e:
             last = e
             msg = str(e)
-            busy = ("429" in msg or "RESOURCE_EXHAUSTED" in msg
-                    or "rate_limit" in msg or "503" in msg or "UNAVAILABLE" in msg)
-            if busy and _cur + 1 < len(ENDPOINTS):
-                _cur += 1
-                print("  [chuyen -> %s/%s] (%s)"
-                      % (ENDPOINTS[_cur][0], ENDPOINTS[_cur][1],
-                         "het quota" if "429" in msg or "rate_limit" in msg else "qua tai"))
-                tried += 1
+            quota = "429" in msg or "RESOURCE_EXHAUSTED" in msg or "rate_limit" in msg
+            busy = "503" in msg or "UNAVAILABLE" in msg or "timed out" in msg.lower()
+            if quota or busy:
+                # Phat muc nay mot luc roi quay lai - han muc free cua Gemini
+                # tinh theo PHUT, cho 60s la dung tiep duoc, khong phai bo han
+                # sang Groq (Groq hay treo im lang, da ket 50 phut hom 14/10).
+                _cooldown[idx] = time.time() + (COOLDOWN if quota else COOLDOWN / 2)
+                print("  [%s/%s %s -> nghi %ds]"
+                      % (prov, model, "het quota" if quota else "qua tai",
+                         int(_cooldown[idx] - time.time())))
                 continue
-        tried += 1
-        time.sleep(2 * min(tried, 4))
+            time.sleep(2 * min(rounds + 1, 4))
     raise last or RuntimeError("tat ca nha cung cap deu khong dung duoc")
 
 

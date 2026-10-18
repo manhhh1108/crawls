@@ -20,6 +20,8 @@ sys.path.insert(0, REPO)
 sys.path.insert(0, HERE)
 
 import brandimg                                   # noqa: E402
+import ntrend_cat                                 # noqa: E402
+import sick_tdo                                   # noqa: E402
 from translate import _flush                      # noqa: E402
 from vi_engine import (lookup, suspicious, translate_many,  # noqa: E402
                        add_keep_names)
@@ -56,6 +58,8 @@ SRC_IMG = os.path.join(OUT_DIR, "src_img")
 BRAND_IMG = os.path.join(OUT_DIR, "images")
 for p in (OUT_DIR, SRC_IMG, BRAND_IMG):
     os.makedirs(p, exist_ok=True)
+
+TDO = sick_tdo.load()   # {gcode: [[ten thong so, gia tri], ...]} - xem sick_tdo.py
 
 MAX_OVERVIEW = 4        # so doan mo ta dai
 MAX_BULLETS = 10        # so gach dau dong (Features + Benefits)
@@ -95,25 +99,29 @@ def build_one(rec, review):
     name = rec["name"]
     slug = slugify(name)
     type_en, type_vi = type_of(rec)
+    cat_vi = ntrend_cat.cat_vi(name, rec.get("cat_vi", ""))
 
     overview_en = rec.get("overview_en", [])[:MAX_OVERVIEW]
     bullets_en = (rec.get("features_en", []) + rec.get("benefits_en", []))[:MAX_BULLETS]
     bullets_en = [b.strip() for b in bullets_en if b.strip()]
 
-    # gom het chuoi roi dich 1 loat (gop request -> nhanh hon rat nhieu)
-    attrs = rec.get("attrs", [])
-    a_keys = [a[0] for a in attrs]
-    a_vals, spans = [], []
-    for _n, _u, vals in attrs:
-        v = vals[:MAX_VALS]
-        spans.append((len(a_vals), len(v), len(vals) - len(v)))
-        a_vals += v
+    # Thong so ky thuat = bang TECHNICAL DATA OVERVIEW trong tai lieu Product
+    # overview cua hang (review 13/10). Dong nao tai lieu khong co muc do thi
+    # de trong - build_sick_excel se in BANG VARIANT thay the.
+    tdo = TDO.get(rec.get("code")) or []
+    a_keys = [k for k, _v in tdo]
+    a_vals = [v for _k, v in tdo]
+    # mo ta tung variant (cot Description tren web) - chi co o cac dong se in
+    # bang Variant
+    v_desc = [x for x in dict.fromkeys(
+        (v.get("desc") or "").strip() for v in rec.get("variants", [])) if x]
     # Slogan (hang) + Linh vuc ung dung da bo khoi bai dang -> khong dich nua
     prose_src = overview_en + bullets_en
 
     keys_vi = translate_many(a_keys, "key")
     vals_vi = translate_many(a_vals, "value")
     prose_vi = translate_many(prose_src, "prose")
+    desc_vi = dict(zip(v_desc, translate_many(v_desc, "value"))) if v_desc else {}
     slogan_vi = ""
 
     n_ov, n_bl = len(overview_en), len(bullets_en)
@@ -121,13 +129,8 @@ def build_one(rec, review):
     bl_vi = prose_vi[n_ov:n_ov + n_bl]
     app_vi = []
 
-    specs_en, specs_vi = [], []
-    for (aname, unit, vals), kvi, (off, cnt, more) in zip(attrs, keys_vi, spans):
-        sfx = (" (+%d tuỳ chọn khác)" % more) if more > 0 else ""
-        specs_en.append([aname + (" [%s]" % unit if unit else ""),
-                         "; ".join(vals[:cnt]) + sfx])
-        specs_vi.append([kvi + (" [%s]" % unit if unit else ""),
-                         "; ".join(vals_vi[off:off + cnt]) + sfx])
+    specs_en = [[k, v] for k, v in tdo]
+    specs_vi = [[kv, vv] for kv, vv in zip(keys_vi, vals_vi)]
 
     # soat dich
     for field, pairs in (("Mô tả dài", zip(overview_en, ov_vi)),
@@ -163,15 +166,18 @@ def build_one(rec, review):
         "brand": BRAND, "brand_field": "SICK Sensor",
         "code": rec.get("code", ""), "stt_src": rec.get("stt", ""),
         "type_en": type_en, "type_vi": type_vi,
-        "cat_vi": rec.get("cat_vi", ""), "cat_en": rec.get("cat_en", ""),
+        "cat_vi": cat_vi, "cat_en": ntrend_cat.cat_en(cat_vi, rec.get("cat_en", "")),
         "slogan_en": rec.get("slogan", ""),
         "slogan_vi": slogan_vi,
         "overview_en": overview_en, "overview_vi": ov_vi,
         "features_en": bullets_en, "features_vi": bl_vi,
         "applications_en": rec.get("applications_en", []), "applications_vi": app_vi,
         "specs_en": specs_en, "specs_vi": specs_vi,
-        "items": [{"name": v["name"], "material": "", "art": v["part"]}
+        "items": [{"name": v["name"], "material": "", "art": v["part"],
+                   "desc": (v.get("desc") or "").strip(),
+                   "desc_vi": desc_vi.get((v.get("desc") or "").strip(), "")}
                   for v in rec.get("variants", [])],
+        "has_tdo": bool(tdo),
         "variant_total": rec.get("variant_total", 0),
         "n_products": rec.get("n_products", 0),
         "img_src_url": url, "img_file": img_file,
@@ -189,10 +195,12 @@ def prewarm(lines, chunk=400):
     """
     bag = {"key": set(), "value": set(), "prose": set()}
     for r in lines:
-        for _n, _u, vals in r.get("attrs", []):
-            bag["key"].add(_n)
-            for v in vals[:MAX_VALS]:
-                bag["value"].add(v)
+        for k, v in TDO.get(r.get("code")) or []:
+            bag["key"].add(k)
+            bag["value"].add(v)
+        for v in r.get("variants", []):
+            if (v.get("desc") or "").strip():
+                bag["value"].add(v["desc"].strip())
         bag["prose"].update(r.get("overview_en") or [])
         bag["prose"].update(r.get("features_en") or [])
         bag["prose"].update(r.get("benefits_en") or [])
@@ -242,11 +250,18 @@ def main():
     # ten rieng cua SICK (dong SP + model) -> khong dich
     # chi can nap ten KHONG co chu so; ten co chu so (W16, FLX3-CPUN100...) da
     # duoc RX_CODE trong vi_engine bat san.
+    # Ten da co ban dich tieng Viet (xem sick_name_translate.py) thi KHONG phai
+    # ten rieng -> de may dich dich binh thuong, neu khong cau van se ra kieu
+    # "GPS antennas tu SICK cung cap..." (review 13/10 muc 4).
+    from sick_names_vi import name_vi
     names = set()
     for r in lines:
         for n in (r.get("name"), r.get("api_name")):
+            n = (n or "").strip()
+            if n and name_vi(n) != n:
+                continue
             if n and is_proper_name(n) and not re.search(r"\d", n):
-                names.add(n.strip())
+                names.add(n)
     names |= {"Safety Designer", "Flexi Loop", "Safe Motion", "Smart Task",
               "Safety Configuration Deployment", "EFI", "EFI-pro", "ReLy",
               "BluePilot", "AppSpace", "SOPAS", "SOPAS ET"}

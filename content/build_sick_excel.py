@@ -227,14 +227,18 @@ def build_article(a, i, out_dir):
     # Theo review 'Crawl noi dung Ntrend.docx':
     #   Mo ta DAI   = 8-10 gach dau dong dac diem/thong so quan trong
     #   Mo ta NGAN  = doan overview cua web hang
-    long_vi, long_en = highlights(a)
-    if not long_vi:
-        long_vi, long_en = fmt_vi(LONG_TPL_VI, cv), LONG_TPL_EN.format(**ce)
     if a.get("overview_vi"):
         short_vi = "\n\n".join(a["overview_vi"])
         short_en = "\n\n".join(a["overview_en"])
     else:
         short_vi, short_en = fmt_vi(SHORT_TPL_VI, cv), SHORT_TPL_EN.format(**ce)
+
+    # Review 13/10: 83 dong SP hang khong cong bo Features/Benefits thi "Mo ta
+    # dai" lay y nguyen "Mo ta ngan". Truoc day ghep tu metadata catalog -> ra
+    # list "San pham moi: Khong / Phan khuc san pham: ..." vo nghia.
+    long_vi, long_en = highlights(a) if a.get("features_vi") else ("", "")
+    if not long_vi:
+        long_vi, long_en = short_vi, short_en
     if has_specs:
         sd_vi, sd_en = fmt_vi(SPECDESC_TPL_VI, cv), SPECDESC_TPL_EN.format(**ce)
     elif a.get("items"):
@@ -274,12 +278,25 @@ def build_article(a, i, out_dir):
     items = a.get("items") or []
     if items:
         shown = items[:MAX_ITEM_ROWS]
-        label = "Bảng mã sản phẩm"
+        # Review 13/10: dong SP khong co bang TECHNICAL DATA OVERVIEW thi bang
+        # ma san pham chinh LA bang thong so -> lay nguyen bang o tab Variants,
+        # ke ca cot Description.
+        has_desc = any(it.get("desc") for it in shown)
+        label = "Bảng mã sản phẩm" if has_specs \
+            else "Thông số chi tiết (bảng mã ở tab Variants)"
         if len(items) > len(shown):
             label += " (%d/%d model)" % (len(shown), len(items))
-        table_header(ws, label, ["Model", "Mã đặt hàng (Part No.)"])
+        cols = ["Model", "Mã đặt hàng (Part No.)"]
+        if has_desc:
+            cols += ["Mô tả", "Description (EN)"]
+        table_header(ws, label, cols)
         for it in shown:
-            ws.append(["", it["name"], it["art"]])
+            row = ["", it["name"], it["art"]]
+            if has_desc:
+                row += [it.get("desc_vi") or "", it.get("desc") or ""]
+            ws.append(row)
+            for c in range(2, len(row) + 1):
+                ws.cell(row=ws.max_row, column=c).alignment = WRAP
         if len(items) > len(shown):
             ws.append(["", "... còn %d model khác, xem đầy đủ tại trang nguồn"
                        % (len(items) - len(shown)), ""])
@@ -297,7 +314,7 @@ def build_article(a, i, out_dir):
         ws.cell(row=ws.max_row, column=2).alignment = WRAP
     ws.append(["Nguồn", a["url_src"] or "(không còn trang trên web SICK)", ""])
     ws.append(["Mã danh mục SICK", a.get("code", ""), ""])
-    for i2, w in enumerate([34, 62, 62, 34, 46], 1):
+    for i2, w in enumerate([34, 62, 62, 34, 62], 1):
         ws.column_dimensions[get_column_letter(i2)].width = w
 
     if a.get("img_file") and os.path.exists(a["img_file"]):
@@ -352,23 +369,42 @@ def build(src_dir, out_dir):
     iw["A1"] = "MỤC LỤC BÀI ĐĂNG - 01 SICK"
     iw["A1"].font = Font(bold=True, size=13, color="1F4E79")
     iw.append([])
-    iw.append(["STT", "Dòng sản phẩm", "File", "Ảnh", "Có TSKT", "Số model",
+    iw.append(["STT", "Dòng sản phẩm", "File", "Ảnh", "Nguồn thông số", "Số model",
                "Danh mục Ntrend (VI)", "Nguồn"])
     for c in range(1, 9):
         iw.cell(row=3, column=c).fill = HDR_FILL
         iw.cell(row=3, column=c).font = HDR_FONT
-    for i, w in enumerate([6, 34, 50, 6, 9, 10, 52, 62], 1):
+    for i, w in enumerate([6, 34, 50, 6, 22, 10, 52, 62], 1):
         iw.column_dimensions[get_column_letter(i)].width = w
     iw.freeze_panes = "A4"
 
+    written = set()
     for i, a in enumerate(arts, 1):
         fname = build_article(a, i, out_dir)
+        written.add(fname)
         iw.append([i, a["name"], fname, "x" if a.get("img_file") else "",
-                   "x" if a.get("specs_en") else "", len(a.get("items") or []),
+                   "Technical data overview" if a.get("specs_en")
+                   else ("Bảng mã ở Variants" if a.get("items") else "(không có)"),
+                   len(a.get("items") or []),
                    a.get("cat_vi", ""), a["url_src"]])
     idx.save(os.path.join(out_dir, "00 MUC LUC.xlsx"))
     n = build_review(out_dir, src_dir)
+
+    # Doi thu tu / doi ten dong SP la file cu khong bi ghi de -> thu muc lan
+    # lon ca 2 phien ban (lan 18/10 con sot 618 file cua lan 10/10). Xoa het
+    # file bai KHONG nam trong lan dung nay. Chi dong toi file dat ten theo
+    # dung mau "NNN - <ten>.xlsx", khong dong vao "00 ..." hay thu muc images/.
+    stale = [f for f in os.listdir(out_dir)
+             if re.match(r"^\d{3} - .+\.xlsx$", f) and f not in written]
+    for f in stale:
+        try:
+            os.remove(os.path.join(out_dir, f))
+        except OSError:
+            pass
+
     print("Saved %d bai -> %s" % (len(arts), out_dir))
+    if stale:
+        print("  da xoa %d file bai cu khong con dung" % len(stale))
     if n:
         print("  + 00 CAN SOAT DICH.xlsx (%d dong can soat tay)" % n)
 

@@ -17,6 +17,11 @@ REPO = os.path.dirname(HERE)
 sys.path.insert(0, REPO)
 from shared.fetcher import try_fetch  # noqa: E402
 
+sys.path.insert(0, HERE)
+import sick_tdo                       # noqa: E402
+
+TDO = sick_tdo.load()                 # {gcode: [[ten, gia tri], ...]}
+
 XLSX = os.path.join(REPO, "data", "SICK - dong SP can crawl.xlsx")
 SHEET = "Thong ke SP SICK Web SP"
 OUT_DIR = os.path.join(HERE, "out", "01 SICK")
@@ -28,6 +33,9 @@ DETAIL = ("https://www.sick.com/api/fact-finder/records/detail/enSG-sick/%s"
 IDS = ("https://www.sick.com/api/fact-finder/search/enSG-sick?query=%%2A"
        "&filter=DefType%%3AProductVariant&filter=ProductFamilyCode%%3A%s"
        "&page=%d&hitsPerPage=200&showPermutedSearchParams=false&idsOnly=true")
+# ban day du (nang hon ~15 KB/variant) - chi dung cho cac dong se in BANG VARIANT
+# lam bang thong so, vi can them cot Description nhu tren web.
+FULL = IDS.replace("&idsOnly=true", "")
 PRODS = "https://api.sick.com/occ/v2/sg/sick-products?productCodes=%s&lang=en&curr=SGD"
 REF = "https://www.sick.com/sg/en/"
 SITE = "https://www.sick.com"
@@ -70,6 +78,31 @@ def attr_rows(mv):
     return rows
 
 
+def variant_desc(mv):
+    """Cot 'Description' cua bang Variants tren web sick.com.
+
+    Uu tien facet 'Description<@><id>' (id khac nhau tuy nhom SP), sau do bang
+    Features trong TechData, cuoi cung cat tu chuoi 'A | B | C | Description: ...'.
+    """
+    for k, v in mv.items():
+        if k.startswith("Description<@>"):
+            vals = v if isinstance(v, list) else [v]
+            vals = [txt(str(x)) for x in vals if str(x).strip()]
+            if vals:
+                return "; ".join(dict.fromkeys(vals))
+    td = mv.get("TechData") or []
+    td = json.loads(td) if isinstance(td, str) else td
+    for grp in td:
+        if (grp.get("Title") or "").lower() != "features":
+            continue
+        for k, v in re.findall(r"<tr><td>(.*?)</td><td>(.*?)</td></tr>",
+                               grp.get("Value") or "", re.S):
+            if txt(k).lower() == "description":
+                return txt(v)
+    m = re.search(r"\|\s*Description:\s*(.+)$", txt(mv.get("Description") or ""))
+    return txt(m.group(1)) if m else ""
+
+
 def jget(url, **kw):
     kw.setdefault("retries", 3)
     kw.setdefault("timeout", 90)
@@ -83,7 +116,35 @@ def jget(url, **kw):
         return None
 
 
-def variants(code, total_hint=0):
+def variants(code, total_hint=0, want_desc=False):
+    """want_desc=True -> keo ban ghi day du de co luon ten + part + Description
+    (dung cho dong SP se in bang Variant thay cho bang thong so)."""
+    if want_desc:
+        out, page, pages, seen = [], 1, 1, set()
+        while page <= pages and page <= 40:
+            d = jget(FULL % (code, page))
+            if not d:
+                break
+            hits = d.get("hits") or []
+            for h in hits:
+                mv = h.get("masterValues") or {}
+                part = txt(mv.get("PartNumber") or "")
+                nm = txt(mv.get("DefName") or "")
+                key = part or nm
+                if not key or key in seen:
+                    continue
+                seen.add(key)
+                out.append({"name": nm, "part": part,
+                            "desc": variant_desc(mv),
+                            "url": SITE + (mv.get("DefUrl") or "")
+                                   if mv.get("DefUrl") else ""})
+            tot = d.get("totalHits") or len(out)
+            pages = max(1, math.ceil(tot / 200))
+            if not hits:
+                break
+            page += 1
+        return out, len(out)
+
     ids, page, pages = [], 1, 1
     while page <= pages and page <= 40:
         d = jget(IDS % (code, page))
@@ -149,7 +210,32 @@ def main():
         if not main_img and gallery:
             main_img = gallery[0]
 
-        vs, ntot = variants(ln["code"], ln["n_products"])
+        # link tai lieu "Product overview" (PDF) - nguon cua bang TECHNICAL DATA
+        # OVERVIEW, xem sick_tdo.py
+        dj = mv.get("DownloadJson") or []
+        try:
+            dj = json.loads(dj) if isinstance(dj, str) else dj
+        except Exception:
+            dj = []
+        pdf_overview = ""
+        for e in dj:
+            if e.get("Language") == "en" and "productoverview" in (e.get("DefArticleNo") or ""):
+                pdf_overview = e.get("Path") or ""
+                break
+
+        feats = [txt(x) for x in (mv.get("Features") or []) if txt(x)]
+        bens = [txt(x) for x in (mv.get("Benefits") or []) if txt(x)]
+        # Bai se in BANG VARIANT lam bang thong so khi khong lay duoc bang
+        # TECHNICAL DATA OVERVIEW => can them cot Description cho tung variant.
+        # Lan chay dau (chua co tdo.json) chi biet 2 dau hieu chac chan: khong
+        # co Features/Benefits, hoac khong co tai lieu Product overview. Chay
+        # sick_tdo.py xong roi chay lai file nay thi biet them nhung dong co
+        # tai lieu nhung tai lieu khong chua muc TECHNICAL DATA OVERVIEW.
+        want_desc = not (feats or bens) or not pdf_overview
+        if TDO and not TDO.get(ln["code"]):
+            want_desc = True
+
+        vs, ntot = variants(ln["code"], ln["n_products"], want_desc=want_desc)
         rec = dict(ln)
         rec.update({
             "api_name": mv.get("DefName") or ln["name"],
@@ -157,8 +243,8 @@ def main():
             "family_group": mv.get("ProductFamilyGroup") or "",
             "slogan": txt(mv.get("Slogan") or ""),
             "overview_en": paras(mv.get("Description") or mv.get("DefDescription") or ""),
-            "features_en": [txt(x) for x in (mv.get("Features") or []) if txt(x)],
-            "benefits_en": [txt(x) for x in (mv.get("Benefits") or []) if txt(x)],
+            "features_en": feats,
+            "benefits_en": bens,
             "applications_en": [txt(x) for x in (mv.get("FieldsOfApplication") or []) if txt(x)],
             "meta_title": mv.get("MetaTitle") or "",
             "meta_desc": txt(mv.get("MetaDescription") or ""),
@@ -167,15 +253,17 @@ def main():
             "def_type": mv.get("DefType") or "",
             "phase": mv.get("PhaseStatus") or "",
             "attrs": attr_rows(mv),
+            "pdf_overview": pdf_overview,
             "main_image": (SITE + main_img) if main_img else "",
             "gallery": [SITE + u for u in gallery[:6]],
             "variants": vs, "variant_total": ntot,
         })
         done.append(rec)
-        print("  %3d/%d %-34s ov=%d ft=%d bn=%d attr=%2d var=%4d %s"
+        print("  %3d/%d %-34s ov=%d ft=%d bn=%d attr=%2d var=%4d %s %s"
               % (i, len(lines), ln["name"][:34], len(rec["overview_en"]),
                  len(rec["features_en"]), len(rec["benefits_en"]),
-                 len(rec["attrs"]), ntot, "img" if main_img else "---"))
+                 len(rec["attrs"]), ntot, "img" if main_img else "---",
+                 "pdf" if pdf_overview else "NO-PDF"))
         if i % 25 == 0:
             with io.open(os.path.join(OUT_DIR, "raw.json"), "w", encoding="utf-8") as f:
                 json.dump({"brand": "01 SICK", "lines": done}, f, ensure_ascii=False)
