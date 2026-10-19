@@ -39,6 +39,7 @@ FULL = IDS.replace("&idsOnly=true", "")
 PRODS = "https://api.sick.com/occ/v2/sg/sick-products?productCodes=%s&lang=en&curr=SGD"
 REF = "https://www.sick.com/sg/en/"
 SITE = "https://www.sick.com"
+MAX_DESC_PAIRS = 6   # so cap "Key: Value" toi da cho cot Mo ta cua 1 variant
 
 
 def txt(s):
@@ -81,8 +82,12 @@ def attr_rows(mv):
 def variant_desc(mv):
     """Cot 'Description' cua bang Variants tren web sick.com.
 
-    Uu tien facet 'Description<@><id>' (id khac nhau tuy nhom SP), sau do bang
-    Features trong TechData, cuoi cung cat tu chuoi 'A | B | C | Description: ...'.
+    Truong Description cua variant la chuoi ngan bang '|':
+        <nhom SP> | <dong SP> | <ma model> | Key: Value | Key: Value | ...
+    - Neu co doan ghi dung 'Description: ...' (nhom phu kien) -> lay doan do.
+    - Khong co thi lay cac cap Key: Value, tuc THONG SO PHAN BIET giua cac ma
+      trong cung dong SP (review 19/10) - bo 3 doan dau vi chi lap lai nhom /
+      dong SP / ten model da co o cot ben canh.
     """
     for k, v in mv.items():
         if k.startswith("Description<@>"):
@@ -99,8 +104,19 @@ def variant_desc(mv):
                                grp.get("Value") or "", re.S):
             if txt(k).lower() == "description":
                 return txt(v)
-    m = re.search(r"\|\s*Description:\s*(.+)$", txt(mv.get("Description") or ""))
-    return txt(m.group(1)) if m else ""
+
+    raw = txt(mv.get("Description") or "")
+    if not raw:
+        return ""
+    parts = [p.strip() for p in raw.split("|") if p.strip()]
+    for p in parts:
+        if p.lower().startswith("description:"):
+            return txt(p.split(":", 1)[1])
+    pairs = [p for p in parts[3:] if ":" in p]
+    # bo cap khong co gia tri ("Analog output: -") va cap lap lai ten dong SP
+    pairs = [p for p in pairs
+             if txt(p.split(":", 1)[1]).strip(" -") not in ("", "-")]
+    return "; ".join(pairs[:MAX_DESC_PAIRS])
 
 
 def jget(url, **kw):
@@ -231,9 +247,9 @@ def main():
         # co Features/Benefits, hoac khong co tai lieu Product overview. Chay
         # sick_tdo.py xong roi chay lai file nay thi biet them nhung dong co
         # tai lieu nhung tai lieu khong chua muc TECHNICAL DATA OVERVIEW.
-        want_desc = not (feats or bens) or not pdf_overview
-        if TDO and not TDO.get(ln["code"]):
-            want_desc = True
+        # Review 19/10: bang ma san pham cua MOI bai deu co cot Mo ta
+        # -> luon keo ban ghi day du (nang hon nhung it request hon duong nhe).
+        want_desc = True
 
         vs, ntot = variants(ln["code"], ln["n_products"], want_desc=want_desc)
         rec = dict(ln)

@@ -36,6 +36,22 @@ SKIP_PATH = ("Digital services and software",)
 # Software nam lan trong nhom khac
 SKIP_NAME = ("Flexi Soft Designer", "Safety Designer", "Triton Floor-LOC")
 
+# Review 19/10: 11 trang DANH MUC (0 ma san pham + 0 Features/Benefits tren web
+# SICK) - khong phai dong san pham, tim tren o search sick.com cung khong ra.
+SKIP_CODE = {
+    "g407184",   # Air quality measuring devices
+    "g284256",   # Digital analyzer solutions
+    "g54727",    # Dust Measuring Devices
+    "g54724",    # Gas Analyzers
+    "g284260",   # Smoke detectors
+    "g284262",   # Visual range measuring devices
+    "g543722",   # Digital flow solutions
+    "g543714",   # Flow measurement instruments
+    "g472151",   # Flow metering systems
+    "g543715",   # Flow meters
+    "g575324",   # Other products
+}
+
 PLACEHOLDER_FULL = ("Không có danh mục sản phẩm,  chỉ nằm trong danh mục "
                     "Thương Hiệu SICK Sensor")
 
@@ -129,6 +145,8 @@ def main():
             skipped.append((name, "nhom software/tools"))
         elif name in SKIP_NAME:
             skipped.append((name, "software le"))
+        elif (v[9] or "").strip() in SKIP_CODE:
+            skipped.append((name, "trang danh muc (0 ma SP)"))
         else:
             code = (v[9] or "").strip()
             cvi, cen = CAT_FIX.get(code) or cats.get(code, ("", ""))
@@ -159,7 +177,8 @@ def main():
     no_cat = [k["name"] for k in keep if not k["cat_vi"]]
     print("giu   : %d dong SP" % len(keep))
     print("bo    : %d dong" % len(skipped))
-    for lab in ("boi vang", "nhom software/tools", "software le"):
+    for lab in ("boi vang", "nhom software/tools", "software le",
+                "trang danh muc (0 ma SP)"):
         print("        %-22s %d" % (lab, sum(1 for _, r in skipped if r == lab)))
     print("thieu danh muc Ntrend VI: %d dong" % len(no_cat))
     for n in no_cat:

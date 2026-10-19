@@ -176,7 +176,11 @@ def ctx_vi(a):
     # don khoang trang thua.
     if c["name"] != a["name"]:
         c["type_c"] = c["name"]
-        c["type_l"] = c["name"][:1].lower() + c["name"][1:]   # giu nguyen RFID, GPS...
+        # viet thuong chu dau cho hop giua cau, NHUNG giu nguyen neu tu dau la
+        # chu viet tat (CSS, RFID, GPS...) - neu khong se ra "Mua cSS do phan giai cao"
+        first = c["name"].split(" ")[0].split("/")[0]
+        c["type_l"] = (c["name"] if (len(first) > 1 and first.isupper())
+                       else c["name"][:1].lower() + c["name"][1:])
         c["name_brand"] = a["brand"]
         c["name"] = ""
     return c

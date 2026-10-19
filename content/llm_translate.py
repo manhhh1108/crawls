@@ -46,6 +46,22 @@ MAX_ROUNDS = 60
 _cooldown = [0.0] * 32          # thoi diem moi muc duoc dung lai
 
 
+def _keys(prefix):
+    """Danh sach API key: PREFIX, PREFIX_2, PREFIX_3... hoac 1 bien ngan cach ','.
+
+    Moi key co han muc free rieng -> het key nay thi tu nhay sang key sau.
+    """
+    _load_dotenv()
+    out = []
+    for name in [prefix] + ["%s_%d" % (prefix, i) for i in range(2, 9)]:
+        v = (os.environ.get(name) or "").strip()
+        for part in v.split(","):
+            part = part.strip()
+            if part and part not in out:
+                out.append(part)
+    return out
+
+
 def _env(name):
     _load_dotenv()
     return os.environ.get(name)
@@ -53,9 +69,10 @@ def _env(name):
 
 def groq_models():
     """Model chat cua Groq, uu tien ban lon (dich tot hon)."""
-    k = _env("GROQ_API_KEY")
-    if not k:
+    ks = _keys("GROQ_API_KEY")
+    if not ks:
         return []
+    k = ks[0]
     d = _http(GROQ_BASE + "/models", None, 60, {"Authorization": "Bearer " + k})
     ids = [m["id"] for m in d.get("data", []) if "whisper" not in m["id"]
            and "tts" not in m["id"] and "guard" not in m["id"]]
@@ -65,17 +82,27 @@ def groq_models():
 
 
 def _resolve_endpoints():
-    """Thay 2 muc GROQ_MODEL_* bang model Groq that su co."""
+    """Trai ENDPOINTS thanh (nha cung cap, model, key) cho TUNG key co trong .env.
+
+    Han muc free tinh rieng cho tung key, nen 2 key Groq = gap doi han muc.
+    """
     global ENDPOINTS
-    if not any(m.startswith("GROQ_MODEL") for _p, m in ENDPOINTS):
+    if not any(len(e) == 2 and str(e[1]).startswith("GROQ_MODEL")
+               for e in ENDPOINTS):
         return
-    real = []
     try:
         real = groq_models()[:2]
     except Exception:
-        pass
-    out = [(p, m) for p, m in ENDPOINTS if not m.startswith("GROQ_MODEL")]
-    out += [("groq", m) for m in real]
+        real = []
+    gk = _keys("GEMINI_API_KEY") or _keys("GOOGLE_API_KEY") or [""]
+    qk = _keys("GROQ_API_KEY") or [""]
+    out = []
+    for p, m in [e[:2] for e in ENDPOINTS if not str(e[1]).startswith("GROQ_MODEL")]:
+        for k in gk:
+            out.append((p, m, k))
+    for k in qk:
+        for m in real:
+            out.append(("groq", m, k))
     ENDPOINTS = out
     global _cooldown
     if len(_cooldown) < len(ENDPOINTS):
@@ -143,8 +170,8 @@ def _http(url, data=None, timeout=90, extra_headers=None):
             raise RuntimeError("HTTP %s: %s" % (e.code, body[:300]))
 
 
-def _call_gemini(model, system, prompt, n):
-    d = _http("%s/models/%s:generateContent?key=%s" % (GEMINI_BASE, model, api_key()),
+def _call_gemini(model, system, prompt, n, key=None):
+    d = _http("%s/models/%s:generateContent?key=%s" % (GEMINI_BASE, model, key or api_key()),
               {"systemInstruction": {"parts": [{"text": system}]},
                "contents": [{"role": "user", "parts": [{"text": prompt}]}],
                "generationConfig": {"temperature": 0,
@@ -156,10 +183,10 @@ def _call_gemini(model, system, prompt, n):
     return d["candidates"][0]["content"]["parts"][0]["text"]
 
 
-def _call_groq(model, system, prompt, n):
+def _call_groq(model, system, prompt, n, key=None):
     """Groq dung chuan OpenAI. Khong co responseSchema -> ep JSON object
     {"items":[...]} vi json_object mode cua ho khong nhan mang o cap cao nhat."""
-    k = _env("GROQ_API_KEY")
+    k = key or (_keys("GROQ_API_KEY") or [""])[0]
     if not k:
         raise RuntimeError("chua co GROQ_API_KEY")
     d = _http(GROQ_BASE + "/chat/completions",
@@ -176,6 +203,14 @@ def _call_groq(model, system, prompt, n):
 
 
 CALLERS = {"gemini": _call_gemini, "groq": _call_groq}
+
+
+def _key_no(e):
+    """Key thu may cua nha cung cap do - chi de in log cho de theo doi."""
+    if len(e) < 3:
+        return 1
+    ks = _keys("GEMINI_API_KEY") if e[0] == "gemini" else _keys("GROQ_API_KEY")
+    return (ks.index(e[2]) + 1) if e[2] in ks else 1
 
 
 def _parse(txt, n):
@@ -310,11 +345,15 @@ def translate_batch(items, kind="prose", terms=None):
             time.sleep(wait)
             continue
         if idx != _cur:
-            print("  [chuyen -> %s/%s]" % ENDPOINTS[idx])
+            e = ENDPOINTS[idx]
+            print("  [chuyen -> %s/%s key#%d]"
+                  % (e[0], e[1], _key_no(e)))
         _cur = idx
-        prov, model = ENDPOINTS[idx]
+        prov, model = ENDPOINTS[idx][0], ENDPOINTS[idx][1]
+        key = ENDPOINTS[idx][2] if len(ENDPOINTS[idx]) > 2 else None
         try:
-            return _parse(CALLERS[prov](model, system, prompt, len(items)), len(items))
+            return _parse(CALLERS[prov](model, system, prompt, len(items), key),
+                          len(items))
         except Exception as e:
             last = e
             msg = str(e)

@@ -72,6 +72,40 @@ def slugify(name):
     return re.sub(r"-{2,}", "-", s) or "sp"
 
 
+# Facet o tab Variants co ca metadata catalog - dang web vo nghia, phai bo.
+FACET_SKIP = re.compile(
+    r"^\s*(new\s*products?|products?|product\s*(sub)?segments?|product\s*family|"
+    r"product\s*categor(y|ies)|part\s*(no|number)s?|art(icle)?\.?\s*(no|number)?s?|"
+    r"order(ing)?\s*(no|number|code)s?|type\s*codes?|eclass|etim|unspsc|gtin|ean|"
+    # 'Description' bi bo vi no la mo ta cua MOT variant bat ky trong dong
+    # (thu tu API khong on dinh), de vao bang thong so se gay hieu nham.
+    r"customs\s*tariff.*|country\s*of\s*origin|brand|manufacturer|description|"
+    r"bestseller|web\s*sellable|phase\s*status|visibility.*|seo.*|"
+    r"show\s*in\s*product\s*listing|release\s*date|signature|timestamp)"
+    r"\.?\s*$", re.I)
+
+
+def facet_specs(rec, max_rows=12):
+    """Facet tab Variants -> [[ten, gia tri]] - dung khi PDF khong co bang TDO.
+
+    Moi facet gom gia tri cua MOI variant trong dong, nen chi lay MAX_VALS gia
+    tri dau roi ghi '(+n tuy chon khac)' - dung quy uoc cua bang thong so.
+    """
+    out = []
+    for name, unit, vals in rec.get("attrs", []):
+        if FACET_SKIP.match(str(name)):
+            continue
+        vals = [str(v).strip() for v in vals if str(v).strip()]
+        if not vals:
+            continue
+        shown = vals[:MAX_VALS]
+        sfx = (" (+%d tuỳ chọn khác)" % (len(vals) - len(shown))) if len(vals) > len(shown) else ""
+        out.append([name + (" [%s]" % unit if unit else ""), "; ".join(shown) + sfx])
+        if len(out) >= max_rows:
+            break
+    return out
+
+
 def type_of(rec):
     """Loai san pham: uu tien nhom ho SP cua SICK, sau do cap 2 trong breadcrumb."""
     en = (rec.get("family_group") or rec.get("name_addon") or "").strip()
@@ -109,6 +143,11 @@ def build_one(rec, review):
     # overview cua hang (review 13/10). Dong nao tai lieu khong co muc do thi
     # de trong - build_sick_excel se in BANG VARIANT thay the.
     tdo = TDO.get(rec.get("code")) or []
+    if not tdo and bullets_en:
+        # Tai lieu Product overview cua dong nay khong co muc TECHNICAL DATA
+        # OVERVIEW (49/558 dong). Bai van co Features/Benefits nen de trong bang
+        # thong so thi thieu -> bu bang facet o tab Variants, DA LOC rac.
+        tdo = facet_specs(rec)
     a_keys = [k for k, _v in tdo]
     a_vals = [v for _k, v in tdo]
     # mo ta tung variant (cot Description tren web) - chi co o cac dong se in
