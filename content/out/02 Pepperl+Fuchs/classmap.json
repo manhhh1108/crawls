@@ -1,0 +1,719 @@
+{
+ "headsets": {
+  "name": "Headsets",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30862",
+  "path": [
+   "Enterprise Mobility",
+   "Headsets and Speakers"
+  ]
+ },
+ "remote speaker microphones": {
+  "name": "Remote Speaker Microphones",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30860",
+  "path": [
+   "Enterprise Mobility",
+   "Headsets and Speakers"
+  ]
+ },
+ "digital multimeters": {
+  "name": "Digital Multimeters",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30884",
+  "path": [
+   "Enterprise Mobility",
+   "Measurement and Calibration"
+  ]
+ },
+ "infrared thermometers": {
+  "name": "Infrared Thermometers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30886",
+  "path": [
+   "Enterprise Mobility",
+   "Measurement and Calibration"
+  ]
+ },
+ "measurement and other tools": {
+  "name": "Measurement and Other Tools",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31286",
+  "path": [
+   "Enterprise Mobility",
+   "Measurement and Calibration"
+  ]
+ },
+ "advanced diagnostics": {
+  "name": "Advanced Diagnostics",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31170",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Fieldbus Infrastructure"
+  ]
+ },
+ "power supplies for foundation fieldbus h1": {
+  "name": "Power Supplies for Foundation Fieldbus H1",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31042",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Fieldbus Infrastructure"
+  ]
+ },
+ "segment couplers for profibus pa": {
+  "name": "Segment Couplers for Profibus PA",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31052",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Fieldbus Infrastructure"
+  ]
+ },
+ "distribution": {
+  "name": "Distribution",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-communication-and-interfaces/fieldbus-infrastructure/distribution-gp34371",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Fieldbus Infrastructure"
+  ]
+ },
+ "process interfaces": {
+  "name": "Process Interfaces",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31044",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Fieldbus Infrastructure"
+  ]
+ },
+ "ethernet isolator": {
+  "name": "Ethernet Isolator",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31054",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Fieldbus Infrastructure"
+  ]
+ },
+ "accessories": {
+  "name": "Accessories",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31050",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Fieldbus Infrastructure"
+  ]
+ },
+ "peripherals": {
+  "name": "Peripherals",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33492",
+  "path": [
+   "Hazardous Area Products and Solutions",
+   "Industrial PCs and Monitors (HMI)"
+  ]
+ },
+ "replacement components": {
+  "name": "Replacement Components",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33490",
+  "path": [
+   "Hazardous Area Products and Solutions",
+   "Industrial PCs and Monitors (HMI)"
+  ]
+ },
+ "isolated barriers of the k-system": {
+  "name": "Isolated Barriers of the K-System",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33964",
+  "path": [
+   "Hazardous Area Products and Solutions",
+   "Intrinsic Safety Isolated Barriers"
+  ]
+ },
+ "isolated barriers of the h-system": {
+  "name": "Isolated Barriers of the H-System",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33966",
+  "path": [
+   "Hazardous Area Products and Solutions",
+   "Intrinsic Safety Isolated Barriers"
+  ]
+ },
+ "fb remote i/o system for zone 1": {
+  "name": "FB Remote I/O System for Zone 1",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33826",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Remote I/O Systems"
+  ]
+ },
+ "lb remote i/o system for zone 2, class i/div.2": {
+  "name": "LB Remote I/O System for Zone 2, Class I/Div.2",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33824",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Remote I/O Systems"
+  ]
+ },
+ "inductive sensors": {
+  "name": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/proximity-sensors/inductive-sensors-gp31876",
+  "path": [
+   "Industrial Sensors",
+   "Proximity Sensors",
+   "Inductive Sensors",
+   "Inductive Sensors for Hazardous Areas"
+  ]
+ },
+ "devices for signal line protection": {
+  "name": "Devices for Signal Line Protection",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31108",
+  "path": [
+   "Hazardous Area Products and Solutions",
+   "Surge Protection Barriers"
+  ]
+ },
+ "devices for supply line protection": {
+  "name": "Devices for Supply Line Protection",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34010",
+  "path": [
+   "Hazardous Area Products and Solutions",
+   "Surge Protection Barriers"
+  ]
+ },
+ "devices for fieldbus": {
+  "name": "Devices for Fieldbus",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31112",
+  "path": [
+   "Hazardous Area Products and Solutions",
+   "Surge Protection Barriers"
+  ]
+ },
+ "modules": {
+  "name": "Modules",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31040",
+  "path": [
+   "Hazardous Area Products and Solutions",
+   "Zener Barriers"
+  ]
+ },
+ "accessories for the zener barriers": {
+  "name": "Accessories for the Zener Barriers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34024",
+  "path": [
+   "Hazardous Area Products and Solutions",
+   "Zener Barriers"
+  ]
+ },
+ "gateways": {
+  "name": "Gateways",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30828",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "AS-Interface"
+  ]
+ },
+ "pulse counter units and displays": {
+  "name": "Pulse Counter Units and Displays",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30866",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Displays and Signal Processing"
+  ]
+ },
+ "process displays": {
+  "name": "Process Displays",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30868",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Displays and Signal Processing"
+  ]
+ },
+ "signal converters": {
+  "name": "Signal Converters",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30848",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Displays and Signal Processing"
+  ]
+ },
+ "switch amplifiers": {
+  "name": "Switch Amplifiers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30850",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Displays and Signal Processing"
+  ]
+ },
+ "hart interface solutions of the k-system": {
+  "name": "HART Interface Solutions of the K-System",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34166",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "HART Interface Solutions"
+  ]
+ },
+ "hart interface solutions of the h-system": {
+  "name": "HART Interface Solutions of the H-System",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34168",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "HART Interface Solutions"
+  ]
+ },
+ "industrial box pcs": {
+  "name": "Industrial Box PCs",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31144",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "HMI Systems"
+  ]
+ },
+ "io-link infrastructure": {
+  "name": "IO-Link Infrastructure",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-communication-and-interfaces/io-link/io-link-infrastructure-gp35543",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "IO-Link"
+  ]
+ },
+ "io-link devices": {
+  "name": "IO-Link Devices",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-communication-and-interfaces/io-link/io-link-devices-gp35391",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "IO-Link"
+  ]
+ },
+ "industrial power supplies": {
+  "name": "Industrial Power Supplies",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31140",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Power Supplies"
+  ]
+ },
+ "signal conditioners of the k-system": {
+  "name": "Signal Conditioners of the K-System",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33926",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Signal Conditioners"
+  ]
+ },
+ "signal conditioners of the sc-system": {
+  "name": "Signal Conditioners of the SC-System",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31036",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Signal Conditioners"
+  ]
+ },
+ "static inclination sensors": {
+  "name": "Static Inclination Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/inclination-and-acceleration-sensors/static-inclination-sensors-gp33130",
+  "path": [
+   "Industrial Sensors",
+   "Inclination and Acceleration Sensors"
+  ]
+ },
+ "acceleration sensors": {
+  "name": "Acceleration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/inclination-and-acceleration-sensors/acceleration-sensors-gp33148",
+  "path": [
+   "Industrial Sensors",
+   "Inclination and Acceleration Sensors"
+  ]
+ },
+ "interface electronics": {
+  "name": "Interface Electronics",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/level-measurement/interface-electronics-gp43550",
+  "path": [
+   "Industrial Sensors",
+   "Level Measurement"
+  ]
+ },
+ "safety thru-beam sensors": {
+  "name": "Safety Thru-Beam Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30752",
+  "path": [
+   "Industrial Sensors",
+   "Photoelectric Sensors"
+  ]
+ },
+ "capacitive sensors": {
+  "name": "Capacitive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30736",
+  "path": [
+   "Industrial Sensors",
+   "Proximity Sensors"
+  ]
+ },
+ "magnetic field sensors": {
+  "name": "Magnetic Field Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30710",
+  "path": [
+   "Industrial Sensors",
+   "Proximity Sensors"
+  ]
+ },
+ "optical identification": {
+  "name": "Optical Identification",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/rfid-and-optical-identification/optical-identification-gp46538",
+  "path": [
+   "Industrial Sensors",
+   "RFID and Optical Identification"
+  ]
+ },
+ "automatic doors and access systems": {
+  "name": "Automatic Doors and Access Systems",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31778",
+  "path": [
+   "Industrial Sensors",
+   "Sensors for Entrance Automation"
+  ]
+ },
+ "industrial doors": {
+  "name": "Industrial Doors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31776",
+  "path": [
+   "Industrial Sensors",
+   "Sensors for Entrance Automation"
+  ]
+ },
+ "loading technology": {
+  "name": "Loading Technology",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31774",
+  "path": [
+   "Industrial Sensors",
+   "Sensors for Entrance Automation"
+  ]
+ },
+ "busses and trains": {
+  "name": "Busses and Trains",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31764",
+  "path": [
+   "Industrial Sensors",
+   "Sensors for Entrance Automation"
+  ]
+ },
+ "elevators": {
+  "name": "Elevators",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31772",
+  "path": [
+   "Industrial Sensors",
+   "Sensors for Entrance Automation"
+  ]
+ },
+ "escalators": {
+  "name": "Escalators",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31770",
+  "path": [
+   "Industrial Sensors",
+   "Sensors for Entrance Automation"
+  ]
+ },
+ "fire protection": {
+  "name": "Fire Protection",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31766",
+  "path": [
+   "Industrial Sensors",
+   "Sensors for Entrance Automation"
+  ]
+ },
+ "perimeter protection": {
+  "name": "Perimeter Protection",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31746",
+  "path": [
+   "Industrial Sensors",
+   "Sensors for Entrance Automation"
+  ]
+ },
+ "vim3 series": {
+  "name": "VIM3 Series",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30808&amp;prop=1‖125289",
+  "path": [
+   "Industrial Sensors",
+   "Vibration Sensors"
+  ]
+ },
+ "vim6 series": {
+  "name": "VIM6 Series",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30808&amp;prop=1‖125288",
+  "path": [
+   "Industrial Sensors",
+   "Vibration Sensors"
+  ]
+ },
+ "vim8 series": {
+  "name": "VIM8 Series",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30808&amp;prop=1‖125287",
+  "path": [
+   "Industrial Sensors",
+   "Vibration Sensors"
+  ]
+ },
+ "tab-ind tablet": {
+  "name": "Tab-IND Tablet",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34130",
+  "path": [
+   "Enterprise Mobility",
+   "Tablets",
+   "Tab-IND Industrial-Grade Tablets"
+  ]
+ },
+ "segment protectors": {
+  "name": "Segment Protectors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33410",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Fieldbus Infrastructure",
+   "Distribution"
+  ]
+ },
+ "continuous measurement": {
+  "name": "Continuous Measurement",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30820&amp;q=LMC",
+  "path": [
+   "Industrial Sensors",
+   "Level Measurement",
+   "Magnetic Immersion Probes"
+  ]
+ },
+ "high temperature sensors": {
+  "name": "High Temperature Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&amp;prop=1280‖135006",
+  "path": [
+   "Industrial Sensors",
+   "Proximity Sensors",
+   "Inductive Sensors"
+  ]
+ },
+ "safety sensors": {
+  "name": "Safety Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&amp;q=nsb10*-s2d2",
+  "path": [
+   "Industrial Sensors",
+   "Proximity Sensors",
+   "Inductive Sensors"
+  ]
+ },
+ "optical identification accessories": {
+  "name": "Optical Identification Accessories",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33546&amp;prop=1160‖24",
+  "path": [
+   "Industrial Sensors",
+   "Vision Sensors",
+   "Optical Identification"
+  ]
+ },
+ "software tools": {
+  "name": "Software Tools",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30992",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Software",
+   "Software Tools",
+   "eBARCODE-ML"
+  ]
+ },
+ "surge protection": {
+  "name": "Surge Protection",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/hazardous-area-products-and-solutions/surge-protection-barriers-gp34309",
+  "path": [
+   "Hazardous Area Products and Solutions",
+   "Surge Protection Barriers",
+   "Signal Line Protection"
+  ]
+ },
+ "vibration sensors": {
+  "name": "Vibration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vibration-monitoring-gp30104",
+  "path": [
+   "Industrial Sensors",
+   "Vibration Monitoring",
+   "Vibration Sensors"
+  ]
+ },
+ "safety at work": {
+  "name": "Safety at Work",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-communication-and-interfaces/as-interface/safety-at-work-gp35764",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "AS-Interface",
+   "Safety at Work"
+  ]
+ },
+ "magnetic immersion probes": {
+  "name": "Magnetic Immersion Probes",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/level-measurement/magnetic-immersion-probes-gp43469",
+  "path": [
+   "Industrial Sensors",
+   "Level Measurement",
+   "Magnetic Immersion Probes"
+  ]
+ },
+ "print mark sensors": {
+  "name": "Print Mark Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/photoelectric-sensors/print-mark-sensors-gp31529",
+  "path": [
+   "Industrial Sensors",
+   "Photoelectric Sensors",
+   "Print Mark Sensors"
+  ]
+ },
+ "distance sensors": {
+  "name": "Distance Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/photoelectric-sensors/distance-sensors-gp31538",
+  "path": [
+   "Industrial Sensors",
+   "Photoelectric Sensors",
+   "Distance Sensors"
+  ]
+ },
+ "event cameras": {
+  "name": "Event Cameras",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/event-cameras-gp30053",
+  "path": [
+   "Industrial Sensors",
+   "Vision Sensors",
+   "Event Cameras",
+   "VOC12M-F356-B12-V1D-CR2S"
+  ]
+ },
+ "ethernet io modules": {
+  "name": "Ethernet IO Modules",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/industrial-sensors/ethernet-io-modules-with-io-link-master-gp32668",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "IO-Link",
+   "IO-Link Infrastructure"
+  ]
+ },
+ "positioning systems": {
+  "name": "Positioning Systems",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/positioning-systems-gp31732",
+  "path": [
+   "View All Applications",
+   "Precise Docking and Reliable Identification of AGVs"
+  ]
+ },
+ "stationary 2-d code readers": {
+  "name": "Stationary 2-D Code Readers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/optical-identification/stationary-2-d-code-readers-gp33787",
+  "path": [
+   "Industrial Sensors",
+   "RFID and Optical Identification",
+   "Stationary 2-D Code Readers"
+  ]
+ },
+ "stationary barcode scanners": {
+  "name": "Stationary Barcode Scanners",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/rfid-and-optical-identification/stationary-barcode-scanners-gp46550",
+  "path": [
+   "Industrial Sensors",
+   "RFID and Optical Identification",
+   "Stationary Barcode Scanners"
+  ]
+ },
+ "industrial sensors": {
+  "name": "Industrial Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors-gp27354",
+  "path": []
+ },
+ "industrial monitors": {
+  "name": "Industrial Monitors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/hazardous-area-products-and-solutions/industrial-pcs-and-monitors-hmi/industrial-monitors-gp27840",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "HMI Systems",
+   "Industrial Monitors",
+   "**-EDGE-*-*-*"
+  ]
+ },
+ "industrial box thin clients": {
+  "name": "Industrial Box Thin Clients",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/explosion-protection/industrial-box-thin-client-btc-gp27893",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Thin Clients",
+   "Industrial Box Thin Clients",
+   "BTC24-*"
+  ]
+ },
+ "intrinsic safety barriers": {
+  "name": "Intrinsic Safety Barriers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34964",
+  "path": [
+   "Hazardous Area Products and Solutions",
+   "SIL-Capable Products for Hazardous Areas",
+   "Intrinsic Safety Barriers",
+   "KCD2-VR4-Ex1"
+  ]
+ },
+ "hydrostatic pressure sensors": {
+  "name": "Hydrostatic Pressure Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/level-measurement/hydrostatic-pressure-sensors-gp43482",
+  "path": [
+   "Industrial Sensors",
+   "Level Measurement",
+   "Hydrostatic Pressure Sensors",
+   "LHCR-51"
+  ]
+ },
+ "diffuse mode sensors": {
+  "name": "Diffuse Mode Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/photoelectric-sensors/diffuse-mode-sensors-gp31454",
+  "path": [
+   "View All Applications",
+   "Cap Feeding in High-Output Bottling Plants"
+  ]
+ },
+ "retroreflective sensors": {
+  "name": "Retroreflective Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/photoelectric-sensors/retroreflective-sensors-gp31429",
+  "path": [
+   "View All Applications",
+   "Reliable Detection of Clear Bottles"
+  ]
+ },
+ "double sheet sensors": {
+  "name": "Double Sheet Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30776&amp;q=UD*-*GS*",
+  "path": [
+   "View All Applications",
+   "Material Detection for Multilayered Paper Products"
+  ]
+ },
+ "profile detection": {
+  "name": "Profile Detection",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/laser-profile-sensors/profile-detection-gp30497",
+  "path": [
+   "Industrial Sensors",
+   "Vision Sensors"
+  ]
+ },
+ "profile comparison": {
+  "name": "Profile Comparison",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/laser-profile-sensors/profile-comparison-gp30514",
+  "path": [
+   "Industrial Sensors",
+   "Vision Sensors"
+  ]
+ },
+ "incremental rotary encoders": {
+  "name": "Incremental Rotary Encoders",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/rotary-encoders/incremental-rotary-encoders-gp30138",
+  "path": [
+   "Industrial Sensors",
+   "Rotary Encoders",
+   "Incremental Rotary Encoders",
+   "ENI58IL-S*"
+  ]
+ },
+ "ethernet devices": {
+  "name": "Ethernet Devices",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-communication-and-interfaces/industrial-ethernet/ethernet-devices-gp35267",
+  "path": [
+   "Industrial Communication and Interfaces",
+   "Industrial Ethernet",
+   "Ethernet Devices"
+  ]
+ },
+ "sensor-actuator cables": {
+  "name": "Sensor-Actuator Cables",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30796",
+  "path": [
+   "View All Applications",
+   "Connection Technology for Robotic Applications"
+  ]
+ }
+}

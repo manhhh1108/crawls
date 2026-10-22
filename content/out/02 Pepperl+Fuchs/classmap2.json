@@ -1,0 +1,3327 @@
+{
+ "enterprise mobility||accessories": {
+  "name": "Accessories",
+  "parent": "Enterprise Mobility",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/enterprise-mobility/accessories-gp35309"
+ },
+ "enterprise mobility||data capturing": {
+  "name": "Data Capturing",
+  "parent": "Enterprise Mobility",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/enterprise-mobility/data-capturing-gp216135"
+ },
+ "enterprise mobility||headsets and remote speaker microphones": {
+  "name": "Headsets and Remote Speaker Microphones",
+  "parent": "Enterprise Mobility",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/enterprise-mobility/headsets-and-speakers-gp34815"
+ },
+ "headsets and remote speaker microphones||headsets": {
+  "name": "Headsets",
+  "parent": "Headsets and Remote Speaker Microphones",
+  "level": 3,
+  "code": "30862",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30862"
+ },
+ "headsets and remote speaker microphones||remote speaker microphones": {
+  "name": "Remote Speaker Microphones",
+  "parent": "Headsets and Remote Speaker Microphones",
+  "level": 3,
+  "code": "30860",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30860"
+ },
+ "enterprise mobility||measurement and calibration": {
+  "name": "Measurement and Calibration",
+  "parent": "Enterprise Mobility",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/enterprise-mobility/measurement-and-calibration-gp34809"
+ },
+ "measurement and calibration||digital multimeters": {
+  "name": "Digital Multimeters",
+  "parent": "Measurement and Calibration",
+  "level": 3,
+  "code": "30884",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30884"
+ },
+ "measurement and calibration||infrared thermometers": {
+  "name": "Infrared Thermometers",
+  "parent": "Measurement and Calibration",
+  "level": 3,
+  "code": "30886",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30886"
+ },
+ "measurement and calibration||measurement and other tools": {
+  "name": "Measurement and Other Tools",
+  "parent": "Measurement and Calibration",
+  "level": 3,
+  "code": "31286",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31286"
+ },
+ "enterprise mobility||portable lights": {
+  "name": "Portable Lights",
+  "parent": "Enterprise Mobility",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/enterprise-mobility/portable-lights-gp34821"
+ },
+ "enterprise mobility||smartphones": {
+  "name": "Smartphones",
+  "parent": "Enterprise Mobility",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/enterprise-mobility/smartphones-gp34800"
+ },
+ "enterprise mobility||software": {
+  "name": "Software",
+  "parent": "Enterprise Mobility",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34106"
+ },
+ "enterprise mobility||tablets": {
+  "name": "Tablets",
+  "parent": "Enterprise Mobility",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/enterprise-mobility/tablets-gp35139"
+ },
+ "tablets||pad-ex® 01 p12": {
+  "name": "Pad-Ex® 01 P12",
+  "parent": "Tablets",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/enterprise-mobility/tablets/tab-ind-industrial-grade-tablets-gp225376"
+ },
+ "pad-ex® 01 p12||tab-ind tablet": {
+  "name": "Tab-IND Tablet",
+  "parent": "Pad-Ex® 01 P12",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34130"
+ },
+ "tablets||tab-ex® 05": {
+  "name": "Tab-Ex® 05",
+  "parent": "Tablets",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/enterprise-mobility/tablets/tab-ind-industrial-grade-tablets-gp225376"
+ },
+ "tab-ex® 05||tab-ind tablet": {
+  "name": "Tab-IND Tablet",
+  "parent": "Tab-Ex® 05",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34130"
+ },
+ "tablets||tab-ind®": {
+  "name": "Tab-IND®",
+  "parent": "Tablets",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/enterprise-mobility/tablets/tab-ind-industrial-grade-tablets-gp225376"
+ },
+ "tab-ind®||tab-ind tablet": {
+  "name": "Tab-IND Tablet",
+  "parent": "Tab-IND®",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34130"
+ },
+ "hazardous area products and solutions||control and distribution panels": {
+  "name": "Control and Distribution Panels",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "33648",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33648"
+ },
+ "hazardous area products and solutions||control units and control stations": {
+  "name": "Control Units and Control Stations",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "34032",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34032"
+ },
+ "hazardous area products and solutions||enclosures and cable glands": {
+  "name": "Enclosures and Cable Glands",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "30724",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30724"
+ },
+ "hazardous area products and solutions||ethernet-apl": {
+  "name": "Ethernet-APL",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "30642",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30642"
+ },
+ "ethernet-apl||accessories for ethernet-aplfieldconnex accessories for ethernet-apl switches are best suited for easy mounting and handling.view accessories shaping the future of process industries": {
+  "name": "Accessories for Ethernet-APLFieldConnex accessories for Ethernet-APL switches are best suited for easy mounting and handling.View accessories Shaping the Future of Process Industries",
+  "parent": "Ethernet-APL",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31324"
+ },
+ "ethernet-apl||ethernet-apl enclosure solutionspepperl+fuchs offers different enclosure solutions for seemless integration of ethernet-apl into process plant infrastructures.view solutionsperipheralsaccessories for ethernet-aplfieldconnex accessories for ethernet-apl switches are best suited for easy mounting and handling.view accessories shaping the future of process industries": {
+  "name": "Ethernet-APL Enclosure SolutionsPepperl+Fuchs offers different enclosure solutions for seemless integration of Ethernet-APL into process plant infrastructures.View solutionsPeripheralsAccessories for Ethernet-APLFieldConnex accessories for Ethernet-APL switches are best suited for easy mounting and handling.View accessories Shaping the Future of Process Industries",
+  "parent": "Ethernet-APL",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31324"
+ },
+ "ethernet-apl||ethernet-apl switchesthe ethernet-apl rail field switch​ for din rail mounting is the first product to enable direct, fast, barrier-free access to field devices of the process plant via ethernet-apl.view productssolutionsethernet-apl enclosure solutionspepperl+fuchs offers different enclosure solutions for seemless integration of ethernet-apl into process plant infrastructures.view solutionsperipheralsaccessories for ethernet-aplfieldconnex accessories for ethernet-apl switches are best suited for easy mounting and handling.view accessories shaping the future of process industries": {
+  "name": "Ethernet-APL SwitchesThe Ethernet-APL rail field switch​ for DIN rail mounting is the first product to enable direct, fast, barrier-free access to field devices of the process plant via Ethernet-APL.View productsSolutionsEthernet-APL Enclosure SolutionsPepperl+Fuchs offers different enclosure solutions for seemless integration of Ethernet-APL into process plant infrastructures.View solutionsPeripheralsAccessories for Ethernet-APLFieldConnex accessories for Ethernet-APL switches are best suited for easy mounting and handling.View accessories Shaping the Future of Process Industries",
+  "parent": "Ethernet-APL",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31324"
+ },
+ "hazardous area products and solutions||fieldbus infrastructure": {
+  "name": "Fieldbus Infrastructure",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "33624",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33624"
+ },
+ "fieldbus infrastructure||accessories": {
+  "name": "Accessories",
+  "parent": "Fieldbus Infrastructure",
+  "level": 3,
+  "code": "31050",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31050"
+ },
+ "fieldbus infrastructure||advanced diagnostics": {
+  "name": "Advanced Diagnostics",
+  "parent": "Fieldbus Infrastructure",
+  "level": 3,
+  "code": "31170",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31170"
+ },
+ "fieldbus infrastructure||distribution": {
+  "name": "Distribution",
+  "parent": "Fieldbus Infrastructure",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-communication-and-interfaces/fieldbus-infrastructure/distribution-gp34371"
+ },
+ "fieldbus infrastructure||ethernet isolator": {
+  "name": "Ethernet Isolator",
+  "parent": "Fieldbus Infrastructure",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31050"
+ },
+ "fieldbus infrastructure||power supplies for foundation fieldbus h1": {
+  "name": "Power Supplies for FOUNDATION Fieldbus H1",
+  "parent": "Fieldbus Infrastructure",
+  "level": 3,
+  "code": "31042",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31042"
+ },
+ "fieldbus infrastructure||process interfaces": {
+  "name": "Process Interfaces",
+  "parent": "Fieldbus Infrastructure",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31050"
+ },
+ "fieldbus infrastructure||segment couplers for profibus pa": {
+  "name": "Segment Couplers for Profibus PA",
+  "parent": "Fieldbus Infrastructure",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-communication-and-interfaces/fieldbus-infrastructure/distribution-gp34371"
+ },
+ "hazardous area products and solutions||industrial pcs and monitors (hmi)": {
+  "name": "Industrial PCs and Monitors (HMI)",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "30706",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30706"
+ },
+ "industrial pcs and monitors (hmi)||peripheralsa comprehensive range of peripherals complements visunet industrial monitors and box thin clients. these devices allow you to optimize visunet operator workstations and operator panels for a particular application and further extend your process.view productsreplacement componentsthe modularity of the visunet gxp and visunet flx systems allows you to easily exchange components of your human machine interface (hmi) by yourself. find different versions of the display unit, computing unit and power supply unit which are all very easy to install or to replace. by replacing your components with the latest generation available, you can also easily keep your device up to date without much effort or high costs. this eases maintenance and enhances the availability of the hmi system and manufacturing process.view productsaccessories": {
+  "name": "PeripheralsA comprehensive range of peripherals complements VisuNet industrial monitors and box thin clients. These devices allow you to optimize VisuNet operator workstations and operator panels for a particular application and further extend your process.View productsReplacement ComponentsThe modularity of the VisuNet GXP and VisuNet FLX systems allows you to easily exchange components of your Human Machine Interface (HMI) by yourself. Find different versions of the display unit, computing unit and power supply unit which are all very easy to install or to replace. By replacing your components with the latest generation available, you can also easily keep your device up to date without much effort or high costs. This eases maintenance and enhances the availability of the HMI system and manufacturing process.View productsAccessories",
+  "parent": "Industrial PCs and Monitors (HMI)",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34206"
+ },
+ "industrial pcs and monitors (hmi)||replacement componentsthe modularity of the visunet gxp and visunet flx systems allows you to easily exchange components of your human machine interface (hmi) by yourself. find different versions of the display unit, computing unit and power supply unit which are all very easy to install or to replace. by replacing your components with the latest generation available, you can also easily keep your device up to date without much effort or high costs. this eases maintenance and enhances the availability of the hmi system and manufacturing process.view productsaccessories": {
+  "name": "Replacement ComponentsThe modularity of the VisuNet GXP and VisuNet FLX systems allows you to easily exchange components of your Human Machine Interface (HMI) by yourself. Find different versions of the display unit, computing unit and power supply unit which are all very easy to install or to replace. By replacing your components with the latest generation available, you can also easily keep your device up to date without much effort or high costs. This eases maintenance and enhances the availability of the HMI system and manufacturing process.View productsAccessories",
+  "parent": "Industrial PCs and Monitors (HMI)",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/hazardous-area-products-and-solutions/industrial-pcs-and-monitors-hmi/engineered-hmi-solutions-gp53287"
+ },
+ "hazardous area products and solutions||intrinsic safety barriers": {
+  "name": "Intrinsic Safety Barriers",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "30696",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30696"
+ },
+ "intrinsic safety barriers||isolated barriers of the h-system": {
+  "name": "Isolated Barriers of the H-System",
+  "parent": "Intrinsic Safety Barriers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33966"
+ },
+ "intrinsic safety barriers||isolated barriers of the k-system": {
+  "name": "Isolated Barriers of the K-System",
+  "parent": "Intrinsic Safety Barriers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33966"
+ },
+ "hazardous area products and solutions||network technology": {
+  "name": "Network Technology",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "34026",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34026"
+ },
+ "hazardous area products and solutions||purge and pressurization systems": {
+  "name": "Purge and Pressurization Systems",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "30726",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30726"
+ },
+ "hazardous area products and solutions||remote i/o systems": {
+  "name": "Remote I/O Systems",
+  "parent": "Hazardous Area Products and Solutions",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-communication-and-interfaces/remote-i-o-systems-gp34254"
+ },
+ "remote i/o systems||fb remote i/o system for zone 1": {
+  "name": "FB Remote I/O System for Zone 1",
+  "parent": "Remote I/O Systems",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33824"
+ },
+ "remote i/o systems||lb remote i/o system for zone 2, class i/div.2": {
+  "name": "LB Remote I/O System for Zone 2, Class I/Div.2",
+  "parent": "Remote I/O Systems",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33824"
+ },
+ "hazardous area products and solutions||sensors for hazardous areas": {
+  "name": "Sensors for Hazardous Areas",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "33744",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33744"
+ },
+ "hazardous area products and solutions||signaling devices, safety switches, and switch disconnectors": {
+  "name": "Signaling Devices, Safety Switches, and Switch Disconnectors",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "34144",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34144"
+ },
+ "hazardous area products and solutions||sil-capable products for hazardous areas": {
+  "name": "SIL-Capable Products for Hazardous Areas",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "30704",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30704"
+ },
+ "hazardous area products and solutions||smartphones and tablets": {
+  "name": "Smartphones and Tablets",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "33636",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33636"
+ },
+ "smartphones and tablets||smart-ex® 03": {
+  "name": "Smart-Ex® 03",
+  "parent": "Smartphones and Tablets",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33636"
+ },
+ "smartphones and tablets||smart-ex® 203": {
+  "name": "Smart-Ex® 203",
+  "parent": "Smartphones and Tablets",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33636"
+ },
+ "hazardous area products and solutions||surge protection barriers": {
+  "name": "Surge Protection Barriers",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "30700",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30700"
+ },
+ "surge protection barriers||devices for fieldbus": {
+  "name": "Devices for Fieldbus",
+  "parent": "Surge Protection Barriers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31112"
+ },
+ "surge protection barriers||devices for signal line protection": {
+  "name": "Devices for Signal Line Protection",
+  "parent": "Surge Protection Barriers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31112"
+ },
+ "surge protection barriers||devices for supply line protection": {
+  "name": "Devices for Supply Line Protection",
+  "parent": "Surge Protection Barriers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31112"
+ },
+ "hazardous area products and solutions||terminal and junction boxes": {
+  "name": "Terminal and Junction Boxes",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "30702",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30702"
+ },
+ "hazardous area products and solutions||zener barriers": {
+  "name": "Zener Barriers",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "34004",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34004"
+ },
+ "zener barriers||accessories for the zener barriers": {
+  "name": "Accessories for the Zener Barriers",
+  "parent": "Zener Barriers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34024"
+ },
+ "zener barriers||modules": {
+  "name": "Modules",
+  "parent": "Zener Barriers",
+  "level": 3,
+  "code": "31040",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31040"
+ },
+ "industrial communication and interfaces||as-interface": {
+  "name": "AS-Interface",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30670",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30670"
+ },
+ "as-interface||accessories": {
+  "name": "Accessories",
+  "parent": "AS-Interface",
+  "level": 3,
+  "code": "30952",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30952"
+ },
+ "as-interface||gateways": {
+  "name": "Gateways",
+  "parent": "AS-Interface",
+  "level": 3,
+  "code": "30828",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30828"
+ },
+ "as-interface||indication / operation": {
+  "name": "Indication / Operation",
+  "parent": "AS-Interface",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-communication-and-interfaces/as-interface/safety-at-work-gp35764"
+ },
+ "as-interface||modules": {
+  "name": "Modules",
+  "parent": "AS-Interface",
+  "level": 3,
+  "code": "30838",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30838"
+ },
+ "as-interface||power supplies, power extenders, and repeaters": {
+  "name": "Power Supplies, Power Extenders, and Repeaters",
+  "parent": "AS-Interface",
+  "level": 3,
+  "code": "30830",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30830"
+ },
+ "as-interface||safety at work": {
+  "name": "Safety at Work",
+  "parent": "AS-Interface",
+  "level": 3,
+  "code": "33924",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33924"
+ },
+ "industrial communication and interfaces||connection technology": {
+  "name": "Connection Technology",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30674",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30674"
+ },
+ "connection technology||bulk raw cable": {
+  "name": "Bulk Raw Cable",
+  "parent": "Connection Technology",
+  "level": 3,
+  "code": "33388",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33388"
+ },
+ "connection technology||data connectors": {
+  "name": "Data Connectors",
+  "parent": "Connection Technology",
+  "level": 3,
+  "code": "30870",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30870"
+ },
+ "connection technology||sfp transceiver": {
+  "name": "SFP Transceiver",
+  "parent": "Connection Technology",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-communication-and-interfaces/connection-technology/sfp-transceiver-gp33350"
+ },
+ "industrial communication and interfaces||displays and signal processing": {
+  "name": "Displays and Signal Processing",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30728",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30728"
+ },
+ "displays and signal processing||process displays": {
+  "name": "Process Displays",
+  "parent": "Displays and Signal Processing",
+  "level": 3,
+  "code": "30868",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30868"
+ },
+ "displays and signal processing||pulse counter units and displays": {
+  "name": "Pulse Counter Units and Displays",
+  "parent": "Displays and Signal Processing",
+  "level": 3,
+  "code": "30866",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30866"
+ },
+ "displays and signal processing||signal converters": {
+  "name": "Signal Converters",
+  "parent": "Displays and Signal Processing",
+  "level": 3,
+  "code": "30848",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30848"
+ },
+ "displays and signal processing||switch amplifiers": {
+  "name": "Switch Amplifiers",
+  "parent": "Displays and Signal Processing",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30850"
+ },
+ "industrial communication and interfaces||ethernet-apl": {
+  "name": "Ethernet-APL",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30676",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30676"
+ },
+ "industrial communication and interfaces||fieldbus infrastructure": {
+  "name": "Fieldbus Infrastructure",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30678",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30678"
+ },
+ "industrial communication and interfaces||hart interface solutions": {
+  "name": "HART Interface Solutions",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30636",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30636"
+ },
+ "hart interface solutions||accessories": {
+  "name": "Accessories",
+  "parent": "HART Interface Solutions",
+  "level": 3,
+  "code": "31106",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31106"
+ },
+ "hart interface solutions||hart interface solutions of the h-system": {
+  "name": "HART Interface Solutions of the H-System",
+  "parent": "HART Interface Solutions",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31106"
+ },
+ "hart interface solutions||hart interface solutions of the k-system": {
+  "name": "HART Interface Solutions of the K-System",
+  "parent": "HART Interface Solutions",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31106"
+ },
+ "industrial communication and interfaces||hmi systems": {
+  "name": "HMI Systems",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30688",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30688"
+ },
+ "industrial communication and interfaces||industrial ethernet": {
+  "name": "Industrial Ethernet",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30682",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30682"
+ },
+ "industrial ethernet||ethernet devices": {
+  "name": "Ethernet Devices",
+  "parent": "Industrial Ethernet",
+  "level": 3,
+  "code": "33430",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33430"
+ },
+ "industrial ethernet||ethernet io modules": {
+  "name": "Ethernet IO Modules",
+  "parent": "Industrial Ethernet",
+  "level": 3,
+  "code": "30946",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30946"
+ },
+ "industrial ethernet||ethernet switches": {
+  "name": "Ethernet Switches",
+  "parent": "Industrial Ethernet",
+  "level": 3,
+  "code": "30944",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30944"
+ },
+ "industrial ethernet||serial gateways (devicemaster®)": {
+  "name": "Serial Gateways (DeviceMaster®)",
+  "parent": "Industrial Ethernet",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-communication-and-interfaces/industrial-ethernet/ethernet-devices-gp35267"
+ },
+ "industrial communication and interfaces||io-link": {
+  "name": "IO-Link",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30672",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30672"
+ },
+ "io-link||io-link devices": {
+  "name": "IO-Link Devices",
+  "parent": "IO-Link",
+  "level": 3,
+  "code": "30958",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30958"
+ },
+ "io-link||io-link infrastructure": {
+  "name": "IO-Link Infrastructure",
+  "parent": "IO-Link",
+  "level": 3,
+  "code": "30956",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30956"
+ },
+ "industrial communication and interfaces||multiport serial cards": {
+  "name": "Multiport Serial Cards",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "34644",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34644"
+ },
+ "industrial communication and interfaces||power supplies": {
+  "name": "Power Supplies",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30684",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30684"
+ },
+ "power supplies||industrial power supplies": {
+  "name": "Industrial Power Supplies",
+  "parent": "Power Supplies",
+  "level": 3,
+  "code": "31140",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31140"
+ },
+ "power supplies||power supplies for foundation fieldbus h1": {
+  "name": "Power Supplies for FOUNDATION Fieldbus H1",
+  "parent": "Power Supplies",
+  "level": 3,
+  "code": "31384",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31384"
+ },
+ "power supplies||segment couplers for profibus pa": {
+  "name": "Segment Couplers for PROFIBUS PA",
+  "parent": "Power Supplies",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33892"
+ },
+ "industrial communication and interfaces||remote i/o systems": {
+  "name": "Remote I/O Systems",
+  "parent": "Industrial Communication and Interfaces",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-communication-and-interfaces/remote-i-o-systems-gp34254"
+ },
+ "industrial communication and interfaces||signal conditioners": {
+  "name": "Signal Conditioners",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30634",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30634"
+ },
+ "signal conditioners||signal conditioners of the k-system": {
+  "name": "Signal Conditioners of the K-System",
+  "parent": "Signal Conditioners",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31036"
+ },
+ "signal conditioners||signal conditioners of the sc-system": {
+  "name": "Signal Conditioners of the SC-System",
+  "parent": "Signal Conditioners",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31036"
+ },
+ "industrial communication and interfaces||smart systems": {
+  "name": "Smart Systems",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30730",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30730"
+ },
+ "industrial communication and interfaces||software": {
+  "name": "Software",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30732",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30732"
+ },
+ "industrial communication and interfaces||surge protection barriers": {
+  "name": "Surge Protection Barriers",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "34006",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34006"
+ },
+ "industrial communication and interfaces||thin clients": {
+  "name": "Thin Clients",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30686",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30686"
+ },
+ "industrial sensors||accessories": {
+  "name": "Accessories",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "31168",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31168"
+ },
+ "industrial sensors||connection technology": {
+  "name": "Connection Technology",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "30630",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30630"
+ },
+ "connection technology||field-attachable connectors": {
+  "name": "Field-Attachable Connectors",
+  "parent": "Connection Technology",
+  "level": 3,
+  "code": "30822",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30822"
+ },
+ "connection technology||panel receptacles": {
+  "name": "Panel Receptacles",
+  "parent": "Connection Technology",
+  "level": 3,
+  "code": "30800",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30800"
+ },
+ "connection technology||passive splitters": {
+  "name": "Passive Splitters",
+  "parent": "Connection Technology",
+  "level": 3,
+  "code": "30824",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30824"
+ },
+ "connection technology||sensor-actuator cables": {
+  "name": "Sensor-Actuator Cables",
+  "parent": "Connection Technology",
+  "level": 3,
+  "code": "30796",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30796"
+ },
+ "connection technology||sensor-actuator splitters": {
+  "name": "Sensor-Actuator Splitters",
+  "parent": "Connection Technology",
+  "level": 3,
+  "code": "30826",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30826"
+ },
+ "connection technology||valve connectors": {
+  "name": "Valve Connectors",
+  "parent": "Connection Technology",
+  "level": 3,
+  "code": "30798",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30798"
+ },
+ "industrial sensors||inclination and acceleration sensors": {
+  "name": "Inclination and Acceleration Sensors",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "30664",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30664"
+ },
+ "industrial sensors||level measurement": {
+  "name": "Level Measurement",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "30668",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30668"
+ },
+ "level measurement||accessories": {
+  "name": "Accessories",
+  "parent": "Level Measurement",
+  "level": 3,
+  "code": "31102",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31102"
+ },
+ "level measurement||capacitive limit switches": {
+  "name": "Capacitive Limit Switches",
+  "parent": "Level Measurement",
+  "level": 3,
+  "code": "30810",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30810"
+ },
+ "level measurement||conductive limit switches": {
+  "name": "Conductive Limit Switches",
+  "parent": "Level Measurement",
+  "level": 3,
+  "code": "30792",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30792"
+ },
+ "level measurement||continuous measurement": {
+  "name": "Continuous Measurement",
+  "parent": "Level Measurement",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/level-measurement/vibration-limit-switch-gp43053"
+ },
+ "level measurement||float switches": {
+  "name": "Float Switches",
+  "parent": "Level Measurement",
+  "level": 3,
+  "code": "30812",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30812"
+ },
+ "level measurement||guided level radar": {
+  "name": "Guided Level Radar",
+  "parent": "Level Measurement",
+  "level": 3,
+  "code": "30794",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30794"
+ },
+ "level measurement||hydrostatic pressure sensors": {
+  "name": "Hydrostatic Pressure Sensors",
+  "parent": "Level Measurement",
+  "level": 3,
+  "code": "30814",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30814"
+ },
+ "level measurement||interface electronics": {
+  "name": "Interface Electronics",
+  "parent": "Level Measurement",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/level-measurement/interface-electronics-gp43550"
+ },
+ "level measurement||limit level measurement": {
+  "name": "Limit Level Measurement",
+  "parent": "Level Measurement",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/level-measurement/float-switches-gp42619"
+ },
+ "level measurement||magnetic immersion probes": {
+  "name": "Magnetic Immersion Probes",
+  "parent": "Level Measurement",
+  "level": 3,
+  "code": "30820",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30820"
+ },
+ "level measurement||ultrasonic level sensors": {
+  "name": "Ultrasonic Level Sensors",
+  "parent": "Level Measurement",
+  "level": 3,
+  "code": "30818",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30818"
+ },
+ "level measurement||vibration limit switches": {
+  "name": "Vibration Limit Switches",
+  "parent": "Level Measurement",
+  "level": 3,
+  "code": "30816",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30816"
+ },
+ "industrial sensors||lidar sensors": {
+  "name": "LiDAR Sensors",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "30654",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30654"
+ },
+ "lidar sensors||maximum performance": {
+  "name": "Maximum Performance",
+  "parent": "LiDAR Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/lidar-sensors/r2000-series-lidar-sensors-gp250316"
+ },
+ "maximum performance||r2000 detection switching sensor for field monitoringview productslearn more features at a glance": {
+  "name": "R2000 Detection Switching Sensor for Field MonitoringView productsLearn more Features at a Glance",
+  "parent": "Maximum Performance",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/lidar-sensors/r2000-series-lidar-sensors/r2000-detection-lidar-sensor-gp250322"
+ },
+ "maximum performance||r2000 uhd/hdoutput of high-precision measurement dataview productslearn morelidar sensorsr2000 detection switching sensor for field monitoringview productslearn more features at a glance": {
+  "name": "R2000 UHD/HDOutput of High-Precision Measurement DataView productsLearn moreLiDAR SensorsR2000 Detection Switching Sensor for Field MonitoringView productsLearn more Features at a Glance",
+  "parent": "Maximum Performance",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/lidar-sensors/r2000-series-lidar-sensors/r2000-detection-lidar-sensor-gp250322"
+ },
+ "industrial sensors||photoelectric sensors": {
+  "name": "Photoelectric Sensors",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "30652",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30652"
+ },
+ "photoelectric sensors||diffuse mode sensors": {
+  "name": "Diffuse Mode Sensors",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "30716",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30716"
+ },
+ "photoelectric sensors||distance sensors": {
+  "name": "Distance Sensors",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "30748",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30748"
+ },
+ "photoelectric sensors||fiber optic sensors": {
+  "name": "Fiber Optic Sensors",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "30744",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30744"
+ },
+ "photoelectric sensors||light grids": {
+  "name": "Light Grids",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "30758",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30758"
+ },
+ "photoelectric sensors||optical data couplers": {
+  "name": "Optical Data Couplers",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "30750",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30750"
+ },
+ "photoelectric sensors||print mark sensors": {
+  "name": "Print Mark Sensors",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "30746",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30746"
+ },
+ "photoelectric sensors||retroreflective sensors": {
+  "name": "Retroreflective Sensors",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "30742",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30742"
+ },
+ "photoelectric sensors||safety control units": {
+  "name": "Safety Control Units",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "30754",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30754"
+ },
+ "photoelectric sensors||safety edges": {
+  "name": "Safety Edges",
+  "parent": "Photoelectric Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/photoelectric-sensors/safety-control-units-gp31663"
+ },
+ "photoelectric sensors||safety thru-beam sensors": {
+  "name": "Safety Thru-Beam Sensors",
+  "parent": "Photoelectric Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/photoelectric-sensors/safety-control-units-gp31663"
+ },
+ "photoelectric sensors||thru-beam sensors": {
+  "name": "Thru-Beam Sensors",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "30740",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30740"
+ },
+ "industrial sensors||positioning systems": {
+  "name": "Positioning Systems",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "30656",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30656"
+ },
+ "industrial sensors||proximity sensors": {
+  "name": "Proximity Sensors",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "30650",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30650"
+ },
+ "proximity sensors||accessories": {
+  "name": "Accessories",
+  "parent": "Proximity Sensors",
+  "level": 3,
+  "code": "30898",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30898"
+ },
+ "proximity sensors||capacitive sensors": {
+  "name": "Capacitive Sensors",
+  "parent": "Proximity Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30898"
+ },
+ "proximity sensors||inductive sensors": {
+  "name": "Inductive Sensors",
+  "parent": "Proximity Sensors",
+  "level": 3,
+  "code": "30734",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734"
+ },
+ "inductive sensors||high temperature sensors": {
+  "name": "High Temperature Sensors",
+  "parent": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/proximity-sensors/inductive-sensors/inductive-sensors-for-hazardous-areas-gp134472"
+ },
+ "inductive sensors||safety sensors": {
+  "name": "Safety Sensors",
+  "parent": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/proximity-sensors/inductive-sensors/inductive-sensors-for-hazardous-areas-gp134472"
+ },
+ "inductive sensors||sensors for hazardous areas": {
+  "name": "Sensors for Hazardous Areas",
+  "parent": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/proximity-sensors/inductive-sensors/inductive-sensors-for-hazardous-areas-gp134472"
+ },
+ "proximity sensors||magnetic field sensors": {
+  "name": "Magnetic Field Sensors",
+  "parent": "Proximity Sensors",
+  "level": 3,
+  "code": "30710",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30710"
+ },
+ "industrial sensors||radar sensors": {
+  "name": "Radar Sensors",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "30660",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30660"
+ },
+ "industrial sensors||rfid and optical identification": {
+  "name": "RFID and Optical Identification",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "30632",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30632"
+ },
+ "rfid and optical identification||optical identification": {
+  "name": "Optical Identification",
+  "parent": "RFID and Optical Identification",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/rfid-and-optical-identification/optical-identification-gp46538"
+ },
+ "optical identification||1-d/2-d code handheld readers": {
+  "name": "1-D/2-D Code Handheld Readers",
+  "parent": "Optical Identification",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30986"
+ },
+ "optical identification||high-temperature identification system": {
+  "name": "High-Temperature Identification System",
+  "parent": "Optical Identification",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30986"
+ },
+ "optical identification||optical identification accessories": {
+  "name": "Optical Identification Accessories",
+  "parent": "Optical Identification",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30986"
+ },
+ "optical identification||stationary 2-d code readers": {
+  "name": "Stationary 2-D Code Readers",
+  "parent": "Optical Identification",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30966"
+ },
+ "optical identification||stationary barcode scanners": {
+  "name": "Stationary Barcode Scanners",
+  "parent": "Optical Identification",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30984"
+ },
+ "rfid and optical identification||rfid (radio frequency identification)": {
+  "name": "RFID (Radio Frequency Identification)",
+  "parent": "RFID and Optical Identification",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/rfid-and-optical-identification/optical-identification-gp46538"
+ },
+ "rfid (radio frequency identification)||1-d/2-d code handheld readers": {
+  "name": "1-D/2-D Code Handheld Readers",
+  "parent": "RFID (Radio Frequency Identification)",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30986"
+ },
+ "rfid (radio frequency identification)||high-temperature identification system": {
+  "name": "High-Temperature Identification System",
+  "parent": "RFID (Radio Frequency Identification)",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30986"
+ },
+ "rfid (radio frequency identification)||optical identification accessories": {
+  "name": "Optical Identification Accessories",
+  "parent": "RFID (Radio Frequency Identification)",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30986"
+ },
+ "rfid (radio frequency identification)||stationary 2-d code readers": {
+  "name": "Stationary 2-D Code Readers",
+  "parent": "RFID (Radio Frequency Identification)",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30966"
+ },
+ "rfid (radio frequency identification)||stationary barcode scanners": {
+  "name": "Stationary Barcode Scanners",
+  "parent": "RFID (Radio Frequency Identification)",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30984"
+ },
+ "industrial sensors||rotary encoders": {
+  "name": "Rotary Encoders",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "30662",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30662"
+ },
+ "rotary encoders||absolute rotary encoders": {
+  "name": "Absolute Rotary Encoders",
+  "parent": "Rotary Encoders",
+  "level": 3,
+  "code": "30780",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30780"
+ },
+ "rotary encoders||accessories": {
+  "name": "Accessories",
+  "parent": "Rotary Encoders",
+  "level": 3,
+  "code": "30924",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30924"
+ },
+ "rotary encoders||cable-pull rotary encoders": {
+  "name": "Cable-Pull Rotary Encoders",
+  "parent": "Rotary Encoders",
+  "level": 3,
+  "code": "30804",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30804"
+ },
+ "rotary encoders||incremental rotary encoders": {
+  "name": "Incremental Rotary Encoders",
+  "parent": "Rotary Encoders",
+  "level": 3,
+  "code": "30782",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30782"
+ },
+ "industrial sensors||safety for factory automation": {
+  "name": "Safety for Factory Automation",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "33604",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33604"
+ },
+ "industrial sensors||sensors for entrance automation": {
+  "name": "Sensors for Entrance Automation",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "31744",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31744"
+ },
+ "sensors for entrance automation||automatic doors and access systems": {
+  "name": "Automatic Doors and Access Systems",
+  "parent": "Sensors for Entrance Automation",
+  "level": 3,
+  "code": "31778",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31778"
+ },
+ "sensors for entrance automation||busses and trains": {
+  "name": "Busses and Trains",
+  "parent": "Sensors for Entrance Automation",
+  "level": 3,
+  "code": "31764",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31764"
+ },
+ "sensors for entrance automation||elevators": {
+  "name": "Elevators",
+  "parent": "Sensors for Entrance Automation",
+  "level": 3,
+  "code": "31772",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31772"
+ },
+ "sensors for entrance automation||escalators": {
+  "name": "Escalators",
+  "parent": "Sensors for Entrance Automation",
+  "level": 3,
+  "code": "31770",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31770"
+ },
+ "sensors for entrance automation||fire protection": {
+  "name": "Fire Protection",
+  "parent": "Sensors for Entrance Automation",
+  "level": 3,
+  "code": "31766",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31766"
+ },
+ "sensors for entrance automation||industrial doors": {
+  "name": "Industrial Doors",
+  "parent": "Sensors for Entrance Automation",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31770"
+ },
+ "sensors for entrance automation||loading technology": {
+  "name": "Loading Technology",
+  "parent": "Sensors for Entrance Automation",
+  "level": 3,
+  "code": "31774",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31774"
+ },
+ "sensors for entrance automation||perimeter protection": {
+  "name": "Perimeter Protection",
+  "parent": "Sensors for Entrance Automation",
+  "level": 3,
+  "code": "31746",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31746"
+ },
+ "industrial sensors||ultrasonic sensors": {
+  "name": "Ultrasonic Sensors",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "30658",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30658"
+ },
+ "industrial sensors||vibration monitoring": {
+  "name": "Vibration Monitoring",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "30666",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30666"
+ },
+ "vibration monitoring||accessories": {
+  "name": "Accessories",
+  "parent": "Vibration Monitoring",
+  "level": 3,
+  "code": "33664",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33664"
+ },
+ "vibration monitoring||vim3 series": {
+  "name": "VIM3 Series",
+  "parent": "Vibration Monitoring",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33664"
+ },
+ "vibration monitoring||vim6 series": {
+  "name": "VIM6 Series",
+  "parent": "Vibration Monitoring",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33664"
+ },
+ "vibration monitoring||vim8 series": {
+  "name": "VIM8 Series",
+  "parent": "Vibration Monitoring",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33664"
+ },
+ "industrial sensors||vision sensors": {
+  "name": "Vision Sensors",
+  "parent": "Industrial Sensors",
+  "level": 2,
+  "code": "30628",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30628"
+ },
+ "vision sensors||2-d universal vision sensors": {
+  "name": "2-D Universal Vision Sensors",
+  "parent": "Vision Sensors",
+  "level": 3,
+  "code": "30770",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30770"
+ },
+ "vision sensors||3-d vision sensors": {
+  "name": "3-D Vision Sensors",
+  "parent": "Vision Sensors",
+  "level": 3,
+  "code": "30768",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30768"
+ },
+ "3-d vision sensors||area monitoring": {
+  "name": "Area Monitoring",
+  "parent": "3-D Vision Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/laser-profile-sensors/area-monitoring-gp30632"
+ },
+ "3-d vision sensors||profile comparison": {
+  "name": "Profile Comparison",
+  "parent": "3-D Vision Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/laser-profile-sensors/area-monitoring-gp30632"
+ },
+ "3-d vision sensors||profile detection": {
+  "name": "Profile Detection",
+  "parent": "3-D Vision Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/laser-profile-sensors/area-monitoring-gp30632"
+ },
+ "vision sensors||event cameras": {
+  "name": "Event Cameras",
+  "parent": "Vision Sensors",
+  "level": 3,
+  "code": "30722",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30722"
+ },
+ "vision sensors||laser profile sensors": {
+  "name": "Laser Profile Sensors",
+  "parent": "Vision Sensors",
+  "level": 3,
+  "code": "30772",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30772"
+ },
+ "laser profile sensors||1-d/2-d code handheld readers": {
+  "name": "1-D/2-D Code Handheld Readers",
+  "parent": "Laser Profile Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/optical-identification/high-temperature-identification-system-gp34706"
+ },
+ "laser profile sensors||high-temperature identification system": {
+  "name": "High-Temperature Identification System",
+  "parent": "Laser Profile Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/optical-identification/high-temperature-identification-system-gp34706"
+ },
+ "laser profile sensors||stationary 2-d code readers": {
+  "name": "Stationary 2-D Code Readers",
+  "parent": "Laser Profile Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/optical-identification/high-temperature-identification-system-gp34706"
+ },
+ "vision sensors||optical identification": {
+  "name": "Optical Identification",
+  "parent": "Vision Sensors",
+  "level": 3,
+  "code": "33546",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33546"
+ },
+ "vision sensors||positioning systems": {
+  "name": "Positioning Systems",
+  "parent": "Vision Sensors",
+  "level": 3,
+  "code": "33544",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33544"
+ },
+ "vision sensors||vision sensors for sheet verification": {
+  "name": "Vision Sensors for Sheet Verification",
+  "parent": "Vision Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/sheet-verification-gp30245"
+ },
+ "ethernet-apl||ethernet-apl switches": {
+  "name": "Ethernet-APL Switches",
+  "parent": "Ethernet-APL",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31326"
+ },
+ "ethernet-apl||ethernet-apl enclosure solutions": {
+  "name": "Ethernet-APL Enclosure Solutions",
+  "parent": "Ethernet-APL",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33404"
+ },
+ "ethernet-apl||accessories for ethernet-apl": {
+  "name": "Accessories for Ethernet-APL",
+  "parent": "Ethernet-APL",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31324"
+ },
+ "ethernet-apl||the ethernet advanced physical layer": {
+  "name": "The Ethernet Advanced Physical Layer",
+  "parent": "Ethernet-APL",
+  "url": "https://www.pepperl-fuchs.com/en-sg/support/technologies/the-ethernet-advanced-physical-layer-gp31378"
+ },
+ "ethernet-apl||ethernet-apl rail field switches": {
+  "name": "Ethernet-APL Rail Field Switches",
+  "parent": "Ethernet-APL",
+  "url": "https://www.pepperl-fuchs.com/api/checkDociLink?id=TDOCT-7787&code=en"
+ },
+ "ethernet-apl||7 good reasons for ethernet-apl": {
+  "name": "7 Good Reasons for Ethernet-APL",
+  "parent": "Ethernet-APL",
+  "url": "https://www.pepperl-fuchs.com/global/en/47825.htm"
+ },
+ "ethernet-apl||ethernet-apl simply explained": {
+  "name": "Ethernet-APL Simply Explained",
+  "parent": "Ethernet-APL",
+  "url": "https://blog.pepperl-fuchs.com/en/2021/ethernet-apl-simply-explained-how-parallel-communications-work/"
+ },
+ "ethernet-apl||see you at the ethernet-apl tech talks!": {
+  "name": "See You at The Ethernet-APL Tech Talks!",
+  "parent": "Ethernet-APL",
+  "url": "https://amplify.pepperl-fuchs.com/2025/from-idea-to-successful-event-a-look-behind-the-scenes-of-the-ethernet-apl-expert-talk/"
+ },
+ "proximity sensors||knowledge base for proximity sensors": {
+  "name": "Knowledge Base for Proximity Sensors",
+  "parent": "Proximity Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/support/knowledge-and-literature/knowledge-bases-for-industrial-sensors-gp31491"
+ },
+ "ethernet io modules||io-link masters": {
+  "name": "IO-Link Masters",
+  "parent": "Ethernet IO Modules",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30946&prop=1160‖120096"
+ },
+ "ethernet io modules||digital modules": {
+  "name": "Digital Modules",
+  "parent": "Ethernet IO Modules",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30946&prop=1160‖122215"
+ },
+ "ethernet io modules||io-link master with s2 redundancy for high-reliability systems": {
+  "name": "IO-Link Master with S2 Redundancy for High-Reliability Systems",
+  "parent": "Ethernet IO Modules",
+  "url": "https://www.pepperl-fuchs.com/en-sg/search-overview-gp27127?q=ice1"
+ },
+ "inductive sensors for hazardous areas||ex:anzex (australia)": {
+  "name": "Ex:ANZEx (Australia)",
+  "parent": "Inductive Sensors for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖110974&prop=4720‖126127"
+ },
+ "inductive sensors for hazardous areas||ex:atex (europe)": {
+  "name": "Ex:ATEX (Europe)",
+  "parent": "Inductive Sensors for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖110974&prop=4720‖126139"
+ },
+ "inductive sensors for hazardous areas||ex:cccex (china)": {
+  "name": "Ex:CCCEx (China)",
+  "parent": "Inductive Sensors for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖110974&prop=4720‖126129"
+ },
+ "inductive sensors for hazardous areas||ex:ccoe (india)": {
+  "name": "Ex:CCOE (India)",
+  "parent": "Inductive Sensors for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖110974&prop=4720‖126132"
+ },
+ "inductive sensors for hazardous areas||ex:ecasex (united arab emirates)": {
+  "name": "Ex:ECASEx (United Arab Emirates)",
+  "parent": "Inductive Sensors for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖110974&prop=4720‖126137"
+ },
+ "inductive sensors for hazardous areas||ex:iecex (international)": {
+  "name": "Ex:IECEx (International)",
+  "parent": "Inductive Sensors for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖110974&prop=4720‖126131"
+ },
+ "inductive sensors for hazardous areas||ex:inmetro (brazil)": {
+  "name": "Ex:INMETRO (Brazil)",
+  "parent": "Inductive Sensors for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖110974&prop=4720‖126151"
+ },
+ "inductive sensors for hazardous areas||ex:kcc (korea)": {
+  "name": "Ex:KCC (Korea)",
+  "parent": "Inductive Sensors for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖110974&prop=4720‖126164"
+ },
+ "inductive sensors for hazardous areas||ex:itri (taiwan)": {
+  "name": "Ex:ITRI (Taiwan)",
+  "parent": "Inductive Sensors for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖110974&prop=4720‖136366"
+ },
+ "inductive sensors for hazardous areas||ex:jpex (japan)": {
+  "name": "Ex:JPEx (Japan)",
+  "parent": "Inductive Sensors for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖110974&prop=4720‖129906"
+ },
+ "inductive sensors for hazardous areas||ex:ul listed (canada, us)": {
+  "name": "Ex:UL Listed (Canada, US)",
+  "parent": "Inductive Sensors for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖110974&prop=4720‖127839"
+ },
+ "inductive sensors for hazardous areas||inductive sensors": {
+  "name": "Inductive Sensors",
+  "parent": "Inductive Sensors for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/proximity-sensors/inductive-sensors-gp31876"
+ },
+ "inductive sensors for hazardous areas||knowledge base for inductive sensors": {
+  "name": "Knowledge Base for Inductive Sensors",
+  "parent": "Inductive Sensors for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/support/knowledge-and-literature/knowledge-bases-for-industrial-sensors/knowledge-base-for-inductive-sensors-gp28601"
+ },
+ "intrinsic safety isolated barriers||isolated barriers of the k-system": {
+  "name": "Isolated Barriers of the K-System",
+  "parent": "Intrinsic Safety Isolated Barriers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33964"
+ },
+ "intrinsic safety isolated barriers||isolated barriers of the h-system": {
+  "name": "Isolated Barriers of the H-System",
+  "parent": "Intrinsic Safety Isolated Barriers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33966"
+ },
+ "distribution||segment protectors": {
+  "name": "Segment Protectors",
+  "parent": "Distribution",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33410"
+ },
+ "distribution||field barriers": {
+  "name": "Field Barriers",
+  "parent": "Distribution",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33408"
+ },
+ "distribution||junction boxes": {
+  "name": "Junction Boxes",
+  "parent": "Distribution",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30978"
+ },
+ "lidar sensors||economical and durable solution": {
+  "name": "Economical and Durable Solution",
+  "parent": "LiDAR Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31266&q=R2100"
+ },
+ "modules||g10 series": {
+  "name": "G10 Series",
+  "parent": "Modules",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30838&prop=1467‖107443"
+ },
+ "modules||g11 series": {
+  "name": "G11 Series",
+  "parent": "Modules",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30838&prop=1467‖107441"
+ },
+ "modules||g12 series": {
+  "name": "G12 Series",
+  "parent": "Modules",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30838&prop=1467‖107576"
+ },
+ "modules||g16 series": {
+  "name": "G16 Series",
+  "parent": "Modules",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30838&prop=1467‖107579"
+ },
+ "modules||ke series": {
+  "name": "KE Series",
+  "parent": "Modules",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30838&q=KE"
+ },
+ "modules||cb10 series": {
+  "name": "CB10 Series",
+  "parent": "Modules",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581/93276"
+ },
+ "inductive sensors||slot and ring sensors": {
+  "name": "Slot and Ring Sensors",
+  "parent": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=5161‖108065"
+ },
+ "inductive sensors||weld-proof sensors": {
+  "name": "Weld-Proof Sensors",
+  "parent": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖306&prop=1280‖121442"
+ },
+ "inductive sensors||reduction factor 1 sensors": {
+  "name": "Reduction Factor 1 Sensors",
+  "parent": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖1661"
+ },
+ "inductive sensors||metal face sensors": {
+  "name": "Metal Face Sensors",
+  "parent": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖109933"
+ },
+ "inductive sensors||pressure-resistant sensors": {
+  "name": "Pressure-Resistant Sensors",
+  "parent": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖107489"
+ },
+ "inductive sensors||sensors for valve position detection": {
+  "name": "Sensors for Valve Position Detection",
+  "parent": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=5300‖108782&prop=1280‖119856&prop=1280‖119854"
+ },
+ "inductive sensors||mobile equipment sensors": {
+  "name": "Mobile Equipment Sensors",
+  "parent": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=4720‖122546"
+ },
+ "inductive sensors||io-link sensors": {
+  "name": "IO-Link Sensors",
+  "parent": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=5220‖107615"
+ },
+ "inductive sensors||inductive distance sensors": {
+  "name": "Inductive Distance Sensors",
+  "parent": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30734&prop=1280‖135286"
+ },
+ "inductive sensors||knowledge base for inductive sensors": {
+  "name": "Knowledge Base for Inductive Sensors",
+  "parent": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/support/knowledge-and-literature/knowledge-bases-for-industrial-sensors/knowledge-base-for-inductive-sensors-gp28601"
+ },
+ "inductive sensors||varikont with active shielding technology": {
+  "name": "VariKont with Active Shielding Technology",
+  "parent": "Inductive Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/industrial-sensors/varikont-with-active-shielding-technology-gp32200"
+ },
+ "ultrasonic sensors||ultrasonic sensors with io-link | uc18gs": {
+  "name": "Ultrasonic Sensors with IO-Link | UC18GS",
+  "parent": "Ultrasonic Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/industrial-sensors/uc18gs-gp34545"
+ },
+ "ultrasonic sensors||usi-industry ultrasonic sensor system": {
+  "name": "USi-industry Ultrasonic Sensor System",
+  "parent": "Ultrasonic Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/industrial-sensors/usi-industry-gp32335"
+ },
+ "ultrasonic sensors||wireless ultrasonic sensors | iot sensors": {
+  "name": "Wireless Ultrasonic Sensors | IoT Sensors",
+  "parent": "Ultrasonic Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/industrial-sensors/wilsen-sonic-gp27745"
+ },
+ "ultrasonic sensors||usi-safety ultrasonic sensor system": {
+  "name": "USi-safety Ultrasonic Sensor System",
+  "parent": "Ultrasonic Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/industrial-sensors/usi-safety-gp28442"
+ },
+ "ultrasonic sensors||cubical all-rounder: ub*-f42 series ultrasonic sensor with io-link": {
+  "name": "Cubical All-Rounder: UB*-F42 Series Ultrasonic Sensor with IO-Link",
+  "parent": "Ultrasonic Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/news/cubical-all-rounder-ub-f42-series-ultrasonic-sensor-with-io-link-gn6528"
+ },
+ "ultrasonic sensors||reliable stock level monitoring in bulk material containers": {
+  "name": "Reliable Stock Level Monitoring in Bulk Material Containers",
+  "parent": "Ultrasonic Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/reliable-stock-level-monitoring-in-bulk-material-containers-ga6912"
+ },
+ "ultrasonic sensors||ultrasound—but different: usi®-industry ultrasonic sensor system": {
+  "name": "Ultrasound—but Different: USi®-industry Ultrasonic Sensor System",
+  "parent": "Ultrasonic Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/news/ultrasound-but-different-usi-r-industry-ultrasonic-sensor-system-gn3155"
+ },
+ "ultrasonic sensors||rfid system for exact filling of reservoir trucks": {
+  "name": "RFID System for Exact Filling of Reservoir Trucks",
+  "parent": "Ultrasonic Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/rfid-system-for-exact-filling-of-reservoir-trucks-ga3193"
+ },
+ "ultrasonic sensors||web tension monitoring with ultrasonic sensors": {
+  "name": "Web Tension Monitoring with Ultrasonic Sensors",
+  "parent": "Ultrasonic Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/web-tension-monitoring-with-ultrasonic-sensors-ga3085"
+ },
+ "power supplies, power extenders, and repeaters||power supplies": {
+  "name": "Power Supplies",
+  "parent": "Power Supplies, Power Extenders, and Repeaters",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30830&prop=53‖107863"
+ },
+ "power supplies, power extenders, and repeaters||power extenders": {
+  "name": "Power Extenders",
+  "parent": "Power Supplies, Power Extenders, and Repeaters",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30830&prop=53‖109952"
+ },
+ "power supplies, power extenders, and repeaters||repeaters": {
+  "name": "Repeaters",
+  "parent": "Power Supplies, Power Extenders, and Repeaters",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30830&prop=53‖106997"
+ },
+ "engineered hmi solutions||in-wall visunet flx double monitor solution": {
+  "name": "In-Wall VisuNet FLX Double Monitor Solution",
+  "parent": "Engineered HMI Solutions",
+  "url": "https://www.pepperl-fuchs.com/api/checkDociLink?id=TDOCT-C0C3&code=en"
+ },
+ "engineered hmi solutions||engineered solutions for hazardous areas": {
+  "name": "Engineered Solutions for Hazardous Areas",
+  "parent": "Engineered HMI Solutions",
+  "url": "https://www.pepperl-fuchs.com/en-sg/solutions/engineered-solutions-for-hazardous-areas-gp35477"
+ },
+ "engineered hmi solutions||solutions from pepperl+fuchs": {
+  "name": "Solutions from Pepperl+Fuchs",
+  "parent": "Engineered HMI Solutions",
+  "url": "https://www.pepperl-fuchs.com/en-sg/solutions-gp25593"
+ },
+ "r2000 detection lidar sensor||collision protection for stacker cranes": {
+  "name": "Collision Protection for Stacker Cranes",
+  "parent": "R2000 Detection LiDAR Sensor",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/reliable-collision-protection-in-high-bay-warehouses-ga3217"
+ },
+ "r2000 detection lidar sensor||reliable broken pallet detection in high bay warehouses": {
+  "name": "Reliable Broken Pallet Detection in High Bay Warehouses",
+  "parent": "R2000 Detection LiDAR Sensor",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/precise-broken-pallet-detection-in-high-bay-warehouses-ga3225"
+ },
+ "r2000 detection lidar sensor||height monitoring at industrial doors": {
+  "name": "Height Monitoring at Industrial Doors",
+  "parent": "R2000 Detection LiDAR Sensor",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/height-monitoring-of-forklifts-with-2-d-laser-scanner-2-d-lidar-sensor-ga3342"
+ },
+ "r2000 detection lidar sensor||r2000 series: r2000 detection": {
+  "name": "R2000 Series: R2000 Detection",
+  "parent": "R2000 Detection LiDAR Sensor",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31266&q=OBD*0M"
+ },
+ "r2000 detection lidar sensor||product overview lidar sensors „one critical step ahead“": {
+  "name": "Product Overview LiDAR Sensors „One Critical Step Ahead“",
+  "parent": "R2000 Detection LiDAR Sensor",
+  "url": "https://www.pepperl-fuchs.com/api/checkDociLink?id=TDOCT-6563&code=en"
+ },
+ "inclination and acceleration sensors||correct orientation of container spreaders on port cranes": {
+  "name": "Correct Orientation of Container Spreaders on Port Cranes",
+  "parent": "Inclination and Acceleration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/correct-orientation-of-container-spreaders-on-port-cranes-ga3347"
+ },
+ "inclination and acceleration sensors||precise orientation of heliostats in solar tower power plants": {
+  "name": "Precise Orientation of Heliostats in Solar Tower Power Plants",
+  "parent": "Inclination and Acceleration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/precise-orientation-of-heliostats-in-solar-tower-power-plants-ga4485"
+ },
+ "inclination and acceleration sensors||cornering angles, inclination, and acceleration for agv control": {
+  "name": "Cornering Angles, Inclination, and Acceleration for AGV Control",
+  "parent": "Inclination and Acceleration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/cornering-angles-inclination-and-acceleration-for-agv-control-ga3167"
+ },
+ "inclination and acceleration sensors||position excavator shovels precisely along three axes": {
+  "name": "Position Excavator Shovels Precisely along Three Axes",
+  "parent": "Inclination and Acceleration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/position-excavator-shovels-precisely-along-three-axes-ga3180"
+ },
+ "inclination and acceleration sensors||static inclination sensors": {
+  "name": "Static Inclination Sensors",
+  "parent": "Inclination and Acceleration Sensors",
+  "level": 3,
+  "code": "30788",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30788"
+ },
+ "inclination and acceleration sensors||dynamic inclination sensors / inertial measurement units (imu)": {
+  "name": "Dynamic Inclination Sensors / Inertial Measurement Units (IMU)",
+  "parent": "Inclination and Acceleration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/inclination-and-acceleration-sensors/dynamic-inclination-sensors-inertial-measurement-units-imu-gp33139"
+ },
+ "inclination and acceleration sensors||acceleration sensors": {
+  "name": "Acceleration Sensors",
+  "parent": "Inclination and Acceleration Sensors",
+  "level": 3,
+  "code": "30806",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30806"
+ },
+ "positioning systems||camera-based linear positioning (pcv, pxv)": {
+  "name": "Camera-Based Linear Positioning (PCV, PXV)",
+  "parent": "Positioning Systems",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/positioning-systems/camera-based-linear-positioning-pcv-pxv-gp31908"
+ },
+ "positioning systems||camera-based track guidance (pgv)": {
+  "name": "Camera-Based Track Guidance (PGV)",
+  "parent": "Positioning Systems",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/positioning-systems/camera-based-track-guidance-pgv-gp32265"
+ },
+ "positioning systems||precision positioning (pha)": {
+  "name": "Precision Positioning (PHA)",
+  "parent": "Positioning Systems",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/positioning-systems/precision-positioning-pha-gp32303"
+ },
+ "network technology||wireless communication for process automation: pepperl+fuchs manufactures fully ex-certified access point solutions": {
+  "name": "Wireless Communication for Process Automation: Pepperl+Fuchs Manufactures Fully Ex-Certified Access Point Solutions",
+  "parent": "Network Technology",
+  "url": "https://www.pepperl-fuchs.com/en-sg/news/wireless-communication-for-process-automation-pepperl-fuchs-manufactures-fully-ex-certified-access-point-solutions-gn2567"
+ },
+ "magnetic immersion probes||limit detection": {
+  "name": "Limit Detection",
+  "parent": "Magnetic Immersion Probes",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30820&q=LML"
+ },
+ "magnetic immersion probes||continuous measurement": {
+  "name": "Continuous Measurement",
+  "parent": "Magnetic Immersion Probes",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30820&q=LMC"
+ },
+ "high-temperature identification system||reliable optical identification in high-temperature environments": {
+  "name": "Reliable Optical Identification in High-Temperature Environments",
+  "parent": "High-Temperature Identification System",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/reliable-optical-identification-in-high-temperature-environments-ga3218"
+ },
+ "high-temperature identification system||optical identification systems": {
+  "name": "Optical Identification Systems",
+  "parent": "High-Temperature Identification System",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/industrial-sensors/optical-identification-gp29487"
+ },
+ "high-temperature identification system||optical identification and rfid": {
+  "name": "Optical Identification and RFID",
+  "parent": "High-Temperature Identification System",
+  "url": "https://www.pepperl-fuchs.com/api/checkDociLink?id=TDOCT-6294&code=en"
+ },
+ "retroreflective sensors||sensors with polarization filter": {
+  "name": "Sensors With Polarization Filter",
+  "parent": "Retroreflective Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30742&prop=1472‖205"
+ },
+ "retroreflective sensors||clear object detection sensors": {
+  "name": "Clear Object Detection Sensors",
+  "parent": "Retroreflective Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30742&prop=1472‖207"
+ },
+ "retroreflective sensors||foreground suppression sensors": {
+  "name": "Foreground Suppression Sensors",
+  "parent": "Retroreflective Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30742&prop=1472‖206"
+ },
+ "retroreflective sensors||retroreflective area sensors": {
+  "name": "Retroreflective Area Sensors",
+  "parent": "Retroreflective Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30958&q=OGR4000-R305-2EP"
+ },
+ "smart systems||iiot solutions from pepperl+fuchs": {
+  "name": "IIoT Solutions from Pepperl+Fuchs",
+  "parent": "Smart Systems",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/industrial-sensors/iiot-gp34148"
+ },
+ "smart systems||accurate volume measurement in real time": {
+  "name": "Accurate Volume Measurement in Real Time",
+  "parent": "Smart Systems",
+  "url": "https://www.pepperl-fuchs.com/en-sg/news/accurate-volume-measurement-in-real-time-gn4612"
+ },
+ "headsets and speakers||headsets": {
+  "name": "Headsets",
+  "parent": "Headsets and Speakers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30862"
+ },
+ "headsets and speakers||remote speaker microphones": {
+  "name": "Remote Speaker Microphones",
+  "parent": "Headsets and Speakers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30860"
+ },
+ "incremental rotary encoders||heavy-duty incremental rotary encoders": {
+  "name": "Heavy-Duty Incremental Rotary Encoders",
+  "parent": "Incremental Rotary Encoders",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30782&prop=1280‖110600"
+ },
+ "incremental rotary encoders||incremental rotary encoders for hazardous areas": {
+  "name": "Incremental Rotary Encoders for Hazardous Areas",
+  "parent": "Incremental Rotary Encoders",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30782&prop=1280‖108062"
+ },
+ "incremental rotary encoders||incremental rotary encoders for food or pharmaceutical applications": {
+  "name": "Incremental Rotary Encoders for Food or Pharmaceutical Applications",
+  "parent": "Incremental Rotary Encoders",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30782&prop=1280‖110602"
+ },
+ "r2000 series lidar sensors||pulse ranging technology (prt)": {
+  "name": "Pulse Ranging Technology (PRT)",
+  "parent": "R2000 Series LiDAR Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/support/technologies/pulse-ranging-technology-gp31047"
+ },
+ "r2000 series lidar sensors||lens contamination monitoring (lcm)": {
+  "name": "Lens Contamination Monitoring (LCM)",
+  "parent": "R2000 Series LiDAR Sensors",
+  "url": "https://blog.pepperl-fuchs.com/en/2026/r2000-lidar-sensor-three-intelligent-features-for-greater-precision-availability-and-flexibility/#toc_Monitor_Lens_Contamination_Before_Performance_Is_Affected"
+ },
+ "fiber optic sensors||fiber optic sensors—su19 series": {
+  "name": "Fiber Optic Sensors—SU19 Series",
+  "parent": "Fiber Optic Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/search-overview-gp27127?q=SU19"
+ },
+ "safety for factory automation||functional safety hub | process automation": {
+  "name": "Functional Safety Hub | Process Automation",
+  "parent": "Safety for Factory Automation",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/explosion-protection/safety-hub-pa-gp33630"
+ },
+ "safety for factory automation||functional safety hub | factory automation": {
+  "name": "Functional Safety Hub | Factory Automation",
+  "parent": "Safety for Factory Automation",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/industrial-sensors/safety-hub-fa-gp33712"
+ },
+ "safety for factory automation||new generation of signal optical safety edges": {
+  "name": "New Generation of SIGNAL Optical Safety Edges",
+  "parent": "Safety for Factory Automation",
+  "url": "https://www.pepperl-fuchs.com/en-sg/news/new-generation-of-signal-optical-safety-edges-gn8896"
+ },
+ "safety for factory automation||statement on conformity of pepperl+fuchs products to the eu machinery regulation": {
+  "name": "Statement on Conformity of Pepperl+Fuchs Products to the EU Machinery Regulation",
+  "parent": "Safety for Factory Automation",
+  "url": "https://www.pepperl-fuchs.com/en-sg/news/statement-on-conformity-of-pepperl-fuchs-products-to-the-eu-machinery-regulation-gn5632"
+ },
+ "radar sensors||industrial radar sensors": {
+  "name": "Industrial Radar Sensors",
+  "parent": "Radar Sensors",
+  "level": 3,
+  "code": "30786",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30786"
+ },
+ "radar sensors||radar sensor technology": {
+  "name": "Radar Sensor Technology",
+  "parent": "Radar Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/support/technologies/industrial-radar-sensors-defying-elements-gp28132"
+ },
+ "radar sensors||radar sensors for reliable object detection in challenging conditions": {
+  "name": "Radar Sensors for Reliable Object Detection in Challenging Conditions",
+  "parent": "Radar Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/news/radar-sensors-for-reliable-object-detection-in-challenging-conditions-gn3151"
+ },
+ "radar sensors||collision avoidance of agvs in all weather conditions": {
+  "name": "Collision Avoidance of AGVs in All Weather Conditions",
+  "parent": "Radar Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/collision-avoidance-of-agvs-in-all-weather-conditions-ga3201"
+ },
+ "radar sensors||opening doors made easy—echo radar motion sensors": {
+  "name": "Opening Doors Made Easy—ECHO Radar Motion Sensors",
+  "parent": "Radar Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/news/opening-doors-made-easy-echo-radar-motion-sensors-gn5313"
+ },
+ "1-d/2-d code handheld readers||ohv10 basic handheld reader for a variety of applications": {
+  "name": "OHV10 Basic Handheld Reader for a Variety of Applications",
+  "parent": "1-D/2-D Code Handheld Readers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581/102460"
+ },
+ "1-d/2-d code handheld readers||ohv110 compact handheld reader for demanding tasks": {
+  "name": "OHV110 Compact Handheld Reader for Demanding Tasks",
+  "parent": "1-D/2-D Code Handheld Readers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33546&q=OHV110&prop=3180‖134947&prop=1160‖129946"
+ },
+ "1-d/2-d code handheld readers||ohv210—mobile handheld reader for 1-d/2-d codes": {
+  "name": "OHV210—Mobile Handheld Reader for 1-D/2-D Codes",
+  "parent": "1-D/2-D Code Handheld Readers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33546&q=OHV210&prop=3180‖134947&prop=1160‖129946"
+ },
+ "1-d/2-d code handheld readers||wired 2-d code handheld ohv1000* for direct part marking (dpm) applications": {
+  "name": "Wired 2-D Code Handheld OHV1000* for Direct Part Marking (DPM) Applications",
+  "parent": "1-D/2-D Code Handheld Readers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33546&q=OHV1000&prop=3180‖134947&prop=1160‖129946"
+ },
+ "1-d/2-d code handheld readers||ultimate reading performance for reliable processes": {
+  "name": "Ultimate Reading Performance for Reliable Processes",
+  "parent": "1-D/2-D Code Handheld Readers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/ultimate-reading-performance-for-reliable-processes-ga3343"
+ },
+ "1-d/2-d code handheld readers||mobile and user-friendly: high-performance ohv210 series handheld readers": {
+  "name": "Mobile and User-Friendly: High-Performance OHV210 Series Handheld Readers",
+  "parent": "1-D/2-D Code Handheld Readers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/news/mobile-and-user-friendly-high-performance-ohv210-series-handheld-readers-gn5312"
+ },
+ "1-d/2-d code handheld readers||product group brochure: optical identification and rfid": {
+  "name": "Product Group Brochure: Optical Identification and RFID",
+  "parent": "1-D/2-D Code Handheld Readers",
+  "url": "https://www.pepperl-fuchs.com/api/checkDociLink?id=TDOCT-6294&code=en"
+ },
+ "1-d/2-d code handheld readers||optical identification systems": {
+  "name": "Optical Identification Systems",
+  "parent": "1-D/2-D Code Handheld Readers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/industrial-sensors/optical-identification-gp29487"
+ },
+ "industrial pcs and monitors (hmi)||box pc": {
+  "name": "Box PC",
+  "parent": "Industrial PCs and Monitors (HMI)",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31350"
+ },
+ "industrial pcs and monitors (hmi)||industrial tablet thin client": {
+  "name": "Industrial Tablet Thin Client",
+  "parent": "Industrial PCs and Monitors (HMI)",
+  "url": "https://www.pepperl-fuchs.com/en-sg/contact-us-gp25882"
+ },
+ "industrial pcs and monitors (hmi)||peripherals": {
+  "name": "Peripherals",
+  "parent": "Industrial PCs and Monitors (HMI)",
+  "level": 3,
+  "code": "33492",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33492"
+ },
+ "industrial pcs and monitors (hmi)||replacement components": {
+  "name": "Replacement Components",
+  "parent": "Industrial PCs and Monitors (HMI)",
+  "level": 3,
+  "code": "33490",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33490"
+ },
+ "print mark sensors||contrast sensors": {
+  "name": "Contrast Sensors",
+  "parent": "Print Mark Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30746&prop=1160‖39861"
+ },
+ "print mark sensors||color sensors": {
+  "name": "Color Sensors",
+  "parent": "Print Mark Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30746&prop=1160‖39862"
+ },
+ "software||iiot solutions from pepperl+fuchs": {
+  "name": "IIoT Solutions from Pepperl+Fuchs",
+  "parent": "Software",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/industrial-sensors/iiot-gp34148"
+ },
+ "hmi systems||industrial box pcs": {
+  "name": "Industrial Box PCs",
+  "parent": "HMI Systems",
+  "level": 3,
+  "code": "31144",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31144"
+ },
+ "hmi systems||peripherals": {
+  "name": "Peripherals",
+  "parent": "HMI Systems",
+  "level": 3,
+  "code": "31146",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31146"
+ },
+ "hmi systems||replacement components": {
+  "name": "Replacement Components",
+  "parent": "HMI Systems",
+  "level": 3,
+  "code": "33488",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33488"
+ },
+ "hmi systems||accessories": {
+  "name": "Accessories",
+  "parent": "HMI Systems",
+  "level": 3,
+  "code": "34204",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34204"
+ },
+ "interface electronics||conductive switch amplifier": {
+  "name": "Conductive Switch Amplifier",
+  "parent": "Interface Electronics",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30634&q=KFA6-ER-"
+ },
+ "interface electronics||signal trip value": {
+  "name": "Signal Trip Value",
+  "parent": "Interface Electronics",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581/84625"
+ },
+ "vibration sensors||vim3 series": {
+  "name": "VIM3 Series",
+  "parent": "Vibration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30808&prop=1‖125289"
+ },
+ "vibration sensors||vim6 series": {
+  "name": "VIM6 Series",
+  "parent": "Vibration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30808&prop=1‖125288"
+ },
+ "vibration sensors||vim8 series": {
+  "name": "VIM8 Series",
+  "parent": "Vibration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30808&prop=1‖125287"
+ },
+ "vibration sensors||accessories": {
+  "name": "Accessories",
+  "parent": "Vibration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33664"
+ },
+ "vibration sensors||continuous condition monitoring for indoor crane motors": {
+  "name": "Continuous Condition Monitoring for Indoor Crane Motors",
+  "parent": "Vibration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/continuous-condition-monitoring-for-indoor-crane-motors-ga4609"
+ },
+ "vibration sensors||detect cavitation on pumps at an early stage": {
+  "name": "Detect Cavitation on Pumps at an Early Stage",
+  "parent": "Vibration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/detect-cavitation-on-pumps-at-an-early-stage-ga6656"
+ },
+ "vibration sensors||servicing mobile concrete mixers according to actual needs": {
+  "name": "Servicing Mobile Concrete Mixers According to Actual Needs",
+  "parent": "Vibration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/servicing-mobile-concrete-mixers-according-to-actual-needs-ga2690"
+ },
+ "vibration sensors||detection of harmful resonance frequencies on pipes": {
+  "name": "Detection of Harmful Resonance Frequencies on Pipes",
+  "parent": "Vibration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/detection-of-harmful-resonance-frequencies-on-pipes-ga6720"
+ },
+ "sil-capable products for hazardous areas||functional safety hub | factory automation": {
+  "name": "Functional Safety Hub | Factory Automation",
+  "parent": "SIL-Capable Products for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/industrial-sensors/safety-hub-fa-gp33712"
+ },
+ "sil-capable products for hazardous areas||functional safety hub | process automation": {
+  "name": "Functional Safety Hub | Process Automation",
+  "parent": "SIL-Capable Products for Hazardous Areas",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/explosion-protection/safety-hub-pa-gp33630"
+ },
+ "area monitoring||quality-assured removal control for packing stations": {
+  "name": "Quality-Assured Removal Control for Packing Stations",
+  "parent": "Area Monitoring",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/quality-assured-removal-control-for-packing-stations-with-the-smartrunner-detector-ga2821"
+ },
+ "area monitoring||reliable protection of the microscope lens during pcb inspection": {
+  "name": "Reliable Protection of the Microscope Lens during PCB Inspection",
+  "parent": "Area Monitoring",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/smartrunner-detector-ensures-reliable-protection-for-microscope-lens-during-pcb-inspection-ga2822"
+ },
+ "enclosures and cable glands||ex e enclosures in stainless steel | sr series": {
+  "name": "Ex e Enclosures in Stainless Steel | SR Series",
+  "parent": "Enclosures and Cable Glands",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/explosion-protection/sr-series-gp28508"
+ },
+ "enclosures and cable glands||pepperl+fuchs launches one of the first ethernet-apl control cabinet solutions on the market": {
+  "name": "Pepperl+Fuchs Launches One of the First Ethernet-APL Control Cabinet Solutions on the Market",
+  "parent": "Enclosures and Cable Glands",
+  "url": "https://www.pepperl-fuchs.com/en-sg/news/pepperl-fuchs-launches-one-of-the-first-ethernet-apl-control-cabinet-solutions-on-the-market-gn7361"
+ },
+ "enclosures and cable glands||industrial sensors with ex d protection—pepperl+fuchs combines expertise in new product line": {
+  "name": "Industrial Sensors with Ex d Protection—Pepperl+Fuchs Combines Expertise in New Product Line",
+  "parent": "Enclosures and Cable Glands",
+  "url": "https://www.pepperl-fuchs.com/en-sg/news/industrial-sensors-with-ex-d-protection-pepperl-fuchs-combines-expertise-in-new-product-line-gn3791"
+ },
+ "safety at work||safety monitors": {
+  "name": "Safety Monitors",
+  "parent": "Safety at Work",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33924&prop=1160‖135456"
+ },
+ "safety at work||emergency stop": {
+  "name": "Emergency Stop",
+  "parent": "Safety at Work",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33924&prop=1160‖106974"
+ },
+ "safety at work||safety modules": {
+  "name": "Safety Modules",
+  "parent": "Safety at Work",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33924&prop=1160‖106976"
+ },
+ "distance sensors||precise long-range distance measurement: r1000 distance sensor": {
+  "name": "Precise Long-Range Distance Measurement: R1000 Distance Sensor",
+  "parent": "Distance Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/search-overview-gp27127?q=r1000"
+ },
+ "distance sensors||large distances in small spaces: r200 distance sensor": {
+  "name": "Large Distances in Small Spaces: R200 Distance Sensor",
+  "parent": "Distance Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/search-overview-gp27127?q=OM*M*R200-*%20IO*"
+ },
+ "distance sensors||interference-free distance measurements in the near range: r10x series": {
+  "name": "Interference-Free Distance Measurements in the Near Range: R10x Series",
+  "parent": "Distance Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30748&q=R10*"
+ },
+ "event cameras||voc standard event camera": {
+  "name": "VOC Standard Event Camera",
+  "parent": "Event Cameras",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581/139551"
+ },
+ "event cameras||voc advanced event camera": {
+  "name": "VOC Advanced Event Camera",
+  "parent": "Event Cameras",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581/143362"
+ },
+ "event cameras||voc performance event camera": {
+  "name": "VOC Performance Event Camera",
+  "parent": "Event Cameras",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581/143361"
+ },
+ "event cameras||reliable monitoring in automated high-bay warehouses": {
+  "name": "Reliable Monitoring in Automated High-Bay Warehouses",
+  "parent": "Event Cameras",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/voc-industrial-event-camera-monitors-automated-high-bay-warehouses-ga7680"
+ },
+ "event cameras||reliable monitoring of cartoning machines": {
+  "name": "Reliable Monitoring of Cartoning Machines",
+  "parent": "Event Cameras",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/reliable-monitoring-of-cartoning-machines-ga7681"
+ },
+ "data capturing||pocket": {
+  "name": "Pocket",
+  "parent": "Data Capturing",
+  "url": "https://www.pepperl-fuchs.com/en-sg/search-overview-gp27127?q=ident-ex%2002%20pocket"
+ },
+ "data capturing||scanner module for smart-ex 203": {
+  "name": "Scanner Module for Smart-Ex 203",
+  "parent": "Data Capturing",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581/140311"
+ },
+ "data capturing||ebarcode-ml app": {
+  "name": "eBARCODE-ML App",
+  "parent": "Data Capturing",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581/139511"
+ },
+ "data capturing||ebarcode app": {
+  "name": "eBARCODE App",
+  "parent": "Data Capturing",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581/131637"
+ },
+ "profile comparison||automatic component inspection in car body manufacturing": {
+  "name": "Automatic Component Inspection in Car Body Manufacturing",
+  "parent": "Profile Comparison",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/automatic-component-inspection-in-car-body-manufacturing-ga2945"
+ },
+ "profile comparison||reliable detection of fasteners in automotive manufacturing": {
+  "name": "Reliable Detection of Fasteners in Automotive Manufacturing",
+  "parent": "Profile Comparison",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/reliable-detection-of-fasteners-in-automotive-manufacturing-ga2946"
+ },
+ "profile comparison||automatic detection of vibration dampers": {
+  "name": "Automatic Detection of Vibration Dampers",
+  "parent": "Profile Comparison",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/automatic-detection-of-vibration-dampers-ga2947"
+ },
+ "profile comparison||reliable skid bolt position monitoring": {
+  "name": "Reliable Skid Bolt Position Monitoring",
+  "parent": "Profile Comparison",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/reliable-profile-comparison-on-skids-ga2948"
+ },
+ "profile comparison||uninterrupted material feed in production plants": {
+  "name": "Uninterrupted Material Feed in Production Plants",
+  "parent": "Profile Comparison",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/uninterrupted-material-feed-in-production-plants-ga2949"
+ },
+ "profile comparison||ensuring reliability in ready-meal production": {
+  "name": "Ensuring Reliability in Ready-Meal Production",
+  "parent": "Profile Comparison",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/applications/ensuring-reliability-in-ready-meal-production-ga2950"
+ },
+ "indication/operation||push button modules": {
+  "name": "Push Button Modules",
+  "parent": "Indication/Operation",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30840&prop=1160‖107743"
+ },
+ "indication/operation||stack lights": {
+  "name": "Stack Lights",
+  "parent": "Indication/Operation",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30840&prop=1160‖107938"
+ },
+ "indication/operation||buzzer elements": {
+  "name": "Buzzer Elements",
+  "parent": "Indication/Operation",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30840&prop=1160‖107597"
+ },
+ "tab-ind industrial-grade tablets||tab-ind tablet": {
+  "name": "Tab-IND Tablet",
+  "parent": "Tab-IND Industrial-Grade Tablets",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34130"
+ },
+ "tab-ind industrial-grade tablets||accessories": {
+  "name": "Accessories",
+  "parent": "Tab-IND Industrial-Grade Tablets",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31290&prop=3180‖131106"
+ },
+ "tab-ind industrial-grade tablets||tab-ind series for use in industrial environments": {
+  "name": "Tab-IND Series for Use in Industrial Environments",
+  "parent": "Tab-IND Industrial-Grade Tablets",
+  "url": "https://www.pepperl-fuchs.com/api/checkDociLink?id=TDOCT-C0Q1&code=en"
+ },
+ "tab-ind industrial-grade tablets||tab-ind enables mobile retail processes in japanese department stores": {
+  "name": "Tab-IND Enables Mobile Retail Processes in Japanese Department Stores",
+  "parent": "Tab-IND Industrial-Grade Tablets",
+  "url": "https://www.pepperl-fuchs.com/en-sg/industries-and-trends/view-all-applications/tab-ind-enables-mobile-retail-processes-in-japanese-department-stores-ga10688"
+ },
+ "tab-ind industrial-grade tablets||pepperl+fuchs expands tab-ind® series with industrial tablets and kiosk terminals": {
+  "name": "Pepperl+Fuchs Expands Tab-IND® Series with Industrial Tablets and Kiosk Terminals",
+  "parent": "Tab-IND Industrial-Grade Tablets",
+  "url": "https://www.pepperl-fuchs.com/en-sg/news/new-tab-ind-industrial-tablet-series-for-non-ex-applications-gn2434"
+ },
+ "ebarcode-ml||software tools": {
+  "name": "Software Tools",
+  "parent": "eBARCODE-ML",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30992"
+ },
+ "signal line protection||surge protection": {
+  "name": "Surge Protection",
+  "parent": "Signal Line Protection",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/hazardous-area-products-and-solutions/surge-protection-barriers-gp34309"
+ },
+ "vibration sensors||vibration sensors": {
+  "name": "Vibration Sensors",
+  "parent": "Vibration Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vibration-monitoring-gp30104"
+ },
+ "safety at work||safety at work": {
+  "name": "Safety at Work",
+  "parent": "Safety at Work",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-communication-and-interfaces/as-interface/safety-at-work-gp35764"
+ },
+ "magnetic immersion probes||magnetic immersion probes": {
+  "name": "Magnetic Immersion Probes",
+  "parent": "Magnetic Immersion Probes",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/level-measurement/magnetic-immersion-probes-gp43469"
+ },
+ "print mark sensors||print mark sensors": {
+  "name": "Print Mark Sensors",
+  "parent": "Print Mark Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/photoelectric-sensors/print-mark-sensors-gp31529"
+ },
+ "distance sensors||distance sensors": {
+  "name": "Distance Sensors",
+  "parent": "Distance Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/photoelectric-sensors/distance-sensors-gp31538"
+ },
+ "voc12m-f356-b12-v1d-cr2s||event cameras": {
+  "name": "Event Cameras",
+  "parent": "VOC12M-F356-B12-V1D-CR2S",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/event-cameras-gp30053"
+ },
+ "io-link infrastructure||ethernet io modules": {
+  "name": "Ethernet IO Modules",
+  "parent": "IO-Link Infrastructure",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/industrial-sensors/ethernet-io-modules-with-io-link-master-gp32668"
+ },
+ "precise docking and reliable identification of agvs||positioning systems": {
+  "name": "Positioning Systems",
+  "parent": "Precise Docking and Reliable Identification of AGVs",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/positioning-systems-gp31732"
+ },
+ "stationary 2-d code readers||stationary 2-d code readers": {
+  "name": "Stationary 2-D Code Readers",
+  "parent": "Stationary 2-D Code Readers",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/optical-identification/stationary-2-d-code-readers-gp33787"
+ },
+ "stationary barcode scanners||stationary barcode scanners": {
+  "name": "Stationary Barcode Scanners",
+  "parent": "Stationary Barcode Scanners",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/rfid-and-optical-identification/stationary-barcode-scanners-gp46550"
+ },
+ "||industrial sensors": {
+  "name": "Industrial Sensors",
+  "parent": "",
+  "level": 1,
+  "code": "30644",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30644"
+ },
+ "**-edge-*-*-*||industrial monitors": {
+  "name": "Industrial Monitors",
+  "parent": "**-EDGE-*-*-*",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/hazardous-area-products-and-solutions/industrial-pcs-and-monitors-hmi/industrial-monitors-gp27840"
+ },
+ "btc24-*||industrial box thin clients": {
+  "name": "Industrial Box Thin Clients",
+  "parent": "BTC24-*",
+  "url": "https://www.pepperl-fuchs.com/en-sg/landingpage/explosion-protection/industrial-box-thin-client-btc-gp27893"
+ },
+ "kcd2-vr4-ex1||intrinsic safety barriers": {
+  "name": "Intrinsic Safety Barriers",
+  "parent": "KCD2-VR4-Ex1",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34964"
+ },
+ "lhcr-51||hydrostatic pressure sensors": {
+  "name": "Hydrostatic Pressure Sensors",
+  "parent": "LHCR-51",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/level-measurement/hydrostatic-pressure-sensors-gp43482"
+ },
+ "cap feeding in high-output bottling plants||diffuse mode sensors": {
+  "name": "Diffuse Mode Sensors",
+  "parent": "Cap Feeding in High-Output Bottling Plants",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/photoelectric-sensors/diffuse-mode-sensors-gp31454"
+ },
+ "reliable detection of clear bottles||retroreflective sensors": {
+  "name": "Retroreflective Sensors",
+  "parent": "Reliable Detection of Clear Bottles",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/photoelectric-sensors/retroreflective-sensors-gp31429"
+ },
+ "material detection for multilayered paper products||double sheet sensors": {
+  "name": "Double Sheet Sensors",
+  "parent": "Material Detection for Multilayered Paper Products",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30776&amp;q=UD*-*GS*"
+ },
+ "vision sensors||profile detection": {
+  "name": "Profile Detection",
+  "parent": "Vision Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/laser-profile-sensors/profile-detection-gp30497"
+ },
+ "vision sensors||profile comparison": {
+  "name": "Profile Comparison",
+  "parent": "Vision Sensors",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/vision-sensors/laser-profile-sensors/profile-comparison-gp30514"
+ },
+ "eni58il-s*||incremental rotary encoders": {
+  "name": "Incremental Rotary Encoders",
+  "parent": "ENI58IL-S*",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-sensors/rotary-encoders/incremental-rotary-encoders-gp30138"
+ },
+ "ethernet devices||ethernet devices": {
+  "name": "Ethernet Devices",
+  "parent": "Ethernet Devices",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products/industrial-communication-and-interfaces/industrial-ethernet/ethernet-devices-gp35267"
+ },
+ "connection technology for robotic applications||sensor-actuator cables": {
+  "name": "Sensor-Actuator Cables",
+  "parent": "Connection Technology for Robotic Applications",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30796"
+ },
+ "||industrial communication and interfaces": {
+  "name": "Industrial Communication and Interfaces",
+  "parent": "",
+  "level": 1,
+  "code": "30626",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30626"
+ },
+ "||hazardous area products and solutions": {
+  "name": "Hazardous Area Products and Solutions",
+  "parent": "",
+  "level": 1,
+  "code": "30646",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30646"
+ },
+ "sensors for hazardous areas||inductive sensors": {
+  "name": "Inductive Sensors",
+  "parent": "Sensors for Hazardous Areas",
+  "level": 3,
+  "code": "33768",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33768"
+ },
+ "accessories||mounting accessories": {
+  "name": "Mounting Accessories",
+  "parent": "Accessories",
+  "level": 3,
+  "code": "31308",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31308"
+ },
+ "ultrasonic sensors||diffuse mode and retroreflective sensors": {
+  "name": "Diffuse Mode and Retroreflective Sensors",
+  "parent": "Ultrasonic Sensors",
+  "level": 3,
+  "code": "30784",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30784"
+ },
+ "photoelectric sensors||optical fibers": {
+  "name": "Optical Fibers",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "30760",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30760"
+ },
+ "sil-capable products for hazardous areas||industrial sensors": {
+  "name": "Industrial Sensors",
+  "parent": "SIL-Capable Products for Hazardous Areas",
+  "level": 3,
+  "code": "34966",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34966"
+ },
+ "safety for factory automation||safety integrity level 2": {
+  "name": "Safety Integrity Level 2",
+  "parent": "Safety for Factory Automation",
+  "level": 3,
+  "code": "33608",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33608"
+ },
+ "||enterprise mobility for industrial and hazardous areas": {
+  "name": "Enterprise Mobility for Industrial and Hazardous Areas",
+  "parent": "",
+  "level": 1,
+  "code": "30648",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30648"
+ },
+ "positioning systems||distance sensors": {
+  "name": "Distance Sensors",
+  "parent": "Positioning Systems",
+  "level": 3,
+  "code": "30766",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30766"
+ },
+ "intrinsic safety barriers||k-system (din rail mounting)": {
+  "name": "K-System (DIN Rail Mounting)",
+  "parent": "Intrinsic Safety Barriers",
+  "level": 3,
+  "code": "33964",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33964"
+ },
+ "photoelectric sensors||accessories": {
+  "name": "Accessories",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "30878",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30878"
+ },
+ "control units and control stations||accessories": {
+  "name": "Accessories",
+  "parent": "Control Units and Control Stations",
+  "level": 3,
+  "code": "34264",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34264"
+ },
+ "enterprise mobility for industrial and hazardous areas||accessories": {
+  "name": "Accessories",
+  "parent": "Enterprise Mobility for Industrial and Hazardous Areas",
+  "level": 2,
+  "code": "31114",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31114"
+ },
+ "positioning systems||optical linear positioning systems": {
+  "name": "Optical Linear Positioning Systems",
+  "parent": "Positioning Systems",
+  "level": 3,
+  "code": "33352",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33352"
+ },
+ "hazardous area products and solutions||remote i\\u002fo systems": {
+  "name": "Remote I\\u002FO Systems",
+  "parent": "Hazardous Area Products and Solutions",
+  "level": 2,
+  "code": "30698",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30698"
+ },
+ "industrial communication and interfaces||remote i\\u002fo systems": {
+  "name": "Remote I\\u002FO Systems",
+  "parent": "Industrial Communication and Interfaces",
+  "level": 2,
+  "code": "30680",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30680"
+ },
+ "sil-capable products for hazardous areas||intrinsic safety barriers": {
+  "name": "Intrinsic Safety Barriers",
+  "parent": "SIL-Capable Products for Hazardous Areas",
+  "level": 3,
+  "code": "34964",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34964"
+ },
+ "photoelectric sensors||reflectors": {
+  "name": "Reflectors",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "30762",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30762"
+ },
+ "intrinsic safety barriers||h-system (termination board mounting)": {
+  "name": "H-System (Termination Board Mounting)",
+  "parent": "Intrinsic Safety Barriers",
+  "level": 3,
+  "code": "33966",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33966"
+ },
+ "sensors for entrance automation||industrial gates": {
+  "name": "Industrial Gates",
+  "parent": "Sensors for Entrance Automation",
+  "level": 3,
+  "code": "31776",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31776"
+ },
+ "safety for factory automation||safety integrity level 3": {
+  "name": "Safety Integrity Level 3",
+  "parent": "Safety for Factory Automation",
+  "level": 3,
+  "code": "33610",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33610"
+ },
+ "signal conditioners||k-system (din rail mounting, highly functional)": {
+  "name": "K-System (DIN Rail Mounting, Highly Functional)",
+  "parent": "Signal Conditioners",
+  "level": 3,
+  "code": "33926",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33926"
+ },
+ "sensors for entrance automation||accessories": {
+  "name": "Accessories",
+  "parent": "Sensors for Entrance Automation",
+  "level": 3,
+  "code": "34824",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34824"
+ },
+ "remote i\\u002fo systems||lb (zone 2, class i\\u002fdiv. 2)": {
+  "name": "LB (Zone 2, Class I\\u002FDiv. 2)",
+  "parent": "Remote I\\u002FO Systems",
+  "level": 3,
+  "code": "33824",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33824"
+ },
+ "photoelectric sensors||slot and slot grid sensors": {
+  "name": "Slot and Slot Grid Sensors",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "34804",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34804"
+ },
+ "rfid and optical identification||rfid tags": {
+  "name": "RFID Tags",
+  "parent": "RFID and Optical Identification",
+  "level": 3,
+  "code": "30864",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30864"
+ },
+ "control units and control stations||control units (ex e)": {
+  "name": "Control Units (Ex e)",
+  "parent": "Control Units and Control Stations",
+  "level": 3,
+  "code": "31154",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31154"
+ },
+ "safety for factory automation||performance level d": {
+  "name": "Performance Level d",
+  "parent": "Safety for Factory Automation",
+  "level": 3,
+  "code": "33614",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33614"
+ },
+ "remote i\\u002fo systems||fb (zone 1)": {
+  "name": "FB (Zone 1)",
+  "parent": "Remote I\\u002FO Systems",
+  "level": 3,
+  "code": "33826",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33826"
+ },
+ "thin clients||peripherals": {
+  "name": "Peripherals",
+  "parent": "Thin Clients",
+  "level": 3,
+  "code": "33486",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33486"
+ },
+ "accessories||tablets": {
+  "name": "Tablets",
+  "parent": "Accessories",
+  "level": 3,
+  "code": "31290",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31290"
+ },
+ "positioning systems||camera-based track guidance": {
+  "name": "Camera-Based Track Guidance",
+  "parent": "Positioning Systems",
+  "level": 3,
+  "code": "33464",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33464"
+ },
+ "rfid and optical identification||rfid read\\u002fwrite devices": {
+  "name": "RFID Read\\u002FWrite Devices",
+  "parent": "RFID and Optical Identification",
+  "level": 3,
+  "code": "30842",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30842"
+ },
+ "safety for factory automation||performance level e": {
+  "name": "Performance Level e",
+  "parent": "Safety for Factory Automation",
+  "level": 3,
+  "code": "33612",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33612"
+ },
+ "positioning systems||camera-based linear positioning": {
+  "name": "Camera-Based Linear Positioning",
+  "parent": "Positioning Systems",
+  "level": 3,
+  "code": "30720",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30720"
+ },
+ "industrial ethernet||serial gateways": {
+  "name": "Serial Gateways",
+  "parent": "Industrial Ethernet",
+  "level": 3,
+  "code": "30948",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30948"
+ },
+ "accessories||smartphones \\u002f cell phones": {
+  "name": "Smartphones \\u002F Cell Phones",
+  "parent": "Accessories",
+  "level": 3,
+  "code": "31292",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31292"
+ },
+ "positioning systems||inductive positioning systems": {
+  "name": "Inductive Positioning Systems",
+  "parent": "Positioning Systems",
+  "level": 3,
+  "code": "30764",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30764"
+ },
+ "as-interface||indication \\u002f operation": {
+  "name": "Indication \\u002F Operation",
+  "parent": "AS-Interface",
+  "level": 3,
+  "code": "30840",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30840"
+ },
+ "ultrasonic sensors||accessories": {
+  "name": "Accessories",
+  "parent": "Ultrasonic Sensors",
+  "level": 3,
+  "code": "30904",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30904"
+ },
+ "rfid and optical identification||rfid accessories": {
+  "name": "RFID Accessories",
+  "parent": "RFID and Optical Identification",
+  "level": 3,
+  "code": "30960",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30960"
+ },
+ "photoelectric sensors||safety light barriers": {
+  "name": "Safety Light Barriers",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "30752",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30752"
+ },
+ "software||software tools": {
+  "name": "Software Tools",
+  "parent": "Software",
+  "level": 3,
+  "code": "30992",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30992"
+ },
+ "ultrasonic sensors||double sheet sensors": {
+  "name": "Double Sheet Sensors",
+  "parent": "Ultrasonic Sensors",
+  "level": 3,
+  "code": "30776",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30776"
+ },
+ "radar sensors||radar sensors for entrance automation": {
+  "name": "Radar Sensors for Entrance Automation",
+  "parent": "Radar Sensors",
+  "level": 3,
+  "code": "30778",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30778"
+ },
+ "surge protection barriers||signal line protection": {
+  "name": "Signal Line Protection",
+  "parent": "Surge Protection Barriers",
+  "level": 3,
+  "code": "34008",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34008"
+ },
+ "purge and pressurization systems||purge and pressurization system (type z)": {
+  "name": "Purge and Pressurization System (Type Z)",
+  "parent": "Purge and Pressurization Systems",
+  "level": 3,
+  "code": "30890",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30890"
+ },
+ "connection technology||sfp transceivers": {
+  "name": "SFP Transceivers",
+  "parent": "Connection Technology",
+  "level": 3,
+  "code": "33390",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33390"
+ },
+ "accessories||peripherals": {
+  "name": "Peripherals",
+  "parent": "Accessories",
+  "level": 3,
+  "code": "31294",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31294"
+ },
+ "sensors for hazardous areas||level measurement": {
+  "name": "Level Measurement",
+  "parent": "Sensors for Hazardous Areas",
+  "level": 3,
+  "code": "34724",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34724"
+ },
+ "sil-capable products for hazardous areas||surge protection barriers": {
+  "name": "Surge Protection Barriers",
+  "parent": "SIL-Capable Products for Hazardous Areas",
+  "level": 3,
+  "code": "34968",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34968"
+ },
+ "enterprise mobility for industrial and hazardous areas||headsets and remote speaker microphones": {
+  "name": "Headsets and Remote Speaker Microphones",
+  "parent": "Enterprise Mobility for Industrial and Hazardous Areas",
+  "level": 2,
+  "code": "34132",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34132"
+ },
+ "signal conditioners||sc-system (din rail mounting, compact design)": {
+  "name": "SC-System (DIN Rail Mounting, Compact Design)",
+  "parent": "Signal Conditioners",
+  "level": 3,
+  "code": "31036",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31036"
+ },
+ "lidar sensors||2-d lidar sensors": {
+  "name": "2-D LiDAR Sensors",
+  "parent": "LiDAR Sensors",
+  "level": 3,
+  "code": "31266",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31266"
+ },
+ "purge and pressurization systems||purge and pressurization system (ex pzc)": {
+  "name": "Purge and Pressurization System (Ex pzc)",
+  "parent": "Purge and Pressurization Systems",
+  "level": 3,
+  "code": "30894",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30894"
+ },
+ "as-interface||sensors": {
+  "name": "Sensors",
+  "parent": "AS-Interface",
+  "level": 3,
+  "code": "33424",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33424"
+ },
+ "hmi systems||industrial monitors": {
+  "name": "Industrial Monitors",
+  "parent": "HMI Systems",
+  "level": 3,
+  "code": "31124",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31124"
+ },
+ "surge protection barriers||supply line protection": {
+  "name": "Supply Line Protection",
+  "parent": "Surge Protection Barriers",
+  "level": 3,
+  "code": "34010",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34010"
+ },
+ "industrial pcs and monitors (hmi)||industrial monitors": {
+  "name": "Industrial Monitors",
+  "parent": "Industrial PCs and Monitors (HMI)",
+  "level": 3,
+  "code": "31348",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31348"
+ },
+ "positioning systems||precision positioning": {
+  "name": "Precision Positioning",
+  "parent": "Positioning Systems",
+  "level": 3,
+  "code": "33466",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33466"
+ },
+ "accessories||sensor testers and tools": {
+  "name": "Sensor Testers and Tools",
+  "parent": "Accessories",
+  "level": 3,
+  "code": "31306",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31306"
+ },
+ "hart interface solutions||h-system": {
+  "name": "H-System",
+  "parent": "HART Interface Solutions",
+  "level": 3,
+  "code": "34168",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34168"
+ },
+ "purge and pressurization systems||purge and pressurization system (ex pxb)": {
+  "name": "Purge and Pressurization System (Ex pxb)",
+  "parent": "Purge and Pressurization Systems",
+  "level": 3,
+  "code": "30892",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30892"
+ },
+ "photoelectric sensors||safety edge": {
+  "name": "Safety edge",
+  "parent": "Photoelectric Sensors",
+  "level": 3,
+  "code": "30718",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30718"
+ },
+ "vibration monitoring||vibration sensors": {
+  "name": "Vibration Sensors",
+  "parent": "Vibration Monitoring",
+  "level": 3,
+  "code": "30808",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30808"
+ },
+ "sensors for hazardous areas||rotary encoders": {
+  "name": "Rotary Encoders",
+  "parent": "Sensors for Hazardous Areas",
+  "level": 3,
+  "code": "33764",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33764"
+ },
+ "enclosures and cable glands||cable glands and accessories (ex d, ex e, ex i)": {
+  "name": "Cable Glands and Accessories (Ex d, Ex e, Ex i)",
+  "parent": "Enclosures and Cable Glands",
+  "level": 3,
+  "code": "31162",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31162"
+ },
+ "enterprise mobility for industrial and hazardous areas||tablets": {
+  "name": "Tablets",
+  "parent": "Enterprise Mobility for Industrial and Hazardous Areas",
+  "level": 2,
+  "code": "30690",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30690"
+ },
+ "fieldbus infrastructure||segment coupler for profibus pa": {
+  "name": "Segment Coupler for PROFIBUS PA",
+  "parent": "Fieldbus Infrastructure",
+  "level": 3,
+  "code": "31052",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31052"
+ },
+ "fieldbus infrastructure||passive splitters": {
+  "name": "Passive Splitters",
+  "parent": "Fieldbus Infrastructure",
+  "level": 3,
+  "code": "30978",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30978"
+ },
+ "thin clients||thin client software": {
+  "name": "Thin Client Software",
+  "parent": "Thin Clients",
+  "level": 3,
+  "code": "31148",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31148"
+ },
+ "power supplies||segment coupler for profibus pa": {
+  "name": "Segment Coupler for PROFIBUS PA",
+  "parent": "Power Supplies",
+  "level": 3,
+  "code": "33892",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33892"
+ },
+ "software||dtm collection": {
+  "name": "DTM Collection",
+  "parent": "Software",
+  "level": 3,
+  "code": "30990",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30990"
+ },
+ "industrial pcs and monitors (hmi)||thin client software": {
+  "name": "Thin Client Software",
+  "parent": "Industrial PCs and Monitors (HMI)",
+  "level": 3,
+  "code": "31354",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31354"
+ },
+ "sensors for entrance automation||barriers": {
+  "name": "Barriers",
+  "parent": "Sensors for Entrance Automation",
+  "level": 3,
+  "code": "31768",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31768"
+ },
+ "ethernet-apl||accessories": {
+  "name": "Accessories",
+  "parent": "Ethernet-APL",
+  "level": 3,
+  "code": "31048",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31048"
+ },
+ "purge and pressurization systems||purge and pressurization system (type y)": {
+  "name": "Purge and Pressurization System (Type Y)",
+  "parent": "Purge and Pressurization Systems",
+  "level": 3,
+  "code": "30888",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30888"
+ },
+ "ultrasonic sensors||ultrasonic thru-beam sensors": {
+  "name": "Ultrasonic Thru-Beam Sensors",
+  "parent": "Ultrasonic Sensors",
+  "level": 3,
+  "code": "30774",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30774"
+ },
+ "fieldbus infrastructure||segment protectors": {
+  "name": "Segment Protectors",
+  "parent": "Fieldbus Infrastructure",
+  "level": 3,
+  "code": "33410",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33410"
+ },
+ "accessories||portable lights": {
+  "name": "Portable Lights",
+  "parent": "Accessories",
+  "level": 3,
+  "code": "31298",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31298"
+ },
+ "sensors for hazardous areas||capacitive sensors": {
+  "name": "Capacitive Sensors",
+  "parent": "Sensors for Hazardous Areas",
+  "level": 3,
+  "code": "33784",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33784"
+ },
+ "rfid and optical identification||accessories for optical identification": {
+  "name": "Accessories for Optical Identification",
+  "parent": "RFID and Optical Identification",
+  "level": 3,
+  "code": "30986",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30986"
+ },
+ "thin clients||accessories": {
+  "name": "Accessories",
+  "parent": "Thin Clients",
+  "level": 3,
+  "code": "34206",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34206"
+ },
+ "enterprise mobility for industrial and hazardous areas||measurement and calibration": {
+  "name": "Measurement and Calibration",
+  "parent": "Enterprise Mobility for Industrial and Hazardous Areas",
+  "level": 2,
+  "code": "30640",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30640"
+ },
+ "industrial pcs and monitors (hmi)||accessories": {
+  "name": "Accessories",
+  "parent": "Industrial PCs and Monitors (HMI)",
+  "level": 3,
+  "code": "34208",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34208"
+ },
+ "zener barriers||accessories": {
+  "name": "Accessories",
+  "parent": "Zener Barriers",
+  "level": 3,
+  "code": "34024",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34024"
+ },
+ "purge and pressurization systems||purge and pressurization system (type x)": {
+  "name": "Purge and Pressurization System (Type X)",
+  "parent": "Purge and Pressurization Systems",
+  "level": 3,
+  "code": "30874",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30874"
+ },
+ "enclosures and cable glands||enclosures (ex d, ex e)": {
+  "name": "Enclosures (Ex d, Ex e)",
+  "parent": "Enclosures and Cable Glands",
+  "level": 3,
+  "code": "31164",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31164"
+ },
+ "rfid and optical identification||rfid evaluation units": {
+  "name": "RFID Evaluation Units",
+  "parent": "RFID and Optical Identification",
+  "level": 3,
+  "code": "30844",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30844"
+ },
+ "multiport serial cards||pcie cards": {
+  "name": "PCIe cards",
+  "parent": "Multiport Serial Cards",
+  "level": 3,
+  "code": "33526",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33526"
+ },
+ "tablets||industrial grade": {
+  "name": "Industrial Grade",
+  "parent": "Tablets",
+  "level": 3,
+  "code": "34130",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34130"
+ },
+ "rfid and optical identification||stationary 2-d code readers": {
+  "name": "Stationary 2-D Code Readers",
+  "parent": "RFID and Optical Identification",
+  "level": 3,
+  "code": "30962",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30962"
+ },
+ "safety for factory automation||performance level c": {
+  "name": "Performance Level c",
+  "parent": "Safety for Factory Automation",
+  "level": 3,
+  "code": "33616",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33616"
+ },
+ "thin clients||remote monitors": {
+  "name": "Remote Monitors",
+  "parent": "Thin Clients",
+  "level": 3,
+  "code": "33324",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33324"
+ },
+ "enterprise mobility for industrial and hazardous areas||software": {
+  "name": "Software",
+  "parent": "Enterprise Mobility for Industrial and Hazardous Areas",
+  "level": 2,
+  "code": "34106",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34106"
+ },
+ "software||apps": {
+  "name": "Apps",
+  "parent": "Software",
+  "level": 3,
+  "code": "34104",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34104"
+ },
+ "rfid and optical identification||rfid handhelds": {
+  "name": "RFID Handhelds",
+  "parent": "RFID and Optical Identification",
+  "level": 3,
+  "code": "30846",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30846"
+ },
+ "safety for factory automation||safety integrity level 1": {
+  "name": "Safety Integrity Level 1",
+  "parent": "Safety for Factory Automation",
+  "level": 3,
+  "code": "33606",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33606"
+ },
+ "accessories||wireless inductive system (wis)": {
+  "name": "Wireless Inductive System (WIS)",
+  "parent": "Accessories",
+  "level": 3,
+  "code": "30714",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30714"
+ },
+ "fieldbus infrastructure||fieldbarriers": {
+  "name": "FieldBarriers",
+  "parent": "Fieldbus Infrastructure",
+  "level": 3,
+  "code": "33408",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33408"
+ },
+ "fieldbus infrastructure||process interfaces for foundation fieldbus h1": {
+  "name": "Process Interfaces for FOUNDATION Fieldbus H1",
+  "parent": "Fieldbus Infrastructure",
+  "level": 3,
+  "code": "31044",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31044"
+ },
+ "thin clients||replacement components": {
+  "name": "Replacement Components",
+  "parent": "Thin Clients",
+  "level": 3,
+  "code": "33484",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33484"
+ },
+ "hart interface solutions||k-system": {
+  "name": "K-System",
+  "parent": "HART Interface Solutions",
+  "level": 3,
+  "code": "34166",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34166"
+ },
+ "smartphones and tablets||tablets": {
+  "name": "Tablets",
+  "parent": "Smartphones and Tablets",
+  "level": 3,
+  "code": "33638",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33638"
+ },
+ "terminal and junction boxes||terminal and junction boxes (ex d)": {
+  "name": "Terminal and Junction Boxes (Ex d)",
+  "parent": "Terminal and Junction Boxes",
+  "level": 3,
+  "code": "31152",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31152"
+ },
+ "signaling devices, safety switches, and switch disconnectors||switch disconnectors (ex d)": {
+  "name": "Switch Disconnectors (Ex d)",
+  "parent": "Signaling Devices, Safety Switches, and Switch Disconnectors",
+  "level": 3,
+  "code": "31160",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31160"
+ },
+ "fieldbus infrastructure||process interfaces for profibus pa": {
+  "name": "Process Interfaces for PROFIBUS PA",
+  "parent": "Fieldbus Infrastructure",
+  "level": 3,
+  "code": "33884",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33884"
+ },
+ "fieldbus infrastructure||surge protection": {
+  "name": "Surge Protection",
+  "parent": "Fieldbus Infrastructure",
+  "level": 3,
+  "code": "33888",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33888"
+ },
+ "surge protection barriers||fieldbus protection": {
+  "name": "Fieldbus Protection",
+  "parent": "Surge Protection Barriers",
+  "level": 3,
+  "code": "34012",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34012"
+ },
+ "enterprise mobility for industrial and hazardous areas||portable lights": {
+  "name": "Portable Lights",
+  "parent": "Enterprise Mobility for Industrial and Hazardous Areas",
+  "level": 2,
+  "code": "30694",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30694"
+ },
+ "purge and pressurization systems||purge and pressurization system (ex pyb)": {
+  "name": "Purge and Pressurization System (Ex pyb)",
+  "parent": "Purge and Pressurization Systems",
+  "level": 3,
+  "code": "30876",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30876"
+ },
+ "terminal and junction boxes||terminal and junction boxes (ex e, ex i, ex op)": {
+  "name": "Terminal and Junction Boxes (Ex e, Ex i, Ex op)",
+  "parent": "Terminal and Junction Boxes",
+  "level": 3,
+  "code": "31150",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31150"
+ },
+ "control units and control stations||control stations (ex d)": {
+  "name": "Control Stations (Ex d)",
+  "parent": "Control Units and Control Stations",
+  "level": 3,
+  "code": "31132",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31132"
+ },
+ "control and distribution panels||control and distribution panels (ex d)": {
+  "name": "Control and Distribution Panels (Ex d)",
+  "parent": "Control and Distribution Panels",
+  "level": 3,
+  "code": "31158",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31158"
+ },
+ "software||libraries": {
+  "name": "Libraries",
+  "parent": "Software",
+  "level": 3,
+  "code": "30994",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30994"
+ },
+ "sensors for hazardous areas||rfid read\\u002fwrite devices": {
+  "name": "RFID Read\\u002FWrite Devices",
+  "parent": "Sensors for Hazardous Areas",
+  "level": 3,
+  "code": "33766",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33766"
+ },
+ "sensors for hazardous areas||vibration sensors": {
+  "name": "Vibration Sensors",
+  "parent": "Sensors for Hazardous Areas",
+  "level": 3,
+  "code": "34664",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34664"
+ },
+ "signaling devices, safety switches, and switch disconnectors||electronic grounding system": {
+  "name": "Electronic Grounding System",
+  "parent": "Signaling Devices, Safety Switches, and Switch Disconnectors",
+  "level": 3,
+  "code": "34704",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34704"
+ },
+ "rfid and optical identification||1-d\\u002f2-d code handheld readers": {
+  "name": "1-D\\u002F2-D Code Handheld Readers",
+  "parent": "RFID and Optical Identification",
+  "level": 3,
+  "code": "30984",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30984"
+ },
+ "ethernet-apl||enclosure solutions": {
+  "name": "Enclosure Solutions",
+  "parent": "Ethernet-APL",
+  "level": 3,
+  "code": "33406",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33406"
+ },
+ "software||pactware": {
+  "name": "PACTware",
+  "parent": "Software",
+  "level": 3,
+  "code": "30988",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30988"
+ },
+ "smart systems||systems": {
+  "name": "Systems",
+  "parent": "Smart Systems",
+  "level": 3,
+  "code": "33944",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33944"
+ },
+ "tablets||division 2 \\u002f zone 2": {
+  "name": "Division 2 \\u002F Zone 2",
+  "parent": "Tablets",
+  "level": 3,
+  "code": "34124",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34124"
+ },
+ "enterprise mobility for industrial and hazardous areas||data capturing": {
+  "name": "Data Capturing",
+  "parent": "Enterprise Mobility for Industrial and Hazardous Areas",
+  "level": 2,
+  "code": "34134",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34134"
+ },
+ "data capturing||barcode scanners": {
+  "name": "Barcode Scanners",
+  "parent": "Data Capturing",
+  "level": 3,
+  "code": "31100",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31100"
+ },
+ "portable lights||flashlights": {
+  "name": "Flashlights",
+  "parent": "Portable Lights",
+  "level": 3,
+  "code": "31304",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31304"
+ },
+ "accessories||measurement and calibration": {
+  "name": "Measurement and Calibration",
+  "parent": "Accessories",
+  "level": 3,
+  "code": "31296",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31296"
+ },
+ "surge protection barriers||ethernet-apl protection": {
+  "name": "Ethernet-APL Protection",
+  "parent": "Surge Protection Barriers",
+  "level": 3,
+  "code": "34904",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34904"
+ },
+ "signaling devices, safety switches, and switch disconnectors||switch disconnectors and safety switches (ex e)": {
+  "name": "Switch Disconnectors and Safety Switches (Ex e)",
+  "parent": "Signaling Devices, Safety Switches, and Switch Disconnectors",
+  "level": 3,
+  "code": "31136",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31136"
+ },
+ "signaling devices, safety switches, and switch disconnectors||signaling devices (ex d, ex i)": {
+  "name": "Signaling Devices (Ex d, Ex i)",
+  "parent": "Signaling Devices, Safety Switches, and Switch Disconnectors",
+  "level": 3,
+  "code": "31138",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31138"
+ },
+ "enterprise mobility for industrial and hazardous areas||smartphones": {
+  "name": "Smartphones",
+  "parent": "Enterprise Mobility for Industrial and Hazardous Areas",
+  "level": 2,
+  "code": "30638",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30638"
+ },
+ "smartphones and tablets||smartphones": {
+  "name": "Smartphones",
+  "parent": "Smartphones and Tablets",
+  "level": 3,
+  "code": "33640",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33640"
+ },
+ "network technology||wireless access point solutions": {
+  "name": "Wireless Access Point Solutions",
+  "parent": "Network Technology",
+  "level": 3,
+  "code": "34028",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34028"
+ },
+ "control units and control stations||control stations (ex e)": {
+  "name": "Control Stations (Ex e)",
+  "parent": "Control Units and Control Stations",
+  "level": 3,
+  "code": "31130",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31130"
+ },
+ "inclination and acceleration sensors||dynamic inclination sensors \\u002f inertial measurement units": {
+  "name": "Dynamic Inclination Sensors \\u002F Inertial Measurement Units",
+  "parent": "Inclination and Acceleration Sensors",
+  "level": 3,
+  "code": "30790",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30790"
+ },
+ "ethernet-apl||ethernet-apl field switches": {
+  "name": "Ethernet-APL Field Switches",
+  "parent": "Ethernet-APL",
+  "level": 3,
+  "code": "31046",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31046"
+ },
+ "thin clients||industrial box thin clients": {
+  "name": "Industrial Box Thin Clients",
+  "parent": "Thin Clients",
+  "level": 3,
+  "code": "31128",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31128"
+ },
+ "smartphones||division 2 \\u002f zone 2": {
+  "name": "Division 2 \\u002F Zone 2",
+  "parent": "Smartphones",
+  "level": 3,
+  "code": "34112",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34112"
+ },
+ "tablets||division 2": {
+  "name": "Division 2",
+  "parent": "Tablets",
+  "level": 3,
+  "code": "34126",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34126"
+ },
+ "portable lights||head lamps": {
+  "name": "Head Lamps",
+  "parent": "Portable Lights",
+  "level": 3,
+  "code": "31284",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31284"
+ },
+ "sensors for hazardous areas||photoelectric sensors": {
+  "name": "Photoelectric Sensors",
+  "parent": "Sensors for Hazardous Areas",
+  "level": 3,
+  "code": "34784",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34784"
+ },
+ "purge and pressurization systems||purge and pressurization system (enviro-line)": {
+  "name": "Purge and Pressurization System (Enviro-Line)",
+  "parent": "Purge and Pressurization Systems",
+  "level": 3,
+  "code": "30896",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30896"
+ },
+ "network technology||fiber optic splice boxes": {
+  "name": "Fiber Optic Splice Boxes",
+  "parent": "Network Technology",
+  "level": 3,
+  "code": "34030",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34030"
+ },
+ "control units and control stations||control units (ex d)": {
+  "name": "Control Units (Ex d)",
+  "parent": "Control Units and Control Stations",
+  "level": 3,
+  "code": "31156",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31156"
+ },
+ "control and distribution panels||control and distribution panels (ex de)": {
+  "name": "Control and Distribution Panels (Ex de)",
+  "parent": "Control and Distribution Panels",
+  "level": 3,
+  "code": "31134",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31134"
+ },
+ "signaling devices, safety switches, and switch disconnectors||cable plugs and cable sockets (ex de)": {
+  "name": "Cable Plugs and Cable Sockets (Ex de)",
+  "parent": "Signaling Devices, Safety Switches, and Switch Disconnectors",
+  "level": 3,
+  "code": "31166",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31166"
+ },
+ "lidar sensors||3-d lidar sensors": {
+  "name": "3-D LiDAR Sensors",
+  "parent": "LiDAR Sensors",
+  "level": 3,
+  "code": "31264",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31264"
+ },
+ "vision sensors||sheet verification": {
+  "name": "Sheet Verification",
+  "parent": "Vision Sensors",
+  "level": 3,
+  "code": "33548",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=33548"
+ },
+ "rfid and optical identification||high-temperature identification system": {
+  "name": "High-Temperature Identification System",
+  "parent": "RFID and Optical Identification",
+  "level": 3,
+  "code": "30966",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30966"
+ },
+ "fieldbus infrastructure||ethernet": {
+  "name": "Ethernet",
+  "parent": "Fieldbus Infrastructure",
+  "level": 3,
+  "code": "31054",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31054"
+ },
+ "smartphones||division 1 \\u002f zone 1": {
+  "name": "Division 1 \\u002F Zone 1",
+  "parent": "Smartphones",
+  "level": 3,
+  "code": "30858",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30858"
+ },
+ "tablets||division 1 \\u002f zone 1": {
+  "name": "Division 1 \\u002F Zone 1",
+  "parent": "Tablets",
+  "level": 3,
+  "code": "30856",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=30856"
+ },
+ "industrial pcs and monitors (hmi)||industrial box pcs": {
+  "name": "Industrial Box PCs",
+  "parent": "Industrial PCs and Monitors (HMI)",
+  "level": 3,
+  "code": "31350",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=31350"
+ },
+ "sensors for hazardous areas||inclination and acceleration sensors": {
+  "name": "Inclination and Acceleration Sensors",
+  "parent": "Sensors for Hazardous Areas",
+  "level": 3,
+  "code": "34786",
+  "url": "https://www.pepperl-fuchs.com/en-sg/products-gp25581?class=34786"
+ }
+}

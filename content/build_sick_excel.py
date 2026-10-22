@@ -144,6 +144,20 @@ def highlights(a):
             "\n".join("- " + x for x in en[:MAX_HL]))
 
 
+def vn_slug(s):
+    """Keyword chinh (tieng Viet) -> URL: bo dau, thuong hoa, noi bang '-'.
+
+    Chuan SEO Ntrend (chot 19/10): keyword chinh phai nam trong URL.
+        'Anten GPS SICK' -> 'anten-gps-sick'
+    """
+    import unicodedata
+    s = (s or "").replace("Đ", "D").replace("đ", "d")
+    s = unicodedata.normalize("NFD", s)
+    s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+    s = re.sub(r"[^a-zA-Z0-9]+", "-", s).lower().strip("-")
+    return re.sub(r"-{2,}", "-", s) or "sp"
+
+
 def fmt_vi(tpl, cv):
     """format() cho cot tieng Viet, don khoang trang thua khi type_c/type_l rong."""
     return re.sub(r"\s{2,}", " ", tpl.format(**cv)).strip()
@@ -225,8 +239,10 @@ def build_article(a, i, out_dir):
 
     cv, ce = ctx_vi(a), ctx(a)
     has_specs = bool(a.get("specs_en"))
-    slug = a["slug"] if a["brand"].lower() in a["slug"].lower() \
+    # URL = keyword chinh tieng Viet, bo dau, noi bang '-' (chot 19/10)
+    slug_en = a["slug"] if a["brand"].lower() in a["slug"].lower() \
         else "%s-%s" % (a["slug"], a["brand"].lower())
+    slug = vn_slug(with_brand_vi(a))
 
     # Theo review 'Crawl noi dung Ntrend.docx':
     #   Mo ta DAI   = 8-10 gach dau dong dac diem/thong so quan trong
@@ -261,7 +277,7 @@ def build_article(a, i, out_dir):
             "%s, %s" % (a["name"], a["brand"]))
     add_row(ws, "Thương hiệu", a.get("brand_field") or a["brand"],
             a.get("brand_field") or a["brand"])
-    add_row(ws, "URL", slug, slug)
+    add_row(ws, "URL", slug, slug_en)
     add_row(ws, "Keyword chính", with_brand_vi(a), with_brand(a))
     add_row(ws, "Meta title", title_vi(cv, a),
             "%s %s" % (with_brand(a), ce["type_l"]))

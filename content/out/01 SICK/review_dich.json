@@ -1,10 +1,45 @@
 [
  [
-  "FlexChain",
+  "HF transponders",
   "Giá trị thông số",
   "chua dich",
-  "IO-Link (V1.1); Serial (RS-485); CANopen; IO-Link; Serial",
-  "IO-Link (V1.1); Serial (RS-485); CANopen; IO-Link; Serial"
+  "NXP ICODE SLIX2; Fujitsu MB89R118; Texas Instruments Tag-it HF-I; NXP ICODE SLIX",
+  "NXP ICODE SLIX2; Fujitsu MB89R118; Texas Instruments Tag-it HF-I; NXP ICODE SLIX"
+ ],
+ [
+  "UHF transponders",
+  "Giá trị thông số",
+  "chua dich",
+  "NXP UCODE G2iM; Impinj Monza 4E; NXP UCODE 9xm; Impinj Monza 4QT; Impinj Monza X 8k; NXP UCODE G2XM (+9 tuỳ chọn khác)",
+  "NXP UCODE G2iM; Impinj Monza 4E; NXP UCODE 9xm; Impinj Monza 4QT; Impinj Monza X 8k; NXP UCODE G2XM (+9 tuỳ chọn khác)"
+ ],
+ [
+  "CLV69x",
+  "Giá trị thông số",
+  "con nguyen tieng Anh",
+  "Ethernet; PROFINET; EtherNet/IP™; Serial; CAN; PROFIBUS DP",
+  "Ethernet; PROFINET; EtherNet/IP™; Serial; CAN; PROFIBUS DP"
+ ],
+ [
+  "GLS6",
+  "Giá trị thông số",
+  "con nguyen tieng Anh",
+  "Ethernet; PROFINET; EtherNet/IP™; Serial; CAN; CANopen; USB",
+  "Ethernet; PROFINET; EtherNet/IP™; Serial; CAN; CANopen; USB"
+ ],
+ [
+  "Lector61x",
+  "Giá trị thông số",
+  "con nguyen tieng Anh",
+  "Ethernet; EtherNet/IP™; EtherCAT®; Serial; CAN; CANopen",
+  "Ethernet; EtherNet/IP™; EtherCAT®; Serial; CAN; CANopen"
+ ],
+ [
+  "Lector83x",
+  "Giá trị thông số",
+  "con nguyen tieng Anh",
+  "Ethernet; CAN; Serial; USB; EtherNet/IP™; PROFINET",
+  "Ethernet; CAN; Serial; USB; EtherNet/IP™; PROFINET"
  ],
  [
   "Visionary-B Two",
@@ -14,6 +49,27 @@
   "SICK AppStudio, SICK AppManager, SOPASair"
  ],
  [
+  "RFH6xx",
+  "Giá trị thông số",
+  "con nguyen tieng Anh",
+  "Ethernet; PROFINET; EtherNet/IP™; EtherCAT®; Serial; CAN; CANopen; PROFIBUS DP",
+  "Ethernet; PROFINET; EtherNet/IP™; EtherCAT®; Serial; CAN; CANopen; PROFIBUS DP"
+ ],
+ [
+  "RFU63x",
+  "Giá trị thông số",
+  "con nguyen tieng Anh",
+  "Ethernet; PROFINET; EtherNet/IP™; EtherCAT®; Serial; CAN; PROFIBUS DP; USB; CANopen",
+  "Ethernet; PROFINET; EtherNet/IP™; EtherCAT®; Serial; CAN; PROFIBUS DP; USB; CANopen"
+ ],
+ [
+  "RFU65x",
+  "Giá trị thông số",
+  "con nguyen tieng Anh",
+  "Ethernet; PROFINET; EtherNet/IP™; EtherCAT®; Serial; CAN; PROFIBUS DP; USB; CANopen",
+  "Ethernet; PROFINET; EtherNet/IP™; EtherCAT®; Serial; CAN; PROFIBUS DP; USB; CANopen"
+ ],
+ [
   "DFS2x",
   "Giá trị thông số",
   "chua dich",
@@ -21,11 +77,32 @@
   "TTL / RS-422; HTL / Push pull; Open Collector; TTL / HTL"
  ],
  [
-  "Industrial Ethernet cables and fieldbus cables",
-  "Mô tả ngắn",
+  "SIM2x00",
+  "Giá trị thông số",
   "chua dich",
-  "PROFIBUS, CANopen, Interbus, PROFINET, EtherNet/IP™ & Gigabit Ethernet",
-  "PROFIBUS, CANopen, Interbus, PROFINET, EtherNet/IP™ & Gigabit Ethernet"
+  "PROFINET; IO-Link; -; Serial; Incremental; USB (+4 tuỳ chọn khác)",
+  "PROFINET; IO-Link; -; Serial; Incremental; USB (+4 tuỳ chọn khác)"
+ ],
+ [
+  "CDM",
+  "Giá trị thông số",
+  "con nguyen tieng Anh",
+  "PROFIBUS DP; DeviceNet™; Serial; Ethernet; CAN",
+  "PROFIBUS DP; DeviceNet™; Serial; Ethernet; CAN"
+ ],
+ [
+  "CDF",
+  "Giá trị thông số",
+  "con nguyen tieng Anh",
+  "Serial; CAN; EtherCAT®; PROFINET; PROFIBUS DP",
+  "Serial; CAN; EtherCAT®; PROFINET; PROFIBUS DP"
+ ],
+ [
+  "Flexi Soft",
+  "Giá trị thông số",
+  "chua dich",
+  "CANopen, CC-Link, DeviceNet™, EtherNet/IP™, EtherCAT®, Modbus, PROFINET, PROFIBUS DP, EFI-pro, EtherNet/IP™ CIP Safety™, SSI, Incremental, Serial",
+  "CANopen, CC-Link, DeviceNet™, EtherNet/IP™, EtherCAT®, Modbus, PROFINET, PROFIBUS DP, EFI-pro, EtherNet/IP™ CIP Safety™, SSI, Incremental, Serial"
  ],
  [
   "DWS Dynamic",
@@ -40,5 +117,12 @@
   "chua dich",
   "1D; 2D; PDF417; Aztec; 4-state; Maxi-Code",
   "1D; 2D; PDF417; Aztec; 4-state; Maxi-Code"
+ ],
+ [
+  "ICR Identification System",
+  "Giá trị thông số",
+  "con nguyen tieng Anh",
+  "Serial; CAN; PROFIBUS DP; Ethernet",
+  "Serial; CAN; PROFIBUS DP; Ethernet"
  ]
 ]
