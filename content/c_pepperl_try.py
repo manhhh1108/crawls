@@ -272,6 +272,24 @@ SPECDESC = (
     "ứng đa dạng yêu cầu của các ứng dụng công nghiệp.\n\n"
     "Dưới đây là thông tin chi tiết của sản phẩm:")
 
+# Ban tieng Anh cua 2 mau tren - cot "Tieng Anh (soat chinh ta)" truoc day van
+# dung mau tieng Viet nen bai bi lan VI-EN (review 23/10).
+META_TPL_EN = ("Buy genuine {name_brand} {type_l} - full specifications, good "
+               "price, support in selecting the right model. "
+               "Contact Ntrend now for a consultation!")
+SPECDESC_EN = (
+    "The {name_brand} {type_l} is an industrial device used in industrial "
+    "automation and control systems, meeting requirements for precision, "
+    "stability and reliability in operation. It is designed for a wide range "
+    "of applications in factories and production lines, supporting "
+    "measurement, detection, monitoring, control and process optimisation.\n\n"
+    "It is manufactured to {brand}'s technical standards, with clearly "
+    "published specifications that make it easy for engineers and technical "
+    "teams to select, integrate and deploy in automation systems.\n\n"
+    "Depending on the model, different options are available to meet the "
+    "varied requirements of industrial applications.\n\n"
+    "Detailed product information is listed below:")
+
 
 import unicodedata
 

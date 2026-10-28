@@ -204,6 +204,28 @@ def lookup(en):
     return TERMS.get(k2.lower()) or ""
 
 
+# Gia tri chi gom SO + DON VI ("6000 mm", "4500 Hz", "24 V DC") thi khong co gi
+# de dich; dua qua may dich no con tu them dau phan cach nghin ("6,000 mm").
+NUM_UNITS = set("""mm cm dm m km um nm in inch ft mil s ms us ns min h d
+hz khz mhz ghz v mv kv a ma ua w kw mw va ah mah wh ohm kohm mohm k
+bar mbar pa kpa mpa psi kg g mg t n nm ncm lx lm cd db rpm bd kbd mbd
+px dpi fps mpx pcs x dc ac c f l ml cl dl gal gph gpm lpm cfm scfm
+m2 m3 cm2 cm3 mm2 mm3 ft2 ft3 in2 in3 nl kw/h kwh ppm ppb ph
+mol bit byte kb mb gb tb khzs rpmm""".split())
+RX_UNIT_TOK = re.compile(r"[A-Za-zµΩ]+[²³]?|[°%]")
+
+
+def _unit_only(s):
+    """'6000 mm', '24 V DC' -> True;  'Cuboid miniature' -> False."""
+    if not re.search(r"\d", s):
+        return False
+    toks = RX_UNIT_TOK.findall(s)
+    return bool(toks) and all(
+        t.lower().replace("µ", "u").replace("Ω", "ohm")
+         .replace("²", "2").replace("³", "3") in NUM_UNITS
+        or t in ("°", "%") for t in toks)
+
+
 def _needs_mt(s):
     """Con chu cai Latin nao ngoai mask khong? Neu khong thi khoi dich."""
     return bool(re.search(r"[A-Za-z]{2,}", RX_MASK.sub(" ", s)))
@@ -216,6 +238,8 @@ def _prep(en, kind):
     hit = lookup(s)
     if hit:
         return ("done", localize_numbers(hit) if kind == "value" else hit)
+    if kind == "value" and _unit_only(s):
+        return ("done", localize_numbers(s))
     s = RX_PIN.sub(lambda m: "%s chân" % m.group(1), s)
     ms = Masker()
     t = ms.mask_all(s, light=(kind == "prose"))

@@ -118,6 +118,81 @@ def slugify(name):
     return re.sub(r"-{2,}", "-", s)
 
 
+# Trang perma nhet ca breadcrumb va nhan tab vao CUNG mot the <p> voi noi dung
+# that: "Lubrication Systems ... perma NOVA 360° perma NOVA  perma NOVA can be
+# used..." hoac "ApplicationsFeaturesTechnical Data...perma NOVA was specifically
+# developed...". Phai cat bo phan dau (review 22/10).
+TAB_WORDS = ("Applications", "Features", "Technical Data", "Downloads",
+             "Accessories", "Videos", "Downloads & Media", "Benefits")
+
+
+def clean_para(s, title=""):
+    """Bo breadcrumb / nhan tab dinh o dau doan van."""
+    s = (s or "").strip()
+    if not s:
+        return ""
+    # bo cac nhan tab lap o dau
+    changed = True
+    while changed:
+        changed = False
+        for w in TAB_WORDS:
+            if s.startswith(w):
+                s = s[len(w):].lstrip(" :|-")
+                changed = True
+    # noi dung that thuong bat dau bang "<ten SP> <dong tu thuong>"
+    if title:
+        # ten SP co the lap vai lan trong breadcrumb ("... perma NOVA 360° perma
+        # NOVA   perma NOVA can be used...") -> lay lan XUAT HIEN CUOI
+        pos, last = 0, -1
+        while True:
+            m = re.search(re.escape(title) + r"\s+[a-z]", s[pos:])
+            if not m:
+                break
+            last = pos + m.start()
+            pos = last + len(title)
+        if last >= 0:
+            return s[last:].strip()
+    # Khong co ten SP thi KHONG cat theo chu hoa: nhieu cau mo dau bang ten
+    # thuong ("perma NOVA was ...") -> cat se mat chu "perma".
+    return s
+
+
+def ntrend_cats():
+    """Danh muc SP tren web Ntrend, sheet '05 Perma' (review 22/10)."""
+    try:
+        from openpyxl import load_workbook
+        p = os.path.join(REPO, "data", "Danh mục SP web NTREND.xlsx")
+        ws = load_workbook(p, read_only=True, data_only=True)["05 Perma"]
+    except Exception:
+        return {}
+    out = {}
+    for r in ws.iter_rows(min_row=6, values_only=True):
+        if not r or len(r) < 9 or str(r[7] or "").strip() != "x":
+            continue
+        nm = (r[1] or "").strip()
+        cat = (r[8] or "").strip()
+        if nm and cat:
+            out[nm.lower()] = cat
+    return out
+
+
+NTREND_CAT = {}
+_IPN = None
+
+
+def name_vi_of(name):
+    """Ten dong SP: la ma/ten rieng (perma NOVA, STAR) thi giu, cum tu thi dich."""
+    global _IPN
+    if _IPN is None:
+        src = io.open(os.path.join(HERE, "c_sick.py"), encoding="utf-8").read()
+        ns = {"re": re}
+        exec(src[src.index("_COMMON = set"):src.index("IMG_EXT")], ns)
+        _IPN = ns["is_proper_name"]
+    if _IPN(name) or name.lower().startswith("perma"):
+        return name
+    return vi(name)
+
+
 def srcset_largest(tag):
     ss = re.search(r'srcset="([^"]+)"', tag)
     if ss:
@@ -150,11 +225,12 @@ def extract(t):
     title = txt(h1.group(1)) if h1 else ""
 
     paras = []
-    for p in re.findall(r"<p[^>]*>(.*?)</p>", main, re.S):
-        s = txt(p)
+    for p in re.findall(r"<p[^>]*>(.*?)</p>", region, re.S):
+        s = clean_para(txt(p), title)
         if len(s) < 50 or any(b.lower() in s.lower() for b in BAD_PARA):
             continue
-        paras.append(s)
+        if s not in paras:
+            paras.append(s)
         if len(paras) >= 5:
             break
 
@@ -244,7 +320,8 @@ def main():
     leaves = [n for n in nodes
               if not any(len(m["path"]) == len(n["path"]) + 1 and
                          m["path"][:len(n["path"])] == n["path"] for m in nodes)]
-    print("bai can lam:", len(leaves))
+    globals()["NTREND_CAT"] = ntrend_cats()
+    print("bai can lam: %d | danh muc Ntrend: %d" % (len(leaves), len(NTREND_CAT)))
 
     arts, miss_img, miss_txt = [], [], []
     for i, n in enumerate(leaves, 1):
@@ -278,8 +355,14 @@ def main():
         type_en = TYPE_EN.get(parent, TYPE_EN.get(n["path"][1] if len(n["path"]) > 1 else "", "Product"))
         type_vi = TYPE_VI.get(parent, TYPE_VI.get(n["path"][1] if len(n["path"]) > 1 else "", "Sản phẩm"))
 
+        for it in items:                       # ten + vat lieu trong bang ma SP
+            it["name_vi"] = vi(it.get("name", ""))
+            it["material_vi"] = vi(it.get("material", "").title())
+
         art = {
             "name": name, "slug": slug, "url_src": n["url"],
+            "name_vi": name_vi_of(name),
+            "cat_vi": NTREND_CAT.get(name.strip().lower(), ""),
             "path": n["path"], "brand": "perma",
             "type_en": type_en, "type_vi": type_vi,
             "overview_en": paras, "overview_vi": [vi(p) for p in paras],

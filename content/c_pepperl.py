@@ -217,6 +217,11 @@ def main():
             short_en = short_desc(items, ln["name"])
             img = grab_image(items, ln["name"])
 
+            # Review 22/10: ten SP trong bang ma cung phai co ban tieng Viet
+            n_en = sorted({it.get("name", "") for it in items if it.get("name")})
+            n_vi = dict(zip(n_en, translate_many(n_en, "key"))) if n_en else {}
+            for it in items:
+                it["name_vi"] = n_vi.get(it.get("name", ""), "")
             d_en = [it["desc"] for it in items]
             long_vi = translate_many(long_en, "value") if long_en else []
             d_vi = translate_many(d_en, "value") if d_en else []

@@ -11,11 +11,22 @@ data/Noi dung */[0-9][0-9] - *.xlsx
 data/Noi dung */[0-9][0-9][0-9] - *.xlsx
 # anh thanh pham cua bai dang (SICK ~37MB) - sinh lai bang build_<hang>_excel.py
 data/Noi dung */images/
+# ban sao giao hang: gop toan bo xlsx + anh cua cac hang da xong (~129MB),
+# trung lap voi data/Noi dung <hang>/ o tren
+data/File đã crawls/
+# anh ban HD do fix_images_hd.py tai ve (nam canh anh goc trong src_img)
+*.hd.jpg
+*.hd.jpeg
+*.hd.png
+*.hd.webp
 
 # ===== Ban sao luu truoc khi crawl lai =====
 # vd "data/Noi dung SICK (ban cu 2026-10-10)/" ~130MB
 data/Noi dung * (ban cu *)/
-data/*.zip
+# file nen ban giao / sao luu o bat ky dau (truoc day chi chan data/*.zip)
+*.zip
+*.rar
+*.7z
 # file xlsx sinh ra tu danh muc goc (dung make_sick_input.py tao lai)
 data/* (bo ma SP cu the).xlsx
 
@@ -46,6 +57,21 @@ sick/translation-cache.json
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# ===== Trinh duyet tu dong (Playwright) =====
+# profile Chrome dung khi crawl trang chan bot (leuze/ifm) - sinh lai duoc
+.playwright/
+playwright-user-data/
+test-results/
+
+# ===== Editor =====
+.vscode/
+.idea/
+*.code-workspace
+
+# ===== Windows =====
+# file 'nul' bi tao ra khi chay '2>nul' trong Git Bash
+nul
 
 # ===== API key - KHONG BAO GIO COMMIT =====
 .env

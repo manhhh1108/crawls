@@ -26,7 +26,7 @@ from openpyxl import Workbook                              # noqa: E402
 from openpyxl.styles import Font, Alignment, PatternFill   # noqa: E402
 from openpyxl.utils import get_column_letter               # noqa: E402
 
-from c_pepperl_try import BRAND, slugify, SPECDESC, META_TPL   # noqa: E402
+from c_pepperl_try import BRAND, slugify, SPECDESC, META_TPL, SPECDESC_EN, META_TPL_EN   # noqa: E402
 
 SRC = os.path.join(HERE, "out", "02 Pepperl+Fuchs", "content.json")
 OUT_DIR = os.path.join(REPO, "data", "Noi dung Pepperl+Fuchs")
@@ -85,28 +85,32 @@ def build_one(a, idx, out_dir):
     row("Keyword chính", kw_vi, kw_en)
     row("Meta title", "%s %s" % (cv["type_c"], BRAND), kw_en)
     row("Meta description (155 - 165 characters)",
-        META_TPL.format(**cv), META_TPL.format(**ce))
+        META_TPL.format(**cv), META_TPL_EN.format(**ce))
     row("Mô tả dài của sản phẩm",
         "\n".join("- " + x for x in a.get("long_vi") or []),
         "\n".join("- " + x for x in a.get("long_en") or []))
     row("Mô tả ngắn của sản phẩm",
         "\n".join("- " + x for x in a.get("short_vi") or []),
         "\n".join("- " + x for x in a.get("short_en") or []))
-    row("Mô tả thông số", SPECDESC.format(**cv), SPECDESC.format(**ce))
+    row("Mô tả thông số", SPECDESC.format(**cv), SPECDESC_EN.format(**ce))
 
     items = a.get("items") or []
     if items:
+        # review 23/10: gom cot tieng Viet lai mot ben, tieng Anh mot ben
         ws.append(["Bảng mã sản phẩm + Thông tin sản phẩm", "Mã sản phẩm",
-                   "Tên sản phẩm", "Mô tả (VI)", "Description (EN)"])
+                   "Tên sản phẩm (VI)", "Mô tả (VI)",
+                   "Product name (EN)", "Description (EN)"])
         r = ws.max_row
         ws.cell(row=r, column=1).fill = FLD_FILL
         ws.cell(row=r, column=1).font = Font(bold=True)
-        for c in range(2, 6):
+        for c in range(2, 7):
             ws.cell(row=r, column=c).font = Font(bold=True, italic=True)
         for it in items:
-            ws.append(["", it.get("art", ""), it.get("name", ""),
-                       it.get("desc_vi", ""), it.get("desc", "")])
-            for c in range(2, 6):
+            ws.append(["", it.get("art", ""),
+                       it.get("name_vi") or it.get("name", ""),
+                       it.get("desc_vi", ""),
+                       it.get("name", ""), it.get("desc", "")])
+            for c in range(2, 7):
                 ws.cell(row=ws.max_row, column=c).alignment = WRAP
     else:
         ws.append(["Bảng mã sản phẩm + Thông tin sản phẩm",
@@ -117,7 +121,7 @@ def build_one(a, idx, out_dir):
     ws.append([])
     ws.append(["Nhánh danh mục", " > ".join(a.get("path") or []), ""])
     ws.append(["Nguồn", a.get("url_src", ""), ""])
-    for i, w in enumerate([34, 58, 58, 58, 58], 1):
+    for i, w in enumerate([34, 26, 40, 52, 40, 52], 1):
         ws.column_dimensions[get_column_letter(i)].width = w
     ws.freeze_panes = "A4"
 

@@ -130,8 +130,14 @@ def page_title(html):
     """
     for m in PAGE_H1.findall(html):
         t = txt(m)
-        if t and "/" not in t and len(t) > 3:
-            return t
+        # Loai breadcrumb ("Home / Safety Light Curtains / EOS4 / ...") - dau '/'
+        # CO KHOANG TRANG hai ben. Ten that van co the chua '/' lien ("Input/Output",
+        # "Admiral/Vision") nen khong duoc loai het theo dau '/'.
+        if not t or len(t) <= 3:
+            continue
+        if t.lower().startswith("home") or " / " in t:
+            continue
+        return t
     return ""
 
 

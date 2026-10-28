@@ -2,7 +2,7 @@
 """Dung file noi dung theo review Ntrend: MOI BAI 1 FILE Excel trong 1 folder.
 Layout: cot A = truong, cot B = TIENG VIET (ban dang web), cot C = tieng Anh
 (chi de soat chinh ta ban dich). Mau van lay tu 'Crawl noi dung Ntrend.docx'."""
-import io, json, os, re, sys
+import io, json, os, re, shutil, sys
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
@@ -10,7 +10,6 @@ REPO = os.path.dirname(HERE)
 from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment, PatternFill
 from openpyxl.utils import get_column_letter
-from openpyxl.drawing.image import Image as XImage
 
 HDR_FILL = PatternFill("solid", fgColor="1F4E79")
 FIELD_FILL = PatternFill("solid", fgColor="DDEBF7")
@@ -80,7 +79,7 @@ NOSPEC_DESC_EN = ("The {name_brand} {type_l} is a genuine industrial product fro
 
 META_TPL_VI = ("Mua {type_l} {name_brand} chính hãng – thông số kỹ thuật đầy đủ, "
                "giá tốt, hỗ trợ tư vấn và lựa chọn model phù hợp. "
-               "Liên hệ Ntrend ngay để được tư vấn!")
+               "Liên hệ Ntrend ngay!")
 META_TPL_EN = ("Buy genuine {name_brand} {type_l} – full specifications, good "
                "price, support in selecting the right model. "
                "Contact Ntrend now for a consultation!")
@@ -94,16 +93,56 @@ def with_brand(a):
     return "%s %s" % (a["name"], a["brand"])
 
 
+def vn_slug(s):
+    """Keyword chinh (tieng Viet) -> URL: bo dau, thuong hoa, noi bang '-'."""
+    import unicodedata
+    s = (s or "").replace("Đ", "D").replace("đ", "d")
+    s = unicodedata.normalize("NFD", s)
+    s = "".join(c for c in s if unicodedata.category(c) != "Mn")
+    s = re.sub(r"[^a-zA-Z0-9]+", "-", s).lower().strip("-")
+    return re.sub(r"-{2,}", "-", s) or "sp"
+
+
 def ctx(a):
     return {"name": a["name"], "name_brand": with_brand(a), "brand": a["brand"],
             "type_c": a["type_vi"][:1].upper() + a["type_vi"][1:],
             "type_l": a["type_en"].lower()}
 
 
+def with_brand_vi(a):
+    nv = a.get("name_vi") or a["name"]
+    if a["brand"].lower() in nv.lower():
+        return nv
+    return "%s %s" % (nv, a["brand"])
+
+
 def ctx_vi(a):
+    """Ngu canh cot tieng Viet - uu tien ten da dich.
+
+    Review 23/10: truoc day chi dich ten o cac dong Tag/Keyword/URL/Meta title,
+    con {name}/{name_brand} trong Mo ta dai / Meta description / Mo ta thong so
+    van la ten TIENG ANH -> cau tieng Viet lai chen nguyen ten Anh vao giua.
+    """
     c = ctx(a)
     c["type_l"] = a["type_vi"].lower()
+    nv = a.get("name_vi") or a["name"]
+    if nv != a["name"]:
+        # ten da dich thi BAN THAN no da la cum danh tu tieng Viet, ghep them
+        # {type_c} nua se lap ("Dau noi ong Dau noi ong cho ong...").
+        c["type_c"] = nv[:1].upper() + nv[1:]
+        first = nv.split(" ")[0]
+        c["type_l"] = (nv if (len(first) > 1 and first.isupper())
+                       else nv[:1].lower() + nv[1:])
+        c["name_brand"] = a["brand"]
+        c["name"] = ""
+    else:
+        c["name_brand"] = with_brand_vi(a)
     return c
+
+
+def fmt_vi(tpl, cv):
+    """format() roi don khoang trang thua do {name} bi bo rong."""
+    return re.sub(r"[ 	]{2,}", " ", tpl.format(**cv)).replace(" .", ".")
 
 
 def safe_name(s, n=60):
@@ -146,32 +185,36 @@ def build_article(a, i, out_dir):
         long_vi = "\n\n".join(a["overview_vi"])
         long_en = "\n\n".join(a["overview_en"])
     else:
-        long_vi = LONG_TPL_VI.format(**cv)
+        long_vi = fmt_vi(LONG_TPL_VI, cv)
         long_en = LONG_TPL_EN.format(**ce)
     if web_feats:
         short_vi = "\n".join("- " + x for x in a["features_vi"])
         short_en = "\n".join("- " + x for x in a["features_en"])
     else:
-        short_vi = SHORT_TPL_VI.format(**cv)
+        short_vi = fmt_vi(SHORT_TPL_VI, cv)
         short_en = SHORT_TPL_EN.format(**ce)
     if has_specs:
-        sd_vi, sd_en = SPECDESC_TPL_VI.format(**cv), SPECDESC_TPL_EN.format(**ce)
+        sd_vi, sd_en = fmt_vi(SPECDESC_TPL_VI, cv), SPECDESC_TPL_EN.format(**ce)
     else:
-        sd_vi, sd_en = NOSPEC_DESC_VI.format(**cv), NOSPEC_DESC_EN.format(**ce)
+        sd_vi, sd_en = fmt_vi(NOSPEC_DESC_VI, cv), NOSPEC_DESC_EN.format(**ce)
 
     add_row(ws, "Ảnh sản phẩm",
             os.path.basename(a["img_file"]) if a.get("img_file") else "(chưa có ảnh)", "")
-    add_row(ws, "Danh mục sản phẩm", "(chờ list danh mục Ntrend)",
+    add_row(ws, "Danh mục sản phẩm", a.get("cat_vi") or "(chưa phân loại)",
             " > ".join(a["path"][:-1]) + "  (danh mục gốc perma, tham khảo)")
-    add_row(ws, "Thẻ tag", "%s, %s" % (a["name"], a["brand"]),
+    nv = a.get("name_vi") or a["name"]
+    add_row(ws, "Thẻ tag", "%s, %s" % (nv, a["brand"]),
             "%s, %s" % (a["name"], a["brand"]))
     add_row(ws, "Thương hiệu", a["brand"], a["brand"])
-    add_row(ws, "URL", slug, slug)
-    add_row(ws, "Keyword chính", with_brand(a), with_brand(a))
-    add_row(ws, "Meta title", "%s %s" % (a["type_vi"], with_brand(a)),
+    kw_vi = "%s %s" % (nv, a["brand"]) if a["brand"].lower() not in nv.lower() else nv
+    add_row(ws, "URL", vn_slug(kw_vi), slug)
+    add_row(ws, "Keyword chính", kw_vi, with_brand(a))
+    tc = a["type_vi"][:1].upper() + a["type_vi"][1:]
+    add_row(ws, "Meta title",
+            kw_vi if tc.lower() in kw_vi.lower() else "%s %s" % (tc, kw_vi),
             "%s %s" % (with_brand(a), a["type_en"].lower()))
     add_row(ws, "Meta description (155 - 165 characters)",
-            META_TPL_VI.format(**cv), META_TPL_EN.format(**ce))
+            fmt_vi(META_TPL_VI, cv), META_TPL_EN.format(**ce))
     add_row(ws, "Mô tả dài của sản phẩm", long_vi, long_en)
     add_row(ws, "Mô tả ngắn của sản phẩm", short_vi, short_en)
     add_row(ws, "Mô tả thông số", sd_vi, sd_en)
@@ -193,8 +236,8 @@ def build_article(a, i, out_dir):
         items = a.get("items") or []
         angle_rows = [ANGLE_RX.match(it["name"]) for it in items]
         if items and all(angle_rows):
-            ws.append(["Bảng mã sản phẩm", "Angle", "Male", "Female",
-                       "Material", "Art. No."])
+            ws.append(["Bảng mã sản phẩm", "Góc", "Ren ngoài", "Ren trong",
+                       "Vật liệu", "Mã đặt hàng (Part No.)"])
             r = ws.max_row
             ws.cell(row=r, column=1).fill = FIELD_FILL
             ws.cell(row=r, column=1).font = FIELD_FONT
@@ -204,15 +247,22 @@ def build_article(a, i, out_dir):
                 ws.append(["", m.group(1), m.group(2), m.group(3),
                            it["material"].title(), it["art"]])
         elif items:
-            ws.append(["Bảng mã sản phẩm", "Sản phẩm", "Vật liệu", "Art. No."])
+            # review 22/10: bang ma phai co ca ban tieng Viet lan tieng Anh
+            # review 23/10: xep HET cot tieng Viet truoc roi moi den cot tieng
+            # Anh, khong xen ke - tool dang web chi can khoi VI ben trai.
+            ws.append(["Bảng mã sản phẩm", "Sản phẩm (VI)", "Vật liệu",
+                       "Mã đặt hàng (Part No.)", "Product (EN)", "Material (EN)"])
             r = ws.max_row
             ws.cell(row=r, column=1).fill = FIELD_FILL
             ws.cell(row=r, column=1).font = FIELD_FONT
-            for c in range(2, 5):
+            for c in range(2, 7):
                 ws.cell(row=r, column=c).font = Font(bold=True, italic=True)
             for it in items:
-                ws.append(["", it["name"], it["material"].title(), it["art"]])
-                ws.cell(row=ws.max_row, column=2).alignment = WRAP
+                ws.append(["", it.get("name_vi") or it["name"],
+                           it.get("material_vi") or it["material"].title(),
+                           it["art"], it["name"], it["material"].title()])
+                for c in (2, 3, 5, 6):
+                    ws.cell(row=ws.max_row, column=c).alignment = WRAP
         else:
             ws.append(["Bảng mã sản phẩm", "(trang hãng không có bảng mã)", "", ""])
             ws.cell(row=ws.max_row, column=1).fill = FIELD_FILL
@@ -220,16 +270,18 @@ def build_article(a, i, out_dir):
 
     ws.append([])
     ws.append(["Nguồn", a["url_src"], ""])
-    for i2, w in enumerate([34, 62, 62, 28, 40, 12], 1):
+    for i2, w in enumerate([34, 56, 38, 26, 56, 30], 1):
         ws.column_dimensions[get_column_letter(i2)].width = w
 
     if a.get("img_file") and os.path.exists(a["img_file"]):
+        # anh de rieng 1 folder cho de dang web (review 22/10), khong nhung xlsx
+        img_dir = os.path.join(out_dir, "images")
+        os.makedirs(img_dir, exist_ok=True)
         try:
-            img = XImage(a["img_file"])
-            img.width, img.height = 170, 170
-            ws.add_image(img, "E4")
-        except Exception:
-            pass
+            shutil.copy2(a["img_file"],
+                         os.path.join(img_dir, os.path.basename(a["img_file"])))
+        except Exception as e:
+            print("  [anh loi]", a["name"][:30], repr(e)[:60])
 
     fname = "%02d - %s.xlsx" % (i, safe_name(a["name"]))
     wb.save(os.path.join(out_dir, fname))

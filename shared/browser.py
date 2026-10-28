@@ -36,24 +36,43 @@ class Browser(object):
         h = hashlib.sha1((url + "|" + json.dumps(opts, sort_keys=True)).encode()).hexdigest()
         return os.path.join(BCACHE, h + ".gz")
 
-    def api(self, url, opts=None, cache=True, retries=3, sleep=0.15):
+    def api(self, url, opts=None, cache=True, retries=3, sleep=0.15, accept=None):
+        """`accept(text) -> bool` kiem tra noi dung truoc khi nhan va luu cache.
+
+        Can cai nay vi co trang tra ve HTTP 200 kem mot trang LOI (festo tra ve
+        vo micro-frontend 4.5KB khong co _ROUTER_DATA khi bi chan) - khong kiem
+        thi vo loi do vao cache va moi lan chay sau deu doc lai tu cache, dong
+        san pham do mat noi dung vinh vien."""
         path = self._key(url, opts or {})
         if cache and os.path.exists(path):
             with gzip.open(path, "rt", encoding="utf-8", errors="replace") as f:
-                return f.read()
+                t = f.read()
+            if accept is None or accept(t):
+                return t
+            os.remove(path)          # cache cu la trang loi -> bo, tai lai
         last = None
         for i in range(retries):
             try:
                 st, txt = self.pg.evaluate(FETCH_JS, [url, opts or {}])
-                if st == 200:
+                if st == 200 and accept is not None and not accept(txt):
+                    # 200 nhung la trang loi: lam moi phien o tab chinh roi thu lai
+                    last = "noi dung khong hop le (%d bytes)" % len(txt)
+                    try:
+                        self.pg.goto(self.home, wait_until="domcontentloaded",
+                                     timeout=60000)
+                        self.pg.wait_for_timeout(2000)
+                    except Exception:
+                        pass
+                elif st == 200:
                     if cache:
                         with gzip.open(path, "wt", encoding="utf-8") as f:
                             f.write(txt)
                     time.sleep(sleep)
                     return txt
-                last = "HTTP %s" % st
-                if st in (404, 410):
-                    break
+                else:
+                    last = "HTTP %s" % st
+                    if st in (404, 410):
+                        break
             except Exception as e:
                 last = repr(e)
                 try:
