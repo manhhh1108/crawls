@@ -7,6 +7,7 @@ import io, json, os, re, shutil, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 
+import logo_fallback                                  # noqa: E402
 from out_dir import brand_dir
 
 from openpyxl import Workbook
@@ -322,6 +323,8 @@ def build(brand_dir, out_dir, brand_label):
 
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
+    # Bai nao khong co anh thi lay logo hang (xem logo_fallback.py).
+    logo_fallback.run("perma")
     build(os.path.join(HERE, "out", "05 Perma"),
           brand_dir("Noi dung Perma"),
           "05 Perma")

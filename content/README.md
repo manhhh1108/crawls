@@ -90,6 +90,43 @@ nguyên "Mô tả ngắn" — trước đây ghép từ metadata catalog nên ra
 
 Bảng mã sản phẩm in hết, không cắt.
 
+## Ảnh đại diện
+
+`brandimg.compose()` ghép ảnh SP vào khung NTREND 800×800 (nền trắng + logo
+NTREND + hotline). Ảnh gốc nhỏ thì nó tự hạ khung xuống thay vì phóng to cho vỡ
+(`MAX_UPSCALE`).
+
+| Bước | Script | Việc |
+|---|---|---|
+| sau khi crawl | `fix_images_hd.py` | tìm bản HD của ảnh đã lấy |
+| rồi | `recompose_images.py` | ghép lại từ bản nét nhất; **ảnh gốc < 200px thì bỏ hẳn** (`MIN_SRC`) vì phóng lên là vỡ nát |
+| lúc build | `logo_fallback.py` | bài nào vẫn chưa có ảnh thì **lấy logo hãng** |
+
+Bước cuối đã gắn sẵn vào đầu mọi `build_*_excel.py`, không phải chạy tay. Bài
+dùng logo được đánh dấu `img_logo` trong `content.json` để phân biệt với ảnh
+thật, và `recompose_images.py` bỏ qua các bài đó.
+
+**Hãng mới** cần một file logo trong `assets/<key>-logo.png`, lấy bằng:
+
+```bash
+python get_brand_logo.py <key> <trang chu hang>
+python get_brand_logo.py ifm https://www.ifm.com/us/en --inplace   # logo chữ trắng
+```
+
+Phải dùng trình duyệt vì phần lớn logo là SVG. Chụp xong **mở ra xem**: script
+chỉ lấy phần tử đầu tiên trông giống logo, có khi vớ phải icon. Thêm `<key>` vào
+`BRANDS` trong `logo_fallback.py`.
+
+## Nơi ghi file giao hàng
+
+Hãng nào soát xong thì chuyển sang `data/File đã crawls/Noi dung <hãng>/`. Mọi
+script đều hỏi `out_dir.brand_dir()` để biết ghi vào đâu: thư mục "đã check" có
+sẵn thì ghi thẳng vào đó, không thì ghi vào `data/Noi dung <hãng>/`.
+
+Đừng ghi cứng đường dẫn `data/Noi dung <hãng>` nữa: làm vậy sinh ra bản thứ hai
+rồi hai bản lệch nhau — đã xảy ra với 5 hãng (IFM, Leuze, Pepperl+Fuchs, Perma,
+wenglor), bản đã check thiếu ảnh logo mới thêm, bản mới thì thiếu sạch ảnh thật.
+
 ## Dịch — vì sao không dùng thẳng Google
 
 Google dịch thẳng sai rất nhiều thuật ngữ ngành (`Housing` → "Nhà ở",

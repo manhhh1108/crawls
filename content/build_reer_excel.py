@@ -19,6 +19,7 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 
+import logo_fallback                                  # noqa: E402
 import out_dir                                         # noqa: E402
 
 from openpyxl import Workbook                              # noqa: E402
@@ -166,6 +167,8 @@ def build_index(arts, names, out_dir):
 
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
+    # Bai nao khong co anh thi lay logo hang (xem logo_fallback.py).
+    logo_fallback.run("reer")
     arts = json.load(io.open(SRC, encoding="utf-8"))["articles"]
     os.makedirs(OUT_DIR, exist_ok=True)
     names = [build_one(a, i, OUT_DIR) for i, a in enumerate(arts, 1)]

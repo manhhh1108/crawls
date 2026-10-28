@@ -23,6 +23,7 @@ from openpyxl.styles import Font, Alignment, PatternFill   # noqa: E402
 from openpyxl.utils import get_column_letter               # noqa: E402
 
 import out_dir                                         # noqa: E402
+import logo_fallback                                  # noqa: E402
 from bai_prune import prune                             # noqa: E402
 from c_pepperl_try import (slugify, SPECDESC, META_TPL,    # noqa: E402
                            SPECDESC_EN, META_TPL_EN)
@@ -177,6 +178,8 @@ def build_index(arts, names, out_dir):
 
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
+    # Bai nao khong co anh thi lay logo hang (xem logo_fallback.py).
+    logo_fallback.run("balluff")
     arts = json.load(io.open(SRC, encoding="utf-8"))["articles"]
     os.makedirs(OUT_DIR, exist_ok=True)
     names = [build_one(a, i, OUT_DIR) for i, a in enumerate(arts, 1)]
