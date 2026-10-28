@@ -27,6 +27,8 @@ REPO = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 sys.path.insert(0, REPO)
 
+import out_dir                                         # noqa: E402
+
 from shared.fetcher import try_fetch                 # noqa: E402
 
 BRAND = "Reer"
@@ -34,7 +36,7 @@ SITE = "https://www.reersafety.com"
 OUT = os.path.join(HERE, "out", "03 Reer")
 CONTENT = os.path.join(OUT, "content.json")
 SRC_IMG = os.path.join(OUT, "src_img")
-XLSX_DIR = os.path.join(REPO, "data", "Noi dung Reer")
+XLSX_DIR = out_dir.brand_dir("Noi dung Reer")
 IMG_DIR = os.path.join(XLSX_DIR, "images")
 for d in (OUT, SRC_IMG, IMG_DIR):
     os.makedirs(d, exist_ok=True)

@@ -25,6 +25,7 @@ from openpyxl import Workbook                              # noqa: E402
 from openpyxl.styles import Font, Alignment, PatternFill   # noqa: E402
 from openpyxl.utils import get_column_letter               # noqa: E402
 
+import out_dir                                         # noqa: E402
 from bai_prune import prune                             # noqa: E402
 from c_pepperl_try import (slugify, SPECDESC, META_TPL,    # noqa: E402
                            SPECDESC_EN, META_TPL_EN)
@@ -32,7 +33,7 @@ from c_pepperl_try import (slugify, SPECDESC, META_TPL,    # noqa: E402
 BRAND = "ESPE"
 BRAND_FULL = "ESPE Technology"
 SRC = os.path.join(HERE, "out", "15 ESPE Technology", "content.json")
-OUT_DIR = os.path.join(REPO, "data", "Noi dung ESPE Technology")
+OUT_DIR = out_dir.brand_dir("Noi dung ESPE Technology")
 
 HDR_FILL = PatternFill("solid", fgColor="1F4E79")
 FLD_FILL = PatternFill("solid", fgColor="DDEBF7")

@@ -21,6 +21,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 
+from out_dir import brand_dir
+
 from openpyxl import Workbook                              # noqa: E402
 from openpyxl.styles import Font, Alignment, PatternFill   # noqa: E402  # noqa
 from openpyxl.utils import get_column_letter               # noqa: E402
@@ -432,4 +434,4 @@ def build(src_dir, out_dir):
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     build(os.path.join(HERE, "out", "01 SICK"),
-          os.path.join(REPO, "data", "Noi dung SICK"))
+          brand_dir("Noi dung SICK"))

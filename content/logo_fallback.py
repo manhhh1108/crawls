@@ -27,6 +27,7 @@ sys.path.insert(0, HERE)
 sys.path.insert(0, REPO)
 
 import brandimg                                        # noqa: E402
+import out_dir                                         # noqa: E402
 
 ASSETS = os.path.join(HERE, "assets")
 
@@ -74,7 +75,7 @@ def bases(arts, slugify):
 def run(key, undo=False):
     sub, outsub, logo = BRANDS[key]
     src_json = os.path.join(HERE, "out", sub, "content.json")
-    img_dir = os.path.join(REPO, "data", outsub, "images")
+    img_dir = out_dir.img_dir(outsub)
     if not os.path.exists(src_json):
         print("%-9s (chua co content.json)" % key)
         return

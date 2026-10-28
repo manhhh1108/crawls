@@ -41,6 +41,8 @@ REPO = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 sys.path.insert(0, REPO)
 
+import out_dir                                         # noqa: E402
+
 BRAND = "Balluff"
 SITE = "https://www.balluff.com"
 API = "https://balluff-search-2-api.linksderisar.io/api/product-finder"
@@ -48,7 +50,7 @@ OUT = os.path.join(HERE, "out", "17 Balluff")
 CONTENT = os.path.join(OUT, "content.json")
 URLMAP = os.path.join(OUT, "urlmap.json")
 SRC_IMG = os.path.join(OUT, "src_img")
-XLSX_DIR = os.path.join(REPO, "data", "Noi dung Balluff")
+XLSX_DIR = out_dir.brand_dir("Noi dung Balluff")
 IMG_DIR = os.path.join(XLSX_DIR, "images")
 CACHE = os.path.join(REPO, ".cache", "balluff")
 for d in (OUT, SRC_IMG, IMG_DIR, CACHE):

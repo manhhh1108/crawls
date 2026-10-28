@@ -22,6 +22,8 @@ HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 
+import out_dir                                         # noqa: E402
+
 from openpyxl import Workbook                              # noqa: E402
 from openpyxl.styles import Font, Alignment, PatternFill   # noqa: E402
 from openpyxl.utils import get_column_letter               # noqa: E402
@@ -29,7 +31,7 @@ from openpyxl.utils import get_column_letter               # noqa: E402
 from c_pepperl_try import BRAND, slugify, SPECDESC, META_TPL, SPECDESC_EN, META_TPL_EN   # noqa: E402
 
 SRC = os.path.join(HERE, "out", "02 Pepperl+Fuchs", "content.json")
-OUT_DIR = os.path.join(REPO, "data", "Noi dung Pepperl+Fuchs")
+OUT_DIR = out_dir.brand_dir("Noi dung Pepperl+Fuchs")
 
 HDR_FILL = PatternFill("solid", fgColor="1F4E79")
 FLD_FILL = PatternFill("solid", fgColor="DDEBF7")

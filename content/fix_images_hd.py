@@ -32,6 +32,7 @@ REPO = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 
 import brandimg                                        # noqa: E402
+import out_dir                                         # noqa: E402
 
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
       "(KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36")
@@ -99,7 +100,7 @@ def run_wenglor():
     sub, outsub = BRANDS["wenglor"]
     src_json = os.path.join(HERE, "out", sub, "content.json")
     src_dir = os.path.join(HERE, "out", sub, "src_img")
-    img_dir = os.path.join(REPO, "data", outsub, "images")
+    img_dir = out_dir.img_dir(outsub)
     arts = json.load(io.open(src_json, encoding="utf-8"))["articles"]
     sys.path.insert(0, REPO)
     from shared.fetcher import try_fetch
@@ -148,7 +149,7 @@ def run_leuze():
     sub, outsub = BRANDS["leuze"]
     src_json = os.path.join(HERE, "out", sub, "content.json")
     src_dir = os.path.join(HERE, "out", sub, "src_img")
-    img_dir = os.path.join(REPO, "data", outsub, "images")
+    img_dir = out_dir.img_dir(outsub)
     arts = json.load(io.open(src_json, encoding="utf-8"))["articles"]
     ok = skip = 0
     for a in arts:
@@ -173,7 +174,7 @@ def run_mitsu():
     sub, outsub = BRANDS["mitsu"]
     src_json = os.path.join(HERE, "out", sub, "content.json")
     src_dir = os.path.join(HERE, "out", sub, "src_img")
-    img_dir = os.path.join(REPO, "data", outsub, "images")
+    img_dir = out_dir.img_dir(outsub)
     arts = json.load(io.open(src_json, encoding="utf-8"))["articles"]
     sys.path.insert(0, REPO)
     from shared.fetcher import try_fetch
@@ -239,7 +240,7 @@ def run_pepperl():
     sub, outsub = BRANDS["pepperl"]
     src_json = os.path.join(HERE, "out", sub, "content.json")
     src_dir = os.path.join(HERE, "out", sub, "src_img")
-    img_dir = os.path.join(REPO, "data", outsub, "images")
+    img_dir = out_dir.img_dir(outsub)
     doc = json.load(io.open(src_json, encoding="utf-8"))
     arts = doc["articles"]
 
@@ -291,7 +292,7 @@ def run_reer():
     sub, outsub = BRANDS["reer"]
     src_json = os.path.join(HERE, "out", sub, "content.json")
     src_dir = os.path.join(HERE, "out", sub, "src_img")
-    img_dir = os.path.join(REPO, "data", outsub, "images")
+    img_dir = out_dir.img_dir(outsub)
     arts = json.load(io.open(src_json, encoding="utf-8"))["articles"]
     ok = skip = fail = 0
     for i, a in enumerate(arts, 1):

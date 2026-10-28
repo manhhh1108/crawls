@@ -7,6 +7,8 @@ import io, json, os, re, shutil, sys
 HERE = os.path.dirname(os.path.abspath(__file__))
 REPO = os.path.dirname(HERE)
 
+from out_dir import brand_dir
+
 from openpyxl import Workbook
 from openpyxl.styles import Font, Alignment, PatternFill
 from openpyxl.utils import get_column_letter
@@ -321,5 +323,5 @@ def build(brand_dir, out_dir, brand_label):
 if __name__ == "__main__":
     sys.stdout.reconfigure(encoding="utf-8")
     build(os.path.join(HERE, "out", "05 Perma"),
-          os.path.join(REPO, "data", "Noi dung Perma"),
+          brand_dir("Noi dung Perma"),
           "05 Perma")

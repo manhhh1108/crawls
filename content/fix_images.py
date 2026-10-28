@@ -23,6 +23,7 @@ REPO = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 
 import brandimg                                        # noqa: E402
+import out_dir                                         # noqa: E402
 from c_pepperl_try import UA, slugify                  # noqa: E402
 
 BRANDS = {
@@ -39,7 +40,7 @@ def run(key):
     sub, outsub = BRANDS[key]
     src_json = os.path.join(HERE, "out", sub, "content.json")
     src_dir = os.path.join(HERE, "out", sub, "src_img")
-    img_dir = os.path.join(REPO, "data", outsub, "images")
+    img_dir = out_dir.img_dir(outsub)
     for d in (src_dir, img_dir):
         os.makedirs(d, exist_ok=True)
     doc = json.load(io.open(src_json, encoding="utf-8"))

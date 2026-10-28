@@ -25,6 +25,7 @@ REPO = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 
 import brandimg                                        # noqa: E402
+import out_dir                                         # noqa: E402
 
 MIN_SRC = 200        # CANH DAI NHAT toi thieu cua anh goc thi moi dang ghep
 # (do canh dai nhat chu khong phai chieu rong: luoi quang an toan cua Leuze
@@ -74,7 +75,8 @@ def restore(arts, src_dir):
                 n += 1
             base = "%s-%d" % (base, n)
         used.add(base)
-        if not a.get("img_file") and best_source(src_dir, base):
+        if (not a.get("img_file") and not a.get("img_logo")
+                and best_source(src_dir, base)):
             a["img_file"] = base + ".jpg"
 
 
@@ -82,7 +84,7 @@ def run(key):
     sub, outsub = BRANDS[key]
     src_json = os.path.join(HERE, "out", sub, "content.json")
     src_dir = os.path.join(HERE, "out", sub, "src_img")
-    img_dir = os.path.join(REPO, "data", outsub, "images")
+    img_dir = out_dir.img_dir(outsub)
     if not (os.path.exists(src_json) and os.path.isdir(src_dir)):
         print("%-9s (chua co du lieu)" % key)
         return
@@ -95,6 +97,11 @@ def run(key):
     for a in arts:
         name = a.get("img_file") or ""
         if not name:
+            continue
+        if a.get("img_logo"):
+            # Anh logo hang do logo_fallback.py dat, khong co ban goc trong
+            # src_img. Khong bo qua thi anh goc be ti cua bai do (vd bieu tuong
+            # 34x50 cua Mitsubishi) lai lam no bi xoa, mat ca anh logo.
             continue
         base = os.path.splitext(name)[0]
         src = best_source(src_dir, base)

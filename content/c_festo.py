@@ -41,6 +41,8 @@ REPO = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 sys.path.insert(0, REPO)
 
+import out_dir                                         # noqa: E402
+
 BRAND = "Festo"
 SITE = "https://www.festo.com"
 BASE = SITE + "/us/en"
@@ -48,7 +50,7 @@ OUT = os.path.join(HERE, "out", "10 Festo")
 CONTENT = os.path.join(OUT, "content.json")
 URLMAP = os.path.join(OUT, "urlmap.json")
 SRC_IMG = os.path.join(OUT, "src_img")
-XLSX_DIR = os.path.join(REPO, "data", "Noi dung Festo")
+XLSX_DIR = out_dir.brand_dir("Noi dung Festo")
 IMG_DIR = os.path.join(XLSX_DIR, "images")
 for d in (OUT, SRC_IMG, IMG_DIR):
     os.makedirs(d, exist_ok=True)

@@ -26,10 +26,12 @@ REPO = os.path.dirname(HERE)
 sys.path.insert(0, HERE)
 sys.path.insert(0, REPO)
 
+import out_dir                                         # noqa: E402
+
 SITE = "https://www.pepperl-fuchs.com"
 LIST_URL = SITE + "/en-sg/products-gp25581?class=%s"
 NTREND_XLSX = os.path.join(REPO, "data", "Danh mục SP web NTREND.xlsx")
-OUT_DIR = os.path.join(REPO, "data", "Noi dung Pepperl+Fuchs")
+OUT_DIR = out_dir.brand_dir("Noi dung Pepperl+Fuchs")
 
 BRAND = "Pepperl+Fuchs"
 UA = ("Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
