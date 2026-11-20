@@ -1,11 +1,11 @@
 # -*- coding: utf-8 -*-
 """Lap ban do 'dong SP trong danh muc Ntrend' -> URL tren web hang.
 
-    python cat_map.py espe balluff otennlux festo
-    python cat_map.py                       # ca 4 hang
+    python cat_map.py espe balluff otennlux festo supmea tree
+    python cat_map.py                       # ca 9 hang
 
 Khac voi wenglor_map/leuze_map/ifm_map/mitsu_map (phai tu bo web hang de tim
-URL): 4 hang nay da co san cay danh muc KEM URL trong catalog/out/<hang>.json
+URL): 9 hang nay da co san cay danh muc KEM URL trong catalog/out/<hang>.json
 do nhom catalog/b_*.py dung truoc day -> chi can doi chieu duong dan danh muc.
 
 Ket qua: content/out/<hang>/urlmap.json, dung chung dinh dang voi cac hang cu
@@ -25,7 +25,13 @@ CATALOG = os.path.join(REPO, "catalog", "out")
 
 # ten viet tat -> (sheet trong file danh muc Ntrend = ten file catalog, ten hang)
 BRANDS = {
+    "pilz":     ("09 Pilz", "Pilz"),
     "festo":    ("10 Festo", "Festo"),
+    "schneider": ("11 Schneider", "Schneider"),
+    "supmea":   ("12 Supmea", "Supmea Automation"),
+    "tree":     ("13 Tree Electric", "Tree Electric"),
+    "xingguang": ("14 Xingguang-Starshine",
+                  "Guangdong Xingguang / Starshine Drive"),
     "espe":     ("15 ESPE Technology", "ESPE"),
     "otennlux": ("16 OTENNLUX Lighting", "OTENNLUX"),
     "balluff":  ("17 Balluff", "Balluff"),

@@ -58,33 +58,16 @@ def _handset(d, cx, cy, r, color, lw):
     d._image.paste(tint, (int(cx - r), int(cy - r)), mask)
 
 
-MAX_UPSCALE = 1.4       # phong to anh SP qua muc nay la nhin thay ro vo
-
-
-def _fit_size(src_path, size):
-    """Chon canh khung sao cho anh SP khong bi phong to qua MAX_UPSCALE.
-
-    Anh goc cua vai hang chi 200-300px (the thu nho tren trang danh sach). Ep
-    len khung 800 la phong 3-4 lan, nhin vo het. Thu nho khung lai thi ty le bo
-    cuc khong doi (moi thu deu tinh theo `size`) ma anh van net.
-    """
-    try:
-        from PIL import Image
-        w, h = Image.open(src_path).size
-    except Exception:
-        return size
-    for n in range(size, 399, -20):
-        top = int(n * T_MARGIN) + max(1, int(_logo().height * int(n * LOGO_W)
-                                             / _logo().width)) + int(n * 0.035)
-        m = int(n * L_MARGIN)
-        box_w, box_h = n - 2 * m, n - top - m
-        if min(box_w / w, box_h / h) <= MAX_UPSCALE:
-            return n
-    return 400
+# TRUOC DAY ham `_fit_size()` tu THU NHO khung (xuong toi 400) khi anh goc qua
+# be, de khong phong to qua 1,4 lan cho khoi vo net. Khach khong chiu: "co san
+# pham thi lai bi nho qua 400x400" (review Pilz 04/11) - bai dang len web can
+# co anh DEU NHAU. Nay moi khung deu 800x800, anh goc be thi phong bang
+# Lanczos. Anh goc cua Pilz chi 188-300 px va trang hang khong dang ban nao to
+# hon (markup chi co mot co `300Wx300H`), nen day la gioi han cua nguon, khong
+# phai cao sot.
 
 
 def compose(src_path, dst_path, size=800):
-    size = _fit_size(src_path, size)
     canvas = Image.new("RGB", (size, size), "white")
     d = ImageDraw.Draw(canvas)
     color = (35, 35, 35)

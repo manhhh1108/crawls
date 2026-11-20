@@ -26,7 +26,8 @@ import out_dir                                         # noqa: E402
 import logo_fallback                                  # noqa: E402
 from bai_prune import prune                             # noqa: E402
 from c_pepperl_try import (slugify, SPECDESC, META_TPL,    # noqa: E402
-                           SPECDESC_EN, META_TPL_EN)
+                           SPECDESC_EN, META_TPL_EN,
+                           DESCDESC, DESCDESC_EN)
 
 BRAND = "Festo"
 SRC = os.path.join(HERE, "out", "10 Festo", "content.json")
@@ -40,6 +41,16 @@ MAX_TAGS = 12
 
 def safe(s, n=58):
     return re.sub(r'[\\/:*?"<>|]+', "-", s or "").strip()[:n].rstrip(" .")
+
+
+def cau_dau(s):
+    """Cau dau tien - de mo ta ngan khong chep y nguyen mo ta dai.
+
+    Cat o dau cham co khoang trang + chu hoa phia sau, de khong cat nham o
+    "SMPO-8E." hay "ISO 8573-1:2010".
+    """
+    m = re.search(r"\.\s+(?=[A-ZÀ-Ỹ])", s or "")
+    return (s[:m.start() + 1] if m else (s or "")).strip()
 
 
 def ctx(a):
@@ -103,12 +114,25 @@ def build_one(a, idx, out_dir):
     row("Meta title", "%s %s" % (cv["type_c"], BRAND), kw_en)
     row("Meta description (155 - 165 characters)",
         META_TPL.format(**cv), META_TPL_EN.format(**ce))
-    row("Mô tả dài của sản phẩm",
-        "\n".join("- " + x for x in a.get("long_vi") or []),
-        "\n".join("- " + x for x in a.get("long_en") or []))
-    row("Mô tả ngắn của sản phẩm",
-        "\n".join("- " + x for x in a.get("short_vi") or []),
-        "\n".join("- " + x for x in a.get("short_en") or []))
+    # Bai /a/ la MOT san pham cu the: cols_en/long_en la bang Technical Data
+    # cua chinh no, khong phai loi gioi thieu -> khong dua len o mo ta, de
+    # xuong khoi thong so phia duoi.
+    la_sp = a.get("is_article")
+    long_vi = [] if la_sp else (a.get("long_vi") or [])
+    long_en_o = [] if la_sp else (a.get("long_en") or [])
+    short_vi, short_en = a.get("short_vi") or [], a.get("short_en") or []
+    if not long_vi and not short_vi:
+        # Trang hang khong co chu nao gioi thieu -> dung mau (review Festo).
+        dv, de = DESCDESC.format(**cv), DESCDESC_EN.format(**ce)
+        row("Mô tả dài của sản phẩm", dv, de)
+        row("Mô tả ngắn của sản phẩm", cau_dau(dv), cau_dau(de))
+    else:
+        row("Mô tả dài của sản phẩm",
+            "\n".join("- " + x for x in long_vi),
+            "\n".join("- " + x for x in long_en_o))
+        row("Mô tả ngắn của sản phẩm",
+            "\n".join("- " + x for x in short_vi),
+            "\n".join("- " + x for x in short_en))
     row("Mô tả thông số", SPECDESC.format(**cv), SPECDESC_EN.format(**ce))
 
     items = a.get("items") or []
@@ -136,8 +160,11 @@ def build_one(a, idx, out_dir):
     long_en = a.get("long_en") or []
     long_vi = a.get("long_vi") or long_en
     if long_en:
-        block(["Tùy chọn thông số", "Tên thông số", "Các tùy chọn",
-               "Parameter (EN)", "Options (EN)"])
+        # Dong SP: la cac TUY CHON cua ca dong. Mot san pham cu the (/a/): la
+        # thong so that cua chinh no (bang Technical Data tren trang hang).
+        block(["Thông số kỹ thuật" if la_sp else "Tùy chọn thông số",
+               "Tên thông số", "Giá trị" if la_sp else "Các tùy chọn",
+               "Parameter (EN)", "Value (EN)" if la_sp else "Options (EN)"])
         for n, le in enumerate(long_en):
             k_en = cols_en[n] if n < len(cols_en) else ""
             k_vi = cols_vi[n] if n < len(cols_vi) else k_en

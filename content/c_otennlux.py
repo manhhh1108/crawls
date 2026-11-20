@@ -51,6 +51,22 @@ for d in (OUT, SRC_IMG, IMG_DIR):
 
 MAX_HL = 8
 
+# Bay dong trong danh muc Ntrend tro vao TRANG DANH MUC cua hang (duoi _cNN)
+# chu khong phai trang san pham (_pNN). Da mo tung trang kiem: chi co thanh
+# danh muc ben trai, KHONG co khoi danh sach san pham nao - hang chua dang gi
+# vao 7 muc nay. Khoi 8 san pham trong trang la "hot products" dung chung cho
+# moi trang, khong phai san pham cua danh muc, dung tuong nham ma di cao.
+# De lai thi ra 7 bai rong (khong mo ta, khong bang, phai lay logo lam anh).
+BO_TRANG_DANH_MUC = {
+    "https://en.otennlux.com/flood-light_c39",
+    "https://en.otennlux.com/o51-indicator-light_c50",
+    "https://en.otennlux.com/o52-indicator-light_c51",
+    "https://en.otennlux.com/embedded-led-work-light_c26",
+    "https://en.otennlux.com/tube-led-work-light_c24",
+    "https://en.otennlux.com/can-type-sound-signal-light_c62",
+    "https://en.otennlux.com/rs485-type-sound-signal-light_c64",
+}
+
 FULLWIDTH = {u"（": "(", u"）": ")", u"，": ",", u"：": ":",
              u"；": ";", u"～": "~", u"／": "/", u"－": "-",
              u"＜": "<", u"＞": ">", u"％": "%", u"、": ", ",
@@ -107,11 +123,17 @@ BOILER = re.compile(
     r"|we have confidence in our products"
     r"|such as emo", re.I)
 
-# Nhan khong co noi dung. Giu lai "Key Features:" / "Application:" vi chung
-# chia bo cuc cho mo ta dai, nhung "More information:" (41 bai) va "Other Item:"
-# chi la chu dan sang bang/anh phia duoi, dua vao bai thi treo lung.
+# Nhan khong co noi dung. Giu lai "Key Features:" / "Application:" / "Details:"
+# vi chung chia bo cuc cho mo ta dai, nhung "More information:" (41 bai) va
+# "Other Item:" chi la chu dan sang bang/anh phia duoi, dua vao bai thi treo
+# lung. Truoc day danh sach nay co ca "details?" nen cat mat chu "Details:",
+# doan gach dau dong phia sau dinh lien vao doan tren, doc khong ra y.
 LABEL_ONLY = re.compile(r"^(more information|other items?|advantage|download"
-                        r"|product (details?|images?)|details?)\s*[:：]?$", re.I)
+                        r"|product (details?|images?))\s*[:：]?$", re.I)
+
+# Dong tieu de chia bo cuc: "Details:", "Application :", "Key Features:".
+HEADING = re.compile(r"^[A-Za-z][A-Za-z /&]{2,30}\s*[:：]\s*$")
+BULLET = re.compile(r"^[•\-\*·]\s*")
 
 
 def grid(tbl):
@@ -154,25 +176,52 @@ def grid(tbl):
     return [r for r in out if any(r)]
 
 
-def prose_of(desc_html):
+def nhac_lai_ten(t, title):
+    """Dong nay chi la nhac lai ten san pham?
+
+    Trang hang mo dau phan mo ta bang chinh ten san pham, co khi them bot vai
+    chu: "IO-LINK IP69 24V AC DC Intelligent signal WARMING light FOR AUTOMATIC
+    SYSTEM" so voi ten bai "... Intelligent signal light". So theo tap tu moi
+    bat duoc nhung ban them bot nhu vay.
+    """
+    tu = lambda s: set(re.findall(r"[a-z0-9]+", (s or "").lower()))
+    a, b = tu(t), tu(title)
+    return bool(b) and len(a & b) >= 0.85 * len(b)
+
+
+def prose_of(desc_html, title=""):
     """Van ban PHIA TREN bang dau tien, da cat doan quang cao.
 
     Template OTENNLUX: "Lay full phan thong tin phia tren bang thong so ky
     thuat" -> cat o the <table> dau tien; trang nao khong co bang thi lay het
     roi loc theo BOILER.
+
+    Giu nguyen bo cuc cua trang hang: dong tieu de ("Details:") va dau `*` dau
+    moi gach dau dong. Truoc day cat het hai thu do nen ca doan dinh lien vao
+    nhau. Dong dau neu chi nhac lai ten san pham thi bo - no da nam o ten bai.
     """
     head = TABLE.split(desc_html)[0] if TABLE.search(desc_html) else desc_html
     head = INLINE.sub("", head)
     head = re.sub(r"(?i)<br\s*/?>", "</p>", head)
-    out = []
+    out, than = [], 0
     for p in re.split(r"(?i)</p>|</div>|</li>|</h[1-6]>", head):
         t = txt(p)
-        if len(t) < 12 or BOILER.search(t) or LABEL_ONLY.match(t):
+        if not t or BOILER.search(t) or LABEL_ONLY.match(t):
             continue
-        t = re.sub(r"^[•\-\*·]\s*", "", t)   # bo dau bullet •
+        if HEADING.match(t):
+            t = re.sub(r"\s*[:：]\s*$", ":", t)
+        else:
+            dau = "* " if BULLET.match(t) else ""
+            t = BULLET.sub("", t)
+            if len(t) < 12:
+                continue
+            if not than and nhac_lai_ten(t, title):
+                continue
+            than += 1
+            t = dau + t
         if t not in out:
             out.append(t)
-    return out[:14]
+    return out[:16]
 
 
 def attrs_of(html):
@@ -205,13 +254,6 @@ def fetch_line(url):
     pm = PROM.search(s)
     im = MAIN_IMG.search(pm.group(1)) if pm else None
     img = SITE + img_full(im.group(1)) if im else ""
-    if not img and title:
-        # 7/163 dong tro den trang DANH MUC (_cNN), khong co khoi anh san pham
-        # -> lay anh danh muc trong mega-menu, doi chieu bang thuoc tinh alt.
-        mm = re.search(r'<img src="(/uploadfile/category/[^"]+)" alt="\s*%s\s*"'
-                       % re.escape(title), s, re.I)
-        if mm:
-            img = SITE + img_full(mm.group(1))
     models = []
     for tbl in TABLE.findall(desc):
         rows = grid(tbl)
@@ -220,7 +262,7 @@ def fetch_line(url):
     return {"h1": title,
             "overview": txt(ov.group(1)) if ov else "",
             "attrs": attrs_of(s),
-            "prose": prose_of(desc),
+            "prose": prose_of(desc, title),
             "models": models,
             "img": img}
 
@@ -228,34 +270,92 @@ def fetch_line(url):
 # ---------------------------------------------------------------------------
 # 2. Mo ta dai / ngan
 # ---------------------------------------------------------------------------
+CODE_LBL = re.compile(r"item\s*no|model|part\s*no|order\s*code|type", re.I)
+
+
 def code_col(t):
+    """Chi so cot chua ma SP, -1 neu bang khong co cot nao nhu vay."""
     for i, c in enumerate(t["head"]):
-        if re.search(r"item\s*no|model|part\s*no|order\s*code|type", c, re.I):
+        if CODE_LBL.search(c):
             return i
-    return 0
+    return -1
+
+
+def kv_table(t):
+    """Bang DOC: cot trai la ten thong so, cot phai la gia tri.
+
+    114/125 bang cua hang nay la kieu nay (Item No. | OBS1-USB-01 / Brand |
+    Otennlux / Materail | Aluminum ...). Truoc day code_col khong khop gi thi
+    tra ve 0, thanh ra cot NHAN bi coi la cot ma SP, keo theo hai loi:
+      * cot nhan khong duoc dich -> bang hien ra nua Anh nua Viet
+      * cac nhan bi gom vao danh sach ma SP -> the tag thanh
+        "ItemNo., Brand, Materail, Voltage, Color, ..., OTENNLUX"
+    """
+    return len(t["head"]) == 2 and code_col(t) < 0
 
 
 def model_codes(models):
     out, seen = [], set()
+
+    def them(c):
+        c = re.sub(r"\s+", "", c or "")
+        if c and c not in seen and len(c) <= 40:
+            seen.add(c)
+            out.append(c)
+
     for t in models:
         i = code_col(t)
+        if i < 0:
+            # Bang doc: ma SP la GIA TRI cua dong co nhan "Item No." / "Model".
+            # Bo qua ca bang thi mat ma that (vd OBS1-USB-01), ma lay ca cot
+            # trai thi vo phai toan nhan.
+            for r in t["rows"]:
+                if len(r) > 1 and CODE_LBL.search(r[0] or ""):
+                    them(r[1])
+            continue
         for r in t["rows"]:
-            if i < len(r) and r[i]:
-                c = re.sub(r"\s+", "", r[i])
-                if c not in seen and len(c) <= 40:
-                    seen.add(c)
-                    out.append(c)
+            if i < len(r):
+                them(r[i])
     return out
 
 
 def model_cells(models):
-    out = set()
+    """(ten thong so, gia tri) trong cac bang - de dich dung kieu tung loai.
+
+    Ten thong so dich kieu "key", gia tri dich kieu "value"; dua nham kieu thi
+    vi_engine cho ra ban dich khac han.
+    """
+    keys, vals = set(), set()
     for t in models:
         ci = code_col(t)
+        kv = kv_table(t)
+        if kv:
+            keys.add(t["head"][0])
+            vals.add(t["head"][1])
+        else:
+            keys.update(t["head"])
         for r in t["rows"]:
             for i, c in enumerate(r):
-                if c and i != ci:
-                    out.add(c)
+                if not c or i == ci:
+                    continue
+                (keys if (kv and i == 0) else vals).add(c)
+    return keys, vals
+
+
+def dich_prose(prose_en, translate_many):
+    """Dich mo ta dai, giu lai dau `*` va dau hai cham cua dong tieu de.
+
+    Dich ban da go dau `*` roi gan lai, va ep dong tieu de van ket thuc bang
+    dau hai cham (may dich hay nuot no, vd "Application :" -> "Ứng dụng").
+    """
+    if not prose_en:
+        return []
+    tron = [BULLET.sub("", t) for t in prose_en]
+    out = []
+    for en, vi in zip(prose_en, translate_many(tron, "prose")):
+        if HEADING.match(en) and not vi.rstrip().endswith((":", u"：")):
+            vi = vi.rstrip() + ":"
+        out.append(("* " + vi) if BULLET.match(en) else vi)
     return out
 
 
@@ -342,7 +442,7 @@ def main():
     from translate import _flush
 
     ls = [l for l in json.load(io.open(URLMAP, encoding="utf-8"))["lines"]
-          if l.get("url")]
+          if l.get("url") and l["url"] not in BO_TRANG_DANH_MUC]
     if limit:
         ls = ls[:limit]
     uniq, seen = [], set()
@@ -384,14 +484,17 @@ def main():
         raw[ln["url"]] = d
 
         long_en = long_desc(d["attrs"], title)
+        mk, mv = model_cells(d["models"])
         bag["key"].add(title)
         bag["key"].update(k for k, _v in d["attrs"])
-        bag["key"].update(c for t in d["models"] for c in t["head"])
+        bag["key"].update(mk)
         bag["value"].update(long_en)
         bag["value"].update(v for _k, v in d["attrs"])
-        bag["value"].update(model_cells(d["models"]))
+        bag["value"].update(mv)
         bag["prose"].update([d["overview"]] if d["overview"] else [])
-        bag["prose"].update(d["prose"])
+        # Dich ban KHONG co dau `*`, dich xong moi gan lai - de nguyen thi may
+        # dich nuot hoac nhan dau sao thanh chu.
+        bag["prose"].update(BULLET.sub("", t) for t in d["prose"])
         print("  cao %3d/%d %-40s ts=%-2d bang=%-2d van=%-2d %s"
               % (i, len(todo), title[:40], len(d["attrs"]), len(d["models"]),
                  len(d["prose"]), "img" if d["img_file"] else "---"))
@@ -408,19 +511,26 @@ def main():
         short_en = ([d["overview"]] if d["overview"]
                     else d["prose"][:2] or long_en[:MAX_HL])
 
-        keys = sorted({k for k, _v in attrs}
-                      | {c for t in models for c in t["head"]})
-        vals = sorted({v for _k, v in attrs} | model_cells(models))
+        mk, mv = model_cells(models)
+        keys = sorted({k for k, _v in attrs} | mk)
+        vals = sorted({v for _k, v in attrs} | mv)
         tr_k = dict(zip(keys, translate_many(keys, "key"))) if keys else {}
         tr_v = dict(zip(vals, translate_many(vals, "value"))) if vals else {}
         attrs_vi = [[tr_k.get(k, k), tr_v.get(v, v)] for k, v in attrs]
         models_vi = []
         for t in models:
             ci = code_col(t)
-            models_vi.append({
-                "head": [tr_k.get(c, c) for c in t["head"]],
-                "rows": [[c if i == ci else tr_v.get(c, c)
-                          for i, c in enumerate(r)] for r in t["rows"]]})
+            if kv_table(t):
+                hv = [tr_k.get(t["head"][0], t["head"][0]),
+                      tr_v.get(t["head"][1], t["head"][1])]
+                rows = [[tr_k.get(r[0], r[0])]
+                        + [tr_v.get(c, c) for c in r[1:]] for r in t["rows"]]
+            else:
+                hv = [tr_k.get(c, c) for c in t["head"]]
+                rows = [[c if i == ci else tr_v.get(c, c)
+                         for i, c in enumerate(r)] for r in t["rows"]]
+            models_vi.append({"head": hv, "rows": rows})
+        prose_vi = dich_prose(d["prose"], translate_many)
 
         done[ln["url"]] = dict(
             ln, url_src=ln["url"], title_en=title, img_file=d["img_file"],
@@ -432,7 +542,7 @@ def main():
             short_en=short_en,
             short_vi=translate_many(short_en, "prose") if short_en else [],
             prose_en=d["prose"],
-            prose_vi=translate_many(d["prose"], "prose") if d["prose"] else [],
+            prose_vi=prose_vi,
             name_vi=name_vi_of(title, translate_many))
         print("  %3d/%d %-40s ts=%-2d ma=%-3d %s"
               % (i, len(todo), title[:40], len(attrs),

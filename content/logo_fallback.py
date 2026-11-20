@@ -42,7 +42,13 @@ BRANDS = {
     "mitsu":    ("07 Mitsubishi Electric", "Noi dung Mitsubishi Electric",
                  "mitsu-logo.png"),
     "leuze":    ("08 Leuze", "Noi dung Leuze", "leuze-logo.png"),
+    "pilz":     ("09 Pilz", "Noi dung Pilz", "pilz-logo.png"),
     "festo":    ("10 Festo", "Noi dung Festo", "festo-logo.png"),
+    "schneider": ("11 Schneider", "Noi dung Schneider", "schneider-logo.png"),
+    "supmea":   ("12 Supmea", "Noi dung Supmea", "supmea-logo.png"),
+    "tree":     ("13 Tree Electric", "Noi dung Tree Electric", "tree-logo.png"),
+    "xingguang": ("14 Xingguang-Starshine", "Noi dung Xingguang-Starshine",
+                  "xingguang-logo.png"),
     "espe":     ("15 ESPE Technology", "Noi dung ESPE Technology",
                  "espe-logo.png"),
     "otennlux": ("16 OTENNLUX Lighting", "Noi dung OTENNLUX Lighting",
@@ -57,9 +63,20 @@ def bases(arts, slugify):
     Ten sinh ra tu ten dong SP (slug, cat 60 ky tu, trung thi them -2/-3) nen
     phai duyet CA danh sach theo thu tu moi ra dung hau to, khong the tinh
     rieng mot bai.
+
+    PHAI tranh ca nhung ten ANH THAT da co san. Crawler dat ten theo thu tu
+    CAO duoc, con day duyet theo thu tu BAI - hai thu tu khac nhau thi mot bai
+    khong co anh co the trung ten voi bai co anh that, va logo ghi de len anh
+    that. Da xay ra: hai muc Pilz cung ten "Education Systems", muc co anh san
+    pham bi thay bang logo Pilz.
     """
-    out, used = [], set()
+    out = []
+    used = {os.path.splitext(a["img_file"])[0]
+            for a in arts if a.get("img_file") and not a.get("img_logo")}
     for a in arts:
+        if a.get("img_file") and not a.get("img_logo"):
+            out.append(os.path.splitext(a["img_file"])[0])
+            continue
         b = (slugify(a.get("title_en") or a.get("name") or "")[:60].strip("-")
              or "sp")
         if b in used:
@@ -98,12 +115,14 @@ def run(key, undo=False):
 
     if undo:
         n = 0
-        for a, b in zip(arts, bs):
+        for a in arts:
             if not a.pop("img_logo", False):
                 continue
+            # Xoa theo dung ten da ghi trong bai, khong tinh lai: tinh lai co
+            # the ra ten khac va xoa nham anh that.
+            p = os.path.join(img_dir, a.get("img_file") or "")
             a["img_file"] = ""
-            p = os.path.join(img_dir, b + ".jpg")
-            if os.path.exists(p):
+            if os.path.basename(p) and os.path.exists(p):
                 os.remove(p)
             n += 1
         with io.open(src_json, "w", encoding="utf-8") as f:

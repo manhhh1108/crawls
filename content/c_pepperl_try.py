@@ -292,6 +292,19 @@ SPECDESC_EN = (
     "varied requirements of industrial applications.\n\n"
     "Detailed product information is listed below:")
 
+# Mau cho bai KHONG CO mo ta dai lan mo ta ngan tren trang hang (review Festo
+# 01/11). De trong hai o do thi bai dang len web khong co chu nao gioi thieu
+# san pham. Mo ta ngan lay cau dau cua mau nay.
+DESCDESC = (
+    "{type_c} là sản phẩm trong công nghiệp thuộc hãng {brand}, được thiết kế "
+    "để sử dụng trong các hệ thống tự động hóa và điều khiển công nghiệp. "
+    "{type_c} giúp đáp ứng nhu cầu vận hành, tích hợp thiết bị trong nhà máy "
+    "và dây chuyền sản xuất.")
+DESCDESC_EN = (
+    "The {name_brand} {type_l} is an industrial product designed for use in "
+    "industrial automation and control systems. It helps meet operating and "
+    "equipment integration needs in factories and production lines.")
+
 
 import unicodedata
 

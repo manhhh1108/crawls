@@ -17,15 +17,41 @@ FETCH_JS = """async (args) => {
 
 
 class Browser(object):
-    def __init__(self, home, headless=False, locale="en-US"):
+    def __init__(self, home, headless=False, locale="en-US", tries=4):
+        """Chrome co luc mo len roi tat ngay ("Target page, context or browser
+        has been closed"), lan sau lai binh thuong - nen thu lai vai lan, khong
+        thi ca lenh cao chet tu dong 0.
+
+        Thu lai PHAI nam trong day, dung mot phien Playwright: goi
+        sync_playwright().start() lan thu hai trong cung mot luong se bao
+        "Playwright Sync API inside the asyncio loop" va khong bao gio mo duoc.
+        """
         from playwright.sync_api import sync_playwright
         self._pw = sync_playwright().start()
-        self.b = self._pw.chromium.launch(headless=headless)
-        self.ctx = self.b.new_context(locale=locale, viewport={"width": 1400, "height": 900})
-        self.pg = self.ctx.new_page()
         self.home = home
-        self.pg.goto(home, wait_until="domcontentloaded", timeout=90000)
-        self.pg.wait_for_timeout(3500)
+        self.b = self.ctx = self.pg = None
+        last = None
+        for k in range(tries):
+            try:
+                self.b = self._pw.chromium.launch(headless=headless)
+                self.ctx = self.b.new_context(
+                    locale=locale, viewport={"width": 1400, "height": 900})
+                self.pg = self.ctx.new_page()
+                self.pg.goto(home, wait_until="domcontentloaded", timeout=90000)
+                self.pg.wait_for_timeout(3500)
+                return
+            except Exception as e:
+                last = repr(e)[:70]
+                print("  [mo Chrome that bai lan %d: %s]" % (k + 1, last))
+                try:
+                    if self.b:
+                        self.b.close()
+                except Exception:
+                    pass
+                self.b = self.ctx = self.pg = None
+                time.sleep(5 * (k + 1))
+        self._pw.stop()
+        raise RuntimeError("khong mo duoc Chrome sau %d lan: %s" % (tries, last))
 
     def goto(self, url, wait="domcontentloaded", pause=2500, timeout=90000):
         self.pg.goto(url, wait_until=wait, timeout=timeout)
@@ -81,6 +107,14 @@ class Browser(object):
                     pass
             time.sleep(1.0 * (i + 1))
         raise RuntimeError("API FAIL %s -> %s" % (url, last))
+
+    def has_cache(self, url, opts=None):
+        """Trang nay da nam trong cache dia chua.
+
+        De crawler dem duoc con bao nhieu trang phai tai that, tu do cat lo
+        ma chay - doc lai tu cache thi gan nhu khong ton gi.
+        """
+        return os.path.exists(self._key(url, opts or {}))
 
     def api_json(self, url, **kw):
         return json.loads(self.api(url, **kw))

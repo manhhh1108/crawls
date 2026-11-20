@@ -6,8 +6,9 @@
 
 Chay sau fix_images_hd.py: nhung bai khong lay duoc ban HD (trang hang khong
 co, hoac tai loi) van con giu ban ghep cu - ban do duoc phong len khung 800 tu
-anh 200-300px nen vo. Ghep lai de brandimg tu chon khung nho hon (xem
-brandimg.MAX_UPSCALE), anh se net du nho hon mot chut.
+anh 200-300px nen vo. Ghep lai de dung ban nguon tot nhat dang co.
+(Truoc day brandimg con tu thu nho khung xuong 400 cho do vo, nhung khach doi
+moi bai phai co anh deu 800x800 - review 04/11 - nen khung luon la 800.)
 
 Uu tien nguon: <ten>.hd.*  (ban HD do fix_images_hd.py tai)  ->  <ten>.*
 

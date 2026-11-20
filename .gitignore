@@ -7,8 +7,15 @@ content/out/*/src_img/
 #   python c_<hang>.py && python build_content_excel.py
 # (khong commit de khoi phinh repo khi nhan ra 16 hang ~1.3GB)
 content/out/*/images/
-data/Noi dung */[0-9][0-9] - *.xlsx
-data/Noi dung */[0-9][0-9][0-9] - *.xlsx
+# So thu tu bai dai bao nhieu chu so cung duoc. Hai dong cu chi bat 2 va 3 chu
+# so ([0-9][0-9] va [0-9][0-9][0-9]) nen bo sot ca 1195 file cua Festo - hang
+# nay nhieu bai, danh 4 chu so "0001 - ...".
+data/Noi dung */[0-9]* - *.xlsx
+# Muc luc va file soat dich: build_<hang>_excel.py sinh lai moi lan chay, khong
+# can commit. Giu lai thi moi lan build git deu bao doi, va hang nao chuyen sang
+# "File đã crawls" lai bao bi xoa (da gap voi Mitsubishi Electric).
+data/Noi dung */00 MUC LUC.xlsx
+data/Noi dung */00 CAN SOAT DICH.xlsx
 # anh thanh pham cua bai dang (SICK ~37MB) - sinh lai bang build_<hang>_excel.py
 data/Noi dung */images/
 # ban sao giao hang: gop toan bo xlsx + anh cua cac hang da xong (~129MB),

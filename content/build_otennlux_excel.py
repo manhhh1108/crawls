@@ -46,6 +46,20 @@ def safe(s, n=58):
     return re.sub(r'[\\/:*?"<>|]+', "-", s or "").strip()[:n].rstrip(" .")
 
 
+def bo_cuc(lines):
+    """Chen mot dong trong truoc moi tieu de ("Chi tiết:", "Ứng dụng:").
+
+    Tren web hang cac khoi nay cach nhau mot dong; viet lien tu ti thi khach
+    doc khong ra y (xem 'Review nội dung OTENNLUX Lighting.docx').
+    """
+    out = []
+    for t in lines:
+        if out and t.rstrip().endswith((":", u"：")):
+            out.append("")
+        out.append(t)
+    return out
+
+
 def ctx(a):
     en = a.get("title_en") or a["name"]
     nv = a.get("name_vi") or en
@@ -109,8 +123,8 @@ def build_one(a, idx, out_dir):
         META_TPL.format(**cv), META_TPL_EN.format(**ce))
     # Mo ta dai = full phan thong tin phia tren bang thong so ky thuat
     row("Mô tả dài của sản phẩm",
-        "\n".join(a.get("prose_vi") or a.get("long_vi") or []),
-        "\n".join(a.get("prose_en") or a.get("long_en") or []))
+        "\n".join(bo_cuc(a.get("prose_vi") or a.get("long_vi") or [])),
+        "\n".join(bo_cuc(a.get("prose_en") or a.get("long_en") or [])))
     row("Mô tả ngắn của sản phẩm",
         "\n".join(a.get("short_vi") or []),
         "\n".join(a.get("short_en") or []))

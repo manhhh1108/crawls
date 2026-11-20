@@ -5,6 +5,7 @@
     python c_festo.py 3          # chi 3 dong dau (xem thu)
     python c_festo.py --force    # lam lai tu dau
     python c_festo.py --pages 5  # chi lay 5 trang ma SP moi dong (xem thu)
+    python c_festo.py --crawl-only --batch 150   # chi tai 150 dong roi thoat
 
 Can chay truoc: python cat_map.py festo
 
@@ -56,11 +57,23 @@ for d in (OUT, SRC_IMG, IMG_DIR):
     os.makedirs(d, exist_ok=True)
 
 MAX_COLS = 10
+# Trang mot san pham cho thang bang thong so that (khong phai tuy chon ca dong)
+# nen lay rong tay hon MAX_COLS; SMPO-8E co 20 dong.
+MAX_SPECS = 30
 MAX_HL = 8
 MAX_PAGES = 60         # tran an toan: 60 trang = 600 ma SP cho mot dong
 RESTART_EVERY = 120   # mo lai Chrome sau moi 120 dong (tranh ro ri bo nho)
 
 MARK = "_ROUTER_DATA = "
+# Hai dong SP nay festo da go khoi web: mo thi chuyen ve /error/404, con goi
+# fetch thi tra ve HTTP 200 kem vo micro-frontend 4.5KB. Da kiem lai nhieu lan
+# va bang trinh duyet that. Khong ghi ra day thi moi lan chay deu bao LOI,
+# lan sau lai mat cong do.
+GO_KHOI_WEB = {
+    "https://www.festo.com/us/en/p/parallel-gripper-id_HPPR?categoryCode=pim227",
+    "https://www.festo.com/us/en/p/festo-ax-data-access-id_GASA_DA"
+    "?categoryCode=pim160",
+}
 # Hai "facet" dau khong phai thong so ky thuat ma la bo loc tiep thi, xuat hien
 # y nguyen o moi dong SP -> bo di.
 SKIP_FACET = re.compile(r"^(fastDelivery|Specific catalogues)$", re.I)
@@ -95,6 +108,59 @@ def router_data(html):
     pg = [v for k, v in (d.get("loaderData") or {}).items()
           if k.endswith("/page")]
     return pg[0] if pg else None
+
+
+FEATURE_API = (SITE + "/modules/fox/bff/occ/v2/fox_us/articles/%s"
+               "?fields=FULL_FEATURES&lang=en_US")
+
+
+def fetch_article(br, url):
+    """Trang MOT san pham cu the (/us/en/a/<ma>), khac trang dong SP (/us/en/p/).
+
+    161/1194 dong trong urlmap tro vao day. Trang nay khong co
+    productSeriesData / ssrArticleListData nen fetch_line khong boc duoc gi:
+    161 bai ra rong tron - khong mo ta, khong ma SP, khong thong so.
+
+    Du lieu o day:
+      articleData.name / orderCode / code   ten + ma dat hang + ma so
+      articleData.festoGalleryImages        anh san pham
+
+    Bang "Technical Data" tren trang KHONG nam trong HTML, no goi rieng mot API
+    (xem FEATURE_API) - mo trang roi xem cac yeu cau mang moi thay.
+    """
+    pg = router_data(br.api(url, accept=ok_page))
+    if pg is None:
+        return None
+    ad = pg.get("articleData") or {}
+    oc = (ad.get("orderCode") or ad.get("shortCode") or "").strip()
+    cd = (ad.get("code") or "").strip()
+    ten = txt(ad.get("name"))
+    title = ("%s %s" % (ten, oc)).strip() if oc and oc not in ten else ten
+
+    specs = []
+    if cd:
+        try:
+            d = json.loads(br.api(FEATURE_API % cd))
+        except Exception as e:
+            print("     [khong lay duoc thong so %s] %s" % (cd, repr(e)[:40]))
+            d = {}
+        for cl in d.get("classifications") or []:
+            for f in cl.get("features") or []:
+                k = txt(f.get("name"))
+                vals = [txt(v.get("value"))
+                        for v in (f.get("featureValues") or [])]
+                vals = [v for v in vals if v]
+                if k and vals and not SKIP_FACET.match(k):
+                    specs.append((k, vals))
+
+    gi = (ad.get("festoGalleryImages") or {}).get("imageData") or []
+    img = gi[0].get("src") if gi else (ad.get("imageUrl") or "")
+
+    return {"title": title, "series": oc, "cols": specs[:MAX_SPECS],
+            "items": [{"art": cd, "name": oc, "desc": ten, "img": img}]
+                     if (oc or cd) else [],
+            "bullets": [], "prose": [], "img": img, "total": 1,
+            "is_article": True}
 
 
 def page_url(url, page):
@@ -266,10 +332,21 @@ def save(ls, done):
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     force = "--force" in sys.argv
-    limit = next((int(a) for a in sys.argv[1:] if a.isdigit()), 0)
+    # So di sau --pages / --batch la GIA TRI cua co do, khong phai so dong gioi
+    # han. Khong bo ra thi `--batch 120` bi doc thanh "chi lam 120 dong dau".
+    args = sys.argv[1:]
+    vals = {i + 1 for i, a in enumerate(args) if a in ("--pages", "--batch")}
+    limit = next((int(a) for i, a in enumerate(args)
+                  if a.isdigit() and i not in vals), 0)
     max_pages = MAX_PAGES
     if "--pages" in sys.argv:
         max_pages = int(sys.argv[sys.argv.index("--pages") + 1])
+    crawl_only = "--crawl-only" in sys.argv
+    # Cat lo de chay: lan truoc may het RAM o dong 1004 va bao MemoryError
+    # ngay trong duong ong Playwright - loi do lam duong ong chet han, thu lai
+    # trong cung tien trinh khong cuu duoc, phai thoat roi chay lai.
+    batch = int(sys.argv[sys.argv.index("--batch") + 1]) \
+        if "--batch" in sys.argv else 0
 
     from c_pepperl_try import slugify
     from vi_engine import translate_many
@@ -277,7 +354,7 @@ def main():
     from shared.browser import Browser
 
     ls = [l for l in json.load(io.open(URLMAP, encoding="utf-8"))["lines"]
-          if l.get("url")]
+          if l.get("url") and l["url"] not in GO_KHOI_WEB]
     if limit:
         ls = ls[:limit]
     uniq, seen = [], set()
@@ -302,6 +379,8 @@ def main():
 
     # ---- Pha 1: cao het trang + tai anh, gom chuoi roi dich MOT LUOT ----
     import prewarm
+    # --crawl-only nem het hai cai nay di o cuoi -> khi do khong gom, cho do
+    # ton bo nho (may da co lan het RAM giua duong).
     raw, bag = {}, {"key": set(), "value": set(), "prose": set()}
     # Chay dau tien Chrome chet o dong 170/1206 ("Target page, context or
     # browser has been closed") va 1036 dong con lai bao loi het luot ma khong
@@ -324,6 +403,8 @@ def main():
         """Cao mot dong; neu trinh duyet chet thi mo lai roi cao lai dong do."""
         for k in range(2):
             try:
+                if "/us/en/a/" in ln["url"]:
+                    return fetch_article(bw["br"], ln["url"]), ""
                 return fetch_line(bw["br"], ln["url"], max_pages), ""
             except Exception as e:
                 msg = repr(e)
@@ -333,11 +414,17 @@ def main():
                     continue
                 return None, msg[-50:]
 
+    ndone, nfresh = 0, 0
     try:
         for i, ln in enumerate(todo, 1):
+            if crawl_only and batch and nfresh >= batch:
+                print("  [xong lo %d dong tai that -> dung, chay lai de tiep]"
+                      % nfresh)
+                break
             if bw["n"] >= RESTART_EVERY:
                 restart("da cao %d dong" % bw["n"])
             bw["n"] += 1
+            fresh = not bw["br"].has_cache(page_url(ln["url"], 0))
             d, err = crawl(ln)
             if err:
                 print("  cao %3d/%d %-36s LOI %s"
@@ -351,15 +438,18 @@ def main():
             title = d["title"] or ln["name"]
             d["title"] = title
             d["img_file"] = grab_image(bw["br"], d["img"], title, slugify, used)
-            raw[ln["url"]] = d
-
-            long_en = long_desc(d["cols"], title)
-            bag["key"].add(title)
-            bag["key"].update(k for k, _v in d["cols"])
-            bag["key"].update(it["desc"] for it in d["items"] if it["desc"])
-            bag["value"].update(long_en)
-            bag["value"].update(v for _k, vs in d["cols"] for v in vs)
-            bag["prose"].update(d["bullets"] or d["prose"] or long_en[:MAX_HL])
+            ndone += 1
+            nfresh += fresh
+            if not crawl_only:
+                raw[ln["url"]] = d
+                long_en = long_desc(d["cols"], title)
+                bag["key"].add(title)
+                bag["key"].update(k for k, _v in d["cols"])
+                bag["key"].update(it["desc"] for it in d["items"] if it["desc"])
+                bag["value"].update(long_en)
+                bag["value"].update(v for _k, vs in d["cols"] for v in vs)
+                bag["prose"].update(d["bullets"] or d["prose"]
+                                    or long_en[:MAX_HL])
             if i % 10 == 0 or i <= 20:
                 print("  cao %3d/%d %-36s ma=%-4d cot=%-2d bullet=%-2d %s"
                       % (i, len(todo), title[:36], len(d["items"]),
@@ -373,9 +463,9 @@ def main():
             pass
     # Pha 1 khong dich gi, chi tai trang va anh (da vao cache dia) -> chay rieng
     # duoc trong luc mot hang khac dang dich, khong tranh cache dich.
-    if "--crawl-only" in sys.argv:
-        print("\n--crawl-only: da cao %d/%d dong vao cache, dung o day."
-              % (len(raw), len(todo)))
+    if crawl_only:
+        print("\n--crawl-only: da cao %d/%d dong (%d dong tai that) vao cache."
+              % (ndone, len(todo), nfresh))
         return
     prewarm.run(bag)
 
@@ -386,7 +476,12 @@ def main():
             continue
         title, cols, items = d["title"], d["cols"], d["items"]
         long_en = long_desc(cols, title)
-        short_en = d["bullets"] or d["prose"] or long_en[:MAX_HL]
+        # Dong SP khong co bullet thi lay tam may dong thong so dau lam mo ta
+        # ngan. Trang MOT san pham thi khong: long_en o do la bang Technical
+        # Data, bo vao o "Mo ta ngan" se ra mot cuc thong so. De trong de
+        # builder dien mau (xem review Festo).
+        short_en = d["bullets"] or d["prose"] or (
+            [] if d.get("is_article") else long_en[:MAX_HL])
 
         cnames = [k for k, _v in cols]
         d_en = sorted({it["desc"] for it in items if it["desc"]})
@@ -404,6 +499,9 @@ def main():
             short_en=short_en,
             short_vi=translate_many(short_en, "prose") if short_en else [],
             total=d["total"],
+            # Bai /a/ la mot san pham cu the: cols la thong so THAT cua no chu
+            # khong phai tuy chon cua ca dong SP -> builder hien khac di.
+            is_article=bool(d.get("is_article")),
             name_vi=name_vi_of(title, d["series"], translate_many))
         if i % 10 == 0 or i <= 20:
             print("  %3d/%d %-36s ma=%-4d cot=%-2d ts=%-2d %s"
